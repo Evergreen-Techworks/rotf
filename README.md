@@ -27,7 +27,7 @@
 - One-command local boot via `./run-local.sh`.
 
 ### The client → *Ordinary Client*
-- **AS3 / Flash 7.0 client**, built to a `WebMain.swf` and played in the standalone **Adobe Flash Projector** (Ruffle's AS3 support isn't complete enough to run the full RotMG client reliably — not recommended).
+- **AS3 / Flash 7.0 client**, built to a `WebMain.swf` and played in the standalone **Adobe Flash Projector**
 - ROTF sprite rip imported into the embedded sheets.
 - Cross-platform build script (`client/build-client.sh` / `.bat`) that fetches the Flex SDK and compiles.
 
@@ -94,7 +94,7 @@ No. It's an independent, non-commercial fan revival of a *private server* (ROTF)
 ROTF's source code and assets were never released and didn't survive publicly. The only record of its custom content is old wikis and YouTube videos — so the content is *reverse-engineered* from those, frame by frame.
 
 **Why Flash in 2026?**
-The original RotMG client is AS3/Flash, and the standalone Flash Projector still runs it perfectly. Ruffle isn't a substitute — its AS3 (AVM2) support isn't complete enough to run the full client reliably, so we don't recommend it. A modern client is a long-term maybe, not a blocker.
+The original RotMG client is AS3/Flash, and the standalone Flash Projector still runs it perfectly.
 
 **Can I run my own server / fork this?**
 Yes — that's the point. It's GPL-3.0 (see below). Run it, fork it, rebuild content with us. Just keep the copyleft and don't claim the parts you didn't write.
