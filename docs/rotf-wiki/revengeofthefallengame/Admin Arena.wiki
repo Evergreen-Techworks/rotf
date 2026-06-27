@@ -1,0 +1,4 @@
+# Admin Arena
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Admin%20Arena&prop=wikitext
+
+asdf

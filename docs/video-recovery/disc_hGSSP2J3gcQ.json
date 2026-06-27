@@ -1,0 +1,73 @@
+{
+ "dungeon": "GENUINE target-server OWNER/ADMIN BOSS-TEST session (VoltiPlay the owner + an 'Admin Exalted'; chat shows 'SPAWN ALL STANDING BOSSES' / 'spawn 5 chickens' + donor-shop 'Purchase Successful' spam). Bosses are SPAWNED across various biomes for testing, NOT run as proper dungeons -> good for NAMES/taunts, poor for attacks/arenas. Chat readable. Notable: a meme 'Putin' boss, the 'Puppet Master', and confirmation the Tomb bosses are named Bes/Nut/Geb on this server.",
+ "map": "DOCUMENTED-limited (boss-test, no real dungeons): bosses spawned in assorted biomes \u2014 grey-STONE arenas, BLUE/water areas (green slimes), RED/ORANGE LAVA arenas, a dark PURPLE/SPACE room, and BROWN/DESERT. No coherent dungeon layout (owner spawns bosses in the realm/test area) -> arena geometry not meaningful here.",
+ "bosses": [
+  {
+   "name": "Putin",
+   "phases": [],
+   "attacks": [
+    "not isolated (boss-test spawn) -> approximate"
+   ],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "MOTHER RUSSIA!!!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Putin', red-arena tile). A MEME boss (Putin / 'MOTHER RUSSIA!!!') -> fits the heritage-meme branding. NEW custom meme-boss candidate. Single-line read from a busy boss-test montage -> MEDIUM confidence on exact attribution; verify before building."
+  },
+  {
+   "name": "Phylactery Bearer",
+   "phases": [
+    "minions free/summon the master ('We freed the master!')"
+   ],
+   "attacks": [
+    "not isolated -> approximate; likely a summoner (puppets/minions)"
+   ],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "We feed the master!"
+   ],
+   "note": "CORRECTED (recovery double mis-attribution fix): was logged as \"Puppet Master: We freed the master!\". FRAME-CONFIRMED at disc_hGSSP2J3gcQ chat_00014: actual on-screen line is \"<Phylactery Bearer> We feed the master!\" (x3) \u2014 WRONG SPEAKER (Phylactery Bearer = BASE-GAME RotMG Lich phylactery minion, NOT the Puppet Master) and WRONG TEXT (\"feed\" present tense, not \"freed\"). Base-game minion line, NOT ROTF-custom boss content -> do not build. The ROTF \"The Puppet Master\" boss is already built separately and is unrelated to this line."
+  },
+  {
+   "name": "Bes (Tomb of the Ancients)",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "The end of your path is here!"
+   ],
+   "note": "DOCUMENTED-from-chat. IMPORTANT NAMING CONFIRMATION: this server displays the Tomb of the Ancients bosses as 'Bes' (and Nut/Geb), NOT the internal 'Tomb Attacker/Support/Defender' our build uses. 'The end of your path is here!' is the canonical Tomb Attacker line (already in build line ~103). Base-game; recorded to CONFIRM the Bes/Nut/Geb display-naming (a flagged build decision)."
+  },
+  {
+   "name": "Oryx the Mad God",
+   "phases": [
+    "'I must live on!' near-death"
+   ],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "Your life is worthless!",
+    "Prepare to die!",
+    "I must live on!"
+   ],
+   "note": "DOCUMENTED-from-chat. Oryx fight taunts -> likely base-canon RotMG Oryx lines (flagged, not claimed as ROTF-custom)."
+  }
+ ],
+ "minions": [
+  "Puppet Master puppets"
+ ],
+ "drops": [
+  "donor-shop purchases ('Purchase Successful' spam)",
+  "Greater Potion of Wisdom (consumed)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "owner-spawned bosses (SPAWN ALL STANDING BOSSES / spawn 5 chickens = Giant Oryx Chicken)"
+ ],
+ "mechanics": "DOCUMENTED: an OWNER (VoltiPlay) + Admin boss-TEST session \u2014 bosses spawned via admin commands ('SPAWN ALL STANDING BOSSES', 'spawn 5 chickens') across biomes, not run as dungeons. NEW boss candidates: 'Putin' (meme boss, 'MOTHER RUSSIA!!!') + 'Puppet Master' (summoner; minions say 'We freed the master!'). CONFIRMS the server names Tomb bosses Bes/Nut/Geb (vs our 'Tomb Attacker/Support/Defender') \u2014 relevant to a flagged display-naming decision. Oryx fight taunts (likely base-canon). Attacks/arenas NOT meaningful (test spawns, no proper dungeons).",
+ "uncertain": "Boss-TEST session -> attacks/arenas NOT captured (bosses spawned outside dungeons). 'Putin' read from one busy montage tile -> MEDIUM on exact attribution. [FIXED] the ex-'Puppet Master' line was actually <Phylactery Bearer> 'We feed the master!' (base-game Lich minion); ('We freed the master!'), not the master's own taunt -> the master's taunts still needed. Oryx lines likely base-canon. Donor-shop/trade spam dominates much of the chat.",
+ "confidence": "MEDIUM. GENUINE target-server (VoltiPlay owner + admin). Net value: TWO new candidate names (Putin meme boss; Puppet Master summoner) + a useful NAMING confirmation (Tomb = Bes/Nut/Geb on this server). LOW on attacks/arenas (test spawns). The Putin + Puppet-Master candidates need a proper-dungeon clip to capture their own full taunt sets + attacks before building. Recorded honestly as a boss-test session, not over-claimed."
+}

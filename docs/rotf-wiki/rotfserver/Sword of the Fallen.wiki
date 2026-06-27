@@ -1,0 +1,28 @@
+# Sword of the Fallen
+# https://rotfserver.fandom.com/api.php?action=parse&page=Sword%20of%20the%20Fallen&prop=wikitext
+
+{{ItemInfo
+| name = Sword of the Fallen
+| slot = sword
+| tier = UT
+| rarity = h
+| desc = Once posessed by the King of the Giants, the sword is the most powerful one within the realm.
+
+| rof = 90
+| range = 
+| projSpeed = 10
+| lifetime = 520
+| minDmg = 275
+| maxDmg = 320
+| feedp = 500
+| fameb = 6
+   
+| bonuses = {{Stat|att|2}} {{Stat|dex|2}}
+
+|lootbag = white
+|dropsFrom = is obtained from the Cave of a Thousand Treasures|effects = +2 dexterity , +2 attack|range2 = 4.7}}
+
+<noinclude>
+[[Category:Swords]]
+{{NavSwords}}
+</noinclude>

@@ -1,0 +1,273 @@
+{
+ "Illusion": {
+  "bosses": [],
+  "minions": [],
+  "drops": []
+ },
+ "Craig's Castle": {
+  "bosses": [
+   {
+    "name": "Craig the Mad Intern",
+    "hp": 161000
+   }
+  ],
+  "minions": [],
+  "drops": []
+ },
+ "The Showcase": {
+  "bosses": [],
+  "minions": [],
+  "drops": []
+ },
+ "Asgard": {
+  "bosses": [],
+  "minions": [],
+  "drops": [
+   "Enchanted Uru Sword",
+   "Gungnir",
+   "Heavy Bow of the Asgard Guardian",
+   "Hela's power",
+   "Loki's Dagger",
+   "Reaper's Bow",
+   "Thusala's Slasher"
+  ]
+ },
+ "Tomb of Decaying Death": {
+  "bosses": [],
+  "minions": [],
+  "drops": [
+   "Rotting Arm"
+  ]
+ },
+ "Twilight Necropolis": {
+  "bosses": [],
+  "minions": [
+   "Holloween Gravestone",
+   "Holloween Graveyard Wall"
+  ],
+  "drops": [
+   "Claw of the Beast",
+   "Gravedigger's Shovel",
+   "Undead's Gross Bow",
+   "Wand of Bone",
+   "Wand of Retribution"
+  ]
+ },
+ "Icy Peaks": {
+  "bosses": [],
+  "minions": [
+   "Big Yeti",
+   "Mini Yeti"
+  ],
+  "drops": [
+   "Asura",
+   "Ice Shatter",
+   "Wand of the Frozen Queen"
+  ]
+ },
+ "Scorched Plains": {
+  "bosses": [],
+  "minions": [
+   "Native Fire Sprite"
+  ],
+  "drops": [
+   "Firebreather's Tail",
+   "Head of the Firebreather",
+   "The Searing Blood"
+  ]
+ },
+ "Galactic Zones": {
+  "bosses": [],
+  "minions": [],
+  "drops": [
+   "Deepspace Veil",
+   "Flask of Stardust",
+   "Greeni",
+   "Handcannon",
+   "Hornshot",
+   "Starbuster Blade",
+   "Wand Full of Mana"
+  ]
+ },
+ "Deadwater Docks": {
+  "bosses": [
+   {
+    "name": "Thessal the Mermaid Goddess Wounded",
+    "hp": 960000
+   },
+   {
+    "name": "Thessal Dropper",
+    "hp": 960000
+   },
+   {
+    "name": "Thessal the Mermaid Goddess",
+    "hp": 138000
+   }
+  ],
+  "minions": [
+   "Coral Bomb Big",
+   "Coral Bomb Small",
+   "Coral Gift",
+   "Deep Sea Beast",
+   "Deep Sea Beast Spawner",
+   "Fishman",
+   "Fishman Warrior",
+   "Grey Sea Slurp",
+   "Sea Horse",
+   "Sea Mare"
+  ],
+  "drops": [
+   "Cloak of the 1000 Oceans",
+   "Dagger of Goddess of Goddesses",
+   "Radiant Wand of Royalism",
+   "Sword of the Aquatic God"
+  ]
+ },
+ "Limon's Lair": {
+  "bosses": [
+   {
+    "name": "Limon Element 1",
+    "hp": 100000
+   },
+   {
+    "name": "Limon Element 2",
+    "hp": 100000
+   },
+   {
+    "name": "Limon Element 3",
+    "hp": 100000
+   },
+   {
+    "name": "Limon Element 4",
+    "hp": 100000
+   }
+  ],
+  "minions": [
+   "Limon the Sprite God",
+   "Native Darkness Sprite",
+   "Native Fire Sprite",
+   "Native Ice Sprite",
+   "Native Magic Sprite",
+   "Native Nature Sprite",
+   "Native Sprite God"
+  ],
+  "drops": []
+ },
+ "Esben's Lair": {
+  "bosses": [
+   {
+    "name": "ic Loot Balloon",
+    "hp": 120000
+   },
+   {
+    "name": "ic Esben the Unwilling",
+    "hp": 90000
+   }
+  ],
+  "minions": [
+   "Epic Quest Chest",
+   "Gothic Arch",
+   "Gothic Bookshelf",
+   "Gothic Bookshelf Env",
+   "Gothic Bricks",
+   "Gothic Landscape Lf",
+   "Gothic Landscape Rt",
+   "Gothic Pillar",
+   "Gothic Portrait",
+   "Gothic Window 1"
+  ],
+  "drops": [
+   "Handcannon",
+   "Starbuster Blade"
+  ]
+ },
+ "Slime God Den": {
+  "bosses": [],
+  "minions": [
+   "DS Alligator",
+   "DS Bat",
+   "DS Blue Turtle",
+   "DS Boss Minion",
+   "DS Brown Slime",
+   "DS Brown Slime Trail",
+   "DS Fly",
+   "DS Goblin Brute",
+   "DS Goblin Knight",
+   "DS Goblin Peon"
+  ],
+  "drops": []
+ },
+ "Bunny dungeon": {
+  "bosses": [
+   {
+    "name": "BB Biff Summoner",
+    "hp": 300000
+   },
+   {
+    "name": "BB Biff the Buffed Bunny",
+    "hp": 208000
+   }
+  ],
+  "minions": [
+   "BB God Egg",
+   "BB High Egg",
+   "BB Low Egg",
+   "BB Mid Egg"
+  ],
+  "drops": []
+ },
+ "Gate to the Underworld": {
+  "bosses": [
+   {
+    "name": "Craig the Mad Intern",
+    "hp": 161000
+   },
+   {
+    "name": "Oryx Darkness Trap",
+    "hp": 100000
+   },
+   {
+    "name": "Oryx Daze Trap",
+    "hp": 100000
+   },
+   {
+    "name": "Oryx Confuse Trap",
+    "hp": 100000
+   },
+   {
+    "name": "Thunder Helper",
+    "hp": 100000
+   }
+  ],
+  "minions": [
+   "Candy Straw Column Broken",
+   "Candy Straw Column Whole",
+   "Coral Bomb Big",
+   "Coral Bomb Small",
+   "Coral Gift",
+   "DS Brown Slime Trail",
+   "DS Golden Rat",
+   "DS Master Rat",
+   "DS Natural Slime God",
+   "DS Orange Turtle"
+  ],
+  "drops": [
+   "Deepspace Veil",
+   "Flask of Stardust",
+   "Gravedigger's Shovel",
+   "Stem of the Brain",
+   "Thusala's Slasher",
+   "Undead's Gross Bow",
+   "Wand of Retribution",
+   "Windcutter"
+  ]
+ },
+ "Broken Forest": {
+  "bosses": [],
+  "minions": [
+   "Candy Choc Column Broken",
+   "Candy Straw Column Broken"
+  ],
+  "drops": []
+ }
+}

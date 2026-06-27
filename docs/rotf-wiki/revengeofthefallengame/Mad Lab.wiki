@@ -1,0 +1,4 @@
+# Mad Lab
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Mad%20Lab&prop=wikitext
+
+asdf

@@ -1,0 +1,9 @@
+{
+ "dungeon": "(none — NOT ROTF; Star Wars fan film)",
+ "map": "N/A",
+ "bosses": [],
+ "drops": [],
+ "mechanics": "FALSE POSITIVE from discovery search. This is a home-made STAR WARS fan film titled 'Episode ... Revenge of the Fallen' — opening title crawl (Darth Vader/Emperor Palpatine story), Death Star/planet space shots, and kids dueling with toy lightsabers in a backyard/house. Matched the ROTF 'Revenge of the Fallen' name but is unrelated. No game footage, HUD, chat, or dungeon data.",
+ "uncertain": "",
+ "confidence": "N/A — non-game video. Marked processed so the cron advances. (Discovery filter should also exclude 'star wars'/'lightsaber'/'episode'/fan-film titles.)"
+}

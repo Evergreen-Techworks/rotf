@@ -1,0 +1,188 @@
+# Daggers
+# https://revenge-of-the-fallen-rotmg.fandom.com/api.php?action=parse&page=Daggers&prop=wikitext
+
+This page includes both custom daggers and old daggers that have been edited from how they appear on the production RotMG server.
+{| class="article-table"
+!Daggers
+!Damage
+!Range
+!RoF
+!Shots
+!Stats
+!Pierce
+!Armor Pierce
+!Obstacle Pierce
+!Fame Bonus
+!Tier
+!Legendary/Primal Effect
+|-
+|'''Dagger of Sinister Deeds'''
+|100-185
+|5.88
+|
+|
+|
+|
+|
+|
+|5%
+|T13
+|
+|-
+|'''Dagger of Dire Hatred'''
+|110-195
+|5.88
+|
+|
+|
+|
+|
+|
+|6%
+|T14
+|
+|-
+|Cometstrike Dirk
+|125-205
+|5.88
+|
+|
+|
+|
+|
+|
+|6%
+|GL
+|
+|-
+|Destructor Dagger
+|105-175
+|5
+|90%
+|
+|
+|Yes
+|Yes
+|
+|6%
+|Heroic
+|
+|-
+|Dagger of Goddess of  Goddesses
+|150-190
+|5.99
+|85%
+|
+|
+|
+|
+|
+|6%
+|Heroic
+|
+|-
+|Firebreather's Tail
+|85-190
+|5.5
+|
+|
+|
+|
+|
+|Yes
+|5%
+|Artifact
+|
+|-
+|Shadowscale's Horn
+|95-165
+|5.6
+|125%
+|
+|<nowiki>+4att</nowiki>
++2spd
+|Yes
+|Yes
+|Yes
+|5%
+|Artifact
+|
+|-
+|Dagger of the Endless Void
+|95-135
+|5
+|
+|2
+|
+|Yes
+|
+|
+|7%
+|Legendary
+|Curse
+|-
+|PoOoOoOokkErrRr
+|150-220
+|6.01
+|115%
+|
+|<nowiki>+5dex</nowiki>
+|Yes
+|
+|
+|7%
+|Legendary
+|Throwback
+|-
+|Loki's Dagger
+|100-180
+|4.5
+|120%
+|2
+|
+|
+|Yes
+|
+|7%
+|Legendary
+|Last Hope
+|-
+|Chicken Leg of Doom
+|65-105
+|6
+|90%
+|
+|
+|
+|
+|
+|4%
+|Legendary
+|Throwback
+|-
+|Spirit Dagger
+|250-400
+|5.2
+|67%
+|
+|
+|
+|
+|
+|4%
+|Legendary
+|Angel's Touch
+|-
+|Dirk of Cronus
+|165-275
+|4.5
+|110%
+|
+|<nowiki>+6wis</nowiki>
+|
+|
+|
+|6%
+|Legendary
+|Curse
+|}

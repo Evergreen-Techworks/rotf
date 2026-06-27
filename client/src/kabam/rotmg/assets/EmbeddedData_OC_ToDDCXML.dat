@@ -1,0 +1,141 @@
+<Objects>
+  <!-- Ordinary Client - TOMB OF DECAYING DEATH (ToDD; returning legacy ROTF dungeon, graveyard biome).
+       Reconstructed from the aced.gg dev blog (docs/video-recovery/aced_TombOfDecayingDeath.json,
+       designer Shmitty 2021-05-23): eldritch graveyard, bone+zombie roster that crawls / sprints /
+       floats (varied AI). CONFIRMED boss = the Tombstone Carrier (a returning legacy enemy, now a
+       zombie). Roster: Rotten Corpse, Brain Craver, Buried Hand + Revealed Remains pair, Spoilt Flesh.
+       No fight pattern / map / drops documented (art-focused post) -> mechanics designed to fit.
+       Placeholder sprites (chars16x16dEncounters2); reused projectiles. ids 0x8fa0-0x8fa5 + portal 0x820c. -->
+  <Object type="0x8fa0" id="Tombstone Carrier">
+    <Group>Tomb of Decaying Death</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>7</Index></AnimatedTexture>
+    <MaxHitPoints>140000</MaxHitPoints>
+    <Defense>55</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <PerRealmMax>1</PerRealmMax>
+    <Level>20</Level>
+    <Size>160</Size>
+    <XpMult>0.25</XpMult>
+    <Projectile id="0">
+      <ObjectId>Demon Blade</ObjectId>
+      <Speed>90</Speed>
+      <Damage>120</Damage>
+      <Size>120</Size>
+      <LifetimeMS>1400</LifetimeMS>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>60</Speed>
+      <Damage>85</Damage>
+      <Size>130</Size>
+      <LifetimeMS>2000</LifetimeMS>
+      <ConditionEffect duration="3">Sick</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x8fa1" id="Rotten Corpse">
+    <Group>Tomb of Decaying Death</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>8</Index></AnimatedTexture>
+    <MaxHitPoints>4200</MaxHitPoints>
+    <Defense>15</Defense>
+    <Level>20</Level>
+    <Size>110</Size>
+    <XpMult>0.05</XpMult>
+    <Projectile id="0">
+      <ObjectId>Demon Blade</ObjectId>
+      <Speed>70</Speed>
+      <Damage>55</Damage>
+      <Size>90</Size>
+      <LifetimeMS>1200</LifetimeMS>
+      <ConditionEffect duration="2">Sick</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x8fa2" id="Brain Craver">
+    <Group>Tomb of Decaying Death</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>9</Index></AnimatedTexture>
+    <MaxHitPoints>5200</MaxHitPoints>
+    <Defense>10</Defense>
+    <Level>20</Level>
+    <Size>105</Size>
+    <XpMult>0.05</XpMult>
+    <Projectile id="0">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>95</Speed>
+      <Damage>50</Damage>
+      <Size>80</Size>
+      <LifetimeMS>1100</LifetimeMS>
+      <ConditionEffect duration="3">Confused</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x8fa3" id="Buried Hand">
+    <Group>Tomb of Decaying Death</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>14</Index></AnimatedTexture>
+    <MaxHitPoints>3800</MaxHitPoints>
+    <Defense>25</Defense>
+    <Level>20</Level>
+    <Size>100</Size>
+    <XpMult>0.05</XpMult>
+    <Projectile id="0">
+      <ObjectId>Demon Blade</ObjectId>
+      <Speed>60</Speed>
+      <Damage>60</Damage>
+      <Size>90</Size>
+      <LifetimeMS>1000</LifetimeMS>
+      <ConditionEffect duration="2">Slowed</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x8fa4" id="Revealed Remains">
+    <Group>Tomb of Decaying Death</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>15</Index></AnimatedTexture>
+    <MaxHitPoints>3800</MaxHitPoints>
+    <Defense>5</Defense>
+    <Level>20</Level>
+    <Size>100</Size>
+    <XpMult>0.05</XpMult>
+    <Projectile id="0">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>105</Speed>
+      <Damage>45</Damage>
+      <Size>75</Size>
+      <LifetimeMS>1300</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x8fa5" id="Spoilt Flesh">
+    <Group>Tomb of Decaying Death</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>16</Index></AnimatedTexture>
+    <MaxHitPoints>6000</MaxHitPoints>
+    <Defense>20</Defense>
+    <Level>20</Level>
+    <Size>120</Size>
+    <XpMult>0.06</XpMult>
+    <Projectile id="0">
+      <ObjectId>Demon Blade</ObjectId>
+      <Speed>75</Speed>
+      <Damage>65</Damage>
+      <Size>100</Size>
+      <LifetimeMS>1400</LifetimeMS>
+      <ConditionEffect duration="3">Sick</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x820c" id="Tomb of Decaying Death Portal">
+    <Class>Portal</Class>
+    <IntergamePortal/>
+    <DungeonName>Tomb of Decaying Death</DungeonName>
+    <Texture><File>lofiObj3</File><Index>0x21f</Index></Texture>
+    <Size>120</Size>
+    <ShowName/>
+  </Object>
+</Objects>

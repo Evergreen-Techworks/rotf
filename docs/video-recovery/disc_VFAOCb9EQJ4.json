@@ -1,0 +1,15 @@
+{
+ "dungeon": "(LONG SINGLE-SESSION STREAM) ROTF — fuller Marble Colossus taunts (catacombs guardian) + Arcanica + Fuel",
+ "source": "video disc_VFAOCb9EQJ4 (3139 frames, 0 transitions, 4709 chat; webcam overlay + 'PRIMAL = 0 LEGENDARY' watermark; client X3.6). Diverse biomes. Chat captured fuller Marble Colossus taunts + Arcanica + the Fuel/event systems.",
+ "map": "DOCUMENTED biomes: brown brick, grey STONE MAZE / CATACOMBS (Marble Colossus's domain), blue ice cavern, chicken-coop checkered, grey vault, dark space, green/colorful grid, magenta dungeon, tan sandstone.",
+ "bosses": [
+  {"name":"Marble Colossus","phases":[],"attacks":[],"minions":[],"colorFlashes":"grey/marble","taunts":["PAH! The prohibited arts allow untold [power]...","It is my duty to protect these catacombs... my purpose!","I fe[e/a]l myself... Slip[ping]..."],"note":"DOCUMENTED VERBATIM — FULLER than disc_rly0ngKekNs (which only got 'I fell myself... Slip...'). Marble Colossus is a CATACOMBS-GUARDIAN boss: dutiful protector of catacombs ('It is my duty to protect these catacombs... my purpose!') who disdains intruders' 'prohibited arts'. Grey-stone catacombs arena."},
+  {"name":"Arcanica","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Arcanica sensing mana..."],"note":"DOCUMENTED VERBATIM — new line, re-confirms the mana-vampire Arcanica (cf. 'Arcanica wants mana' etc.)."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Cube God (defeated 19/30)","Lucky Ent God (just spawned)","Warbringer (just spawned)"],
+ "mechanics": "DOCUMENTED: (1) MARBLE COLOSSUS = a CATACOMBS-GUARDIAN boss (fuller taunts: guards catacombs as its 'duty/purpose', scorns 'prohibited arts'). (2) Arcanica 'sensing mana' (re-confirm). (3) D3 FUEL extraction in LARGE amounts — 'extracted [142]/[30]/[379] Fuel from this mysterious object!' (mass extraction; re-confirms Fuel-from-mysterious-objects). (4) 'PRIMAL = 0 LEGENDARY' creator overlay (Primal tier >> Legendary). Client X3.6.",
+ "uncertain": "Marble Colossus 1st line tail truncated ('untold [power/might]'). No NEW bosses (Marble Colossus + Arcanica are enrichments). Most of the 4709 chat is social; sampled key lines.",
+ "confidence": "HIGH for the fuller Marble Colossus taunts (catacombs-guardian role) + Arcanica line + Fuel re-confirm + Primal>Legendary. LOW novelty otherwise (long social stream)."
+}

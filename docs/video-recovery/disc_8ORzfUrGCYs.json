@@ -1,0 +1,11 @@
+{
+ "dungeon": "Sprite World (Splinter Sprite boss) — sourced from 'Splintersprite music extended' video",
+ "map": "DOCUMENTED from video: purple/violet cosmic HEX-TILE floor (Sprite-World biome, same family as Limon the Sprite God's arena) with grey rocky landmass forming an arena edge. Open boss arena.",
+ "bosses": [
+   {"name":"Splinter Sprite (Splintersprite)","phases":["sustained bullet-hell loop (footage is a music loop, not phase-segmented)"],"attacks":["rotating orange/yellow SPIRAL bullet streams — long pinwheel/galaxy-arm spirals emanating from the boss and winding outward","radial bursts of orange CRESCENT-shaped bullets","dense overlapping spirals at higher intensity (multiple arms at once)"],"minions":[],"colorFlashes":"bright orange/yellow projectiles on deep purple floor","taunts":[]}
+ ],
+ "drops": [],
+ "mechanics": "Source is a ROTF boss-MUSIC video titled 'ROTF (Revenge of the fallen) Splintersprite music extended' — intro card DOCUMENTED. Footage is the Splinter Sprite fight on loop with its boss theme; chat box is empty (no taunts/drops recoverable). VALUE = the boss's signature attack: rotating multi-arm orange spiral bullet-hell + crescent radial bursts. Splinter Sprite is in the Sprite-World family (related to Limon the Sprite God / EpicLimon).",
+ "uncertain": "No chat = no taunts, drops, or exact HP/phase thresholds. Phase structure not separable from a music loop. Spelling 'Splinter Sprite' vs 'Splintersprite' per intro card.",
+ "confidence": "MEDIUM-HIGH for attack VISUALS (rotating orange spirals + crescent radials on purple cosmic floor, DOCUMENTED); NONE for taunts/drops/stats."
+}

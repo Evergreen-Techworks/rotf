@@ -1,0 +1,22 @@
+# RevengeOfTheFallenGame Wiki
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=RevengeOfTheFallenGame%20Wiki&prop=wikitext
+
+<mainpage-leftcolumn-start />__NEWSECTIONLINK__
+
+==Welcome==
+
+Welcome to Revenge Of The Fallen wiki. Here you will find all kinds of data about the game. 
+== Main Pages: ==
+<gallery widths="100" bordercolor="#b0c4de" captionalign="center" font="20px" navigation="true">
+market2.png|Market|link=Market
+classes.png|Classes|link=Classes
+Vault.png|Vault|link=Vault
+guilds.png|Guilds|link=Guilds
+Skill Tree.png|Skill Tree|link=Skill Tree
+Potion Storage.png|Potion Storage|link=Potion Storage
+runes.png|Runes|link=Runes
+daggerT0.png|Items|link=Items
+Galaxies.png|Galaxy|link=Galaxy
+</gallery>
+<mainpage-endcolumn />
+__NEWSECTIONLINK__

@@ -1,0 +1,14 @@
+{
+ "dungeon": "(ICE-HEAVY MULTI-DUNGEON STREAM, streamer w/ avatar overlay) ROTF — likely Icy Peaks ice-boss gameplay + event feed",
+ "source": "video disc_PwMNqKMKjsE (360 frames, 0 transitions, 90 chat; purple webcam/avatar overlay washes out chat contrast). Heavy BLUE ICE/SNOW content + orange/lava arenas. Chat = player GLs + event/loot feed (no boss taunts captured this run).",
+ "map": "DOCUMENTED biomes: lots of BLUE ICE / WHITE SNOW arenas with white SNOWFLAKE bullet-hell patterns + a RED BOSS (likely the ICY PEAKS region boss / 'RI Yeti'); plus orange/red LAVA-brick arenas, green grass, grey stone, brown dungeons.",
+ "bosses": [
+  {"name":"(Icy Peaks ice boss — unnamed here)","phases":[],"attacks":["white snowflake bullet-hell (radial/ring snow patterns)"],"minions":[],"colorFlashes":"icy white/blue, red boss","taunts":[],"note":"VISUALLY DOCUMENTED: a red boss in a blue-ice arena firing dense white snowflake/star bullet patterns — consistent with the ICY PEAKS region boss (cf. 'RI Yeti' event + the 'RotF: The Icy Peaks' title card). No name/taunt captured in chat this run."}
+ ],
+ "minions": [],
+ "drops": ["Purification (item, unboxed)"],
+ "event_bosses_seen_in_global_feed": ["Shade of Novus","Mysterious Card","Realm Giant (defeated)","God of Reptilians","Pentaract Tower Ultra","Shadowscale"],
+ "mechanics": "DOCUMENTED: (1) CLASS 'Trickster' confirmed — players spam 'TY TRICKSTER(S)' (thanking a Trickster, the decoy/teleport class). (2) Broad event-boss feed (Shade of Novus, Mysterious Card, Realm Giant, God of Reptilians, Pentaract Tower Ultra, Shadowscale) — the usual /N realm-event roster. (3) Item 'Purification' unboxed. The ice arenas + snowflake bullet-hell strongly suggest Icy Peaks region gameplay.",
+ "uncertain": "No boss taunt captured (chat = player GLs + feed; the avatar overlay also washed out contrast). The ice boss's name not in chat — inferred Icy-Peaks association from biome. Dungeon names not printed (0 transitions).",
+ "confidence": "MEDIUM-HIGH for the Icy-Peaks ice-boss biome (visual) + Trickster class + the event roster. LOW for a specific boss name/taunt (none captured)."
+}

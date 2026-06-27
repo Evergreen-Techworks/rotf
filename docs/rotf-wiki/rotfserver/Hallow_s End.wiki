@@ -1,0 +1,28 @@
+# Hallow's End
+# https://rotfserver.fandom.com/api.php?action=parse&page=Hallow%27s%20End&prop=wikitext
+
+{{ItemInfo
+| name = Hallow's End
+| slot = bow
+| tier = UT
+| rarity = u
+| desc = A light rustle in the amber sea... Thanks to: Nekrie.
+
+| rof = 66
+| range = yes
+| projSpeed = 14
+| lifetime = 570
+| minDmg = 205
+| maxDmg = 255
+| feedp = 400
+| fameb = 6
+
+| effects = yes
+| multihit = yes
+
+| lootbag = white
+}}
+<noinclude>
+[[Category:Bows]]
+{{NavBows}}
+</noinclude>

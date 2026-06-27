@@ -1,0 +1,24 @@
+{
+ "dungeon": "ROTF marathon stream (670 frames, ~57 entries) — CONFIRMS Odin (Asgard) 'A guard composed of gods!' taunt verbatim; Craig 'PREPARE TO DIE!!!'; new boss 'The Overseer'; /25 realm feed. GENUINE ROTF.",
+ "source": "video GeneralStream (670 f_, 1005 chat, 502 minimap, 57 entries). Marathon realm/dungeon stream. Biomes (transitions): a RECURRING brown-brick dungeon with an ORANGE-TRIANGLE/arrow floor motif (farmed repeatedly), sandstone dungeons, blue water, green realm, SKULL-shaped arena (Skull Shrine), EGG-shaped arena (Chicken Coop), green serpent dungeon. Heavy chat event-feed + verbatim taunts.",
+ "bosses": [
+  {"name":"Odin","phases":[],"attacks":[],"minions":["guards/gods"],"colorFlashes":"","taunts":["A guard composed of gods! How can you ever win now?","...got the control now. [partial]"],"note":"DOCUMENTED-from-chat. Asgard boss Odin (built, BehaviorDb.Asgard.cs). CONFIRMS the memory's TODO Odin line ('A guard composed of gods') as the full verbatim 'A guard composed of gods! How can you ever win now?' -> ADD to the built Odin taunts."},
+  {"name":"Craig, The Worst Nightmare","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["PREPARE TO DIE!!!"],"note":"DOCUMENTED-from-chat. Re-confirms the built Craig taunt."},
+  {"name":"The Overseer","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat (NEW): 'Spider - The Overseer has been defeated! (1/25)'. A new realm event boss ('Overseer' — likely a watcher/eye-themed boss)."},
+  {"name":"Skull Shrine","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: spawned + 'defeated! (23/25)'. Base event boss; the skull-shaped arena seen in transitions."}
+ ],
+ "minions": [],
+ "drops": ["seaweed sword (traded)", "kendo sticks (selling 8 for 400 fame)", "Manakkonf of Gea[?] (sold, partial name)", "lightning bow (mentioned)"],
+ "event_bosses_seen_in_global_feed": [
+  "The Skull Shrine has been defeated! (23/25) + spawned",
+  "The Pentaract Tower Ultra has been defeated!",
+  "A Ghost Ship has just spawned!",
+  "The God of Reptilians defeated (1/25)",
+  "A Cube God has just spawned!",
+  "The Overseer has been defeated! (1/25)",
+  "Lord of the Lost Lands (mentioned)"
+ ],
+ "mechanics": "DOCUMENTED: (1) Odin (Asgard) taunt 'A guard composed of gods! How can you ever win now?' verbatim. (2) /25 EVENT COUNTER again (Skull Shrine 23/25, God of Reptilians 1/25, Overseer 1/25). (3) /16 STAR counter — death notifier [0/16, fame] (e.g. [0/16, 237]) -> 16-class completion (consistent with disc_p-f3qDjrVDY). (4) DEATH FAME REWARD — 'You have gained 5000 fame! Use it wisely...' (x4) on a character death. (5) Stat-pot caps ('Potion of Mana consumed. 7 left to max.'). (6) Named NPC announcers (Ogre/Imps/Spider/Daisy) for the event feed. (7) Recurring orange-triangle brick dungeon farmed across the stream.",
+ "uncertain": "Odin 2nd line ('...got the control now.') start cut. The recurring orange-triangle brick dungeon name not legible. 'The Overseer' has no taunt captured. Some item names partial (Manakkonf of Gea). 57 entries only sampled (~25 transitions + 18 chat).",
+ "confidence": "HIGH for the verbatim chat: Odin 'A guard composed of gods! How can you ever win now?' (confirms+completes the memory TODO Odin line), Craig 'PREPARE TO DIE!!!', The Overseer + Skull Shrine /25 feed, the 5000-fame death reward. MEDIUM for partials + full dungeon coverage. GENUINE ROTF."
+}

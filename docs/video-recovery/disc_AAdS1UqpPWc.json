@@ -1,0 +1,15 @@
+{
+ "dungeon": "GENUINE ROTF FACECAM stream (webcam in the bottom-left over the chat box -> taunts unreadable). Long run (720 f_ frames, ~10 entries) through WHITE/GREY TREASURE-VAULT dungeons (rows of chests) + a RED boss ARENA, with the open desert realm between. LOW taunt yield (facecam); MEDIUM map + attack from clean gameplay frames.",
+ "map": "DOCUMENTED-from-frames+transitions+minimaps: WHITE/GREY BRICK-TILED VAULT dungeons — boxy grey rooms packed with brown CHESTS in grids, linked by tiled corridors (treasure-vault layout); a DARK RED boss ARENA (open floor) where a red boss is fought; and the OPEN DESERT REALM (tan landmass + water) on the outer entries. Multi-entry; per-dungeon room sequence not traced (facecam stream).",
+ "bosses": [
+  {"name":"(red-arena boss — unnamed; facecam covers chat)","phases":[],"attacks":["DOCUMENTED-from-frames (approx): scattered/RADIAL bullets (orange/red) across a dark arena; reconstruct as overlapping radial Shoots"],"minions":[],"colorFlashes":"orange/red","taunts":[],"note":"DOCUMENTED-from-frames only. Name not recoverable (webcam covers the bottom-left chat box, same limitation as disc_41Voq7Bf5e8 / disc_3tTLXcAYdGA). Red-arena radial/scatter is the recoverable mechanic."}
+ ],
+ "minions": [],
+ "drops": [
+  "treasure-vault chests (grids of loot containers; specific loot not legible)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED-from-frames (facecam-limited): a ROTF run through WHITE/GREY TREASURE-VAULT dungeons (chest grids) + a red boss arena + the desert realm. ATTACK recovered: red-arena boss fires scattered/radial orange-red bullets. Chat box is fully covered by the webcam -> no taunts / event feed / dungeon names confirmable. Map read off f_ overview frames + minimaps (which also catch the facecam). Recurring facecam-channel limitation.",
+ "uncertain": "No boss names/taunts (webcam blocks chat). Red-arena boss unnamed. Bullet count/angle approximate (no clean bossends climax — bossends/ empty for this tag). Treasure-vault dungeons not name-identified.",
+ "confidence": "MEDIUM for MAP (treasure-vault chest-grid + red boss arena + desert realm) and ATTACK (red radial/scatter, DOCUMENTED-from-frames). LOW for boss identity/taunts (facecam). GENUINE ROTF. Not a source of new boss taunts; biome/attack data only (recurring facecam-channel pattern)."
+}

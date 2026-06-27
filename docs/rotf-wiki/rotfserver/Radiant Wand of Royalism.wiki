@@ -1,0 +1,4 @@
+# Radiant Wand of Royalism
+# https://rotfserver.fandom.com/api.php?action=parse&page=Radiant%20Wand%20of%20Royalism&prop=wikitext
+
+{{ItemInfo|name = Radiant Wand of Royalism|desc = This wand was forged with burning rubies, dedicated to what was once a Royal Family|rarity = l|slot = wand|tier = UT|minDmg = 60|maxDmg = 80|shots = 2|rof = 160|range2 = 8|fameb = 6|effects = yes|multihit = yes|legendary = 2|dropsFrom = drops from Thessal the Mermaid Goddess}}

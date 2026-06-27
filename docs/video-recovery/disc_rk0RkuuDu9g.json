@@ -1,0 +1,15 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM) ROTF — God of Luck 'Lucky Potion' cooldown mechanic + potion-storage; Icy Peaks intro",
+ "source": "video disc_rk0RkuuDu9g (324 frames, 27 transitions, 81 chat). Opens on the 'RotF: The Icy Peaks' title + a zoomed character sprite; a 'ZEMBOCK?' boss overlay (creator label) + 'PART 2?' outro. Diverse dungeons. Chat captured the God of Luck cooldown mechanic + the stat/potion systems.",
+ "map": "DOCUMENTED biomes: green forest, grey CASTLE STONE, brown/orange dungeons, gold arena, orange LAVA, blue dungeon, dark space. A red boss with an HP bar ('1281/1281 (-581)' damage) labeled 'ZEMBOCK?' by the creator.",
+ "bosses": [
+  {"name":"God of Luck","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You can use your Lucky Potion again in N seconds"],"note":"DOCUMENTED VERBATIM mechanic-broadcast (countdown 6.4 -> 4.9 -> 1.6 -> 0.4s). The God of Luck grants a 'LUCKY POTION' item on a COOLDOWN, announcing when it's ready again. Confirms a Luck/Lucky-Potion mechanic + ability COOLDOWNS (ties to the Haste/cooldown system, see [[rotf-stat-systems]]). (Earlier taunt 'You can use your Luck...' in disc_OROH0lDrGTg.)"},
+  {"name":"(creator-labeled 'Zembock?')","phases":[],"attacks":[],"minions":[],"colorFlashes":"red","taunts":[],"note":"A red boss with an HP bar (1281 HP); the creator overlaid 'ZEMBOCK?' (uncertain name — annotation, not in-game-confirmed). Not named in chat."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Cookie Monster (just spawned)"],
+ "mechanics": "DOCUMENTED: (1) GOD OF LUCK 'Lucky Potion' COOLDOWN — boss announces 'You can use your Lucky Potion again in N seconds' (counts down) — a usable item on a cooldown during the fight (confirms cooldowns). (2) STAT-CAP + POTION-STORAGE (vanilla-named build): 'Potion of Mana consumed. N left to max' -> 'You're now maxed'; overflow 'You're already maxed. Potion of Life has been sent to your potion storage'. (3) 'RotF: The Icy Peaks' title intro. (4) Ability/item 'dreadstumps' referenced by a player.",
+ "uncertain": "'Zembock' is a creator overlay label, NOT confirmed in chat — treat as uncertain. God of Luck's other attacks not isolated. 'dreadstumps' item/ability unconfirmed. No transitions named.",
+ "confidence": "HIGH for the God-of-Luck 'Lucky Potion' cooldown mechanic + the potion-storage/stat-cap reconfirmation + the Icy Peaks intro. LOW/UNCERTAIN for the 'Zembock' boss name."
+}

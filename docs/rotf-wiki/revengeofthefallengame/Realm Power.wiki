@@ -1,0 +1,4 @@
+# Realm Power
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Realm%20Power&prop=wikitext
+
+asdf

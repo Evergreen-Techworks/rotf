@@ -1,0 +1,53 @@
+{
+ "dungeon": "GENUINE ROTF FACECAM stream (streamer 'Turychor' — avatar + 'SUBSCRIBE / LEAVE A LIKE' overlay covers the minimap; the chat box is only PARTIALLY covered so some lines ARE readable). A long realm + multi-dungeon session (10 transitions) centred on an ORYX fight (Wine Cellar / Oryx's house) with many custom Oryx HP-boast lines, a meme 'Cluck Cluck Chicken' boss, and Galactic-Zone references. Map/attacks LOW-yield (facecam + overlay-blocked minimap + no bossends); chat is the main recoverable yield.",
+ "map": "DOCUMENTED-from-f_frames only (minimaps BLOCKED by the subscribe overlay; game view is the small upper-left region under a facecam): biomes traversed = ORYX'S HOUSE / Wine Cellar (grey stone castle interior where Oryx is fought), WHITE TREASURE-VAULT rooms (grids of brown chests + a green exit portal), green grass REALM, brown/LAVA dungeon, and STAR-FIELD/SPACE (Galactic) zones. No clean room-sequence/arena-geometry readable (facecam scale + blocked minimap). Loot-bag piles in the Oryx room mark big boss kills.",
+ "bosses": [
+  {
+   "name": "Cluck Cluck Chicken",
+   "phases": [],
+   "attacks": ["not isolated (facecam, no bossends) -> approximate"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "Cluck cluck cluck... CLUCK!",
+    "CLLLUUUCCCKKK!!!",
+    "Cluck cluck ROCK!!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Cluck Cluck Chicken'). A MEME boss (chicken theme). Clearly read across multiple frames. NEW ROTF-custom meme-boss candidate (fits the heritage-meme branding). 'Cluck cluck ROCK!!' may be a phase/enrage variant."
+  },
+  {
+   "name": "Oryx the Mad God",
+   "phases": ["HP-boast fight lines announce a scaling hitpoint total; 'simulacrum' defeated -> retreats to wine cellar (Oryx 3 / Wine Cellar arc)"],
+   "attacks": ["not isolated (facecam) -> approximate"],
+   "minions": ["8 Lost Ancients", "Pentaract", "Oasis Giant", "Nutmeg God (?)"],
+   "colorFlashes": "",
+   "taunts": [
+    "Foolish humans! My 1411541 hitpoints give me strength!",
+    "I have 891610 hitpoints and I shall annihilate you!",
+    "Galactic orb? Cower before my 21946.25 hitpoints!",
+    "You have defeated my simulacrum, but I remain safe in my wine cellar!",
+    "Do you still remember how to dance? Hahaha!",
+    "You destroy my guardians in my house? Blasphemy!",
+    "Mortal scum! My 8 Lost Ancients will defend me forever!",
+    "Behold my Pentaract, and despair!",
+    "My Nutmeg God will pull you [...]"
+   ],
+   "note": "DOCUMENTED-from-chat. HONESTY FLAG: this is a MIX of (a) likely-canonical base-game Oryx realm/fight flavour ('Behold my Pentaract', guardian-name taunts) and (b) clearly ROTF-CUSTOM lines — the HP-BOAST FORMAT 'My <number> hitpoints give me strength!' (varying scaled numbers: 1411541 / 891610 / 21946.25 / 173447) and MEME guardians ('Galactic orb', 'Nutmeg God'). 'My Nutmeg God will pull you...' may be a MISREAD of the prior-tag 'Hermit God's thousand tentacles' line (Nutmeg vs Hermit) -> flagged uncertain. Do NOT build the canon-looking lines as custom; the HP-boast mechanic + meme guardians ARE worth noting as ROTF-custom Oryx behaviour."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "treasure-vault chests (loot not legible — facecam)",
+  "loot bags from the Oryx kill (contents not legible)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Wine Cellar unlocked (Oryx 3 entrance)",
+  "Oasis Giant (referenced)",
+  "Pentaract (referenced)",
+  "'the feared Chad has spawned, invulnerable for 15 seconds' (meme event boss)",
+  "Mosquito (vent event)"
+ ],
+ "mechanics": "DOCUMENTED (facecam-limited): an Oryx-fight stream on a ROTF server. KEY finds = (1) a ROTF-CUSTOM Oryx HP-BOAST mechanic — Oryx announces a scaling hitpoint number in his taunts ('My <N> hitpoints give me strength!' / 'Cower before my <N> hitpoints!' with N = 1411541 / 891610 / 21946.25 / 173447), tied to phases/health; (2) the WINE CELLAR (Oryx 3 / Oryx's Sanctuary) is present ('Wine Cellar unlocked'; 'defeated my simulacrum, but I remain safe in my wine cellar'); (3) GALACTIC-ZONE references ('Galactic orb') corroborate the ROTF Galactic Zones custom system; (4) a meme 'Cluck Cluck Chicken' boss + meme event bosses ('the feared Chad', 'Nutmeg God'). Minimaps blocked by the subscribe overlay; no bossends -> attacks not traced.",
+ "uncertain": "FACECAM stream -> minimaps fully blocked (subscribe overlay), attacks NOT isolated (no bossends, small game view), drops illegible. Oryx taunts are a MIX of base-canon + ROTF-custom (flagged) -> only the HP-boast format + meme guardians (Galactic orb, Nutmeg God) are confidently custom. 'My Nutmeg God' possibly a misread of 'Hermit God'. Exact HP numbers read off small text (±digits possible). Cluck Cluck Chicken clearly a boss but no attack/arena captured. No new-dungeon NAME entries flagged (Wine Cellar = base O3).",
+ "confidence": "MEDIUM-LOW overall (facecam). MEDIUM for the clearly-read chat: the Cluck Cluck Chicken meme boss (NEW custom candidate) and the ROTF-custom Oryx HP-BOAST mechanic + meme-guardian references (Galactic orb corroborating the Galactic Zones system; Wine Cellar/O3 present). LOW for map/attacks (blocked/facecam). Net value: a new meme-boss candidate + documentation of the custom Oryx HP-boast behaviour + Galactic-Zones corroboration — recorded honestly with the canon-vs-custom Oryx split flagged. Best follow-up: a non-facecam Oryx/Wine-Cellar clip to confirm the HP-boast lines verbatim + isolate attacks."
+}

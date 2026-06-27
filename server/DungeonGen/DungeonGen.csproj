@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <RootNamespace>DungeonGenerator</RootNamespace>
+    <AssemblyName>DungeonGen</AssemblyName>
+  </PropertyGroup>
+
+  <!-- Prebuilt utility assembly (RotMG.Common.Rasterizer / .IO.Zlib). No source ships
+       for it; referenced as a binary. Confirmed to have no System.Drawing/WPF deps,
+       so it loads on net8 / Linux via the compatibility shim. -->
+  <ItemGroup>
+    <Reference Include="RotMG.Common">
+      <HintPath>..\RotMG.Common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

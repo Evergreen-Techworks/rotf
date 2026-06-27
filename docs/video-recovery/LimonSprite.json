@@ -1,0 +1,14 @@
+{
+ "dungeon": "Limon's Lair / Sprite World (farm + maxing session)",
+ "map": "(Limon arena = Sprite-World rainbow tiles — see EpicLimon spec)",
+ "bosses": [
+   {"name":"Limon the Sprite God","phases":[],"attacks":["red radial bursts (per EpicLimon)"],"minions":["Native Sprites, Limon Elements"],"colorFlashes":"","taunts":[]},
+   {"name":"Cube God (defeated)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]},
+   {"name":"Uvuvwevwevwe (event — 'has just spawned!' via [Giant] announcer; drops Throwing Spear)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]}
+ ],
+ "minions": [],
+ "drops": ["Ogmur (title)","Dagger of the Endless Void (title/wiki)","Wand of the Rising Star (wiki)","Fang of Frost (wiki)","Throwing Spear (Uvuvwevwevwe)"],
+ "mechanics": "PARTY system in active use: 'You've leveled 8 member(s) of your [party]' + 'invited 8 member(s)' (8-member party maxing — matches the GL maxing meta). POTION STORAGE -> auto-sells excess potions (Speed/Wisdom/Vitality) for fame (reconfirmed). 'old dusty bottle' -> Potion; 'receipt'/'crate' -> items; 'analyzed a bag' mechanic. [Giant] announcer for events (Uvuvwevwevwe, Pentaract Tower Ultra).",
+ "uncertain": "Limon-specific attacks already covered by EpicLimon; this session was farm/maxing-focused. Drops from title/wiki.",
+ "confidence": "MEDIUM-HIGH — confirms 8-member party maxing, Uvuvwevwevwe as a spawnable event, and reconfirms Potion-Storage->fame; Limon/Cube God farmed."
+}

@@ -1,0 +1,4 @@
+# Head of the Medusa
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Head%20of%20the%20Medusa&prop=wikitext
+
+asdf

@@ -1,0 +1,4 @@
+# Staffs
+# https://rotfserver.fandom.com/api.php?action=parse&page=Staffs&prop=wikitext
+
+A staff shoots out dual magical shots in a spiral pattern for a set parameter of damage.

@@ -1,0 +1,25 @@
+# Greeni
+# https://rotfserver.fandom.com/api.php?action=parse&page=Greeni&prop=wikitext
+
+{{ItemInfo
+| name = Greeni
+| slot = bow
+| tier = UT
+| rarity = rare
+| desc = This is a acidi... A galactic blaster made up from the greenest of green.
+
+| rof = 120
+| range = 6.51
+| projSpeed = 18.5
+| lifetime = 350
+| minDmg = 115
+| maxDmg = 140
+| shots = 2
+| feedp = 3000
+
+| lootbag = white bag
+|dropsFrom = zucc}}
+<noinclude>
+[[Category:Bows]]
+
+</noinclude>

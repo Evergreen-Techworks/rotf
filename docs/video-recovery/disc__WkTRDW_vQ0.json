@@ -1,0 +1,36 @@
+{
+ "dungeon": "GENUINE ROTF NARRATED STORY-MONTAGE (~145s, rapid-cut, 40 transitions, captions like 'he tried healing his friend, but the Archmage had enough') about the TWILIGHT ARCHMAGE fight. Player 'Iawa' (Level 20 Priest, killed by 'Ice Sphere'). HIGH value: strong CORROBORATION of the already-BUILT Twilight Archmage (2 built taunts match verbatim) + DOCUMENTED attack geometry (ice radial-nova + fire ground-bombs) + the GENERATORS mechanic + NEW candidate taunts for enrich.",
+ "map": "DOCUMENTED-from-frames+minimaps: the TWILIGHT ARCHMAGE arena — a STRUCTURED room with a YELLOW/GOLD tile floor bordered by GREEN edges, GREY stone walls, and PURPLE grid edges; multi-room (minimap shows a compact yellow structured chamber). Telegraphed orange ground-bomb circles appear across the tile floor. (Built in OrdinaryClient_Necropolis.xml -> the Archmage's Twilight/Necropolis domain.)",
+ "bosses": [
+  {
+   "name": "Twilight Archmage",
+   "phases": [
+    "DOCUMENTED-from-chat: a GENERATOR/POWER phase — boss references 'The Generators' + 'THE POWER... IT COMES' + 'Darkness give me strength' (likely empowered-by-generators: destroy generators to weaken). Fire+ice dual theme ('Burning' / 'I will freeze the life')."
+   ],
+   "attacks": [
+    "DOCUMENTED-from-frames (f_00130): ICE RADIAL RING/NOVA — large burst of cyan snowflake bullets in a radial/ring pattern (~16+ count, all-around).",
+    "DOCUMENTED-from-frames (f_00045/f_00130): FIRE GROUND-BOMBS — telegraphed orange circular AoE explosions placed across the tile floor (ground-targeted).",
+    "DOCUMENTED-from-frames (f_00085): cyan ICE SPREAD scattered across the arena."
+   ],
+   "minions": ["Ice Sphere (killed player Iawa — an ice attack/minion)"],
+   "colorFlashes": "cyan ice nova + orange fire bombs",
+   "taunts": [
+    "How best to kill you...",
+    "Burning. This will su...",
+    "I will freeze the life...",
+    "Let us see what I can...",
+    "Darkness give me str...",
+    "THE POWER... IT CO...",
+    "The Generators may...",
+    "Your souls will..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix '<Twilight Archmage>', grayscale-pull). ALREADY-BUILT ROTF boss (OCBosses.cs + OrdinaryClient_Necropolis/Bosses.xml; in 8 other specs). CORROBORATION: 'Your souls will...' = built 'Your souls will feed my eyes.'; 'Let us see what I can...' = built 'Let me see what I can conjure up' (this tag reads 'Let us', built is 'Let me' — same line, built fuller). NEW candidate taunts (cut, NOT yet built) -> enrich leads: 'How best to kill you...', 'Burning. This will su[ffice]...', 'I will freeze the life...', 'Darkness give me str[ength]...', 'THE POWER... IT CO[MES]...', 'The Generators may[...]' (the GENERATORS mechanic). All cut lines marked partial; verify the cut tails before building."
+  }
+ ],
+ "minions": ["Ice Sphere"],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: TWILIGHT ARCHMAGE is a FIRE+ICE dual-element mage with a GENERATOR/POWER phase ('The Generators...' + 'THE POWER... IT COMES' + 'Darkness give me strength' — likely empowered/invincible while generators are alive). Attacks: ICE radial-nova (cyan snowflakes) + FIRE telegraphed ground-bombs (orange AoE circles) + ice spread. A '20min race to kill you' timed line (the fight may be a timed/race event). Player Iawa killed by 'Ice Sphere'. This is a NARRATED story-montage (captions) -> attack frames are clear but cut between scenes.",
+ "uncertain": "RAPID-CUT narrated montage (40 transitions in 145s) -> taunts come from quick scene cuts; the NEW candidate taunts are tail-CUT ('Burning. This will su...', 'Darkness give me str...', 'THE POWER... IT CO...', 'The Generators may...') -> NOT verbatim-complete; verify tails before building. Boss-prefix is rendered '<Twilight Archmage>' (bracket form) — confirmed to be BOSS speech (not a player) because two lines match the already-built taunts verbatim. 'The Generators' mechanic is inferred from the line, not seen as a destructible-generator entity in-frame. The '20min race' line may be an event-timer, not a taunt. Attacks DOCUMENTED-from-frames (clear); generator-empower phase inferred from chat.",
+ "confidence": "HIGH (corroboration) for the already-BUILT Twilight Archmage: 2 built taunts confirmed verbatim + DOCUMENTED attack geometry (ice radial-nova + fire ground-bombs, f_-traced) + arena layout (yellow-tile structured room) + the GENERATORS/POWER phase mechanic. MEDIUM for the NEW candidate taunts (cut tails -> enrich leads, not verbatim-complete). GENUINE ROTF (Iawa). Recorded honestly: built-vs-new taunts separated, cuts flagged, attacks DOCUMENTED vs inferred. Best follow-up: an ENRICH task to add the verified-complete new lines (esp. the generator-phase lines) to the built Twilight Archmage; cleaner footage to finish the cut tails."
+}

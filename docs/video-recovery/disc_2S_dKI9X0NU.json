@@ -1,0 +1,11 @@
+{
+ "dungeon": "(commentary/video-essay about ROTF, with gameplay B-roll)",
+ "map": "B-roll biomes only (DOCUMENTED): rainbow/checkered dungeon, pink/magenta area, green grass realm, godlands. No focused dungeon run.",
+ "bosses": [
+   {"name":"Angry Yeti (event boss)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"Death screen: 'RotF, Level 20 Priest, killed on May 27 2018 by Angry Yeti'. Likely the same 'Yeti' Galactic/event boss seen elsewhere (El Yeti / Yeti)."}
+ ],
+ "drops": ["Special Crate -> 'Magic Thingy' (crate item, joke-named)"],
+ "mechanics": "Source is a ROTF VIDEO-ESSAY/commentary (chapters: 'developing differences / game design / frequent updates / RotF player opinion / response / final note' + facecam + a chat overlay 'making a video on RotF and need a second opinion'). Gameplay is B-roll. DOCUMENTED in-game bits: LIFE and MANA also use the potion 'N left to max' counter ('Potion of Life consumed. 14 left to max', 'Potion of Mana consumed. 20 left'). Loot Notifier crate-unboxing reconfirmed ('just unboxed ... Magic Thingy'). Dated 2018.",
+ "uncertain": "No boss taunts/fight footage (commentary). 'Magic Thingy' likely a low-tier/joke crate item. Angry Yeti = presumably the Yeti event boss.",
+ "confidence": "LOW-MEDIUM — DOCUMENTS Life/Mana to-max counters, a crate item, and an Angry Yeti death; no dungeon/taunt data (commentary video)."
+}

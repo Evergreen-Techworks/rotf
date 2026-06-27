@@ -1,0 +1,4 @@
+# Leaf Bow
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Leaf%20Bow&prop=wikitext
+
+asdf

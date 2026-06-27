@@ -1,0 +1,14 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM ~36 entries) ROTF — cleanest full Ortar taunt rotation (built boss)",
+ "source": "video disc_tyG-KT533DA (547 frames, 108 transitions = ~36 entries, 137 chat; anime-avatar streamer). Diverse dungeons (space/snow/ice-lava). Chat gave the clearest full Ortar taunt readout yet + event feed.",
+ "map": "DOCUMENTED biomes: dark SPACE arenas, white snow, blue water, brown dirt/cave, tan SANDSTONE grid, BLUE+ORANGE (ice+lava) arenas, blue ice.",
+ "bosses": [
+  {"name":"Ortar","phases":[],"attacks":[],"minions":[],"colorFlashes":"orange/red/purple","taunts":["Why angery? Me want fun...","Stop! You hurt Ortar, Ortar hurt you!","Why you serious, why you serious?","Me serious now too.","Me want to go! Me angery!","Ortar make you die. Hehehi"],"note":"DOCUMENTED VERBATIM — CLEANEST full Ortar readout yet. Ortar is the BUILT boss (OCBosses 0x8fd0). Caveman/'fun'-obsessed personality. NEW lines this clip: 'Why angery? Me want fun...', 'Stop! You hurt Ortar, Ortar hurt you!'. Combined with prior clips, Ortar's FULL rotation: 'Hail, I Ortar, Highest of Staffords' / 'Me want to go! Me angery!' / 'Why you serious, why you serious?' / 'Me serious now too.' / 'Why angery? Me want fun...' / 'Stop! You hurt Ortar, Ortar hurt you!' / 'Now Ortar tryhard.' / 'Tryhard... Not fun.. TRYHARD NOT FUN!' / 'This NO fun.. Me leave.. I ANGRY!' / 'You no hurt Ortar. Ortar hurt you!' / 'Ortar make you die. Hehehi' / 'Ortar KILL you! FUN! haHAA!'."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["God of Reptilians (just spawned)","Hermit God (just spawned)","Cube God (just spawned)"],
+ "mechanics": "DOCUMENTED: cleanest full Ortar taunt rotation (built boss enrichment) — a caveman/'fun'-obsessed boss who rage-quits and mocks tryhards. Event feed (God of Reptilians, Hermit God, Cube God).",
+ "uncertain": "'Ortar make you die. Hehehi' (here) vs 'make you idle' (disc_n7RZ1JzWXXw) — one reading; 'die' likely correct here. No new bosses (Ortar already built + documented).",
+ "confidence": "HIGH — definitive full Ortar taunt rotation (verbatim, enriches the built boss). LOW novelty otherwise (event re-confirmations)."
+}

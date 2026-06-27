@@ -1,0 +1,4 @@
+# Starforce
+# https://rotfserver.fandom.com/api.php?action=parse&page=Starforce&prop=wikitext
+
+#REDIRECT [[Galaxy]]

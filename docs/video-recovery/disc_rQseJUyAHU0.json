@@ -1,0 +1,19 @@
+{
+ "dungeon": "ROTF realm run (246 frames) — Cracked Core taunts confirmed + Cracked Core=Starforce (3rd confirm); NEW Firebreather 'Death is your reward!!'; stat-decrease event; Arcane Symbol blessing. GENUINE ROTF.",
+ "source": "video disc_rQseJUyAHU0 (246 f_, 62 chat, 31 minimap, 2 entries: green realm + a white/lavender-tiled dungeon). Biomes (contact sheet): green realm, white-tiled dungeon, a PURPLE/lavender boss arena, a BLUE ICE-tiled area (snowflake HUD icon) with cyan diamond bullets, brown/dark rooms, gold temple arena. Chat-feed heavy.",
+ "bosses": [
+  {"name":"Cracked Core","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["H-h-h-h-h-h--h-h","DOOOOOOOOOOOOOOOOOOOM!!!","These creatures are to[o/mine]..."],"note":"DOCUMENTED-from-chat. CONFIRMS built Cracked Core glitch taunts (BehaviorDb.OCBosses.cs). 'Starforce - The Cracked Core has been defeated' -> 3rd confirmation Cracked Core is a STARFORCE-zone boss (with Zuck/Gem Gem/Ortar)."},
+  {"name":"Firebreather","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Death is your reward!!"],"note":"DOCUMENTED-from-chat. NEW Firebreather taunt to ADD to the built boss (BehaviorDb.FlamingHearth.cs currently has 'Your courage softens me...')."},
+  {"name":"(realm feed: Cube God / Pentaract Tower Ultra)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'A Cube God has just spawned!' (Kraken announcer), 'The Pentaract Tower Ultra has been [defeated]' (Imp)."}
+ ],
+ "minions": [],
+ "drops": ["Arcane Symbol (rune/blessing material — 'Arcane Symbol x 10 consumed, blessing...')", "void coins ('analyzed the coin')", "RED BAG (loot bag tier — 'ANOTHER RED BAG')", "Special Crate unboxes"],
+ "event_bosses_seen_in_global_feed": [
+  "Starforce - The Cracked Core has been defeated",
+  "A Cube God has just spawned!",
+  "The Pentaract Tower Ultra has been defeated"
+ ],
+ "mechanics": "DOCUMENTED: (1) CRACKED CORE = STARFORCE boss (3rd confirm) — Starforce roster: Zuck/Gem Gem/Cracked Core/Ortar (mostly already coded). (2) NEW Firebreather taunt 'Death is your reward!!'. (3) STAT-DECREASE EVENT — 'All your stats have gotten a -20 decrease' (a global debuff event, likely Oryx realm-close curse or the 'Instability' mechanic seen in disc_ed9YjhhonUU). (4) ARCANE SYMBOL blessing — 'Arcane Symbol x 10 consumed, blessing...' confirms the D2 /bless rune-material system live. (5) VOID COINS ('analyzed the coin') + RED BAG loot tier. (6) /16 maxing — death notifier shows fully-maxed chars '[16/16, 4166]' (16 = full stat/class completion). (7) Stat-pot caps + overflow-to-vault recur heavily.",
+ "uncertain": "Cracked Core 3rd line 'These creatures are to[o/mine]...' truncated (built version = 'These creatures are mine!'). The blue ICE-tiled area (snowflake icon + cyan diamonds) not entered via a captured transition (only 2 entries: realm + white-tiled dungeon) -> couldn't confirm if it's Icy Peaks or another ice dungeon. The '-20 stat decrease' trigger (Oryx-close vs Instability vs a boss debuff) unconfirmed.",
+ "confidence": "HIGH for the verbatim chat: Cracked Core glitch taunts (confirm built) + Cracked-Core=Starforce, Firebreather 'Death is your reward!!', Arcane Symbol blessing, the -20 stat-decrease line. MEDIUM for biome IDs + the stat-decrease trigger. GENUINE ROTF."
+}

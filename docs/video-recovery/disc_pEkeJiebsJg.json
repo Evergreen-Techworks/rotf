@@ -1,0 +1,14 @@
+{
+ "dungeon": "NOT A DUNGEON RUN — a creator DROP-RATE EXPERIMENT / 'Special Crate' farming SHOWCASE video (~256s). Intro card 'If you want more info on what a p#, look at the description... Leave a like for more experimentation' over a void/space background; main segment is hundreds of 'Special Crate' loot containers arranged in a GRID on a sandy/checkered floor with creator stat overlays ('55 legendaries out of 300' / 'out of 200'); 'Thanks for watching!' outro card over void/space. NO boss, NO dungeon, NO taunts, NO attack patterns captured.",
+ "map": "NO dungeon layout — the 'arena' is a flat decorative-bordered SANDY/tan checkered experiment FLOOR used to lay out the spawned 'Special Crate' loot containers in neat rows/grid (a showcase staging room, not a navigable dungeon). Intro/outro framed on a dark VOID/SPACE background (glowing panels + end-card). No room sequence, choke points, or boss arena.",
+ "bosses": [],
+ "minions": [],
+ "drops": [
+  "Special Crate (loot container — tooltip 'Double-Click to take it. Shift-Click to take 1.'); hundreds shown gridded for a drop-rate experiment",
+  "Drop-rate datapoint (creator overlay): '55 legendaries out of 300' (and a '... out of 200' frame) -> ~legendary rate shown for the crate/experiment"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: a 'Special Crate' loot-container mechanic (double-click to open / shift-click to take 1) and a creator-run DROP-RATE EXPERIMENT methodology ('p#' pulls; '55 legendaries out of 300' / 'out of 200' tallies). This is a META/showcase video about loot probability, NOT in-game boss/dungeon content. The only ROTF-relevant takeaway is that 'Special Crate' exists as a loot item and the creator's observed legendary rate (~18% over 300 in the on-screen tally).",
+ "uncertain": "No boss/dungeon/taunt/attack content exists in this tag to recover (it is a drop-rate experiment showcase). 'Special Crate' contents/table NOT enumerated (only the legendary-count tally shown). The '55/300' figure is a creator overlay, not a server-confirmed rate. Chat box is covered by the busy crate-grid floor -> illegible (no taunts anyway).",
+ "confidence": "HIGH that this is a non-dungeon DROP-RATE EXPERIMENT video (Special Crate farming showcase) with NO recoverable boss/dungeon/taunt/attack content. Recorded honestly: bosses=[] (none present), only the 'Special Crate' loot mechanic + a creator drop-rate datapoint captured. No build/enrich content. No follow-up needed unless a real 'Special Crate' loot table is wanted from elsewhere."
+}

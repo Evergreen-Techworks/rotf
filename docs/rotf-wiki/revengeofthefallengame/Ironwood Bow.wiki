@@ -1,0 +1,4 @@
+# Ironwood Bow
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Ironwood%20Bow&prop=wikitext
+
+asdf

@@ -1,0 +1,5 @@
+# Thusala's Slasher
+# https://rotfserver.fandom.com/api.php?action=parse&page=Thusala%27s%20Slasher&prop=wikitext
+
+{{ItemInfo|name = 
+Thusala's Slasher|desc = This anciant polearm, once wielded by Thusala, has guarded the Necropolis for thousands of years.|rarity = p|slot = sword|tier = UT|minDmg = 50|maxDmg = 1675|shots = 1|rof = 40|range2 = 6|fameb = 10|effects = yes|pierce = yes|multihit = yes|primal = bleed:<br/>4% chance upon hitting an enemy to deal "3000" DPS over "3" seconds.(Total:9000)<br/>Swift:<br/>Increase speed by 15 for 4.5 seconds.(9 second cooldown)|dropsFrom = drops from Thusala}}

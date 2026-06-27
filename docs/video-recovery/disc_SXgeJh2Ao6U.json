@@ -1,0 +1,23 @@
+{
+ "dungeon": "ROTF realm run (205 frames) — Twilight Archmage NEW taunts + Archdemon Malphas arc CONFIRMED; Starforce (Zuck+Cracked Core) re-confirm; /12 counter. GENUINE ROTF.",
+ "source": "video disc_SXgeJh2Ao6U (205 f_, 51 chat, 26 minimap, 2 entries). Biomes (contact sheet): sandstone desert realm, red-brick + lava-crater boss arenas, grey/red cross labyrinths, blue ice areas, brown brick rooms. Chat-feed heavy with verbatim taunts.",
+ "bosses": [
+  {"name":"Twilight Archmage","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Darkness give me strength!","Let me see what I can conjure up","You leave me no choice...","Your souls will feed my King."],"note":"DOCUMENTED-from-chat. CONFIRMS built 'Darkness give me strength!' + adds 3 NEW verbatim taunts. 'Your souls will feed my King' = LORE (the Archmage serves a King). Also chanted garbled incantations ('Firos Xifit'tOh Caatyu...', 'I tame Xifit'tOh Merimen...') — an arcane spell-chant (too garbled to transcribe cleanly). Enrich the built Twilight Archmage (BehaviorDb.OCBosses.cs)."},
+  {"name":"Archdemon Malphas","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["My minions will slay you!","My minions are failing me! I will...","I have been defeated... My demons..."],"note":"DOCUMENTED-from-chat. CONFIRMS the Malphas taunt arc enriched this session (BehaviorDb.Abyss.cs) verbatim, + adds NEW 'My minions are failing me! I will...'. (NOTE: the 'mikesdaddy'/'DONATE ME' lines interleaved are player spam, NOT Malphas.)"},
+  {"name":"(realm feed: Treesmasher / Shadowscale / Cookie Monster / Cracked Core / Zuck)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: Treesmasher defeated (17/25, Phoenix), Shadowscale defeated (3/25, Harpy), Cookie Monster spawned (Harpy), 'Starforce - The Zuc/Cracked Core has been defeated' (re-confirm Starforce roster), Ghost Ship (10/12), Lucky Lint/Ent God spawn. Killers: Asgard Guardian, Thessal."}
+ ],
+ "minions": [],
+ "drops": ["Prejudice (UT — Special Crate)", "'Enchanted Forest' (Special Crate result — possibly a dungeon key or item; uncertain)", "Special Crate unboxes (mike unboxed repeatedly)"],
+ "event_bosses_seen_in_global_feed": [
+  "The Treesmasher has been defeated! (17/25)",
+  "The Shadowscale has been defeated! (3/25)",
+  "A Cookie Monster has just spawned!",
+  "The Ghost Ship has been defeated! (10/12)",
+  "Starforce - The Zuc has been defeated!",
+  "Starforce - The Cracked Core has been defeated",
+  "Lucky Lint/Ent God has just spawned!"
+ ],
+ "mechanics": "DOCUMENTED: (1) TWILIGHT ARCHMAGE richer taunt set (4 lines incl. 'Your souls will feed my King' lore + an arcane chant). (2) ARCHDEMON MALPHAS arc verbatim-confirmed (matches this session's enrichment) + new 'My minions are failing me!'. (3) STARFORCE roster re-confirmed (Zuck + Cracked Core). (4) EVENT COUNTER denominator /12 here (Ghost Ship 10/12) — adds to the variety (/30,/25,/12,/10) -> definitively per-realm-configurable. (5) 'Enchanted Forest' obtained from a Special Crate (possible new dungeon key/item — flag). (6) Stat-pot caps + overflow-to-vault recur.",
+ "uncertain": "'Enchanted Forest' from a crate = unclear (dungeon key vs item name). Twilight Archmage chant lines too garbled to transcribe verbatim. Malphas 'My minions are failing me! I will...' truncated. Lucky God read 'Lint' vs 'Ent' (it's 'Ent' per disc_XQUmPL07sFY).",
+ "confidence": "HIGH for the verbatim chat: Twilight Archmage new taunts, Malphas arc confirmation, Starforce re-confirm, the /12 counter. MEDIUM for 'Enchanted Forest' + the garbled chant. GENUINE ROTF. Actionable: enrich the built Twilight Archmage with the 3 new lines."
+}

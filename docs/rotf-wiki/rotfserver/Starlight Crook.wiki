@@ -1,0 +1,4 @@
+# Starlight Crook
+# https://rotfserver.fandom.com/api.php?action=parse&page=Starlight%20Crook&prop=wikitext
+
+{{ItemInfo|name = Starlight Crook|desc = A mysterious staff, glittering with the light of a star, said to contain the energy of many galaxies|rarity = g|slot = staff|tier = GL|minDmg = 80|maxDmg = 125|shots = 2|rof = 100|range2 = 8.91|fameb = 6|soulbound = yes|dropsFrom = drops from gl bosses}}

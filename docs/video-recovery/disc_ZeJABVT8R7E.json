@@ -1,0 +1,28 @@
+{
+ "dungeon": "GENUINE ROTF run, mostly the BASE ABYSS OF DEMONS dungeon ('Abyss of Demons opened by Paladin'; grey-rock + orange-LAVA arena) + a couple other arenas. ~150s, readable chat. LOW yield: NO boss-prefix TAUNT captured (chat = event-feed + player market + potions); boss = base Archdemon Malphas (no new content). Corroboration + base attack documentation only.",
+ "map": "DOCUMENTED-from-frames+minimaps: the ABYSS OF DEMONS — grey ROCK corridors threaded with ORANGE LAVA channels leading to a red/orange LAVA boss chamber (Archdemon Malphas arena; minimap = small red structure). The run also visits a RAINBOW-GRID cosmic/candy arena + a dark crowded arena (a 'Palace of [...]' fight). No single contiguous layout (a few dungeons).",
+ "bosses": [
+  {
+   "name": "Archdemon Malphas",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (f_075, Abyss lava chamber): scattered ORANGE/RED demon bullets across the lava arena -> spread/scattered; no clean dense geometry isolatable. Matches base Abyss demon-bullet spread + minion swarm."],
+   "minions": ["Abyss demons (base)"],
+   "colorFlashes": "orange/red lava",
+   "taunts": [],
+   "note": "BASE-GAME Abyss of Demons boss (built: BehaviorDb.Abyss.cs). NO taunt captured in this clip (chat = event-feed + player market + potions). Recorded as corroboration + a documented base demon-spread attack; NOT new content, NOT attributed a guessed taunt."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "potions consumed (Dexterity/Wisdom/Mana '9 left to max'); maxed potions auto-routed (Vitality/Life)",
+  "arch/keys (player market: 'arch [JAKES] KEY')"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Abyss of Demons opened by Paladin",
+  "Uvuvwevwevwe defeated (announcer Hydra; built)",
+  "/8 death-counter lines (Death Notifier)"
+ ],
+ "mechanics": "DOCUMENTED ROTF SYSTEMS (corroboration): the /8 dungeon-challenge counter in death lines; MAXED-POTION auto-routing ('You're already maxed. Potion of Vitality/Life has been sent...'); potion-to-max counters ('9 left to max'); a key/arch player market; multi-persona announcers (Hydra, Death Notifier). Dungeon = base Abyss of Demons (Archdemon Malphas). No new ROTF-custom boss/taunt.",
+ "uncertain": "BASE ABYSS OF DEMONS run -> boss = base Archdemon Malphas (built); NO boss-prefix TAUNT captured (chat is event-feed + player market + potions; a 'You [...] going down and fast' line is unattributed/possibly player -> NOT recorded as a taunt). Attacks DOCUMENTED-from-frames but scattered (Abyss lava arena, no clean geometry). The rainbow-grid + dark 'Palace of [...]' arenas are other dungeons (not isolated). ROTF (built Uvuvwuwuwe + /8 + maxed-pot systems confirm; no gems/TFR banner).",
+ "confidence": "LOW (no new content) / corroboration. GENUINE ROTF base ABYSS OF DEMONS run. NO new boss/taunt (base Archdemon Malphas, no taunt captured). Value: documents the Abyss lava-arena layout + base demon-spread attack + ROTF systems (/8 counter, maxed-pot routing, key market). Recorded honestly: base boss, NO guessed taunt (taunts=[]), unattributed line not recorded, attacks DOCUMENTED-but-scattered, ROTF-confirmed. No follow-up (base dungeon)."
+}

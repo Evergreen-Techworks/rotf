@@ -1,0 +1,4 @@
+# Sword of the Colossus
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Sword%20of%20the%20Colossus&prop=wikitext
+
+asdf

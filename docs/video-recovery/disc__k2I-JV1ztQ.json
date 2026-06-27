@@ -1,0 +1,53 @@
+{
+ "dungeon": "GENUINE target-server run (VoltiPlay owner present) — a LOST HALLS / ORYX'S SANCTUARY (O3) endgame run (Soul/Sword Fragments, Corrupted Spirits) + a realm with a NEW storm/WEATHER-GOD meme boss + a heavily-documented BRONZE/GOLD LOOTBOX tier system. Chat readable. Mix of base-game O3 corroboration + 2 genuinely-custom finds (the Weather God boss + the lootbox tiers).",
+ "map": "DOCUMENTED-from-transitions+frames: a BLUE/MARBLE Lost Halls / O3 dungeon (marble corridors + rooms, Soul/Sword-Fragment grind), WHITE VAULT rooms (chest grids), a dark SPACE/VOID area, and grey-STONE rooms. Realm hub between. Standard Lost-Halls/O3 marble layout; the Weather God is a realm/event boss. No bossends -> arenas not geometry-traced.",
+ "bosses": [
+  {
+   "name": "Vegan the Weather God",
+   "phases": [],
+   "attacks": ["not isolated (no bossends) -> approximate; storm/weather theme (lightning/storm bullets reconstructed)"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["Time to get completely obliterated!"],
+   "note": "DOCUMENTED-from-chat (red boss-coloured). A storm/WEATHER-GOD boss. *** NAME UNCERTAIN ***: the red text reads '[?]egan/[?]egon the Weather God' — the FIRST letter is left-edge cut (best read 'Vegan the Weather God' as a meme, but could be 'Iegon'/'Legion') -> flag the name, the '...the Weather God' part + taunt are clear. DROPS storm-themed items (Dagger of Unearthly Storms, Ring of the Storm, Stormbreaker) -> confirms the weather/storm theme. NEW custom boss candidate (verify the exact name before building)."
+  },
+  {
+   "name": "Corrupted Spirits",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["Old companions... I AM YOUR NEW MASTER!"],
+   "note": "DOCUMENTED-from-chat. BASE-GAME Lost Halls / O3 (Cultist Hideout / Sanctuary) enemy -> canonical line, not ROTF-custom. Corroborates the O3 chain is present (cf. the Void Entity = base-game flag)."
+  },
+  {
+   "name": "Oryx the Mad God (realm announcer)",
+   "phases": [],
+   "attacks": [],
+   "minions": ["Ghost Ship", "4 Liches"],
+   "colorFlashes": "",
+   "taunts": [
+    "My Ghost Ship will terrorize you pathetic peasants!",
+    "My 4 Liches will feast on your essence!",
+    "That joke got old anyway.",
+    "The ancient guardian will not rise to fool me [...]"
+   ],
+   "note": "DOCUMENTED-from-chat. Oryx realm-invasion announcer lines (naming guardian bosses) -> likely CANONICAL base-game Oryx flavour (flagged, not claimed custom)."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Dagger of Unearthly Storms (Weather God)",
+  "Ring of the Storm (Weather God)",
+  "Stormbreaker (Weather God)",
+  "Soul/Sword Fragments (Lost Halls/O3)",
+  "Lootbox unboxes: Gold Cache, 1000 Gold, Greater Potion of Restoration/Luck/Mana/Might, 'Cursie', Sword Fragments"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Stone Gargoyle (killed a player)",
+  "Mad Jester (killed players)"
+ ],
+ "mechanics": "DOCUMENTED CUSTOM SYSTEMS + corroboration. (1) NEW storm/WEATHER-GOD boss ('Vegan the Weather God' — name first-letter uncertain): taunt 'Time to get completely obliterated!' + storm-themed drops (Dagger of Unearthly Storms / Ring of the Storm / Stormbreaker). (2) a BRONZE/GOLD LOOTBOX TIER system — players 'unbox' items from a 'Bronze Lootbox' and a 'Gold Lootbox' (Gold = better: Gold Cache, 1000 Gold, Greater Potions; Bronze = Greater Potion of Mana, Cursie, Sword Fragments) -> a documented ROTF lootbox-tier mechanic (matches the memory note on lootbox tiers). (3) BASE-GAME corroboration: Lost Halls / O3 (Corrupted Spirits 'I AM YOUR NEW MASTER!', Soul/Sword Fragments) + Oryx realm-announcer lines (likely canon). No bossends -> attacks not traced.",
+ "uncertain": "The Weather God's NAME first-letter is left-edge cut ('[V/I]egan/egon the Weather God') -> uncertain; taunt + storm drops are clear. Attacks not isolated (no bossends) -> reconstructed. Corrupted Spirits + O3 fragments are base-game. Oryx lines likely canon. Lootbox tiers documented but exact drop tables not fully enumerated.",
+ "confidence": "MEDIUM-HIGH for the NEW Weather-God boss (clear taunt + storm drops; name first-letter uncertain) and the BRONZE/GOLD LOOTBOX tier system (clearly documented, multiple unbox lines). HIGH for the base-game O3 corroboration (Corrupted Spirits canon). GENUINE target-server (VoltiPlay). Net value: a new storm/weather-god boss candidate (verify exact name) + a documented lootbox-tier mechanic + O3-is-base-game corroboration. Best follow-up: a clip showing the Weather God's full name + a single-boss fight for its attack."
+}

@@ -1,0 +1,23 @@
+{
+ "dungeon": "ROTF sub-goal marathon (884 frames, ~51 entries; SAMPLED) — Craig taunts + Craig's-Castle-opened feed; Starforce Zuck; Arcane-Symbol-gives-Fame; /15 counter. GENUINE ROTF.",
+ "source": "video disc_awf8n3A7KOk (HUGE: 884 f_, 1326 chat, 663 minimap, 153 transitions = ~51 entries). A 'Subscriber Goal' stream (808/1000, 21 days). Sampled (25 transitions + 18 chat). Biomes: sandstone desert, grey Shatters-style labyrinths, recurring orange-brick dungeon, blue ICE tiled areas, a TAN/WOOD TOWER dungeon (t001), green realm.",
+ "bosses": [
+  {"name":"Craig, The Worst Nightmare","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["PREPARE TO DIE!!!"],"note":"DOCUMENTED-from-chat. Re-confirms built Craig taunt. ALSO 'Craig's Castle opened by ConnieLion' in the feed -> Craig's Castle is a live KEY-OPENED dungeon, but the streamer did NOT visibly enter it here (the tan tower in t001 is a different tower dungeon) -> interior footage still NOT captured (consistent with the 'no Craig's Castle footage' memory). FLAG: a future tag where someone enters could finally give Craig's Castle interior."},
+  {"name":"Warbringer (uncertain)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Your attacks have no effect on me!"],"note":"DOCUMENTED-from-chat but speaker prefix unclear (read as 'Habergetn' = possibly a player, OR a Warbringer line — matches Warbringer's confirmed 'Your attacks have no effect...'). Low confidence on attribution."},
+  {"name":"(realm feed: God of Reptilians / Skull Shrine / Hermit God / Cube God / Pentaract Tower Ultra)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat (Dragon/Blob/Starforce announcers): God of Reptilians + Skull Shrine + Hermit God + Zuck spawned; Cube God defeated (3/15); Pentaract Tower Ultra defeated; 'spawned a lucky boss'."}
+ ],
+ "minions": [],
+ "drops": ["Citadel Armor (item — 'Citadel Armor!?')", "Matured Staff (traded — 'BUYING MATURED STAFF')", "Special Crate unboxes", "big node (rune node)"],
+ "event_bosses_seen_in_global_feed": [
+  "Craig's Castle opened by ConnieLion (key dungeon)",
+  "Starforce - the Zucc has been defeated! / spawned",
+  "The Cube God has been defeated! (3/15)",
+  "A God of Reptilians has just spawned!",
+  "A Skull Shrine has just spawned!",
+  "A Hermit God has just spawned!",
+  "The Pentaract Tower Ultra has been defeated"
+ ],
+ "mechanics": "DOCUMENTED: (1) CRAIG'S CASTLE is a live KEY-OPENED dungeon ('Craig's Castle opened by <player>') — but NO interior footage captured this tag (high-priority no-footage dungeon remains uncaptured). (2) ARCANE SYMBOL blessing grants FAME — 'Arcane Symbol x 10 consumed, blessing... 21 Fame!' (the D2 /bless system gives a fame reward). (3) EVENT COUNTER denominator /15 here (Cube God 3/15) -> denominators now /30,/25,/15,/12,/10 = per-realm. (4) Starforce Zuck re-confirm. (5) 'Citadel Armor' item + 'Matured Staff' (an upgradeable/'matured' staff?). (6) Sub-goal stream meta. (7) Stat-pot overflow recurs.",
+ "uncertain": "Craig's Castle interior NOT captured (only the 'opened by' feed; the t001 tan tower is a separate tower dungeon, not the castle). 'Matured Staff' implies a staff-maturation/upgrade mechanic (unconfirmed). Warbringer line attribution uncertain. Only ~25/51 transitions sampled. The tan/wood tower dungeon (t001) name not legible (Pentaract Tower? a custom tower?).",
+ "confidence": "HIGH for the chat feed: Craig taunt, Craig's-Castle-opened, Starforce Zuck, Arcane-Symbol-Fame blessing, /15 counter, Citadel Armor. MEDIUM for the tower-dungeon ID + Warbringer attribution. GENUINE ROTF. FLAG: Craig's Castle confirmed live but still no interior footage."
+}

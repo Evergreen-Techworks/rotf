@@ -1,0 +1,32 @@
+# Metal Blood Bow
+# https://rotfserver.fandom.com/api.php?action=parse&page=Metal%20Blood%20Bow&prop=wikitext
+
+{{ItemInfo
+| name = Metal Blood Bow
+| slot = bow
+| tier = UT
+| rarity = h
+| desc = A bow forged out of Metal and Blood. Thanks to: WizardishG.
+
+| rof = 75
+| range = 
+| projSpeed = 
+| lifetime = 
+| minDmg = 130
+| maxDmg = 165
+| feedp = 600
+| fameb = 6
+
+| effects = yes
+| multihit = yes
+| boomerang = yes
+
+|bonuses = 
+
+| lootbag = white
+|range2 = 7.5}}
+<noinclude>
+{{NavBows}}
+
+=== '''Aquisition'''</noinclude><noinclude> ===
+You can get the metal blood bow in a white bag either boss of the abyss of demons dungeon. Note that there is a higher drop rate on the second one.[[Category:Bows]]</noinclude>

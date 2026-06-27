@@ -1,0 +1,4 @@
+# Ancient Stone Sword
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Ancient%20Stone%20Sword&prop=wikitext
+
+asdf

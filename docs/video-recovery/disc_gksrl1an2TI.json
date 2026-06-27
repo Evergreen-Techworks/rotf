@@ -1,0 +1,12 @@
+{
+ "dungeon": "Gelatinous Palace (GP) — admin test-spawn clip",
+ "map": "DOCUMENTED: circular dark-RED arena with a brown-brick ring border, a WATER moat around it, and torches along the edge. Minimap shows a circular MULTI-COLORED dungeon layout (fitting the 'gelatinous' colored-slime theme). Gelatinous Palace = a ROTF dungeon by designer Foucs (named in the Riverside Refuge dev blog).",
+ "bosses": [
+   {"name":"Gelatinous Crusader (Yellow)","phases":[],"attacks":[],"minions":[],"colorFlashes":"yellow/orange","taunts":[],"note":"Admin typed '/spawn GP Gelatinous Crusader Yellow' — 'GP' = Gelatinous Palace. Implies a COLOR SET of Gelatinous Crusaders (Yellow + presumably Red/Blue/Green/etc.). Yellow ones shown as small orange/yellow creatures."}
+ ],
+ "minions": ["Gelatinous Crusader Yellow (+ likely other colors)"],
+ "drops": [],
+ "mechanics": "DOCUMENTED: GELATINOUS PALACE ('GP') is a real ROTF dungeon — a circular, multi-colored arena (per minimap) with a red-floor brick-ring boss room + water moat. Its enemies are 'Gelatinous Crusader <Color>' (Yellow confirmed via admin /spawn). Short admin test clip (not a real run); background chat = the standard Oryx realm-close sequence.",
+ "uncertain": "Only the Yellow Crusader confirmed by name; other colors + the GP boss + full map inferred. Arena shown may be a test room rather than the actual GP layout (though the minimap looks like the real circular GP).",
+ "confidence": "MEDIUM — Gelatinous Palace dungeon + 'Gelatinous Crusader Yellow' enemy + circular multicolor arena DOCUMENTED (admin spawn + minimap); no taunts/drops/boss."
+}

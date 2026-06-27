@@ -1,0 +1,12 @@
+{
+ "dungeon": "Scorched Plains gameplay + multi-dungeon — Epic Ghost of Skuld, Archdemon Malphas",
+ "map": "DOCUMENTED: opens on 'THE SCORCHED PLAINS' title card, then gameplay in a brown/dark LAVA-CAVERN biome (fiery, matches the Scorched Plains theme) — FIRST actual Scorched Plains gameplay (prior recovery was only the title card). Also: red demon checkered arena (Archdemon Malphas), tan dome arenas w/ yellow radial bullets, grey diagonal dungeons, green realm.",
+ "bosses": [
+   {"name":"Epic Ghost of Skuld (EPIC ENEMY)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Congratulations on your victory, warrior.","A SWIFT DEATH!!!"],"note":"NEW boss — 'Ghost of Skuld' (Epic-tier variant; Skuld = a Norse Norn). Taunts DOCUMENTED."},
+   {"name":"Archdemon Malphas","phases":[],"attacks":["summons demons"],"minions":["demons"],"colorFlashes":"red","taunts":["I have been defeated... My demons will crush you..."],"note":"Demon boss (Abyss/demon dungeon). Re-confirms prior recovery; red checkered arena."}
+ ],
+ "drops": ["crate -> Potion of Vitality"],
+ "mechanics": "DOCUMENTED: SCORCHED PLAINS gameplay confirmed (brown lava-cavern fire biome) — first footage beyond the title card. NEW boss 'Epic Ghost of Skuld' (taunts 'Congratulations on your victory, warrior.' / 'A SWIFT DEATH!!!'). Archdemon Malphas re-confirmed. POTION-STORAGE-FULL -> SOLD FOR FAME ('Potion Storage full! Potion of Vitality sold for 2 fame!') — the overflow path when storage is also full. Galactic /30 counter near max (Mysterious Card 29/30); Lord of the Lost Lands 9/30; Cube God/Ghost Ship events ('Ghost Ship defeated, causing minor vibrations down below'). Personas: Unicorn, Sprite.",
+ "uncertain": "No distinct Scorched Plains BOSS name captured (chat was galactic event feed during SP gameplay). 'Ghost of Skuld' dungeon affiliation unknown.",
+ "confidence": "MEDIUM-HIGH — Scorched Plains gameplay/biome confirmed + Epic Ghost of Skuld (new taunts) + Archdemon Malphas + potion->fame overflow + /30 near-max DOCUMENTED."
+}

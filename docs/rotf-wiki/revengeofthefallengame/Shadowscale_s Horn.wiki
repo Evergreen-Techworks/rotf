@@ -1,0 +1,4 @@
+# Shadowscale's Horn
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Shadowscale%27s%20Horn&prop=wikitext
+
+asdf

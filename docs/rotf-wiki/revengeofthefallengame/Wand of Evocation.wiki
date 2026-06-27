@@ -1,0 +1,4 @@
+# Wand of Evocation
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Wand%20of%20Evocation&prop=wikitext
+
+asdf

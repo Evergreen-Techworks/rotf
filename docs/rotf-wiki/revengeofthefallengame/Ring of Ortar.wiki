@@ -1,0 +1,4 @@
+# Ring of Ortar
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Ring%20of%20Ortar&prop=wikitext
+
+asdf

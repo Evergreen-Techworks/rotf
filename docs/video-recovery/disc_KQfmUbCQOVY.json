@@ -1,0 +1,21 @@
+{
+ "dungeon": "*** NON-TARGET — OFFICIAL BASE-GAME RotMG (DECA Games), NOT the ROTF private server. *** Played in a BROWSER WINDOW: a frame shows the in-game footer 'Thanks for playing Realm of the Mad God! Check out the Reddit, subreddit and Wiki.' + 'DECA / (c) 2017 Deca Games GmbH all rights reserved / Privacy / Terms', inside a desktop browser (tab bar + Windows taskbar visible). Player 'Pickle'. This is the OFFICIAL game ROTF is a remake OF — base-game content, not ROTF-custom. Recorded as an EXCLUSION (base-game reference) so the auto-bridge never treats it as ROTF-custom content.",
+ "map": "DOCUMENTED-from-frames but BASE-GAME: a LAVA arena — red/orange lava tiles with a dark CHECKERED floor section, a red demon boss positioned at the top of the room (Abyss-of-Demons / fire-boss style base-game layout). Also seen: a white VAULT/chest room and tan ITEM-GRID rooms (base-game vault/loot UI). Browser-windowed, so framing is letterboxed. Base-game geometry, not a ROTF dungeon.",
+ "bosses": [
+  {
+   "name": "(unidentified base-game lava/demon boss)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (bossends b004_24s): radial ring/nova of ORANGE/RED bullets filling the lava arena (base-game fire-boss burst). NOT attributed to any ROTF-custom boss."],
+   "minions": [],
+   "colorFlashes": "red/orange",
+   "taunts": [],
+   "note": "BASE-GAME official RotMG (DECA), NOT ROTF-custom. A red demon/fire boss in a lava arena (Abyss-of-Demons / Oryx-fire style). Name NOT identified and DELIBERATELY not guessed — this is base-game content, recorded only to mark the tag non-target. No taunt captured (chat crops grabbed the Windows taskbar, see mechanics)."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "NON-TARGET (official base-game RotMG by DECA, browser-windowed). The footer 'Realm of the Mad God ... (c) 2017 Deca Games GmbH' + browser chrome confirm it is the OFFICIAL client, not the ROTF private server. The 50 chat_*.png crops captured the WINDOWS TASKBAR (black bar) instead of in-game chat — because the game is in a small browser window, the prep crop geometry (tuned for fullscreen RotMG) misaligned -> NO in-game chat/taunts are readable. Boss attack (radial red burst) is base-game and flagged as such; not attributed to ROTF. Nothing ROTF-custom to recover.",
+ "uncertain": "It is CERTAIN this is official base-game RotMG (DECA copyright on-screen). The lava boss is base-game but its exact identity (Archdemon Malphas / Oryx fire phase / other) was NOT pinned and is intentionally NOT guessed. No chat (taskbar-misaligned crops).",
+ "confidence": "HIGH that this is NON-TARGET base-game RotMG (DECA, browser). ZERO ROTF-custom content (no custom boss/taunt; the one boss attack is base-game, flagged). Net value = a documented EXCLUSION that prevents base-game content being mis-attributed as ROTF-custom (serves the 'how much fake stuff is in our build' concern). 3rd non-target mis-pull this session (after 'Faer' disc_KBzHN9gFmGg + Cities:Skylines disc_KhLRNM2XluY) — a discovery-side filter (drop official-DECA / non-ROTF-server footage) would save these recovery slots."
+}

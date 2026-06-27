@@ -1,0 +1,4 @@
+# Basic Star
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Basic%20Star&prop=wikitext
+
+asdf

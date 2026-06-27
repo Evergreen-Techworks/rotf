@@ -1,0 +1,312 @@
+{
+  "_doc": "Feature-readiness + build-state ledger. Drives the build-when-ready loop (scripts/next_buildable.py) and tracks the recovery->build backlog. readiness: 'ready' (server-side content, has name+taunts+biome, buildable on a proven pipeline) | 'partial' (needs more recovery) | 'needs_live_client' (UI/stat system, can't auto-validate without a client). built: true once shipped + boot-validated.",
+  "_readiness_gate": "A feature is auto-buildable when type in [boss,dungeon] AND readiness=='ready' AND built==false. Systems marked needs_live_client are NEVER auto-built (require a human client test).",
+  "built": [
+    {
+      "name": "Asgard (dungeon: Heimdall/Loki/Hela/Odin/Thor/Guardian)",
+      "type": "dungeon"
+    },
+    {
+      "name": "Gate to the Underworld (Ra/Sia/Hu + Pillars-style Staves)",
+      "type": "dungeon"
+    },
+    {
+      "name": "Tomb of Decaying Death (Tombstone Carrier + roster)",
+      "type": "dungeon"
+    },
+    {
+      "name": "Riverside Refuge (Riverborn)",
+      "type": "dungeon"
+    },
+    {
+      "name": "Flaming Hearth (Firebreather)",
+      "type": "dungeon"
+    },
+    {
+      "name": "Twilight Necropolis (Gravedigger/Diagon/Necro Doggo/Grave Caretaker)",
+      "type": "dungeon"
+    },
+    {
+      "name": "Collapsed Woods (Treesmasher)",
+      "type": "dungeon"
+    },
+    {
+      "name": "Shrouded Sanctum (Shadowscale)",
+      "type": "dungeon"
+    },
+    {
+      "name": "Sacrificial Grounds (Devoted Shaman -> Reptilian God)",
+      "type": "dungeon"
+    },
+    {
+      "name": "Nyx of Fire (world boss, evil-player phase)",
+      "type": "boss"
+    },
+    {
+      "name": "meme Encounter bosses (Breathing/Smashing/Shadow/Flying)",
+      "type": "boss"
+    },
+    {
+      "name": "OCBosses (Ortar/Cracked Core/God of Reptilians/Death King/Twilight Archmage/Epic Ghost of Skuld)",
+      "type": "boss"
+    },
+    {
+      "name": "Craig's Castle (Craig)",
+      "type": "dungeon"
+    },
+    {
+      "name": "Undead Lair (Septavius)",
+      "type": "dungeon"
+    },
+    {
+      "name": "D1 Epic Enemies",
+      "type": "system"
+    },
+    {
+      "name": "D2 Runes + Nodestones + /bless",
+      "type": "system"
+    },
+    {
+      "name": "Marketplace MVP",
+      "type": "system"
+    },
+    {
+      "name": "Rebrand (Ordinary Client)",
+      "type": "system"
+    }
+  ],
+  "backlog": [
+    {
+      "name": "RENAME Death King -> Dwarf King",
+      "type": "fix",
+      "readiness": "ready",
+      "built": true,
+      "info": "DONE 2026-06-03: renamed id 0x8fd3 'Death King'->'Dwarf King' across OrdinaryClient_Bosses.xml + BehaviorDb.OCBosses.cs + Oryx.cs RegionMobs + client embed. Server 0 errors, client SWF rebuilt (boot re-confirm sandbox-blocked; pure rename, 0 stray refs)."
+    },
+    {
+      "name": "Taunt swaps for built bosses",
+      "type": "fix",
+      "readiness": "ready",
+      "built": true,
+      "info": "DONE 2026-06-03: recovered verbatim taunts added -> Ortar (full ~12-line rotation), Shadowscale (awaken+menace+false-reward), Diagon ('...BEHOLD. THE PERFECTION OF DIAGON!'), Riverborn ('Let's see how well you play...'), Firebreather ('Your courage softens me...'). Cracked Core glitch lines already present. Server 0 errors + client SWF rebuilt."
+    },
+    {
+      "name": "Anubi's Lair (Anubis + Pillars)",
+      "type": "dungeon",
+      "readiness": "ready",
+      "built": true,
+      "info": "BUILT 2026-06-03: Anubis 0x8f00 (140k HP, gold sandstone temple) INVULNERABLE behind 4 destructible Pillars 0x8f01 ('Pillars... please help me!'); kill pillars -> 'I am losing strength... I am slowly dying...' weakened/vulnerable phase. Ra-and-Staves pattern. Portal 0x8213 -> AnubisLair.jm/.jw, wired into Nexus rotfPortals + client embed (OC_AnubisLairCXML). Taunts verbatim; attack geometry reconstructed. Server 0 errors, client SWF rebuilt. Live port-bind boot NOT confirmable (sandbox kills detached wServer) but collision-checked: no base 'Anubis' obj, XML globbed (*xml recursive) -> ids resolve 0x8f00/0x8f01."
+    },
+    {
+      "name": "FIX: Dwarf King duplicate-key boot crash",
+      "type": "fix",
+      "readiness": "ready",
+      "built": true,
+      "info": "DONE 2026-06-03: prev session's 'Death King'->'Dwarf King' rename collided with the BASE-game 'Dwarf King' (MidCXML 0x61f + Midland.cs behavior) -> two .Init(\"Dwarf King\") both resolved to type 1567 -> ArgumentException duplicate-key crash at boot (this was the latent crash the earlier sandbox-block hid). FIX: ROTF Dwarf King IS the base mini-boss (taunt 'You'll taste my axe!' matches verbatim) -> folded recovered taunts ('Tasted? Again!','Anyone! Anyone!!') into Midland.cs, deleted the dead duplicate (OCBosses Init + 0x8fd3 obj, shadowed/unreachable), removed its stray Mountains spawn. Now exactly one .Init(\"Dwarf King\"). Server 0 errors."
+    },
+    {
+      "name": "Hela's Power staff (recovery -> Hela loot)",
+      "type": "fix",
+      "readiness": "ready",
+      "built": true,
+      "info": "DONE 2026-06-03: fleshed out existing stub item 0x8026 from fresh frame recovery (disc_WrAfGGUcuhA verbatim tooltip): MaxDamage 325->360, Wisdom +4->+12, added Hexed-on-hit (2.2s) curse proc, capitalized id 'Hela's Power', full desc. Wired new ItemLoot('Hela's Power',0.05) into Asgard Hela's drop table. Server 0 errors, items .dat re-synced to client."
+    },
+    {
+      "name": "Tomb of the Ancients (Egyptian gods)",
+      "type": "dungeon",
+      "readiness": "ready",
+      "built": true,
+      "info": "ALREADY IN BASE GAME (verified 2026-06-03) \u2014 NO build needed (would have been a dup-key crash). The base Tomb of the Ancients (portal 0x072c, key 0x710, BehaviorDb.Tomb.cs) IS the Egyptian-god dungeon: bosses Tomb Defender / Tomb Support / Tomb Attacker = Bes / Nut / Geb (they cross-reference by god name in existing taunts: 'Nut, disable our foes!', 'Geb, eradicate these cretins!', 'Bes, protect me at once!'). The recovery just rediscovered the base dungeon. TODO (optional): confirm it's reachable in-realm (key drop / Grand Sphinx event). NOTE: base Tomb Defender taunt 'Impudence! I am an Immortal...' may be the source of the ledger's 'White Dragon Lord' partial \u2014 verify before building that one."
+    },
+    {
+      "name": "/30 event-counter + global announcer",
+      "type": "system",
+      "readiness": "ready",
+      "built": true,
+      "info": "BUILT 2026-06-04: the /N defeat-counter + random-PERSONA global announcer was already implemented (Oryx.cs _galacticKills + BroadcastPersona 'The <Boss> has been defeated! (N/25)'; Personas[] already includes the recovered narrators Chimera/Reaper/Goblin/Spider/Bat/Dragon/Sprite/Medusa/Starforce/Djinn). COMPLETED the SPAWN side: SpawnEvent now broadcasts '<Persona> A <Boss> has just spawned!'. Denominator is /25 (recovery showed it varies /30\u00b7/25\u00b7/10 per realm \u2014 left at /25). Server 0 errors."
+    },
+    {
+      "name": "Stonetaker (stone-hoarder boss)",
+      "type": "boss",
+      "readiness": "ready",
+      "built": true,
+      "info": "BUILT 2026-06-03: object 0x8fd6 (110k HP) in OrdinaryClient_Bosses.xml + .Init(\"Stonetaker\") in BehaviorDb.OCBosses.cs (guard phase: 'Mmm... Beautiful stones...' + 'Leave my stones in peace...' -> HpLess 0.3 enrage 'LEAVE MY STONES ALONE!'). Added to Oryx Mountains realm-boss pool (0.03). Client Bosses .dat re-synced. Collision-checked clean (no base 'Stonetaker'). Server 0 errors."
+    },
+    {
+      "name": "Archdemon Malphas (fire/abyss demon minion-commander)",
+      "type": "boss",
+      "readiness": "ready",
+      "built": true,
+      "action": "ENRICH_BASE",
+      "info": "BUILT 2026-06-04: ENRICHED base (BehaviorDb.Abyss.cs) \u2014 added recovered taunt arc 'I have been released...'/'Kill my proteges...'/'My minions will slay you!'/'I have been defeated... My demons will crush you!' (base Abyss boss; did NOT duplicate)."
+    },
+    {
+      "name": "Marble Colossus (catacombs guardian)",
+      "type": "boss",
+      "readiness": "ready",
+      "built": true,
+      "info": "BUILT 2026-06-04: object 0x8f02 + BehaviorDb.OCBosses2.cs (guard 'PAH! The prohibited arts...'/'It is my duty to protect these catacombs...' -> HpLess slipping 'I feel myself... slipping...'). Oryx pool + client embed."
+    },
+    {
+      "name": "Arcanica (mana-vampire)",
+      "type": "boss",
+      "readiness": "ready",
+      "built": true,
+      "info": "BUILT 2026-06-04: object 0x8f04 + OCBosses2 (4 mana-vampire taunts 'Arcanica wants mana' etc). Oryx pool."
+    },
+    {
+      "name": "Cookie Monster (meme event boss)",
+      "type": "boss",
+      "readiness": "ready",
+      "built": true,
+      "info": "BUILT 2026-06-04: object 0x8f05 + OCBosses2 ('Candy... Candy...'). Oryx pool."
+    },
+    {
+      "name": "Carrot God (meme boss)",
+      "type": "boss",
+      "readiness": "ready",
+      "built": true,
+      "info": "BUILT 2026-06-04: object 0x8f06 + OCBosses2 ('Oh you finally made it...'/'here I am!!'). Oryx pool."
+    },
+    {
+      "name": "Mewtwo (meme boss)",
+      "type": "boss",
+      "readiness": "ready",
+      "built": true,
+      "info": "BUILT 2026-06-04: object 0x8f07 + OCBosses2 ('You think you can beat me?'/'So you are trying to kill me?'). Oryx pool."
+    },
+    {
+      "name": "Lycaon (werewolf)",
+      "type": "boss",
+      "readiness": "ready",
+      "built": true,
+      "info": "BUILT 2026-06-04: object 0x8f03 + OCBosses2 ('FLESH AND BLOOD!'/'FRESH MEAT!'). Oryx pool."
+    },
+    {
+      "name": "God of Luck (Lucky Potion cooldown)",
+      "type": "boss",
+      "readiness": "ready",
+      "built": true,
+      "info": "BUILT 2026-06-04: object 0x8f08 + OCBosses2 ('You can use your Luck...'). Lucky-Potion-cooldown UI still needs_live_client. Oryx pool."
+    },
+    {
+      "name": "Crystal Prisoner Clone (clone-confusion)",
+      "type": "boss",
+      "readiness": "ready",
+      "built": true,
+      "info": "BUILT 2026-06-04: ENRICHED base (BehaviorDb.Crystal.cs) \u2014 added recovered clone taunt 'I am everywhere and nowhere!' (Crystal Prisoner exists in base; did NOT duplicate)."
+    },
+    {
+      "name": "Giant Oryx Chicken",
+      "type": "boss",
+      "readiness": "ready",
+      "built": true,
+      "info": "BUILT 2026-06-04: object 0x8f09 + OCBosses2 ('Cluck cluck BOCK!!'). Oryx pool."
+    },
+    {
+      "name": "The Mysterious Card (magician event boss)",
+      "type": "boss",
+      "readiness": "ready",
+      "built": true,
+      "info": "BUILT 2026-06-04: object 0x8f0a + OCBosses2 ('With my sleight of hand...', cross-volley). Oryx pool."
+    },
+    {
+      "name": "MH Wave Controller (wave-spawner)",
+      "type": "boss",
+      "readiness": "ready",
+      "built": true,
+      "info": "BUILT 2026-06-04: object 0x8f0b + OCBosses2 (Spawn waves -> HpLess panic 'No! What's happening?! You were...'). Oryx pool."
+    },
+    {
+      "name": "Creepy Talking Jack-O-Lantern (Halloween NPC)",
+      "type": "boss",
+      "readiness": "ready",
+      "built": true,
+      "info": "BUILT 2026-06-04: object 0x8f0c + OCBosses2 ('Look out for those skeletons in the realm. They're spooky AND scary!'). Oryx pool."
+    },
+    {
+      "name": "Lord Ruthven (sealed vampire lord)",
+      "type": "boss",
+      "readiness": "partial",
+      "built": false,
+      "info": "awakening monologue 'You have broken the ancient seal... I have waited a thousand years... VENGEANCE IS MINE FOR THE TAKING' \u2014 boss name read uncertain (likely Ruthven). Verify name."
+    },
+    {
+      "name": "White Dragon Lord (elemental dragon)",
+      "type": "boss",
+      "readiness": "partial",
+      "built": false,
+      "info": "'Impudence! I am an immortal Dragon!' \u2014 a 3rd elemental Lord (ice/air?). Needs dungeon/biome confirm."
+    },
+    {
+      "name": "Living Forest dungeon",
+      "type": "dungeon",
+      "readiness": "partial",
+      "built": false,
+      "info": "Living Forest key + 'LF Dungeon Guide' clear-gate NPC; giant-tree forest biome. Boss not captured yet."
+    },
+    {
+      "name": "Starforce Zone",
+      "type": "dungeon",
+      "readiness": "partial",
+      "built": false,
+      "info": "endgame 8/8-gated zone (entry 'Welcome to the Starforce Zone! If you're not careful, you won't come out alive'); brown/red dirt biome. Boss/contents not captured."
+    },
+    {
+      "name": "Gelatinous Palace",
+      "type": "dungeon",
+      "readiness": "partial",
+      "built": false,
+      "info": "white/lavender tiled palace + blob minimap candidate; boss 'H.R.O.M.E'? unconfirmed."
+    },
+    {
+      "name": "Rainbow Road dungeon",
+      "type": "dungeon",
+      "readiness": "partial",
+      "built": false,
+      "info": "Rainbow Road key; biome/boss not captured."
+    },
+    {
+      "name": "HASTE stat + ability cooldowns",
+      "type": "system",
+      "readiness": "needs_live_client",
+      "built": false,
+      "info": "Haste = CDR stat (Haste Orange pot); abilities have cooldowns (God-of-Luck 'Lucky Potion in N sec'). Touches stat/combat core + client UI -> needs a live client test."
+    },
+    {
+      "name": "Class/Skill tree + subclasses",
+      "type": "system",
+      "readiness": "needs_live_client",
+      "built": false,
+      "info": "82-node skill tree, Mage->Summoner subclassing, spellbooks/scrolls, per-class skins + progression. Client UI -> needs live client."
+    },
+    {
+      "name": "D3 Galactic Zones (fuel/spaceship)",
+      "type": "system",
+      "readiness": "needs_live_client",
+      "built": false,
+      "info": "extract Fuel from mysterious objects -> deposit at Spaceship -> 'Fuel data processed -> Initiating startup sequence -> Systems back online -> Good luck master' -> galactic starfield zone (+ Winter Spaceship variant). 4 tier worlds + ~20 bosses; art-blocked + needs client test."
+    },
+    {
+      "name": "Fruit stat-pots + caps",
+      "type": "system",
+      "readiness": "needs_live_client",
+      "built": false,
+      "info": "per-stat consumables (HP=Strawberry/MP=Blueberry/Atk=Blackberry/Def=Coconut/Spd=Kiwi/Dex=Pepper/Wis=Elderberry/Haste=Orange) with 'N to max' caps + potion storage. Build-dependent; touches stat UI."
+    },
+    {
+      "name": "Icy Peaks (Ice Queen + tower-gate)",
+      "type": "dungeon",
+      "readiness": "ready",
+      "built": true,
+      "info": "BUILT 2026-06-04 (from IcyPeaks_tutorial recovery): Ice Queen 0x8f0d invulnerable behind 4 Ice Queen's Tower 0x8f0e (tower-gate, Ra/Anubis pattern) -> thaws when towers fall. OrdinaryClient_IcyPeaks.xml + BehaviorDb.IcyPeaks.cs + make_icypeaks.py->IcyPeaks.jm/.jw portals:[33300] + Nexus 0x8214 + client embed OC_IcyPeaksCXML. Snow/Ice biome + frozen flower-garden arena. Ice Queen taunts RECONSTRUCTED (no footage). Server 0 errors."
+    },
+    {
+      "name": "FIX/ENRICH: recovered taunts batch (Asgard Heimdall/Odin, Encounters)",
+      "type": "fix",
+      "readiness": "ready",
+      "built": true,
+      "info": "DONE 2026-06-04: Heimdall +'Let the sound penetrate...'; Odin 'A guard composed of gods.' -> full 'A guard composed of gods! How can you ever win now?'; Encounters taunt corrected to verbatim 'GRAVE MISTAKES HAVE BEEN MADE.' (Breathing/Smashing/Shadow/Flying) + Flying 'Your attempt at taking me down is...'. Server 0 errors."
+    }
+  ]
+}

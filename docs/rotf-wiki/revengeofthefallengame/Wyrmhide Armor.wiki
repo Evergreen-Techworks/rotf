@@ -1,0 +1,4 @@
+# Wyrmhide Armor
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Wyrmhide%20Armor&prop=wikitext
+
+asdf

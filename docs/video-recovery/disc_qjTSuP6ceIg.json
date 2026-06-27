@@ -1,0 +1,14 @@
+{
+ "dungeon": "(VALOX GAMEPLAY VIDEO) ROTF — re-confirms Ortar taunts + damage-contribution loot; low novelty",
+ "source": "video disc_qjTSuP6ceIg (681 frames, 6 transitions, 170 chat; VALOX channel, same creator as disc_QAljT2Rly88). Diverse dungeons (ice+lava arenas, bosses). Chat re-confirmed Ortar taunts + known loot/event systems.",
+ "map": "DOCUMENTED biomes: sandstone/tan dungeons, RED LAVA dungeons, BLUE+ORANGE (ice+lava) mixed arenas, green grass, grey stone, dark space arenas with bullet spirals.",
+ "bosses": [
+  {"name":"Ortar","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["This NO fun. Me leave. I ANGRY!","Ortar KILL you. FUN! haHAA!"],"note":"DOCUMENTED VERBATIM — RE-CONFIRMS Ortar's tryhard/'fun' taunts from disc_pGEVj9uJLFw (built boss, OCBosses 0x8fd0). No new lines."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Cookie Monster (defeated)","Lucky Ent God (just spawned)","Pentaract Tower Ultra (spawned)"],
+ "mechanics": "DOCUMENTED (re-confirmations): (1) DAMAGE-CONTRIBUTION LOOT — '<Loot Notifier> [player] just got some <item> with N% damage dealt!' (9%, 14% seen) — loot eligibility scales with your damage %. (2) Ortar taunts re-confirmed. (3) Event feed (Cookie Monster, Lucky Ent God, Pentaract). Inventory loot sprites shown (magenta dagger/wand, gold + pink items).",
+ "uncertain": "No new boss taunts (Ortar already documented). Item names in inventory not legibly read. Dungeon names not printed.",
+ "confidence": "HIGH for the Ortar re-confirmation + damage-contribution loot. LOW novelty (corroborates prior tags)."
+}

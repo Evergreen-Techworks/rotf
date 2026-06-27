@@ -1,0 +1,36 @@
+{
+ "dungeon": "GENUINE ROTF tiny FRAGMENT clip (only 13 f_, no contact sheet; player RuinedBow, died July 16 2020). A RED/LAVA arena with two NEW enemies — Bastille Brute + Scorching Fanatic — whose only lines are GIBBERISH ROARS (not coherent taunts). LOW yield: 2 new enemy NAME leads (likely fire-dungeon trash mobs) + a lava-arena layout. RuinedBow killed by Scorching Fanatic.",
+ "map": "DOCUMENTED-from-frames (tiny clip): a RED/ORANGE LAVA arena with a dark HEXAGONAL/octagonal geometric structure at center (a fire/lava boss-room shape). Lava floor. Too few frames to trace room sequence/choke points. Fire-dungeon aesthetic (Bastille/Scorching names suggest a fortress-fire dungeon).",
+ "bosses": [
+  {
+   "name": "Bastille Brute",
+   "phases": [],
+   "attacks": ["not traced (only 13 frames; no clean bullet geometry)"],
+   "minions": [],
+   "colorFlashes": "red/lava",
+   "taunts": [
+    "Graaagh!",
+    "GRAAAAGH!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss/enemy-prefix '<Bastille Brute>'). NEW name (0 prior specs, 0 build). Lines are GIBBERISH ROARS ('Graaagh!'/'GRAAAAGH!') -> flavor, NOT coherent buildable taunts. Likely a fire-dungeon TRASH MOB (Brute), not a major boss -> verify before building. base-vs-custom unverified."
+  },
+  {
+   "name": "Scorching Fanatic",
+   "phases": [],
+   "attacks": ["not traced (tiny clip)"],
+   "minions": [],
+   "colorFlashes": "red/lava",
+   "taunts": [
+    "Aragah...",
+    "Blagaha!"
+   ],
+   "note": "DOCUMENTED-from-chat (enemy-prefix '<Scorching Fanatic>') + DEATH SCREEN ('killed by Scorching Fanatic', July 16 2020). NEW name (0 prior specs, 0 build). Lines are GIBBERISH ROARS ('Aragah...'/'Blagaha!') -> flavor, NOT coherent taunts. Likely a fire-dungeon enemy (a 'Scorching' fire entity exists in base -> base-vs-custom UNCERTAIN). Verify before building."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED (minimal — tiny fragment): a RED/LAVA fire arena (hexagonal center) with two enemies that ROAR gibberish (Bastille Brute 'Graaagh!'; Scorching Fanatic 'Aragah!'/'Blagaha!'). RuinedBow died to Scorching Fanatic. No coherent taunt, no traced attack (13 frames only). Fire/fortress-dungeon aesthetic. No new buildable TAUNT (roars only).",
+ "uncertain": "TINY FRAGMENT (13 f_, no contact sheet, no transitions/bossends) -> very limited. 'Bastille Brute' + 'Scorching Fanatic' are NEW names but their ONLY lines are GIBBERISH ROARS (not coherent/buildable taunts) -> recorded verbatim as flavor, flagged NOT as meaningful taunts. Likely fire-dungeon TRASH MOBS (Brute/Fanatic), not major bosses. 'Scorching' has a base-game ref -> base-vs-custom UNCERTAIN for both; verify before building. Attack not traced (too few frames). Red/lava hexagonal arena = fire dungeon (name unconfirmed).",
+ "confidence": "LOW. GENUINE ROTF tiny fragment. Value: 2 NEW enemy NAME leads (Bastille Brute, Scorching Fanatic) in a red/lava fire arena + the arena layout; RuinedBow death attribution. NO coherent/buildable taunt (only gibberish roars). Recorded honestly: roars logged as flavor (not meaningful taunts), names flagged as likely trash-mobs + base-vs-custom uncertain (do NOT build as bosses without verification), attack not fabricated. Best follow-up: a fuller clip of this fire dungeon to ID it + confirm whether these are bosses or trash mobs + any real taunts."
+}

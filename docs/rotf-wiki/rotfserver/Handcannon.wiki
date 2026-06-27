@@ -1,0 +1,29 @@
+# Handcannon
+# https://rotfserver.fandom.com/api.php?action=parse&page=Handcannon&prop=wikitext
+
+{{ItemInfo
+| name = Handcannon
+| slot = bow
+| tier = UT
+| rarity = Primal
+| desc = The legendary firearm forged from hard steel and demonic blood containing mighty power.
+
+| rof = 95
+| range = 
+| projSpeed = 160
+| lifetime = 700
+| minDmg = 100
+| maxDmg = 125
+| shots = 8
+| arcgap = 6
+
+| effects = yes
+| multihit = yes
+| pierce = 
+
+| legendary = 1    
+| lootbag = white
+|dropsFrom = is currently only obtainable from the L.Bandito, in Galactic Zones|primal = Overwhelmed With Power:<br/>You have a 0.01% chance to become drunk for 2 seconds on hit|range2 = 12}}
+<noinclude>
+[[Category:Bows]]
+{{NavBows}}</noinclude>

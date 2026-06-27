@@ -1,0 +1,4 @@
+# Molten Katana
+# https://rotfserver.fandom.com/api.php?action=parse&page=Molten%20Katana&prop=wikitext
+
+{{ItemInfo|name = Molten Katana|desc = Sizzle sizzle sizzle...|rarity = h|slot = katana|tier = UT|minDmg = 180|maxDmg = 240|shots = 1|rof = 75|fameb = 7|effects = yes|pierce = yes|dropsFrom = no idea|range2 = 4.2}}

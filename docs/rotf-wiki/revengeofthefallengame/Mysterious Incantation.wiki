@@ -1,0 +1,4 @@
+# Mysterious Incantation
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Mysterious%20Incantation&prop=wikitext
+
+asdf

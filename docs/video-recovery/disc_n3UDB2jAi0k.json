@@ -1,0 +1,11 @@
+{
+ "dungeon": "FACECAM vault/realm-hopping stream — 4th tag from creator 'Dragstar' (youtube.com/c/Dragstar; webcam + keyboard-controls overlay + 'LEAVE A LIKE'; after disc_m8KnWYLT4Ac / disc_McIRLo7w4Co / disc_MehDfEss358). ~11 entries over ~566s, VAULT-heavy (many vault/item-grid screens) + brief realm/dungeon biomes. Chat = Nexus welcome + potion-consume feed + a 'Mystery Box' prompt; NO boss taunts captured. LOW boss-content yield.",
+ "map": "DOCUMENTED-from-transitions+f_frames: VAULT-heavy session — repeated white/grey VAULT (chest-grid) rooms + character/UI screens, interspersed with brief dungeon/realm biomes: an ORANGE/LAVA arena, GREEN forest, tan DESERT, BLUE WATER/ice. Nexus hub between. Mostly storage/UI + realm-hopping, not a single dungeon clear. No bossends.",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED (limited — facecam + vault-focused): (1) chat is the default '[Enter] To Chat' prompt + a webcam/keyboard overlay -> only system lines readable: Nexus 'Welcome to Realm of the Mad God' / Oryx 'You are food for my minions!', POTION-CONSUME feed ('Potion of Defense Consumed'), and a 'MYSTERY BOX' prompt ('Surprise yourself with a Mystery Box?') = a mystery-box/lootbox mechanic. (2) VAULT-heavy (many storage screens) + realm-hopping across lava/forest/desert/water biomes. NO boss fight/taunt captured. Same creator (Dragstar) as 3 prior facecam tags. No bossends -> no attack geometry.",
+ "uncertain": "CHAT covered/UI-only -> NO boss taunts; no boss NAME captured -> none recorded (no guessing). SERVER IDENTITY not positively confirmed (RotMG-engine; same Dragstar creator/server as the other 3 tags). Vault/realm-hopping session -> minimal gameplay-boss content. 'Mystery Box' prompt noted but its drop table not captured.",
+ "confidence": "LOW. RotMG-engine FACECAM vault/realm-hopping stream (Dragstar, 4th tag) -> very low recoverable boss content. Concrete notes: the biome set (vault-heavy + lava/forest/desert/water) + a 'Mystery Box' lootbox prompt + potion-consume feed. NO boss/taunt recorded (honestly left empty, no fabrication). Recurring low-yield facecam pattern (4th Dragstar tag) -> reinforces the discovery-side filter recommendation (drop facecam/vault-only creator videos)."
+}

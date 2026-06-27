@@ -1,0 +1,14 @@
+# Revenge of the Fallen Wiki
+# https://rotfserver.fandom.com/api.php?action=parse&page=Revenge%20of%20the%20Fallen%20Wiki&prop=wikitext
+
+<mainpage-leftcolumn-start />
+{{mpWelcome}}
+{{mpClasses}}
+{{mpItemCategories}}
+{{mpOther}}
+<mainpage-endcolumn />
+
+<mainpage-rightcolumn-start />
+{{mpCurrentPatch}}
+<mainpage-endcolumn />
+[[Category:Browse]]

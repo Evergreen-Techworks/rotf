@@ -1,0 +1,13 @@
+{
+ "dungeon": "(DEGENERATE PREP — 1 frame only) dark lava-cavern dungeon w/ a white skull boss",
+ "source": "gameplay video disc_GhtObBZRRZs. Prep produced only ONE frame (f_00001.png) — no contact sheet, no chat crops, no transitions, no minimap series. Likely a very short/unavailable video or a failed extraction. Everything below is read from that single frame.",
+ "map": "DOCUMENTED (1 frame): a dark stone CAVERN with orange LAVA pools (left side + minimap shows orange lava-shaped regions). A 'Realm (10)' portal (return-to-realm, 10 players) sits in the room — so this is inside a dungeon. Player 'QvQ' level 1; party incl. Reimu, SoulPL, Connor, Jiho, Mariana.",
+ "bosses": [
+  {"name":"(unnamed white skull boss)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED (1 frame): a white skull-shaped enemy/boss centered in the lava-cavern room. No name bar captured."}
+ ],
+ "minions": [],
+ "drops": ["Agateclaw Dagger (unboxed from a 'Bronze Lootbox')"],
+ "mechanics": "DOCUMENTED: confirms a TIERED LOOTBOX system — chat line VERBATIM: 'Reimu has unboxed a Agateclaw Dagger from the Bronze Lootbox!' ('Bronze Lootbox' = a tier; complements the 'Special Crate' unbox seen in disc_aCAA_5Od6WY / disc_dGfPcmb49iQ). Dungeons carry a 'Realm (N)' return portal.",
+ "uncertain": "Only ONE frame exists — boss name, attacks, taunts, full map, and which dungeon this is are all UNKNOWN. Biome (dark stone + lava) suggests a fire/abyss-type dungeon but unconfirmed. 'Agateclaw Dagger' spelling read from upscaled chat (high confidence).",
+ "confidence": "LOW overall (single frame). HIGH only for: the 'Agateclaw Dagger'/'Bronze Lootbox' loot line (verbatim) + the lava-cavern biome + white skull boss existing."
+}

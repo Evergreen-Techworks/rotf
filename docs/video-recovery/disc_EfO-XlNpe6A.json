@@ -1,0 +1,26 @@
+{
+ "dungeon": "ROTF marathon (1121 frames, ~124 entries; SAMPLED) — mostly RE-CONFIRMS the known realm roster; new: 'Smiling Dragon' taunt (2nd occurrence), MASS MANOR event, Firebreather Staff item. GENUINE ROTF.",
+ "source": "video disc_EfO-XlNpe6A (1121 f_, 1682 chat, 841 minimap, 372 transitions = ~124 entries). Sampled (25 transitions + 18 chat). Biomes: green realm, sandstone, orange/red BRICK arenas, a PINK arena, white-tile + grey-stone dungeons, wood structures. Same streamer-network content as prior tags (heavy overlap).",
+ "bosses": [
+  {"name":"Smiling Dragon","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["it feels like time to rock 'n roll once more!"],"note":"DOCUMENTED-from-chat. 2nd OCCURRENCE of this exact line (also disc_DtB0_zeZVEQ) -> now a CONFIRMED boss taunt for a 'Smiling Dragon' (possibly a Suspicious-Looking-Dragon variant / alt name). Upgraded from the prior LOW-confidence note."},
+  {"name":"Lucky Ent God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'The Lucky Ent God has been defeated' — re-confirms the 'Ent' spelling (vs 'Lint'). Meme luck boss."},
+  {"name":"(realm roster RE-CONFIRM)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat feed (Demon/Pirate/Cube/Spire/Slime/Skeleton/Chimera announcers): The Mysterious Card, Grand Sphinx, Firebreather, God of Reptilians, Treesmasher, Mad Jester, Pulse, Cube God, Lord of the Lost Lands, Shadow, Cracked Core — all the previously-recovered realm bosses, no new taunts."}
+ ],
+ "minions": [],
+ "drops": ["Firebreather Staff (item — 'selling firebreather staff')", "[Mad?] Scientist (unboxed item — '...Scientist]!')", "ornom (traded ~20-21k — a consumable/material?)", "Special Crate unboxes"],
+ "event_bosses_seen_in_global_feed": [
+  "Mysterious Card spawned",
+  "Grand Sphinx spawned",
+  "Firebreather spawned/defeated",
+  "God of Reptilians spawned",
+  "The Treesmasher defeated",
+  "The Mad Jester defeated",
+  "Pulse spawned",
+  "Cube God spawned",
+  "The Lucky Ent God defeated",
+  "Lord of the Lost Lands"
+ ],
+ "mechanics": "DOCUMENTED: (1) 'SMILING DRAGON' confirmed boss taunt 'it feels like time to rock n roll once more!' (2x across tags). (2) 'MASS MANOR' event ('MASS MANOR' in chat — likely a mass Manor-of-the-Immortals realm event). (3) Items: Firebreather Staff (a Firebreather drop staff), a 'Scientist' unboxable. (4) Otherwise a RE-CONFIRM marathon of the established realm roster — no new boss taunts beyond Smiling Dragon. Stat-pot caps recur.",
+ "uncertain": "'Smiling Dragon' may = the Suspicious Looking Dragon (alt name) or a distinct boss — unresolved. 'MASS MANOR' meaning inferred. 'Scientist' item name partial. 'ornom' traded item unclear. Only sampled (~25/124 transitions).",
+ "confidence": "HIGH that this is GENUINE ROTF and for the realm-roster re-confirms + the now-2x 'Smiling Dragon' taunt + Lucky Ent God spelling. MEDIUM for MASS MANOR + item names. Low novelty tag (heavy overlap with prior recoveries)."
+}

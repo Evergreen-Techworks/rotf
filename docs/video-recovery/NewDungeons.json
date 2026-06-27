@@ -1,0 +1,15 @@
+{
+ "dungeon": "NewDungeons (patch-preview: '2 New Dungeons, 3 New Boss Fights')",
+ "map": "Patch-preview montage (player Hoffster) across new boss arenas: lava/orange, blue/ice, purple-crystal, a golden room (golem/sphinx-like), a red-demon arena, gray dungeon tile rooms. NOT a single dungeon walkthrough.",
+ "bosses": [
+   {"name":"(new) lava/fire boss","phases":[],"attacks":["white bullet spreads in a lava arena"],"minions":[],"colorFlashes":"","taunts":[]},
+   {"name":"(new) purple-crystal boss","phases":[],"attacks":["purple crystalline arena"],"minions":[],"colorFlashes":"","taunts":[]},
+   {"name":"(new) golden boss (golem/sphinx-type)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]},
+   {"name":"(new) red-demon boss (yellow eyes)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "Confirms the GALACTIC ZONES 'MOTHERSHIP' (the spaceship UI — blue screen labeled MOTHERSHIP!) = the Vault spaceship that launches Galactic Zones (Phase D3). Balance notes shown on-screen: '1.5x Damage -> 1.2x' (a damage nerf), other '1.5x -> ...' tuning.",
+ "uncertain": "Chat crop captured the player/gameplay, not system text → new dungeon/boss NAMES not legible. Bosses recorded by visual only.",
+ "confidence": "LOW for names; MEDIUM for confirming the Galactic 'Mothership' spaceship exists + that new bosses/balance tuning were being previewed."
+}

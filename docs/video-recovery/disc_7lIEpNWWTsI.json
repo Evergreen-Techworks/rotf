@@ -1,0 +1,11 @@
+{
+ "dungeon": "Multi-area 2017 death-recap (Realm + Tomb of the Ancients + 'XP Oryx Area')",
+ "map": "DOCUMENTED biomes from video: standard Realm overview (mountain/desert/beach), godlands, and a sandy golden-brick PYRAMID interior with blue water channels = Tomb of the Ancients (vanilla Egyptian dungeon). NOTE: this is the vanilla Tomb of the ANCIENTS (Anubis boss), NOT the ROTF-custom 'Tomb of Decaying Death'.",
+ "bosses": [
+   {"name":"Anubis (Tomb of the Ancients)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"Player 'Bdwubz, Level 20 Warrior' was killed by Anubis on May 7th 2017 (death screen). Vanilla Tomb boss."}
+ ],
+ "drops": ["Large Shamrock Cloak (vanity cloak)","Acropolis Armor (skin/vanity)","Sienna accessory (vanity)"],
+ "mechanics": "DOCUMENTED early-ROTF data (v'20.2 RotF', 2017): server MOTD 'Please help the server out by reporting any bugs and exploits'. An unlockable 'XP Oryx Area' exists — chat: 'You can now enter the XP Oryx Area...' (an XP-farming zone, gated by some condition). Vanity/skin economy active ('You found yourself some new clothing it seems...', 'Is this what fashion is like!?'). Death recap screen format: '<name>, Level N <class> / killed on <date> by <killer>'.",
+ "uncertain": "Pyramid is Tomb of the Ancients (vanilla), inferred from Anubis death + biome; not a ROTF-custom dungeon. 'XP Oryx Area' unlock condition unknown.",
+ "confidence": "MEDIUM — server version, MOTD, 'XP Oryx Area', vanity drops, and Anubis death all DOCUMENTED from chat/death-screen; dungeon itself is vanilla."
+}

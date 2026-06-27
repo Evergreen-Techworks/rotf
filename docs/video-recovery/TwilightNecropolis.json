@@ -1,0 +1,17 @@
+{
+ "dungeon": "Twilight Necropolis",
+ "map": "VIDEO-DOCUMENTED: GREEN forest/grass entrance -> dark GOTHIC STONE corridors & rooms (gray/black tiled) -> PURPLE-tiled rooms -> a RED final boss arena tiled with CROSS/X (tombstone) patterns. Branching graveyard/tomb dungeon. A white-robed skeletal boss figure appears in mid rooms.",
+ "bosses": [
+   {"name":"Gravedigger","phases":["summons minions"],"attacks":[],"minions":["Gravedigger minions"],"colorFlashes":"",
+    "taunts":["Let's see how you handle this...","MINIONS. SAVE ME!!!","Death is your reward! Say no more and FINISH...","...your courage softens me. I could grant you a..."]},
+   {"name":"Diagon (wiki — drops Wand of Bone)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]},
+   {"name":"Necro Doggo / Werewolf (wiki — drops Claw of the Beast)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]},
+   {"name":"white-robed grave boss (seen in mid rooms; likely a lich/grave caretaker)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]}
+ ],
+ "minions": ["Troll Matriarch, Ghost Bride, Grave Caretaker, Ghost of Skuld (wiki — drop Undead's Gross Bow)"],
+ "drops": ["Wand of Retribution (wiki)","Wand of Bone (Diagon)","Claw of the Beast (Necro Doggo)","Gravedigger's Shovel (Gravedigger)","Undead's Gross Bow (Troll Matriarch/Ghost Bride/Grave Caretaker/Ghost of Skuld)"],
+ "mechanics": "",
+ "event_bosses_seen_in_global_feed": ["Warbringer","Mad Jester","The Mysterious Cord","Transmutation","Pentaract Tower Ultra","Skull Shrine","Shade of Nurevu (defeated)","Chimeras - The Cursed Monarch (defeated)","The Lonely Ent God (defeated)"],
+ "uncertain": "Necropolis-specific boss taunts (other than Gravedigger, from another clip) not isolated in this sample — chat was dominated by the SERVER-WIDE event/death feed (which itself yielded the event-boss roster above). Map is clearly documented from the contact sheet.",
+ "confidence": "HIGH for map (green->gothic stone->purple->red-cross arena) + Gravedigger taunts; MEDIUM for the event-boss roster (verbatim spawn announcements); drops cross-checked vs wiki."
+}

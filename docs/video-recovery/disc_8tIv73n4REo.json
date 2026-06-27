@@ -1,0 +1,13 @@
+{
+ "dungeon": "ROTF GIVEAWAY/promo video (51 frames, dated 6/9/2018) — text overlays cover most of the screen; background is an orange/red LAVA X-arena dungeon. LOW gameplay content. GENUINE ROTF.",
+ "map": "DOCUMENTED-from-frames: background gameplay is an orange/red LAVA dungeon — brown/orange BRICK rooms with an X-pattern floor + LAVA accents (resembles a fire dungeon / the recurring orange-brick X-arena; possibly Flaming Hearth or a lava boss room). Screen is mostly covered by giveaway TEXT overlays so little is visible.",
+ "bosses": [
+  {"name":"(none captured — promo video)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"No boss fight/taunt visible — the video is a channel GIVEAWAY promo (text overlays: 'I made a discord to hang out and talk about private servers', '2nd/3rd/4th/5th prize', 'like, subscribe, share', 'The giveaway ends on 6/9/18'). Only game chat: Treesmasher defeated + a Special Crate unbox."}
+ ],
+ "minions": [],
+ "drops": ["Special Crate unbox ('[tnaste] just unboxed a Special Crate...')"],
+ "event_bosses_seen_in_global_feed": ["The Treesmasher has been defeated! (11/25)"],
+ "mechanics": "DOCUMENTED: a GIVEAWAY promo video dated 6/9/2018 (confirms ROTF footage from June 2018). Background = orange/red lava X-arena dungeon. Game chat shows Treesmasher defeated (11/25) + a Special Crate unbox. No boss taunts, no dungeon name (text-covered).",
+ "uncertain": "Lava dungeon identity not confirmed (text covers the entry/name; could be Flaming Hearth or another lava boss room). Date '6/9/18' = the giveaway END date (footage itself ~mid-2018).",
+ "confidence": "LOW — promo/giveaway video, screen text-covered, no boss/taunt/dungeon-name. Only DOCUMENTED: a lava X-arena dungeon background + Treesmasher defeat feed + a 2018 date. Minimal recovery value."
+}

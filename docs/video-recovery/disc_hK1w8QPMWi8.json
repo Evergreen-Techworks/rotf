@@ -1,0 +1,9 @@
+{
+ "dungeon": "(none — 'Revenge Of The Realm' ROTF talk-show/podcast)",
+ "map": "N/A — discussion stream layout (3 facecams + Topics panel + tiny gameplay B-roll + Twitch chat).",
+ "bosses": [],
+ "drops": [],
+ "mechanics": "NO GAMEPLAY DATA. This is a community/dev TALK SHOW ('Revenge Of The Realm') with hosts Proffice/Kebbels/Petey discussing ROTF — on-screen 'Topics: Porting, Costs, Outcomes, ROTF'. The gameplay window is tiny B-roll (unreadable); the side panel is Twitch chat, not game chat. Context value only: a community discussion about PORTING/reviving ROTF (echoes the ACED Unity-port era). No dungeons/bosses/taunts/drops recoverable.",
+ "uncertain": "Couldn't read the small gameplay B-roll. 'Revenge Of The Realm' = the show's name (vs 'Revenge of the Fallen').",
+ "confidence": "N/A — talk show, no dungeon data. Triaged/marked processed."
+}

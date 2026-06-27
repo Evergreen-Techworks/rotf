@@ -1,0 +1,4 @@
+# Tomes
+# https://rotfserver.fandom.com/api.php?action=parse&page=Tomes&prop=wikitext
+
+Tomes are items that are used only by the [[Priest]] and can be used to heal the Priest itself and other allies around him.

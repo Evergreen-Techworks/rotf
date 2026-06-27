@@ -1,0 +1,4 @@
+# Sentinel
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Sentinel&prop=wikitext
+
+Used for high defense builds, or any build that wants to be tankier. Mainly used on Paladin and Knight.

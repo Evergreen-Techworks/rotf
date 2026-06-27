@@ -1,0 +1,11 @@
+{
+ "dungeon": "(GRAVEYARD/NECROPOLIS-style stream, 'Oraxion' fork) ROTF — server-meta (no pets) + Necropolis biome; no boss taunts",
+ "source": "video disc_WAnt6Ih04hU (223 frames, 18 transitions, 56 chat; version banner '1.2 Nelly | Oraxion' — a ROTF fork/build with admin 'Nolly'). Graveyard/Necropolis-style biome. Chat = admin design notes + chatter (no boss taunts).",
+ "map": "DOCUMENTED biomes: grey GOTHIC STONE arenas with black-and-white CHECKERED corners (boss arenas), dark-RED BRICK rooms with white CROSS/grave markers (graveyard/Twilight-Necropolis-style), green grass, blue water channel.",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "mechanics": "DOCUMENTED (server-meta): this is the 'ORAXION' ROTF fork (v1.2, admin 'Nolly'). DESIGN NOTE from admin chat: this build has NO PETS — '[Nolly] as there are no pets, and I think it makes up [for it]... although it is nowhere [near as good]...' + a 'higher chance' compensation mechanic (a loot/drop-chance buff to make up for the missing pet system). Biome = graveyard/Necropolis-style (gothic stone + cross-grave red-brick rooms).",
+ "uncertain": "No boss taunts (chat = admin design notes + chatter). 'Oraxion' fork specifics + the 'higher chance' compensation detail are partial. Whether this graveyard biome is Twilight Necropolis or Haunted Cemetery unconfirmed.",
+ "confidence": "MEDIUM for the server-meta (Oraxion fork, NO-PETS design + 'higher chance' compensation) + the graveyard/Necropolis biome. LOW/none for boss recovery (no taunts)."
+}

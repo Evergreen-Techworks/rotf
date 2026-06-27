@@ -1,0 +1,4 @@
+# Ortar
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Ortar&prop=wikitext
+
+asdf

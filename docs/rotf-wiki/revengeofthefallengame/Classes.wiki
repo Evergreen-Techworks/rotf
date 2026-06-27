@@ -1,0 +1,83 @@
+# Classes
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Classes&prop=wikitext
+
+The game allows the player to choose among 14 different classes, each one with a characteristic ability, a different playstyle and of course a different way to enjoy the game
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Classes</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| style="width: auto;" align="center"
+|-  
+| {{ImageBlack
+| file = Rogue.png
+| link = Rogue
+| text = Rogue
+}}
+|{{ImageBlack
+| file = Archer.png
+| link = Archer
+| text = Archer
+}}
+|{{ImageBlack
+| file = Wizard.png
+| link = Wizard
+| text = Wizard
+}}
+|{{ImageBlack
+| file = Priest.png
+| link = Priest
+| text = Priest
+}}
+|{{ImageBlack
+| file = Warrior.png
+| link = Warrior
+| text = Warrior
+}}
+| {{ImageBlack
+| file = Knight.png
+| link = Knight
+| text = Knight
+}}
+|{{ImageBlack
+| file = Paladin.png
+| link = Paladin
+| text = Paladin
+}}
+|-  
+|{{ImageBlack
+| file = Assassin.png
+| link = Assassin
+| text = Assassin
+}}
+|{{ImageBlack
+| file = Necromancer.png
+| link = Necromancer
+| text = Necromancer
+| widthT = 85px;
+| offset = 6px;
+}}
+|{{ImageBlack
+| file = Huntress.png
+| link = Huntress
+| text = Huntress
+}}
+| {{ImageBlack
+| file = Mystic.png
+| link = Mystic
+| text = Mystic
+}}
+|{{ImageBlack
+| file = Trickster.png
+| link = Trickster
+| text = Trickster
+}}
+|{{ImageBlack
+| file = Sorcerer.png
+| link = Sorcerer
+| text = Sorcerer
+}}
+|{{ImageBlack
+| file = Ninja.png
+| link = Ninja
+| text = Ninja
+}}
+|}
+</div>
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

@@ -1,0 +1,134 @@
+# Helmets
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Helmets&prop=wikitext
+
+The helmet is the ability of the warrior. It gives the player buffs.
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = HelmOfNecropolis.png
+| link = Helm of Necropolis
+| text = Helm of Necropolis
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = HelmOfTheJuggernaut.png
+| link = Helm of the Juggernaut
+| text = Helm of the Juggernaut
+}}
+| {{ImageBlack
+| file = LokisHorns.png
+| link = Loki's Horns
+| text = Loki's Horns
+}}
+| {{ImageBlack
+| file = HelmOfOryx.png
+| link = Helm of Oryx
+| text = Helm of Oryx
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = HivemasterHelm.png
+| link = Hivemaster Helm
+| text = Hivemaster Helm
+}}
+| {{ImageBlackLarge1
+| file = HelmOfTheFallen.png
+| link = Helm of the Fallen
+| text = Helm of the Fallen
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge2
+| file = HelmOfDraconicDominance.png
+| link = Helm of Draconic Dominance
+| text = Helm of Draconic Dominance
+}}
+| {{ImageBlackLarge1
+| file = ShadowscalesSkull.png
+| link = Shadowscale's Skull
+| text = Shadowscale's Skull
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Unique</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = HelmOfTheSwiftBunny.png
+| link = Helm of the Swift Bunny
+| text = Helm of the Swift Bunny
+}}
+| {{ImageBlackLarge1
+| file = HelmOfTheJackonaut.png
+| link = Helm of the Jack-o'-naut
+| text = Helm of the Jack-o'-naut
+}}
+| {{ImageBlackLarge1
+| file = HelmOfTheDemonLord.png
+| link = Helm of the Demon Lord
+| text = Helm of the Demon Lord
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = GalacticTitanHelm.png
+| link = Galactic Titan Helm
+| text = Galactic Titan Helm
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = GoldenHelm.png
+| link = Golden Helm
+| text = Golden Helm
+}}
+| {{ImageBlackLarge1
+| file = HelmOfTheGreatGeneral.png
+| link = Helm of the Great General
+| text = Helm of the Great General
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = CombatHelm.png
+| link = Combat Helm
+| text = Combat Helm
+}}
+| {{ImageBlack
+| file = BronzeHelm.png
+| link = Bronze Helm
+| text = Bronze Helm
+}}
+| {{ImageBlackLarge1
+| file = BlackIronHelm.png
+| link = Black Iron Helm
+| text = Black Iron Helm
+}}
+| {{ImageBlack
+| file = RedIronHelm.png
+| link = Red Iron Helm
+| text = Red Iron Helm
+}}
+| {{ImageBlack
+| file = SteelHelm.png
+| link = Steel Helm
+| text = Steel Helm
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

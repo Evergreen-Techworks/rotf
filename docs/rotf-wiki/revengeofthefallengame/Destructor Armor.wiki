@@ -1,0 +1,4 @@
+# Destructor Armor
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Destructor%20Armor&prop=wikitext
+
+asdf

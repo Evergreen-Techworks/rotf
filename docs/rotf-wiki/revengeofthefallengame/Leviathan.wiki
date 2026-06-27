@@ -1,0 +1,4 @@
+# Leviathan
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Leviathan&prop=wikitext
+
+asdf

@@ -1,0 +1,91 @@
+<Objects>
+    <!-- ROTF vertical-slice boss: The Illusionist (Illusion dungeon).
+         Real ROTF art: rotfBoss sheet (ripped idx 53, 16x16). Cell 51 = robed wizard. type 0x8100+. -->
+    <Object type="0x8100" id="The Illusionist">
+        <Class>Character</Class>
+        <Enemy/>
+        <Group>ROTF Illusion</Group>
+        <Texture><File>rotfBoss</File><Index>51</Index></Texture>
+        <HitSound>monster/beholder_hit</HitSound>
+        <DeathSound>monster/beholder_death</DeathSound>
+        <Size>160</Size>
+        <MaxHitPoints>25000</MaxHitPoints>
+        <Defense>15</Defense>
+        <XpMult>1.0</XpMult>
+        <Quest/>
+        <Projectile id="0">
+            <ObjectId>Blade</ObjectId>
+            <Damage>75</Damage>
+            <Speed>100</Speed>
+            <LifetimeMS>1400</LifetimeMS>
+        </Projectile>
+    </Object>
+
+    <Object type="0x8101" id="Illusion Mirage">
+        <Class>Character</Class>
+        <Enemy/>
+        <Group>ROTF Illusion</Group>
+        <Texture><File>rotfBoss</File><Index>124</Index></Texture>
+        <HitSound>monster/beholder_hit</HitSound>
+        <DeathSound>monster/beholder_death</DeathSound>
+        <Size>90</Size>
+        <MaxHitPoints>1500</MaxHitPoints>
+        <Defense>0</Defense>
+        <XpMult>0.2</XpMult>
+        <Projectile id="0">
+            <ObjectId>Blade</ObjectId>
+            <Damage>40</Damage>
+            <Speed>90</Speed>
+            <LifetimeMS>1200</LifetimeMS>
+        </Projectile>
+    </Object>
+
+    <!-- Craig's Castle boss — REAL ROTF data (X3.1.1 client: type 0x1fe2, 161000 HP,
+         Def 50, AnimatedTexture chars8x8rMid:0x02). AI behavior designed (not in client data). -->
+    <Object type="0x1fe2" id="Craig the Mad Intern">
+        <DisplayId>Craig the Intern</DisplayId>
+        <Group>Oryx Minions</Group>
+        <Enemy/>
+        <Class>Character</Class>
+        <StasisImmune/>
+        <AnimatedTexture><File>chars8x8rMid</File><Index>0x02</Index></AnimatedTexture>
+        <HitSound>monster/ogres_hit</HitSound>
+        <DeathSound>monster/ogres_death</DeathSound>
+        <MaxHitPoints>161000</MaxHitPoints>
+        <Size>100</Size>
+        <Defense>50</Defense>
+        <XpMult>1.6</XpMult>
+        <Quest/>
+        <Projectile id="0">
+            <ObjectId>Blade</ObjectId>
+            <Damage>110</Damage>
+            <Speed>120</Speed>
+            <LifetimeMS>1000</LifetimeMS>
+        </Projectile>
+        <Projectile id="1">
+            <ObjectId>Blade</ObjectId>
+            <Damage>140</Damage>
+            <Speed>90</Speed>
+            <LifetimeMS>1400</LifetimeMS>
+        </Projectile>
+    </Object>
+
+    <!-- Craig's add — a small overworked-intern minion. -->
+    <Object type="0x8103" id="Stressed Intern">
+        <Enemy/>
+        <Class>Character</Class>
+        <AnimatedTexture><File>chars8x8rMid</File><Index>0x01</Index></AnimatedTexture>
+        <HitSound>monster/ogres_hit</HitSound>
+        <DeathSound>monster/ogres_death</DeathSound>
+        <MaxHitPoints>3500</MaxHitPoints>
+        <Size>80</Size>
+        <Defense>10</Defense>
+        <XpMult>0.2</XpMult>
+        <Projectile id="0">
+            <ObjectId>Blade</ObjectId>
+            <Damage>55</Damage>
+            <Speed>100</Speed>
+            <LifetimeMS>900</LifetimeMS>
+        </Projectile>
+    </Object>
+</Objects>

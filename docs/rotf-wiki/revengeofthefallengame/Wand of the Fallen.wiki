@@ -1,0 +1,4 @@
+# Wand of the Fallen
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Wand%20of%20the%20Fallen&prop=wikitext
+
+asdf

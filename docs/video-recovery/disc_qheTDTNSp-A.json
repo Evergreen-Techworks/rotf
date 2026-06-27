@@ -1,0 +1,30 @@
+{
+ "dungeon": "GENUINE ROTF multi-dungeon + GALACTIC-ZONE farming run (~253s, player 'VoltriPlay'/'VoltriPlay'). Busy global feed. KEY content: corroborates the built Ortar taunt ('Ortar make you die. Hehehehe....') + heavily corroborates the GALACTIC D3 mechanics (Fuel extraction from mysterious objects, a 'Mysterious Coin' item analyzed for Fame, an 'additional skill' grant) + a broad event-boss feed. Ends on a sandy GRID 'You can farm it' showcase segment.",
+ "map": "DOCUMENTED-from-minimaps+transitions+bossends: a multi-segment hop — (1) an open GREEN grassy REALM (t001_at20s; minimap shows a windmill-ish structure), (2) a RED/LAVA + BLUE-WATER biome arena (b002_at248s; lava bricks meeting an ice/water channel, scattered purple bullets), (3) a dark GALACTIC SPACE zone (minimap shows black void with a brown elongated 'mysterious object' = the Fuel-extraction asteroid), and (4) a flat tan SANDY GRID staging floor with rows of farmable enemy sprites ('You can farm it' overlay). No single contiguous room sequence (multi-dungeon + galactic).",
+ "bosses": [
+  {
+   "name": "Ortar",
+   "phases": [],
+   "attacks": ["not isolated this tag (multi-dungeon; busy feed) -> see the built Ortar / prior tags"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["Ortar make you die. Hehehehe...."],
+   "note": "DOCUMENTED-from-chat (boss-coloured Ortar caveman line, grayscale-pull). CORROBORATION of the already-BUILT + VERIFIED Ortar line (BehaviorDb.OCBosses.cs, was VERIFIED-spec disc_fFKeD2EZFSg) -> adds disc_qheTDTNSp-A as a 2nd source. No new Ortar content; no build needed."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Mysterious Coin (item — tooltip 'The bearer was wondering ... gives out the goosebumps...?'; Soulbound; Consumed with use). This is the item 'analyzed' for Fame.",
+  "Fuel (extracted from a 'mysterious object' in varying quantities: 'You have extracted [375]/[136]/[98] Fuel from this mysterious object')"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "The Cube God has been defeated",
+  "Suspicious Looking Dragon has spawned",
+  "Uvuvwevwevwe has just spawned",
+  "Grand Sublime has been defeated",
+  "Sofalite (7/8, 198) has been slain (Death Notifier)"
+ ],
+ "mechanics": "DOCUMENTED-from-frames (chat_00031/00035/00045, strong grayscale-pull) — heavily CORROBORATES the GALACTIC D3 blueprint: (1) FUEL EXTRACTION — 'You have extracted [N] Fuel from this mysterious object' (N varies: 375, 136, 98) -> you mine fuel from space asteroids/objects in varying yields. (2) MYSTERIOUS COIN -> FAME: a 'Mysterious Coin' loot item (Soulbound, consumed on use) is analyzed: 'You have analyzed the coin, discovering [N] Fame!' (seen repeatedly) -> a coin-to-Fame conversion. (3) NEW: 'You have been granted an additional skill[...]' -> a skill-grant mechanic (seen repeatedly; full line cut). Plus the standard event-boss spawn/defeat feed + Death Notifier. Ties into [[rotf-stat-systems]] D3 (Fuel/Spaceship loop) and the coin->Fame note already on record.",
+ "uncertain": "Ortar line = corroboration only (already built). Earlier I tentatively read a '<Spaceship> We want to get Mr. angry' line but on re-read the prefix was '<Minotaur>' (a player) / an Ortar 'Me angery' line -> NOT claimed (could not cleanly confirm a Spaceship dialogue line). 'You have been granted an additional skill' is cut (full effect unknown). Fuel/Fame numbers read off a busy feed. A 'Diablo - Awwwk! Awwwk!' line had a player prefix -> likely a player echoing the Drake Baby squawk, NOT the boss. Attacks not isolated (multi-dungeon; scattered purple lava-arena bullets only). 'The Cube God' = base-game (corroboration).",
+ "confidence": "MEDIUM-HIGH (mechanics) / corroboration (boss). GENUINE ROTF. Strong recoverable value: heavy CORROBORATION of the GALACTIC D3 loop (Fuel extraction in varying yields from mysterious objects + Mysterious-Coin->Fame analyze + an 'additional skill' grant) and a 2nd source for the built Ortar 'Hehehehe' line, plus a broad event-feed. Recorded honestly: no new boss isolated (bosses=Ortar corroboration only), the Spaceship line retracted as a misread, 'additional skill' cut, numbers off a busy feed. Best follow-up: a clean galactic-zone clip for the Spaceship dialogue + the full 'additional skill' line + a named galactic boss."
+}

@@ -1,0 +1,124 @@
+# Tomes
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Tomes&prop=wikitext
+
+The tome is the ability of the priest. It heals the players in a circle and gives buffs<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = TomeOfFleshlyDesire.png
+| link = Tome of Fleshly Desire
+| text = Tome of Fleshly Desire
+}}
+| {{ImageBlackLarge1
+| file = TheTwilightGrimoire.png
+| link = The Twilight Grimoire
+| text = The Twilight Grimoire
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = TomeOfPain.png
+| link = Tome of Pain
+| text = Tome of Pain
+}}
+| {{ImageBlackLarge1
+| file = TheFrozenTome.png
+| link = The Frozen Tome
+| text = The Frozen Tome
+}}
+| {{ImageBlack
+| file = AWorthyJewel.png
+| link = A Worthy Jewel
+| text = A Worthy Jewel
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = TomeOfHolyProtection.png
+| link = Tome of Holy Protection
+| text = Tome of Holy Protection
+}}
+| {{ImageBlackLarge1
+| file = TomeOfFrigidProtection.png
+| link = Tome of Frigid Protection
+| text = Tome of Frigid Protection
+}}
+| {{ImageBlackLarge1
+| file = TomeOfPurification.png
+| link = Tome of Purification
+| text = Tome of Purification
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = BookOfGeb.png
+| link = Book of Geb
+| text = Book of Geb
+}}
+| {{ImageBlackLarge2
+| file = BookOfTheRejuvenatingRiver.png
+| link = Book of the Rejuvenating River
+| text = Book of the Rejuvenating River
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge2
+| file = TomeOfCosmicRejuvenation.png
+| link = Tome of Cosmic Rejuvenation
+| text = Tome of Cosmic Rejuvenation
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = TomeOfDivineFavor.png
+| link = Tome of Divine Favor
+| text = Tome of Divine Favor
+}}
+| {{ImageBlackLarge1
+| file = TomeOfHolyGuidance.png
+| link = Tome of Holy Guidance
+| text = Tome of Holy Guidance
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = HealingTome.png
+| link = Healing Tome
+| text = Healing Tome
+}}
+| {{ImageBlack
+| file = RemedyTome.png
+| link = Remedy Tome
+| text = Remedy Tome
+}}
+| {{ImageBlackLarge1
+| file = SpiritSalveTome.png
+| link = Spirit Salve Tome
+| text = Spirit Salve Tome
+}}
+| {{ImageBlackLarge1
+| file = TomeOfRejuvenation.png
+| link = Tome of Rejuvenation
+| text = Tome of Rejuvenation
+}}
+| {{ImageBlackLarge1
+| file = TomeOfRenewing.png
+| link = Tome of Renewing
+| text = Tome of Renewing
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

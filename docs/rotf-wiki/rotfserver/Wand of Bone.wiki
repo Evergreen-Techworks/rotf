@@ -1,0 +1,7 @@
+# Wand of Bone
+# https://rotfserver.fandom.com/api.php?action=parse&page=Wand%20of%20Bone&prop=wikitext
+
+{{ItemInfo|name = Wand of Bone|desc = A wand fashioned from the bones of Diagon himself. It draws power from Diagon's necrotic life essence|rarity = p|slot = wand|tier = UT|minDmg = 180|maxDmg = 200|shots = 2|rof = 75|range2 = 5.25|fameb = 10|effects = yes|pierce = yes|multihit = yes|dropsFrom = drops from Diagon|primal = Bleed:<br/>
+30% chance upon hitting an enemy to deal "600" DPS over "8" seconds.(Total:4800)<br/>
+Deep Wounds:<br/>
+On hit, you have a 10% chance to curse enemies for 3 seconds}}

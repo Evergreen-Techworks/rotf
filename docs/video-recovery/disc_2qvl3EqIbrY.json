@@ -1,0 +1,18 @@
+{
+ "dungeon": "GENUINE ROTF FEATURE/ECONOMY SHOWCASE tour (annotation text overlays + a damage-counter/Quest-Crate economy walkthrough), NOT a boss-fight video. High MAP-LAYOUT + SYSTEMS yield, near-zero boss-taunt yield. Tours several dungeon arenas + the token/crate progression system.",
+ "map": "DOCUMENTED-from-minimaps+frames (multi-area tour): (1) a CIRCULAR GRASS ISLAND HUB ringed by blue water and white sand beaches, with a CENTRAL DIAMOND/RING structure and 4 CARDINAL PATHS radiating N/E/S/W (a clean symmetric plus/cross layout) — appears repeatedly, likely a hub or showcase arena; (2) a RED/ORANGE CONCENTRIC-RING 'pumpkin' BOSS ARENA — radial segments around a central cross, organic/flesh colour (a distinctive circular boss room); (3) BROWN/TAN SERPENTINE MAZE dungeons — winding green-bordered corridors threading through open dirt, with node markers (a maze-layout dungeon); (4) a tall VAULT structure with a central vertical green bar (a token/quest vault room?); (5) yellow/SAND desert pockets with scattered mobs. Arena geometry well captured; per-dungeon room sequence not (it's a tour, not a linear run).",
+ "bosses": [
+  {"name":"(none — feature tour, no boss fights)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["(ambiguous) 'You are food for my minions!' — speaker 'I [slay] the Mad God' is more likely a PLAYER username than a boss; not confirmable as a boss taunt"],"note":"DOCUMENTED: no boss FIGHTS occur — the bossends/ frames are SCENIC arena overviews with annotation overlays (the creator is touring layouts + the crate economy), not combat. So no bullet geometry / phases are available from this tag (this is a true absence, not an un-attempted read). The arenas above (esp. the red concentric-ring 'pumpkin' room) are where bosses would be fought."}
+ ],
+ "minions": [],
+ "drops": [
+  "Character Unlocker Crate (unlocks a new character slot)",
+  "Base Quest Crate (obtained repeatedly from kills)",
+  "Quest Crate",
+  "Legendary [item] 'with 100% damage dealt!' (achievement/loot line; item name unread)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED ROTF SYSTEMS (from annotation overlays + chat/system messages — high value): TOKEN/CRATE ECONOMY — 'you get a crate/tokens from various bosses/older mobs, and once you get 15 they are turned into quest chests' (15-token -> Quest Chest conversion; counters seen like '14/15 left'); 'Base Quest Crate' awarded on kills; 'Character Unlocker Crate' -> 'New Character Slot Unlocked'; a DAMAGE COUNTER system message ('You Dealt 100% damage' / 'Your Death 33.37% damage' — per-fight damage-contribution readout); GUILD VIP invites ('invited by MOMO to join the guild VIP'); LEGENDARY loot tier ('obtained a Legendary ... with 100% damage dealt!'); movement tutorial text ('Use WASD/arrows to move; click to shoot', 'Type help for more help'). These document ROTF's progression/economy layer, not a dungeon.",
+ "uncertain": "No boss taunts (tour video). 'You are food for my minions!' attributed to a likely-player name, not a boss. Legendary item name unread. The 47-floor 'Ancient [Taberna?]' annotation card text was only partially legible. Map arenas captured but not tied to named dungeons/bosses.",
+ "confidence": "MEDIUM for MAP-LAYOUT (clear arena/island/maze geometry from 21 minimaps) and HIGH-value SYSTEMS intel (token->quest-chest economy, Character Unlocker Crate, Damage Counter, Legendary tier). N/A for bosses/attacks — this is a deliberate feature tour with no combat. GENUINE ROTF."
+}

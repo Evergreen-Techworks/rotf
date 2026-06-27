@@ -1,0 +1,45 @@
+# Sorcerer
+# https://rotfserver.fandom.com/api.php?action=parse&page=Sorcerer&prop=wikitext
+
+{{Classbox
+| desc = The sorcerer uses his scepter to fire blasts of chain lightning at his enemies.
+| weaponSlot = Wand
+| weapon = Fire Wand
+| abilitySlot = Scepter
+| ability = Lightning Scepter
+| armor = Robe
+| armorLink = Robes
+
+
+| hpStart = 100
+| hpLevel = 20 - 30
+| hpCap = 670
+
+| mpStart = 100
+| mpLevel = 5 - 15
+| mpCap = 385
+
+| attStart = 12
+| attLevel = 1 - 2
+| attCap = 70
+
+| defStart = 0
+| defLevel = 0
+| defCap = 25
+
+| spdStart = 12
+| spdLevel = 1 - 2
+| spdCap = 60
+
+| dexStart = 12
+| dexLevel = 0 - 2
+| dexCap = 60
+
+| vitStart = 10
+| vitLevel = 1 - 2
+| vitCap = 75
+
+| wisStart = 15
+| wisLevel = 1 - 2
+| wisCap = 60
+}}

@@ -1,0 +1,5 @@
+# Staff
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Staff&prop=wikitext
+
+It's essential to know who is part of the game team and who isn't. Remember that if you need help, find a bug, see a player hacking or etc... you should contact with a moderator or an admin (the best way of doing this is through discord, remember to be respectful and let them take their time to help you).
+[[File:Staff-0.png|centre|thumb|690x690px]]

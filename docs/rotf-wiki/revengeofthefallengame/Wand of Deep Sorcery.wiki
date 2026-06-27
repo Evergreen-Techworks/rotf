@@ -1,0 +1,4 @@
+# Wand of Deep Sorcery
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Wand%20of%20Deep%20Sorcery&prop=wikitext
+
+asdf

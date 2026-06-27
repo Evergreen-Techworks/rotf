@@ -1,0 +1,13 @@
+{
+ "dungeon": "Riverside Refuge (Medium-rank; realm Lord)",
+ "source": "aced.gg dev blog 2021-04-17 (designer Foucs) — DOCUMENTED",
+ "map": "A thick SWAMP/MARSH biome ('the Refuge') — water, reeds, magical swamp inhabitants. Inspired by the legacy ROTF 'Riverborn' realm event.",
+ "bosses": [
+   {"name":"Riverborn, Lord of the Refuge","phases":["wading approach (find his home waters in the realm)","wind-torrent phase","DIVE phase — submerges, stalks players underwater, then surfaces under a player for a burst"],"attacks":["unleashes TORRENTS OF WIND","spinning attack","DIVING (goes underwater, stalks, pops up to hit)"],"minions":["River Striders / Lurkers (aka 'Living Brushes' — impostor creatures)","River Serpent ('Flying Snake') — fires tricky BUBBLE projectiles","frogs, tree bugs (swamp fodder)"],"colorFlashes":"swamp green / water blue","taunts":[],"note":"A 'Lord' — like other RotF Lords, players explore the realm to find his home waters to challenge him (realm-spawned boss)."}
+ ],
+ "minions": ["River Strider","Lurker (Living Brush)","River Serpent (Flying Snake — bubble shots)","frogs","tree bugs"],
+ "drops": [],
+ "mechanics": "DOCUMENTED (dev blog): Riverside Refuge is a Medium-rank swamp dungeon/realm-Lord area. Boss = RIVERBORN (giant water-dragon-snake, returning from legacy). Signature mechanics: wind torrents, spinning, and DIVING (submerge → stalk underwater → surface-strike). 'Lord' bosses are found by exploring the realm for their home waters (same pattern as other RotF Lords incl. Lord of the Lost Lands). Designer Foucs also did Asgard + the Gelatinous Palace.",
+ "uncertain": "Exact bullet patterns/HP/drops not specified. Raw text: docs/aced-blog/riverborn-riverside.txt.",
+ "confidence": "MEDIUM-HIGH for biome + boss mechanics + minion roster (DOCUMENTED); LOW for stats/drops."
+}

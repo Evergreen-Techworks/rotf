@@ -1,0 +1,24 @@
+{
+ "dungeon": "GENUINE ROTF multi-dungeon run (~480s+, 618 f_) with the CHAT BOX COLLAPSED/EMPTY for most of the run ('[Enter] To Chat' placeholders) -> NO boss names or taunts captured. Only stray event lines readable (base Oryx 'You are food for my minions!'; 'Lost Halls (Grade 5) just opened'). LOW yield: map biomes + an approximate attack only.",
+ "map": "DOCUMENTED-from-transitions+f_ (chat empty): a multi-dungeon hop — grey/white MARBLE/snowy checkered arenas, open GREEN grass realms, dark SPACE/void, and a RED/LAVA arena. Vault/menu screens between. No single contiguous layout; chat collapsed so no boss-room context.",
+ "bosses": [
+  {
+   "name": "(unidentified — marble/snowy arena boss)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (f_00201, approximate): sparse SCATTERED bullets + a fire effect across a grey/snowy marble arena -> spread/scattered (no clean geometry; white floor obscures bullets)."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "NO NAME/taunt captured (chat box collapsed/empty -> '[Enter] To Chat'). Unidentified boss in a marble/snowy arena with a scattered-bullet attack. NOT attributed/guessed."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [
+  "Lost Halls (Grade 5) just opened (base-game dungeon, tiered)",
+  "Oryx the Mad God - 'You are food for my minions!' (base Oryx line)"
+ ],
+ "mechanics": "DOCUMENTED (limited — empty chat): a 'Lost Halls (Grade 5)' tiered-dungeon open event + base Oryx realm line. Multi-dungeon run (marble/green/space/lava). NO boss taunt (chat collapsed); one unidentified marble-arena boss with a scattered-bullet attack. No new ROTF content.",
+ "uncertain": "Chat box is COLLAPSED/EMPTY ('[Enter] To Chat') for the whole run -> NO boss names/taunts recoverable. The fought boss(es) are UNIDENTIFIED (not attributed/guessed). Attack only approximate (sparse scattered bullets; white marble floor inflated the bullet-density scan). 'Lost Halls (Grade 5)' + Oryx line are base-game event/realm lines (corroboration). No ROTF-custom boss/taunt.",
+ "confidence": "LOW. GENUINE ROTF multi-dungeon run but minimal yield (chat collapsed): NO boss names/taunts; one unidentified marble-arena boss (scattered attack); base-game event corroboration (Lost Halls Grade 5, Oryx). Recorded honestly (boss unnamed, attack approximate, no fabrication). Best follow-up: a clip with the chat box open to name these bosses."
+}

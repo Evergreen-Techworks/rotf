@@ -1,0 +1,25 @@
+{
+ "dungeon": "GENUINE ROTF crowded public-event stream (~840s; facecam TOP-RIGHT so bottom-left CHAT is readable; 'swedish'-banter community). Main content = a long (~9 min, 144-668s) fight in a DARK PURPLE COSMIC arena. MEDIUM-LOW yield: chat is heavily player-banter + idle ('[Enter] To Chat'), but 3 NEW boss-taunt fragments recovered (time/shadow/crystal themes) with UNCERTAIN attribution + mechanic hints. Likely a TIME LORD / cosmic boss.",
+ "map": "DOCUMENTED-from-frames+transitions: early GREY/WHITE CHECKERED-tile dungeons (t001-t006, 15-144s, quick hops). Main fight (144-668s) = a DARK PURPLE/VOID COSMIC arena (open, crowded with players, scattered purple/pink bullets). Late hops to grey-checkered + brown/tan (t007/t008). No single contiguous layout (multi-dungeon event).",
+ "bosses": [
+  {
+   "name": "(time/cosmic boss — likely Time Lord)",
+   "phases": ["DOCUMENTED-from-chat (uncertain if one multi-phase boss or several): time + shadow + crystal/light themed lines across the long fight"],
+   "attacks": ["DOCUMENTED-from-frames (f_700-760, crowd-obscured): scattered purple/pink bullets across a dark cosmic arena -> spread/scattered; NO clean geometry isolatable (large player crowd). Reconstructed: cosmic spread."],
+   "minions": ["(a 'spawner' — players warn 'dont shoot spawner', implying a spawner-avoidance mechanic)"],
+   "colorFlashes": "purple/cosmic",
+   "taunts": [
+    "The essence of time favors me!",
+    "...the power of shadow!",
+    "You have stolen the last glimmer of..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured lines amid heavy player banter, grayscale-pull). NEW taunts (0 prior specs for these lines). ATTRIBUTION UNCERTAIN: boss-prefix names were faint/cut -> the lines may all be ONE multi-phase cosmic boss (time/shadow/crystal) OR separate bosses across the multi-dungeon event. 'The essence of time favors me!' = time theme -> LIKELY the 'Time Lord' (1 other spec + queued boss-time-lord), but NOT frame-confirmed by name. 'You have stolen the last glimmer of...' is tail-CUT. Do NOT build under a guessed name -> verify attribution first."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: (1) 'dont shoot spawner' — a SPAWNER-AVOIDANCE mechanic (a spawner you must NOT shoot, else it floods enemies). (2) the '0/8' DUNGEON-CHALLENGE counter again (clear-8-dungeons; matches disc_wwhGYuiu_9U). (3) crystals referenced (crystal/light boss theme). (4) crowded PUBLIC event in a purple cosmic arena. Boss taunts: time ('The essence of time favors me!'), shadow ('the power of shadow!'), crystal/light ('You have stolen the last glimmer of...').",
+ "uncertain": "Crowded public event + player-banter-heavy chat (much is '[Enter] To Chat' idle) -> boss taunts are SPARSE and mixed in; the 3 recovered lines are real (read from chat) but their BOSS ATTRIBUTION is UNCERTAIN (faint/cut prefixes) -> recorded as one provisional cosmic-boss entry, NOT under a confirmed name. The time line LIKELY = Time Lord but not frame-confirmed. Attacks crowd-obscured (purple cosmic spread, no clean geometry). No bossends (older prep). Facecam top-right (chat readable but the boss didn't taunt often). 'last glimmer' line tail-cut.",
+ "confidence": "MEDIUM-LOW. GENUINE ROTF crowded event. Value: 3 NEW boss-taunt fragments (time/shadow/crystal — 'The essence of time favors me!', 'the power of shadow!', 'You have stolen the last glimmer of...') + a SPAWNER-AVOIDANCE mechanic + the 0/8 challenge counter, in a purple cosmic arena (likely Time Lord). Recorded honestly: provisional single boss entry with UNCERTAIN attribution (not built under a guessed name), tail-cut flagged, attacks crowd-obscured (not fabricated). Best follow-up: a low-crowd clip to frame-confirm the boss name(s) + clean attack geometry; cross-ref the 'Time Lord' spec."
+}

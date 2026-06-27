@@ -1,0 +1,26 @@
+# Dreadstump's Rapier
+# https://rotfserver.fandom.com/api.php?action=parse&page=Dreadstump%27s%20Rapier&prop=wikitext
+
+{{ItemInfo
+| name = Dreadstump's Rapier
+| slot = sword
+| tier = UT
+| rarity = l
+| desc = Finesse of the high seas, Thanks to: Nekrie.
+
+| rof = 175
+| range = 
+| projSpeed = 10
+| lifetime = 350
+| minDmg = 150
+| maxDmg = 200
+| frequency = 0.25
+| amplitude = 0.25
+| feedp = 333    
+
+|lootbag = white
+|shots = 1|range2 = 4.5|fameb = 5|bonuses = {{Stat|spd|4}}{{Stat|vit|3}}|legendary = 1}}
+<noinclude>
+[[Category:Swords]]
+{{NavSwords}}
+</noinclude>

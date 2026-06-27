@@ -1,0 +1,5 @@
+# Commands
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Commands&prop=wikitext
+
+Commands are there to help you move through the game, communicate, and etc... So knowing them is really useful. Some commands are limited by your rank.
+[[File:ROTFCommandsTable.png|centre|thumb|1194x1194px]]There are more commands in the game, but they are only for mods or higher ranks

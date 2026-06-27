@@ -1,0 +1,96 @@
+<Objects>
+  <!-- Ordinary Client - the meme "ENCOUNTER" REALM EVENT BOSSES. These mock the players with condescending
+       taunts (the joke = absurd difficulty swings). Taunts here are VERBATIM from recovered footage
+       (docs/video-recovery/disc_aCAA_5Od6WY.json): Breathing/Smashing/Shadow Encounter. Flying Encounter
+       added to round out the family (same taunt style; no distinct line recovered yet). They spawn as
+       rare realm events (added to Oryx.cs RegionMobs). No portal. Placeholder sprites; reused projectiles.
+       ids 0x8f10-0x8f13. -->
+  <Object type="0x8f10" id="Breathing Encounter">
+    <Group>Encounters</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>20</Index></AnimatedTexture>
+    <MaxHitPoints>90000</MaxHitPoints>
+    <Defense>40</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <Level>20</Level>
+    <Size>160</Size>
+    <XpMult>0.2</XpMult>
+    <Projectile id="0">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>100</Speed>
+      <Damage>100</Damage>
+      <Size>120</Size>
+      <LifetimeMS>1300</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x8f11" id="Smashing Encounter">
+    <Group>Encounters</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>21</Index></AnimatedTexture>
+    <MaxHitPoints>95000</MaxHitPoints>
+    <Defense>45</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <Level>20</Level>
+    <Size>165</Size>
+    <XpMult>0.2</XpMult>
+    <!-- "Smashing" = heavy slow melee-style slams -->
+    <Projectile id="0">
+      <ObjectId>Trident</ObjectId>
+      <Speed>60</Speed>
+      <Damage>140</Damage>
+      <Size>150</Size>
+      <LifetimeMS>1700</LifetimeMS>
+      <ConditionEffect duration="2">Stunned</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x8f12" id="Shadow Encounter">
+    <Group>Encounters</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>22</Index></AnimatedTexture>
+    <MaxHitPoints>88000</MaxHitPoints>
+    <Defense>38</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <Level>20</Level>
+    <Size>160</Size>
+    <XpMult>0.2</XpMult>
+    <Projectile id="0">
+      <ObjectId>Demon Blade</ObjectId>
+      <Speed>105</Speed>
+      <Damage>95</Damage>
+      <Size>110</Size>
+      <LifetimeMS>1200</LifetimeMS>
+      <ConditionEffect duration="3">Blind</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x8f13" id="Flying Encounter">
+    <Group>Encounters</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>23</Index></AnimatedTexture>
+    <MaxHitPoints>85000</MaxHitPoints>
+    <Defense>35</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <Level>20</Level>
+    <Size>155</Size>
+    <XpMult>0.2</XpMult>
+    <!-- "Flying" = fast erratic darting shots -->
+    <Projectile id="0">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>120</Speed>
+      <Damage>85</Damage>
+      <Size>100</Size>
+      <LifetimeMS>1100</LifetimeMS>
+    </Projectile>
+  </Object>
+</Objects>

@@ -1,0 +1,49 @@
+{
+ "dungeon": "GENUINE ROTF target-server EDITED SHOWCASE video (X3.0 client; 'BONUS CUT' title cards + on-screen creator note 'NOTE: I'm making alt account for video...'). Navigation/UI-heavy session (Nexus -> Vault -> Potion Storage -> realm-hopping) rather than a single dungeon clear; player often runs UNARMED ('You do not have a weapon equipped!' system spam). Headline NEW capture = the WINTER SPACESHIP vehicle voice lines (Galactic-Zones/spaceship system). Plus corroboration of built Pulse + Suspicious Looking Dragon + the Potion-Storage stat-pot-overflow system.",
+ "map": "DOCUMENTED-from-transitions+minimaps but SHOWCASE-NAV (not one dungeon): NEXUS hub (pixel-art castle hub, labeled) + VAULT (labeled) + a POTION-STORAGE UI screen + CHARACTER-SELECT screen (maxed chars: Wizard/Huntress/Necro/Ninja 33). Realm/dungeon biomes visited: tan/sand REALM with green cacti+trees & a water edge, an ORANGE/RED LAVA-BRICK arena (a fire dungeon/Mad-God-realm-style room), dark SPACE/VOID star zones, a grey/white SNOW zone, a red+water boss arena. 22 rapid black-transitions in ~137s = fast hub<->realm<->UI hopping, edited. No single room-sequence to trace.",
+ "bosses": [
+  {
+   "name": "Pulse",
+   "phases": [],
+   "attacks": ["not isolated (edited showcase, player largely unarmed, no bossends) -> not traced this tag"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-chat: 'Spectre: Pulse has just spawned!' -> CORROBORATES the built Pulse boss (0x8fdc) as a live realm-event spawn. No new taunt/attack captured here (spawn announcement only)."
+  },
+  {
+   "name": "Suspicious Looking Dragon",
+   "phases": [],
+   "attacks": ["earthquake/ground theme (per prior tag disc_XGl3pTaNmTM) -> not re-traced here"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-chat (Spectre feed) -> CORROBORATES the Suspicious Looking Dragon boss (2nd tag; 1st was disc_XGl3pTaNmTM). Spawn/feed mention only, no clean fight here."
+  },
+  {
+   "name": "Realm Giant",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-chat: 'Spectre/Satyr: The Realm Giant has been defeated!' -> BASE-game realm event, not custom. Multiple defeat lines."
+  }
+ ],
+ "minions": [],
+ "vehicles": [
+  {"name":"Winter Spaceship","lines":["As you wish, master.","Systems back online."],"note":"DOCUMENTED-from-chat VERBATIM (blue vehicle-coloured lines). A talking SPACESHIP vehicle/companion -> ties to the GALACTIC ZONES / spaceship+fuel system (Phase D3). 'As you wish, master.' (command-ack line) + 'Systems back online.' (re-activate line). Winter = a seasonal/variant skin of the spaceship vehicle. NEW flavor worth wiring into the spaceship-vehicle build."}
+ ],
+ "drops": [
+  "Loot Notifier: [Ganrus] just got some legendary [item] with 19% damage dealt!"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "The Realm Giant has been defeated! (Spectre + Satyr)",
+  "Pulse has just spawned! (Spectre)",
+  "The Suspicious Looking Dragon (Spectre)",
+  "DAEMON (8/8, 1017) has been killed (Death Notifier)"
+ ],
+ "mechanics": "DOCUMENTED: (1) *** WINTER SPACESHIP vehicle *** — a talking spaceship companion with verbatim voice lines 'As you wish, master.' + 'Systems back online.' -> concrete content for the Galactic-Zones spaceship+fuel system (a controllable/voiced vehicle, 'Winter' seasonal variant). (2) POTION STORAGE UI screen present (Potion of Life/Mana/Defense/Attack/Dexterity/Vitality/Wisdom rows w/ counts) -> CORROBORATES the stat-pot-overflow-to-storage system. (3) 'You do not have a weapon equipped!' = a SYSTEM warning (red), NOT a taunt (player ran unarmed for the showcase). (4) Realm-event feed via 'Spectre'/'Satyr' announcers; Pulse + Suspicious Looking Dragon are live spawns. (5) Client tag 'X3.0 Connected!'.",
+ "uncertain": "Edited showcase + largely-unarmed player + NO bossends -> NO clean boss attack geometry captured (recorded honestly as not-traced rather than invented). Pulse/Suspicious Dragon are feed-mentions only here (corroboration, no new taunt). 'Winter Spaceship' read is clear; whether it's a mount vs a zone-vehicle vs a pet unconfirmed (lines suggest a controllable vehicle).",
+ "confidence": "MEDIUM-HIGH. GENUINE ROTF (X3.0, Nexus/Vault, Spectre feed). NEW content = the Winter Spaceship vehicle voice lines (clear, verbatim) for the spaceship/Galactic-Zones system. Otherwise CORROBORATION (built Pulse spawn, Suspicious Looking Dragon 2nd tag, Potion-Storage system, Realm Giant base). No new boss taunt/attack (edited UI-heavy showcase). Recorded honestly: attacks not traced, feed-mentions flagged as corroboration. Best follow-up: a clip of the spaceship vehicle in actual use + a real single-boss fight for attack geometry."
+}

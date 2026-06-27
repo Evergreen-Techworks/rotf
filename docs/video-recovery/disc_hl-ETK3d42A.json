@@ -1,0 +1,13 @@
+{
+ "dungeon": "Multi-dungeon maxing run — NEW bosses: Twilight Archmage + Warbringer",
+ "map": "DOCUMENTED biomes: recurring tan/brown circular DOME arenas (desert-god style), grey diagonal Lost-Halls dungeons, dark void/space, purple cosmic dungeon, blue ICE areas.",
+ "bosses": [
+   {"name":"Twilight Archmage","phases":[],"attacks":["dark/shadow magic"],"minions":[],"colorFlashes":"","taunts":["Darkness give me strength!"],"note":"NEW boss — likely the boss of the 'Twilight Necropolis' dungeon (the ToDD dev-blog teased 'the Twilight Necropolis dungeon, which hasn't been shown yet'). Dark-magic theme."},
+   {"name":"Warbringer (event boss)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"NEW event boss — '<Medusa> A Warbringer has just spawned!'."},
+   {"name":"Mad Jester (event)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"'<Minotaur> The Mad Jester has been defeated!'."}
+ ],
+ "drops": [],
+ "mechanics": "DOCUMENTED: NEW boss 'Twilight Archmage' (taunt 'Darkness give me strength!') — probable TWILIGHT NECROPOLIS boss (dungeon named in the ToDD dev blog). NEW event boss 'Warbringer'. Galactic /25 counter (Skull Shrine 18/25); Pulse/Mad Jester events. Player trading in FAME ('buying firesword 100 fame each' — reconfirms fame economy). Announcer personas: Medusa, Minotaur.",
+ "uncertain": "Twilight Archmage dungeon affiliation inferred (Twilight Necropolis). No Warbringer/Twilight attack patterns or further taunts captured. Tan dome biome dungeon not name-identified.",
+ "confidence": "MEDIUM — two NEW boss names (Twilight Archmage + taunt, Warbringer) DOCUMENTED; galactic /25 + fame-trading reconfirmed; biomes documented."
+}

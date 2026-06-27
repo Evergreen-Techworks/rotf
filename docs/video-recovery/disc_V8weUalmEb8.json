@@ -1,0 +1,30 @@
+{
+ "dungeon": "GENUINE ROTF run (~200s) — one boss fight in a red-black checkered arena (boss UNNAMED — no combat-overlay/taunt captured) + a busy event-boss feed corroborating BUILT/base bosses. Player-banter-heavy chat (about a player 'tygr'). Ends on a 'PREVIOUS/RANDOM/SUBSCRIBE' outro card. LOW yield (no new boss).",
+ "map": "DOCUMENTED-from-transitions+bossends: entry from a realm with a RED-tiled section into a RED-BLACK CHECKERED boss arena (b002_44s; scattered white/orange bullets) + open GREEN realm areas. Single boss arena; outro card at t002_at198s.",
+ "bosses": [
+  {
+   "name": "(unidentified — red-black checkered arena boss)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (b002_44s_036): scattered WHITE/ORANGE bullets across the red-black checkered arena -> spread/scattered (no clean ring/spiral). Approximate."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "NO NAME captured (no combat-overlay, no boss-prefix taunt; chat = event-feed + player banter). Unidentified boss in a red-black checkered arena with a scattered/spread bullet attack. NOT attributed/guessed (could be one of the event-feed bosses but not confirmed)."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Special Crate unbox ('Dingo just unboxed a Special Crate, obtaining a [Anchi Staff?]' — item name uncertain)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "The Uvuvwevwevwe has been defeated (built meme boss)",
+  "The Cube God has been defeated (base)",
+  "Shade of Novus has just spawned (built)",
+  "Warbringer has just spawned (built)",
+  "Loki - Hahahahaha! (built Asgard boss line, corroboration)",
+  "(death notifiers) Qorm (8/8, 228) slain; Occultist (4/8, 139) slain"
+ ],
+ "mechanics": "DOCUMENTED: an event-boss feed corroborating BUILT (Uvuvwuwuwe/Shade of Novus/Warbringer/Loki) + base (Cube God) bosses; Special Crate unbox loot; death notifiers. The single fought boss (red-black checkered arena, scattered bullets) is UNNAMED. No new mechanic.",
+ "uncertain": "The fought boss is UNIDENTIFIED (no overlay/taunt) -> NOT attributed/guessed. High chat red-density (0.9) was the red-black floor + event-feed, NOT a boss taunt. Loot item name uncertain ('Anchi Staff?'). Loki 'Hahahahaha!' is a built-boss corroboration line (Loki already built). Most chat = player banter about 'tygr'. No NEW boss/taunt.",
+ "confidence": "LOW (no new) / MEDIUM (corroboration). GENUINE ROTF run but LOW yield: one UNNAMED boss (red-black checkered arena, scattered/spread attack) + event-feed corroboration of built/base bosses (Uvuvwuwuwe/Cube God/Shade of Novus/Warbringer/Loki). NO new boss name or taunt. Recorded honestly (boss unnamed, no fabrication). Best follow-up: a clip with a combat-overlay/taunt to name the checkered-arena boss."
+}

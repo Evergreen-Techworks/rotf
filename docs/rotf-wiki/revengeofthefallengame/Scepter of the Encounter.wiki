@@ -1,0 +1,4 @@
+# Scepter of the Encounter
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Scepter%20of%20the%20Encounter&prop=wikitext
+
+asdf

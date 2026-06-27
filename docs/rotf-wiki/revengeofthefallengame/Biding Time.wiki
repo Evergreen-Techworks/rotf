@@ -1,0 +1,4 @@
+# Biding Time
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Biding%20Time&prop=wikitext
+
+asdf

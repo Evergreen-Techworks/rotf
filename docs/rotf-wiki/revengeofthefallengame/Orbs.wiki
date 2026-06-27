@@ -1,0 +1,102 @@
+# Orbs
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Orbs&prop=wikitext
+
+The orb is the ability of the mystic. It causes debuffs to enemies (mostly curse and stasis) and buffs to the player.
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = OrbOfDestiny.png
+| link = Orb of Destiny
+| text = Orb of Destiny
+}}
+
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = OrbOfConflict.png
+| link = Orb of Conflict
+| text = Orb of Conflict
+}}
+| {{ImageBlackLarge1
+| file = TheSoulCollector.png
+| link = The Soul Collector
+| text = The Soul Collector
+}}
+| {{ImageBlack
+| file = SwampMirror.png
+| link = Swamp Mirror
+| text = Swamp Mirror
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Unique</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = SoulOfTheBearer.png
+| link = Soul of the Bearer
+| text = Soul of the Bearer
+}}
+| {{ImageBlackLarge1
+| file = OrbOfSweetDemise.png
+| link = Orb of Sweet Demise
+| text = Orb of Sweet Demise
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = SpacetimeOrb.png
+| link = Space-time Orb
+| text = Space-time Orb
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = BanishmentOrb.png
+| link = Banishment Orb
+| text = Banishment Orb
+}}
+| {{ImageBlack
+| file = PlanefetterOrb.png
+| link = Planefetter Orb
+| text = Planefetter Orb
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = StasisOrb.png
+| link = Stasis Orb
+| text = Stasis Orb
+}}
+| {{ImageBlackLarge1
+| file = SuspensionOrb.png
+| link = Suspension Orb
+| text = Suspension Orb
+}}
+| {{ImageBlackLarge1
+| file = ImprisonmentOrb.png
+| link = Imprisonment Orb
+| text = Imprisonment Orb
+}}
+| {{ImageBlackLarge1
+| file = NeutralizationOrb.png
+| link = Neutralization Orb
+| text = Neutralization Orb
+}}
+| {{ImageBlack
+| file = TimelockOrb.png
+| link = Timelock Orb
+| text = Timelock Orb
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

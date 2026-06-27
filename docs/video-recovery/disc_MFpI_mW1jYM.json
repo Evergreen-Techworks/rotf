@@ -1,0 +1,14 @@
+{
+ "dungeon": "(REALM + BOSS STREAM) ROTF — green realm boss fights; recovered Carrot God + MH Wave Controller taunts",
+ "source": "video disc_MFpI_mW1jYM (317 frames, 3 transitions, 79 chat). Mostly the GREEN REALM overworld (grass + tan paths + water + central structure) with a couple dark boss arenas. Chat captured two boss taunts amid player coordination.",
+ "map": "DOCUMENTED: the ROTF green REALM overworld (grass, tan dirt paths, blue water, central structure) explored throughout; plus 1-2 dark boss arenas (a red crescent arena + a green glowing boss).",
+ "bosses": [
+  {"name":"Carrot God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Oh you finally made it, I bet you were exp[ecting]...","here I am!!"],"note":"DOCUMENTED VERBATIM (boss-colored chat, first line truncated at crop edge). A MEME vegetable boss (carrot-themed) with a smug greeting taunt — fits the ROTF meme-boss family (Cookie Monster, Uvuvwuwuwe, etc.)."},
+  {"name":"MH Wave Controller","phases":[],"attacks":[],"minions":["(spawns waves)"],"colorFlashes":"","taunts":["No! What's happening?! You wer[e]..."],"note":"DOCUMENTED VERBATIM (boss-colored chat, truncated). 'MH' likely = Mad House/Mad Lab. A WAVE-CONTROLLER/spawner boss that PANICS ('No! What's happening?!') — probably its on-death or phase-break line."}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "DOCUMENTED: (1) AUTOFIRE toggle setting — '[Settings] Autofire disabled!' / '[Settings] Autofire enabled!' (a hold-to-shoot autofire option). (2) Dungeon KEYS — '<Fear> i have key' (key items open dungeons). (3) Dungeon CHAINING — 'we can chain' (run dungeons back-to-back). (4) Players coordinate a wandering boss ('give him some space', 'it wanders').",
+ "uncertain": "Both taunt lines truncated at the chat-box right edge (full wording not captured: 'I bet you were exp[ecting someone else?]', 'You wer[e supposed to...]'). Boss attacks/HP/drops/dungeons not isolated. 'MH' expansion ('Mad House'?) unconfirmed.",
+ "confidence": "HIGH that Carrot God + MH Wave Controller are real bosses with these (partial) taunts + the Autofire/keys/chain mechanics. MEDIUM for exact full wording (truncated); LOW for dungeon mapping/drops."
+}

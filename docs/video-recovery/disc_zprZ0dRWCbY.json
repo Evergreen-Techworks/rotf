@@ -1,0 +1,11 @@
+{
+ "dungeon": "NON-ROTF / VALOR server (mis-pull). Title card: 'This will be a video with some random moments and highlights on Valor MC, a hardcore factions server with a unique twist and PvE progression system. Ran by Arcanus from Valor RotMG.' Gameplay is the VALOR RotMG private server (factions PvP), confirmed by a 'Leaving SAFE ZONE (PvP = OFF | DROP = OFF)' factions mechanic. NOT ROTF (Revenge of the Fallen) -> NO content to build (bosses=[]).",
+ "map": "N/A for ROTF (different server). Observed VALOR biomes (brown/orange LAVA, grey CHECKERED, blue/ICE, white SNOWY, purple COSMIC) — its own dungeons, not ROTF's. Not documented as ROTF layout.",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "NONE for ROTF. This is the VALOR server (Valor RotMG + a 'Valor MC' Minecraft factions sister-server; owner/creator 'Arcanus'). Valor-specific systems observed: a FACTIONS PvP model with SAFE ZONES ('Leaving SAFE ZONE (PvP = OFF | DROP = OFF)') + a 'PvE progression system'. These belong to Valor, not ROTF -> importing them would be lifting another server's content (matches the recurring Valor mis-pull; cf. disc_s4Ku4oFpNlg with Valor bosses Terradius/Larry Gigsman/Rock Construct/Stone of Blood).",
+ "uncertain": "Classification is CLEAR: the title card explicitly names 'Valor MC' + 'Valor RotMG' + creator 'Arcanus', and the 'Leaving SAFE ZONE (PvP/DROP)' factions mechanic is Valor's, NOT ROTF. (Earlier Valor tag named owner 'Krok'; 'Arcanus' is another Valor staffer/creator — same server ecosystem.) Chat over dark terrain is mostly illegible but the branding is definitive. NO ROTF boss/dungeon/taunt to recover.",
+ "confidence": "HIGH that this is a NON-ROTF VALOR mis-pull (title card 'Valor MC / Valor RotMG / Arcanus' + factions SAFE-ZONE PvP mechanic). NO ROTF content (bosses=[]). Recorded honestly as a different-server exclusion (matches the Valor non-target pattern in discovery-mispull memory). Recommend the discovery-side filter drop 'Valor' / 'Valor RotMG' / 'Valor MC' videos. No follow-up for ROTF."
+}

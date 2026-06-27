@@ -1,0 +1,59 @@
+entry-content">
+
+ Hello everybody! It is I, patpot, here once again to brief you all on what we’ve been working on. Last week , the team took on the first two bosses of the Asgard dungeon. For those who missed, it I highly recommend checking it out. 
+
+ While the All-father himself won’t be making his debut in this post, we’re excited to show you some gameplay of the team taking on two of his children, Loki and Hela. 
+
+ part 2 electri- wait, no, Thor was in the first video 
+
+ So, that’s Loki and Hela. Some things to point out from the video: 
+
+ Miniguy can’t dod-. For paycheck reasons I cannot finish that sentence 
+
+ But more seriously: 
+
+ As you might have noticed from our last few updates, we’re really trying to up our visual game. We’ve picked up some lighting tricks, many of which are on display in the Helheim (Hela) segment. Quaximi and MrFoucs went pretty hard. While the numbers on everything are still placeholder, we have now completed a “first pass” of all four root classes and their abilities. We’re hoping to say more about them soon, but for now, you can watch the video and speculate. Placeholder (but functional) death UI has been added. Being the responsible developer that I am, I died in the video to test it out. We have a lot of plans for permadeath in RotF, but this will work for now. The 3D terrain and architecture throughout this dungeon looks great, but there are a few times where it can occlude your vision—particularly noticeable during Thor’s fight from last week. This will be fixed, and we appreciate all the feedback you’ve given us about the issue. We’re still polishing Loki’s arena, which has a few unintended safe spots (notably, if you’re like Miniguy, you can literally just walk out of the pit when you fail to dodge). This issue will be fixed before release. We expect design issues like these to show up periodically in more subtle ways, so keep giving us feedback! 
+
+ Here are some snippets from the video that we’re especially proud of. 
+
+ Making your way to Hela: 
+
+ it’s glowing… 
+
+ During the Loki fight: 
+
+ little lokis love lasers! 
+
+ Fighting Hela: (good luck) 
+
+ holy hel… 
+
+ For those interested in joining us for Closed Testing, this post will be updated in 15 minutes time with a fun trivia game. As per usual, solve it first, and you’ll have yourself a key! 
+
+ Also, since this post is a bit late, we’ll throw a second key up tomorrow. Thank you very much for reading. 
+
+ Now, the third and final key for this post! (use at https://rotf.io/register ) [1] FK6 -[2] P1V -[3] JZK – OP [4] L There’s been a lot of trivia going around, so to spice things up, I hid the missing letters in the two images on this post. Each letter is numbered, if you look really closely. I’m sure you can piece it together. Fill in the key as usual, and enjoy the hunt! 
+
+ Here’s the promised second key! (use at https://rotf.io/register ) [1] 6PG – UXX [2]- W [3A][3B] U -[4] V18 
+
+ [1] The first letter of the name of the testing period RotF is planned to enter this month [2] The first letter of the type of previews the last two blog posts have been [3A, 3B] The time span closed testing was originally meant to release in (2 characters) [4] The first letter of the name of the senior designer in charge of all our 3d work 
+
+ First key: (use at https://rotf.io/register ) 
+
+ [1] X56- [2] PDM- [3] 07Z-YL8 [4] 
+
+ [1] The first letter of the name of the Underworld in Norse mythology. [2] The first letter of the name of the Allfather mentioned at the beginning of this post. [3] The first letter of the name of the god of mischief. [4] The first letter of the name of the legacy RotF Necropolis item that gave invisible, damaging, berserk, speedy, and darkness (not including the word “the”). The * _ _ _ of Twilight 
+ Share this: Twitter Facebook Like this: Like Loading... 
+
+ Related 
+
+ Tagged aced games aced.gg asgard closed testing dungeon hela key loki revenge of the fallen rotf rotf.io 
+
+ Published by patpot 
+
+ View all posts by patpot 
+
+ Published 
+ February 6, 2021 February 7, 2021 
+
+</article

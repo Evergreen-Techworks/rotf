@@ -1,0 +1,4 @@
+# Hippogriff Hide Armor
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Hippogriff%20Hide%20Armor&prop=wikitext
+
+asdf

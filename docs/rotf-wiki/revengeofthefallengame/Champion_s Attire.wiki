@@ -1,0 +1,4 @@
+# Champion's Attire
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Champion%27s%20Attire&prop=wikitext
+
+asdf

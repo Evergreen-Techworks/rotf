@@ -1,0 +1,4 @@
+# Music of the Gods
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Music%20of%20the%20Gods&prop=wikitext
+
+asdf

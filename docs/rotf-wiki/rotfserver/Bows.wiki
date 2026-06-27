@@ -1,0 +1,26 @@
+# Bows
+# https://rotfserver.fandom.com/api.php?action=parse&page=Bows&prop=wikitext
+
+'''Bows''' are used by [[Archer]]s and [[Huntress]]es.
+==Production {{PAGENAME}}==
+'''''For production {{PAGENAME}} please follow this [https://www.realmeye.com/wiki/bows link].'''''
+
+==Custom {{PAGENAME}}==
+{|
+| {{ItemDisplay|Hallow's End|u}}
+| {{ItemDisplay|Metal Blood Bow|h}}
+| {{ItemDisplay|Bow of the Lightning God|h}}
+| {{ItemDisplay|Greeni|h}}
+| {{ItemDisplay|Heavy Bow of the Asgard Guardian|h}}
+| {{ItemDisplay|Hornshot|h}}
+| {{ItemDisplay|Ice Shatter|h}}
+| {{ItemDisplay|Wooden Elegance|a}}
+| {{ItemDisplay|Undead's Gross Bow|l}}
+|-
+| {{ItemDisplay|Handcannon|l}}
+| {{ItemDisplay|Reaper's Bow|p}}
+|}
+===Starforce {{PAGENAME}}===
+{|
+| {{ItemDisplay|Galaxy Longbow|g}}
+|}

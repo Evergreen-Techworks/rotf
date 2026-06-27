@@ -1,0 +1,60 @@
+{
+ "dungeon": "GENUINE ROTF edited 'best-moments' compilation (RuinedBow channel — heavy editing overlays VEXED/RAGE/ANCIENT/LEGENDARY/GODLY rarity cards, a 'Damage Counter: You Dealt X% damage' HUD, quick cuts). Chat readable. HEADLINE: a PENTARACT TOWER run + Oryx realm-announcer taunts that name his guardian bosses + a ROTF-custom DAMAGE-%-CONTRIBUTION loot + Token system. Mostly base-game content captured on a ROTF server, not a new-boss recovery.",
+ "map": "DOCUMENTED-from-minimaps+frames (multi-arena compilation): (1) the PENTARACT TOWER — a CIRCLE of multi-coloured CHECKERBOARD tiles with a short entry STEM at the bottom (the classic Pentaract colourful-tile arena), fought from open centre; (2) a FIRE/LAVA circular arena (orange/red disc with dark RADIAL SPOKE lines from the centre); (3) a large CUSTOM map shaped like a FACE/logo (brown disc with two eyes + a red mouth, a 'WEP...' banner) — a meme/decoration map; (4) grey HEXAGONAL boss arenas + a brown circular arena with a central tree-like structure and 4 radial corridors; (5) green grass REALM hub. Compilation -> arenas catalogued individually, not a single sequence.",
+ "bosses": [
+  {
+   "name": "Pentaract",
+   "phases": ["5-arm tower fight on the coloured-tile arena; arms destroyed individually"],
+   "attacks": ["DOCUMENTED-from-frames (approx, edited): the arena fills with SCATTERED radial bullets (white) — consistent with the Pentaract's per-arm RADIAL fire; reconstruct as multiple fixed radial-nova emitters (one per arm). Clean per-arm geometry not isolated due to editing overlays."],
+   "minions": ["Rock Construct"],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-sighting: the colourful-tile arena + Oryx's 'Behold my Pentaract, and despair!' confirm a PENTARACT dungeon on this ROTF server. Pentaract is BASE-GAME RotMG -> not a new boss; documented as present. No Pentaract-spoken taunt (it is silent base-game); the 'Behold my Pentaract' line is OryX's, see Oryx entry."
+  },
+  {
+   "name": "Rock Construct",
+   "phases": [],
+   "attacks": ["impervious to non-mystic damage (armored phase)"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["We are impervious to non-mystic attacks!"],
+   "note": "DOCUMENTED-from-chat (Pentaract-arena minion line). Likely base-game/standard armored-add flavour; recorded verbatim."
+  },
+  {
+   "name": "Oryx the Mad God (realm announcer)",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "Behold my Pentaract, and despair!",
+    "My 13 Ghost Kings give me more than enough protection!",
+    "The Sentry that has gazed the realm for years is sure to RIP YOUR SOULS OUT!",
+    "My Hermit God's thousand tentacles shall drag you to a watery d[eath]!",
+    "You are food for my minions!"
+   ],
+   "note": "DOCUMENTED-from-chat (orange 'Oryx the Mad God:' realm-invasion announcer lines, each boasting about a guardian boss — Pentaract, Ghost Kings, The Sentry, Hermit God). HONESTY FLAG: these read like Oryx REALM-TAUNT flavour and several may be CANONICAL base-game RotMG Oryx lines rather than ROTF-custom -> recorded verbatim but NOT claimed as ROTF-original; verify against base RotMG Oryx taunt list before treating any as custom. 'You are food for my minions!' is confirmed base-game. The 'watery death' line is right-edge cut."
+  }
+ ],
+ "minions": ["Rock Construct (Pentaract)"],
+ "drops": [
+  "Stheno's Cloth (Legendary)",
+  "Bow of the Void (Legendary)",
+  "Doom Bow (Legendary)",
+  "Dirk of Cronus (Legendary)",
+  "Seal of Blasphemous Prayer (Legendary)",
+  "Bloodthirst Ring (Legendary)",
+  "Magical Bag (Legendary)",
+  "Murky Toxin / Necklace (Legendary, partial read)",
+  "Maxed Potion of Defense (auto-sent to potion storage)",
+  "Maxed Potion of Attack (auto-sent to potion storage)",
+  "Legendary Quest token (from a full stack Token)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Pentaract (ANNOUNCEMENT: Pentaract slain, /24 event counter)",
+  "various realm events (/15:25 event counters)"
+ ],
+ "mechanics": "DOCUMENTED ROTF-CUSTOM SYSTEMS (the real value of this tag): (1) a DAMAGE-%-CONTRIBUTION LOOT system — every loot line is tagged 'with X% damage deal!' and a 'Damage Counter: You Dealt X% damage' HUD tracks your contribution (RuinedBow soloing shows '100% damage deal!'); loot rarity is celebrated with ANCIENT/LEGENDARY/GODLY overlays. (2) a TOKEN loot system — 'obtained a Legendary Item from a full stack Token', plus an admin 'Turned off token loot, its a bit spammy' line (so loot Tokens are toggleable/spammy). (3) Maxed potions auto-route to potion storage ('Maxed Potion of Defense, sending to potion storage (393/500)'). (4) Oryx realm-announcer taunts naming guardian bosses (Pentaract/Ghost Kings/Sentry/Hermit God). Pentaract Tower (colourful-tile circle) confirmed present; Rock Construct minion 'impervious to non-mystic attacks!'.",
+ "uncertain": "This is an EDITED compilation (rarity/status overlays + quick cuts) -> attack geometry is only approximate (scattered radial nova read for the Pentaract; per-arm pattern not isolated). The Oryx announcer lines may be CANONICAL base-game RotMG Oryx taunts, NOT ROTF-custom -> flagged, not claimed as original. No NEW named boss with a custom taunt recovered (Pentaract/Rock Construct are base-game). 'Hermit God's thousand tentacles' line right-edge cut. The face-shaped 'WEP' map and fire radial-spoke arena are decoration/other-dungeon arenas not tied to a named boss here.",
+ "confidence": "MEDIUM. GENUINE ROTF server. Best-documented finds: the DAMAGE-%-contribution + Token loot SYSTEMS (clear, repeated, useful for the project's loot model) and confirmation that the Pentaract Tower + Oryx realm-announcer exist on this server. LOW-new-content: no new buildable boss/taunt (Pentaract & Rock Construct are base-game; Oryx lines possibly canonical). Attacks approximate (edited). Recorded mainly to capture the custom loot-distribution system + Pentaract map, and to AVOID over-claiming the Oryx lines as ROTF-original."
+}

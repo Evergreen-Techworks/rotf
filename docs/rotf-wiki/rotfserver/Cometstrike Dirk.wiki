@@ -1,0 +1,29 @@
+# Cometstrike Dirk
+# https://rotfserver.fandom.com/api.php?action=parse&page=Cometstrike%20Dirk&prop=wikitext
+
+{{ItemInfo
+| name = Cometstrike Dirk
+| desc = A dagger forged from the body of a dwarf star, imbued with the energy of a thousand comets.
+| tier = GL
+| slot = dagger
+
+| minDmg = 115
+| maxDmg = 195
+| shots = 1
+| rof = 100
+| range = yes
+| projSpeed = 14
+| lifetime = 420
+| fameb = 6
+
+| soulbound = Yes.
+
+| lootbag = red
+| dropsFrom = can be found in Red Bags.
+}}
+
+<noinclude>
+{{NavDaggers}}
+[[Category: Daggers]]
+[[Category:Tiered weapons]]
+</noinclude>

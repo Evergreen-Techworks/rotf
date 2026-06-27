@@ -1,0 +1,4 @@
+# Consumables
+# https://rotfserver.fandom.com/api.php?action=parse&page=Consumables&prop=wikitext
+
+~~Placeholder~~

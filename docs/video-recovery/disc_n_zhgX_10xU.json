@@ -1,0 +1,11 @@
+{
+ "dungeon": "(WEAPON-REVIEW VIDEO — not a dungeon run) ROTF weapon testing + Epic Quest Chest system",
+ "source": "video disc_n_zhgX_10xU (128 frames, 3 transitions, 32 chat). A WEAPON-TESTING/review video — the creator opens 'Epic Quest Chests' and tests weapons in a lava-brick test arena, narrating verdicts via text overlays. Chat is dominated by '[Epic Quest Chest Item] has been granted' spam.",
+ "map": "DOCUMENTED: an orange/lava-brick dungeon (used as a damage/range test arena), grey stone, dark space areas. Not a real dungeon progression.",
+ "bosses": [],
+ "minions": [],
+ "drops": ["Ninja Katana (a Katana-class weapon — reviewer verdict: 'pretty useless')","a Staff (reviewer verdict: 'pretty decent')","a sword/blade described as 'pretty much a Demon Blade' (i.e. stats ~= the Demon Blade weapon)"],
+ "mechanics": "DOCUMENTED: (1) 'EPIC QUEST CHEST' reward system — '[Epic Quest Chest Item] has been granted' (chests that grant items; the creator farmed many to test weapons). (2) WEAPON balance feedback (creator's overlays): 'Now we test Ninja Katana' -> 'Katana is pretty useless'; 'Staff is pretty decent'; a weapon 'is pretty much a Demon Blade' (a sword/dagger whose stats mirror the Demon Blade). Confirms KATANA + STAFF weapon classes exist in ROTF. (3) Cube God event ('The Cube God has been defeated').",
+ "uncertain": "No boss fight/dungeon/taunts (it's a weapon review). Exact weapon STATS not shown in legible chat (only names + the creator's subjective verdicts). 'Demon Blade' here is used as a stat-baseline comparison.",
+ "confidence": "HIGH that this is a weapon-review video confirming Ninja Katana + Staff weapon classes + the 'Epic Quest Chest' grant system; LOW value for dungeon/boss recovery (none)."
+}

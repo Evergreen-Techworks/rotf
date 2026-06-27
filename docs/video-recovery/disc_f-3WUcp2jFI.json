@@ -1,0 +1,70 @@
+{
+ "dungeon": "RotMG private-server run branded **'Void Realm' (v0.11.1)** — NOT confirmed to be the ROTF (Revenge of the Fallen) target server. ('Welcome to Void Realm!', 'Void-Realm 0.11.1', scheduled 'Going in 3 mins!' events.) A multi-dungeon session (6 boss climaxes) through Undead/Abyss/ice/desert biomes. SERVER-IDENTITY FLAG: the captured bosses are almost all BASE-GAME RotMG (Lich, Abyss demons, Big Pit Imp) plus one possibly-server-custom 'Elemental Discharge' — so this tag's value for the ROTF project is LOW and its content must NOT be auto-built as ROTF-custom without confirming Void Realm == ROTF.",
+ "map": "DOCUMENTED-from-frames+minimaps: a multi-dungeon hop — a BLUE-TILED ice/stone arena with yellow caution-tape-bordered inner rooms (green slime adds), an ORANGE/RED LAVA arena (Abyss of Demons style, checkered lava floor) where the demon bosses are fought, and SAND/DESERT + grass realm sections. Standard RotMG dungeon layouts (room-and-corridor); no distinctive custom arena geometry captured.",
+ "bosses": [
+  {
+   "name": "Lich",
+   "phases": [],
+   "attacks": ["base-game Lich patterns (not isolated) -> approximate"],
+   "minions": ["undead adds"],
+   "colorFlashes": "",
+   "taunts": ["Join our army of the dead", "Your soul shall be mine!"],
+   "note": "DOCUMENTED-from-chat. BASE-GAME RotMG (Undead Lair Lich) — these are canonical Lich taunts, NOT ROTF-custom. Already a base boss; recorded for completeness only."
+  },
+  {
+   "name": "Big Pit Imp",
+   "phases": ["summons/incantation -> raises greater demons"],
+   "attacks": ["summon-only (incantation to raise demon lords)"],
+   "minions": ["Ogre Demon", "Butcher Demon"],
+   "colorFlashes": "",
+   "taunts": ["We are almost finished with the incantation. You a[re...]", "Rise from Hell my Lords!"],
+   "note": "DOCUMENTED-from-chat. BASE-GAME RotMG (Abyss of Demons summoning imp). Canonical, not ROTF-custom."
+  },
+  {
+   "name": "Ogre Demon",
+   "phases": [],
+   "attacks": ["base-game demon radial fire (orange bullets, scattered/radial) -> DOCUMENTED-from-bossends but base-game"],
+   "minions": [],
+   "colorFlashes": "orange/red",
+   "taunts": ["Who dares to summon us?!"],
+   "note": "DOCUMENTED-from-chat. BASE-GAME RotMG Abyss demon. Canonical summon line."
+  },
+  {
+   "name": "Butcher Demon",
+   "phases": [],
+   "attacks": ["base-game demon radial/orange fire -> approximate"],
+   "minions": [],
+   "colorFlashes": "orange/red",
+   "taunts": ["Who dares to summon us?!", "Die you insect!"],
+   "note": "DOCUMENTED-from-chat. BASE-GAME RotMG Abyss demon. Canonical."
+  },
+  {
+   "name": "Elemental Discharge",
+   "phases": ["charges then unleashes a storm/laser attack"],
+   "attacks": ["DOCUMENTED-from-chat (telegraphed): 'CHARGING LASERS' -> a charged LASER/laser-line attack ('TASTE THE POWER OF THE STORM'); storm theme. Geometry not isolated -> reconstruct as a charged aimed-line/laser beat."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["CHARGING LASERS", "TASTE THE POWER OF THE STORM"],
+   "note": "DOCUMENTED-from-chat (boss-coloured). The ONLY possibly-server-CUSTOM boss here, but it is VOID-REALM-custom, NOT ROTF -> do NOT build into the ROTF remake on the basis of this tag. Recorded as cross-server reference only."
+  },
+  {
+   "name": "Dr Terrible Bubble",
+   "phases": [],
+   "attacks": ["destruction-protocol theme; not isolated"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["INITIATING DESTRUCTION PROTOCOL"],
+   "note": "DOCUMENTED-from-chat. ALREADY in our build (BehaviorDb.Lab.cs) as a base/Lab boss -> base-game, not new. Recorded for completeness."
+  }
+ ],
+ "minions": ["Ogre Demon", "Butcher Demon", "undead adds", "green slimes"],
+ "drops": [
+  "Arcane Pendant (loot overlay)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "scheduled 'Going in 3 mins / 2 mins' events (server event timer)"
+ ],
+ "mechanics": "SERVER-IDENTITY / PROVENANCE FLAG (the main point of this entry): the footage is from a RotMG private server branded **'Void Realm' v0.11.1**, which is NOT confirmed to be the ROTF target server this project rebuilds. The bosses captured are overwhelmingly BASE-GAME RotMG (Lich, Big Pit Imp + Abyss demons Ogre/Butcher, Dr Terrible Bubble — the last already in our build via Lab.cs); only 'Elemental Discharge' is possibly server-custom, and if so it is VOID-REALM-custom not ROTF. Therefore: do NOT auto-build any of this as ROTF content. RECOMMENDATIONS: (1) determine whether 'Void Realm' is the same server as ROTF or a distinct private server before trusting any of its footage as ROTF evidence; (2) re-audit earlier 'Void'-themed recoveries (e.g. the 'Void Entity' candidate from disc_dkyXVJtdX_Q) to confirm they came from the ROTF server and not from Void Realm — none of those names are in the build yet, so no contamination so far. Attacks captured (Abyss demon radial orange fire, Elemental Discharge charged lasers) are base-game/cross-server, low ROTF value.",
+ "uncertain": "Whether 'Void Realm' == ROTF or a separate private server is UNRESOLVED (the branding says 'Void Realm', not ROTF) -> the conservative reading is a DIFFERENT server. Bosses are base-game so attribution is easy; 'Elemental Discharge' custom-ness is server-local. Some lines right-edge cut ('We are almost finished with the incantation. You a[re...]'). Attack geometry only approximate (base-game; not the focus).",
+ "confidence": "HIGH that this is a 'Void Realm' private-server run of mostly BASE-GAME RotMG content (Lich/Abyss demons/Big Pit Imp + Dr Terrible Bubble) and therefore LOW value for the ROTF project. Recorded primarily to FLAG the server-identity/provenance question and prevent Void-Realm content from being mistaken for ROTF-custom. No new ROTF-buildable content. Best follow-up: confirm the Void Realm vs ROTF server identity and re-tag any prior 'Void' recoveries accordingly."
+}

@@ -1,0 +1,4 @@
+# Masamune
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Masamune&prop=wikitext
+
+asdf

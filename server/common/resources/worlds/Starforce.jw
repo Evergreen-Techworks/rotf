@@ -1,0 +1,12 @@
+{
+    "id": 0,
+    "name": "Starforce",
+    "sbName": "Starforce",
+    "difficulty": 5,
+    "background": 0,
+    "blocking": 0,
+    "restrictTp": false,
+    "showDisplays": true,
+    "persist": false,
+    "portals": [ 33301 ]
+}

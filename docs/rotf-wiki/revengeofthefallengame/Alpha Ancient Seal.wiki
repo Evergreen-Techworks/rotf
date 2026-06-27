@@ -1,0 +1,4 @@
+# Alpha Ancient Seal
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Alpha%20Ancient%20Seal&prop=wikitext
+
+asdf

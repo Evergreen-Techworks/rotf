@@ -1,0 +1,27 @@
+# Cosmic Phantom Prism
+# https://rotfserver.fandom.com/api.php?action=parse&page=Cosmic%20Phantom%20Prism&prop=wikitext
+
+{{ItemInfo
+| name = Cosmic Phantom Prism
+| slot = prism
+| tier = GL
+| soulbound = yes
+| desc = A prism of the cosmos, capable of warping dimensions, causing mirages of the user to appear everywhere.
+
+| cost = 90
+| fameb = 6
+| decoyDistance = 8
+| decoySpeed = 1.23
+
+| effects = yes
+| decoy = 8
+| teleport = yes
+
+| bonuses = {{Stat|vit|3}} {{Stat|wis|3}}
+
+| lootbag = white
+}}
+<noinclude>
+{{NavPrisms}}
+</noinclude><noinclude>
+[[Category:Prisms]]</noinclude>

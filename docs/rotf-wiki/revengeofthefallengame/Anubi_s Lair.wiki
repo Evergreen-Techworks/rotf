@@ -1,0 +1,4 @@
+# Anubi's Lair
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Anubi%27s%20Lair&prop=wikitext
+
+asdf

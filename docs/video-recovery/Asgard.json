@@ -1,0 +1,16 @@
+{
+ "dungeon": "Asgard",
+ "map": "VIDEO-RECOVERED: Norse grassland/forest biome — green grass, pine/conifer trees, winding dirt paths, a river/water body along the east edge — that you traverse toward the boss. Boss fight is in a separate CIRCULAR DARK ARENA: a round platform of near-black ground surrounded by void, with structures at the rim. (from youtube -N3MH_woifQ, closed-testing footage)",
+ "bosses": [{
+   "name": "Asgard boss (Norse, blue) — likely Hela/Thor/a frost giant; exact name needs a clear HP-bar frame",
+   "hp": 0, "defense": 0, "texture": "UNKNOWN (16x16 char, blue/dark Norse creature)",
+   "phases": ["VIDEO: fires sustained vertical/columnar streams of white-cyan bullets; also radial spreads across the round arena"],
+   "attacks": ["columns of white bullets raining down", "radial/spread bullet waves filling the circular arena"],
+   "minions": [], "colorFlashes": "",
+   "taunts": []
+ }],
+ "minions": [],
+ "drops": ["Gungnir (Odin)", "Loki's Dagger (Loki)", "Hela's power (Hela)", "Enchanted Uru Sword (Heimdallr)", "Thusala's Slasher (Thusala)", "Heavy Bow of the Asgard Guardian"],
+ "uncertain": "Exact boss name/HP not readable in this 90s clip; no boss taunt occurred in-segment. Need boss-kill footage for taunts + a clear HP-bar frame for the name.",
+ "confidence": "VIDEO-DOCUMENTED: map (grassland->circular dark arena), boss appearance (blue Norse), attack shapes (columns + radial spreads). Drops from wiki. Stats + taunts + exact name still pending more footage."
+}

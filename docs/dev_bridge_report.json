@@ -1,0 +1,499 @@
+{
+  "generated_from": "docs/DUNGEON_SPECS.json",
+  "summary": {
+    "recovered_boss_names": 249,
+    "enrich_candidates": 92,
+    "new_build_candidates": 44,
+    "skipped_for_review_fuzzy": 8,
+    "dropped": 103,
+    "appended_to_queue": 5
+  },
+  "skipped_for_review": [
+    {
+      "recovered": "Heimdallr",
+      "looks_like": "Heimdall",
+      "similarity": 0.94
+    },
+    {
+      "recovered": "Gulpord the Slime God",
+      "looks_like": "DS Gulpord the Slime God",
+      "similarity": 0.93
+    },
+    {
+      "recovered": "Biff the Buffed Bunny",
+      "looks_like": "BB Biff the Buffed Bunny",
+      "similarity": 0.93
+    },
+    {
+      "recovered": "TN Shade of Novus",
+      "looks_like": "Shade of Novus",
+      "similarity": 0.9
+    },
+    {
+      "recovered": "Vegan the Weather God",
+      "looks_like": "Legon the Weather God",
+      "similarity": 0.9
+    },
+    {
+      "recovered": "Ruins of the Mad God (core boss)",
+      "looks_like": "Ruins of the Mad God Core",
+      "similarity": 0.89
+    },
+    {
+      "recovered": "Restora the Lava God",
+      "looks_like": "Kestora the Lava God",
+      "similarity": 0.95
+    },
+    {
+      "recovered": "Ascended Sepiseus the Ghost Goddess",
+      "looks_like": "Ascended Septavius the Ghost Goddess",
+      "similarity": 0.93
+    }
+  ],
+  "dropped": [
+    {
+      "name": "Unnamed (showcase/gauntlet boss)",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Thusala",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Asgard Guardian",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Asgard boss (Norse, blue) \u2014 likely Hela/Thor/a frost giant; exact name needs a clear HP-bar frame",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Unknown",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Necro Doggo (Werewolf)",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Necro Doggo / Werewolf (wiki \u2014 drops Claw of the Beast)",
+      "reason": "new but LOW confidence + no taunts"
+    },
+    {
+      "name": "white-robed grave boss (seen in mid rooms; likely a lich/grave caretaker)",
+      "reason": "new but LOW confidence + no taunts"
+    },
+    {
+      "name": "Ice Queen / Frozen Queen",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Ice Queen",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Blazetalon",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Thessal Dropper",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Limon Element 1",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Limon Element 2",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Limon Element 3",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Limon Element 4",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Limon the Sprite God",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "ic Esben the Unwilling",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "ic Loot Balloon",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Mysterious Egg (BB Biff Summoner)",
+      "reason": "new but LOW confidence + no taunts"
+    },
+    {
+      "name": "Oryx Darkness Trap",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Oryx Daze Trap",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Oryx Confuse Trap",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Thunder Helper",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Unknown Boss 1",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Unknown Boss 2",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Epic Archdemon",
+      "reason": "system/variant prefix"
+    },
+    {
+      "name": "Epic Septavius",
+      "reason": "system/variant prefix"
+    },
+    {
+      "name": "Epic Djinn",
+      "reason": "system/variant prefix"
+    },
+    {
+      "name": "Epic (god-tier) \u2014 implied from death notifications: Kraken, Hydra, Cyclops, Phoenix, Golem, Beholder/Medusa",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Uvuvwevwevwe",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Realm Giant",
+      "reason": "base realm-event enemy"
+    },
+    {
+      "name": "The Firebreather (Scorched Plains)",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "The Lord of Lava",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "rotating roster (wiki + earlier drops): Arcanica, Ortar, L. Bandito, Cracked Core, The Zucc",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Cube God",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Snake Queen",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Undead Lair boss (red; vanilla = Septavius the Ghost God, ROTF-reworked)",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Megamad Oryx (Oryx 3 \u2014 already in imported data)",
+      "reason": "system/variant prefix"
+    },
+    {
+      "name": "Oryx the Mad God",
+      "reason": "base game (Oryx the Mad God 1/2)"
+    },
+    {
+      "name": "Splinter Sprite (Splintersprite)",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "The Mad Jester (event boss)",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Hermit God",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Lucky Ent God",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Epic Mysterious Card (EPIC ENEMY)",
+      "reason": "system/variant prefix"
+    },
+    {
+      "name": "Epic Riverborn (EPIC ENEMY)",
+      "reason": "system/variant prefix"
+    },
+    {
+      "name": "Lucky Djinn",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "The Ghost Ship",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Angry Yeti (event boss)",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Lord of Decaying Death (boss; 'Lord' per post tags)",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Tombstone Carrier",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Ra, the Sun God",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Sia and Hu (Eternal Companions)",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Osiris",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Nyx of Fire",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Riverborn, Lord of the Refuge",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Devoted Shaman + Reptilian God",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Ghost God (Septavius)",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Epic Septavius the Ghost God (EPIC ENEMY variant)",
+      "reason": "system/variant prefix"
+    },
+    {
+      "name": "Death King",
+      "reason": "renamed to base 'Dwarf King' (build-crash if duplicated)"
+    },
+    {
+      "name": "Gelatinous Crusader (Yellow)",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Flying Encounter",
+      "reason": "system/variant prefix"
+    },
+    {
+      "name": "Smashing Encounter",
+      "reason": "system/variant prefix"
+    },
+    {
+      "name": "Epic Ghost of Skuld",
+      "reason": "system/variant prefix"
+    },
+    {
+      "name": "Oryx the Mad (God)",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Breathing Encounter",
+      "reason": "system/variant prefix"
+    },
+    {
+      "name": "Shadow Encounter",
+      "reason": "system/variant prefix"
+    },
+    {
+      "name": "Hunter (boss w/ counter)",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "RI Yeti",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Septavius",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Epic gods (Godlands)",
+      "reason": "system/variant prefix"
+    },
+    {
+      "name": "The Zuck",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Lucky Lint God",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Shade of Nexus",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Lucky Orion Bot",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Pentaract Tower Ultra",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Epic Deep Sea Beast",
+      "reason": "system/variant prefix"
+    },
+    {
+      "name": "Flying Brain",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Firebreather / Shadowscale / Mad Jester / Grand Sphinx / Ghost Ship / Hermit God / Lucky-X",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Gem Gem",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Vampire",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Epic Flying Encounter",
+      "reason": "system/variant prefix"
+    },
+    {
+      "name": "The Overseer",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Hive",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Tomb of Decaying Death (ToDD) \u2014 realm dungeon",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "The Zucc",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Tunnel Varghus the [Eye]",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "The Kraken",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Pentaract",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Stone Mage",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Megamoth Larva",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Cavalier",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Soul of Decaying",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Umbra Solaris",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Brute of the Abyss",
+      "reason": "already coded, no recovered taunts/attacks"
+    },
+    {
+      "name": "Greatfish",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Zaragon",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "God of Injustice",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "The Quiet Murder",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Haunted Armor",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Mad Toxicologist",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "Mad Aztec",
+      "reason": "new but no recovered content"
+    },
+    {
+      "name": "The Scorched Plains (dungeon \u2014 boss NOT captured)",
+      "reason": "new but no recovered content"
+    }
+  ],
+  "appended": [
+    {
+      "id": "enrich-the-beekeeper",
+      "type": "fix",
+      "risk": "low",
+      "name": "Enrich The Beekeeper with recovered lines (auto-bridge)"
+    },
+    {
+      "id": "enrich-resthla-the-twisted-mermaid",
+      "type": "fix",
+      "risk": "low",
+      "name": "Enrich Resthla, The Twisted Mermaid with recovered lines (auto-bridge)"
+    },
+    {
+      "id": "enrich-ascended-septavius-the-ghost-goddess",
+      "type": "fix",
+      "risk": "low",
+      "name": "Enrich Ascended Septavius the Ghost Goddess with recovered lines (auto-bridge)"
+    },
+    {
+      "id": "enrich-phylactery-bearer",
+      "type": "fix",
+      "risk": "low",
+      "name": "Enrich Phylactery Bearer with recovered lines (auto-bridge)"
+    },
+    {
+      "id": "boss-the-void-entity",
+      "type": "boss",
+      "risk": "med",
+      "name": "Build recovered boss 'The Void Entity' (auto-bridge)"
+    }
+  ]
+}

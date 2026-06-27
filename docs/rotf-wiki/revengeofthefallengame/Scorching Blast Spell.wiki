@@ -1,0 +1,4 @@
+# Scorching Blast Spell
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Scorching%20Blast%20Spell&prop=wikitext
+
+asdf

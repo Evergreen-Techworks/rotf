@@ -1,0 +1,12 @@
+{
+    "id": 0,
+    "name": "Flaming Hearth",
+    "sbName": "Flaming Hearth",
+    "difficulty": 4,
+    "background": 0,
+    "blocking": 0,
+    "restrictTp": false,
+    "showDisplays": true,
+    "persist": false,
+    "portals": [ 33294 ]
+}

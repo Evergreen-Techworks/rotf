@@ -1,0 +1,118 @@
+# Prisms
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Prisms&prop=wikitext
+
+The prism is the ability of the trickster. It is used to teleport, create decoys and sometimes cause damage
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = LycaonsHeart.png
+| link = Lycaon's Heart
+| text = Lycaon's Heart
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = PrismOfDireInstability.png
+| link = Prism of Dire Instability
+| text = Prism of Dire Instability
+}}
+| {{ImageBlack
+| file = TrickstersToy.png
+| link = Trickster's Toy
+| text = Trickster's Toy
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge2
+| file = PrismOfDancingSwords.png
+| link = Prism of Dancing Swords
+| text = Prism of Dancing Swords
+}}
+| {{ImageBlack
+| file = GhostlyPrism.png
+| link = Ghostly Prism
+| text = Ghostly Prism
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = BrainOfTheGolems.png
+| link = Brain of the Golems
+| text = Brain of the Golems
+}}
+| {{ImageBlackLarge1
+| file = ATriangularCookie.png
+| link = A Triangular Cookie
+| text = A Triangular Cookie
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Unique</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = GemGemsGem.png
+| link = Gem Gem's Gem
+| text = Gem Gem's Gem
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = CosmicPhantomPrism.png
+| link = Cosmic Phantom Prism
+| text = Cosmic Phantom Prism
+}}
+|}</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = PrismOfPhantoms.png
+| link = Prism of Phantoms
+| text = Prism of Phantoms
+}}
+| {{ImageBlackLarge1
+| file = PrismOfApparitions.png
+| link = Prism of Apparitions
+| text = Prism of Apparitions
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = DecoyPrism.png
+| link = Decoy Prism
+| text = Decoy Prism
+}}
+| {{ImageBlackLarge1
+| file = DeceptionPrism.png
+| link = Deception Prism
+| text = Deception Prism
+}}
+| {{ImageBlack
+| file = IllusionPrism.png
+| link = Illusion Prism
+| text = Illusion Prism
+}}
+| {{ImageBlackLarge1
+| file = HallucinationPrism.png
+| link = Hallucination Prism
+| text = Hallucination Prism
+}}
+| {{ImageBlackLarge1
+| file = PrismOfFigments.png
+| link = Prism of Figments
+| text = Prism of Figments
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

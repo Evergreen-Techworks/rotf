@@ -1,0 +1,86 @@
+<Objects>
+    <!-- ROTF non-enemy objects: dungeon portals, props, spawners. type 0x8200+ -->
+    <Object type="0x8200" id="Illusion Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Illusion</DungeonName>
+        <Texture><File>lofiObj3</File><Index>0x20f</Index></Texture>
+        <Size>120</Size>
+        <ShowName/>
+    </Object>
+
+    <Object type="0x8201" id="Craig's Castle Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Craig's Castle</DungeonName>
+        <Texture><File>lofiObj3</File><Index>0x21f</Index></Texture>
+        <Size>120</Size>
+        <ShowName/>
+    </Object>
+
+    <Object type="0x8204" id="Esben's Lair Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Esben's Lair</DungeonName>
+        <Texture><File>lofiObj3</File><Index>0x21f</Index></Texture>
+        <Size>120</Size>
+        <ShowName/>
+    </Object>
+    <Object type="0x8205" id="Slime God Den Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Slime God Den</DungeonName>
+        <Texture><File>lofiObj3</File><Index>0x21f</Index></Texture>
+        <Size>120</Size>
+        <ShowName/>
+    </Object>
+
+    <Object type="0x8202" id="Limon's Lair Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Limon's Lair</DungeonName>
+        <Texture><File>lofiObj3</File><Index>0x21f</Index></Texture>
+        <Size>120</Size>
+        <ShowName/>
+    </Object>
+    <Object type="0x8203" id="Deadwater Docks Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Deadwater Docks</DungeonName>
+        <Texture><File>lofiObj3</File><Index>0x21f</Index></Texture>
+        <Size>120</Size>
+        <ShowName/>
+    </Object>
+    <Object type="0x8206" id="Bone Dungeon Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Bone Dungeon</DungeonName>
+        <Texture><File>lofiObj3</File><Index>0x21f</Index></Texture>
+        <Size>120</Size>
+        <ShowName/>
+    </Object>
+    <Object type="0x8207" id="Chicken Coop Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Chicken Coop</DungeonName>
+        <Texture><File>lofiObj3</File><Index>0x21f</Index></Texture>
+        <Size>120</Size>
+        <ShowName/>
+    </Object>
+    <Object type="0x8208" id="Ruthven's Castle Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Ruthven's Castle</DungeonName>
+        <Texture><File>lofiObj3</File><Index>0x21f</Index></Texture>
+        <Size>120</Size>
+        <ShowName/>
+    </Object>
+    <Object type="0x8209" id="Bunny Hollow Portal">
+        <Class>Portal</Class>
+        <IntergamePortal/>
+        <DungeonName>Bunny Hollow</DungeonName>
+        <Texture><File>lofiObj3</File><Index>0x21f</Index></Texture>
+        <Size>120</Size>
+        <ShowName/>
+    </Object>
+</Objects>

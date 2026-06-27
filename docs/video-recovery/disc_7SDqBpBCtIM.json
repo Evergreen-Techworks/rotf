@@ -1,0 +1,13 @@
+{
+ "dungeon": "NOT USABLE GAMEPLAY — a streamer SETUP/ROOM-TOUR video (intro card: 'Setup Starts at 1:03 — Sorry About The Inconsistent Audio'). Frames are a webcam recording of the streamer's room/desk (person at mic, door, monitors, RGB keyboard). RotMG/ROTF is only visible DISTANTLY on a background monitor (a desert/sunset biome glimpsed) — far too small/blurry to extract any boss, map, or taunt data. ROTF-adjacent (the streamer plays ROTF) but zero extractable in-game content.",
+ "map": "N/A — no usable in-game view. Only a tiny, distant glimpse of a desert/sunset RotMG biome on a background monitor; no layout readable.",
+ "bosses": [
+  {"name":"(none — setup/room-tour video, no gameplay)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"No gameplay captured. The video is a webcam room/desk tour; the game is only on a far background monitor. chat_*.png + minimap_*.png crops captured the FACECAM/room, not a chat box or HUD. No transitions/bossends (no dungeon loads filmed). Nothing recoverable."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "N/A — this is a stream-setup/room-tour clip, not gameplay. The only ROTF signal is the game running distantly on a background monitor (a desert/sunset biome). No HUD/chat/boss/map is legible. PROCESS NOTE: channel-expansion also pulls in non-gameplay creator content (room tours, setup vids) alongside the desktop/browser captures (disc_5GcUXz4hpMA) and the 3 non-RotMG game mis-pulls — a title/duration RotMG-keyword filter on discovery would cut these.",
+ "uncertain": "Whether the background-monitor game is ROTF specifically vs vanilla RotMG can't be confirmed (too distant). Certain: no extractable in-game content from this tag.",
+ "confidence": "HIGH that this is NOT usable gameplay (webcam room/setup tour; game only on a far monitor). Zero buildable value. Recorded to mark the tag analyzed + flag the non-gameplay channel-expansion pull."
+}

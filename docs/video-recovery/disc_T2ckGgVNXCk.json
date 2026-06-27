@@ -1,0 +1,13 @@
+{
+ "dungeon": "Starforce Zone (endgame zone) + a white-tile palace — ROTF",
+ "source": "video disc_T2ckGgVNXCk (70 frames, 15 transitions, 18 chat; player Ifritito; client X1.7.3). Two biomes: a white/lavender diamond-TILED palace (blob/cloud minimap) and a brown/red DIRT zone identified by its entry message as the 'Starforce Zone'.",
+ "map": "DOCUMENTED: (1) STARFORCE ZONE = a brown/red DIRT biome (orange enemies) — entry text 'Welcome to the Starforce Zone! If you're not careful, you won't come out [alive]'. (2) A white/lavender DIAMOND-TILED PALACE with a blob/CLOUD-shaped minimap (possible Gelatinous Palace) + a boss.",
+ "bosses": [
+  {"name":"(white-tile palace boss — 'H.R.O.M.E'?)","phases":[],"attacks":["red/orange projectiles"],"minions":[],"colorFlashes":"","taunts":[],"note":"A boss in the white/lavender tiled palace (blob minimap); a HUD bar read 'H.R.O.M.E 20%' (uncertain — could be a boss name or a player). Name/taunt not confirmed in chat. Palace biome = possible GELATINOUS PALACE (unbuilt dev-blog dungeon)."}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "DOCUMENTED: STARFORCE ZONE IDENTIFIED — a named ENDGAME zone with the entry message 'Welcome to the Starforce Zone! If you're not careful, you won't come out [alive]'. This is the endgame 8/8-gated 'Starforce' content (cf. 'starforce only for 8/8 char', disc_irmU-KsS6vY) and ties to the Starforce Nodestones (D2 rune materials built). Biome = brown/red dirt. Separately, a white-tile palace (blob minimap) = possible Gelatinous Palace. Client X1.7.3.",
+ "uncertain": "White-palace dungeon NAME not captured (chat empty there); its boss 'H.R.O.M.E' reading is uncertain (boss vs player HUD). Starforce Zone entry text tail truncated ('come out [of here alive]'). Whether the white palace is Gelatinous Palace unconfirmed.",
+ "confidence": "HIGH for the STARFORCE ZONE identification (entry message, verbatim) — a named endgame zone. MEDIUM for the white-tile palace = Gelatinous Palace lead; LOW/UNCERTAIN for the 'H.R.O.M.E' boss."
+}

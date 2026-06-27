@@ -1,0 +1,4 @@
+# Snakeskin Shield
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Snakeskin%20Shield&prop=wikitext
+
+asdf

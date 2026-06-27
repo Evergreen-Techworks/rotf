@@ -1,0 +1,138 @@
+# Spells
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Spells&prop=wikitext
+
+The spell is the ability of the wizard. It's used for causing damage to groups of enemies or high damage to a single enemy.<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = Boneshatter.png
+| link = Boneshatter
+| text = Boneshatter
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = CarnivorousSentientSpell.png
+| link = Carnivorous Sentient Spell
+| text = Carnivorous Sentient Spell
+}}
+|{{ImageBlackLarge1
+| file = MusicOfTheGods.png
+| link = Music of the Gods
+| text = Music of the Gods
+}}
+|{{ImageBlackLarge1
+| file = RecurringTerrorSpell.png
+| link = Recurring Terror Spell
+| text = Recurring Terror Spell
+}}
+|{{ImageBlackLarge1
+| file = TabletOfTheKingsAvatar.png
+| link = Tablet of the King’s Avatar
+| text = Tablet of the King’s Avatar
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = MysteriousIncantation.png
+| link = Mysterious Incantation
+| text = Mysterious Incantation
+}}
+|{{ImageBlackLarge1
+| file = ThousandSunsSpells.png
+| link = Thousand Suns Spells
+| text = Thousand Suns Spells
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = The Searing Shower.png
+| link = The Searing Shower
+| text = The Searing Shower
+}}
+|{{ImageBlackLarge1
+| file = Spell Full of Nature.png
+| link = Spell Full of Nature
+| text = Spell Full of Nature
+}}
+|{{ImageBlackLarge1
+| file = AncientSpellPierce.png
+| link = Ancient Spell: Pierce
+| text = Ancient Spell: Pierce
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Unique</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = Vitamine Buster.png
+| link = Vitamine Buster
+| text = Vitamine Buster
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge2
+| file = Planetary Destruction Spell.png
+| link = Planetary Destruction Spell
+| text = Planetary Destruction Spell
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = Magic Nova Spell.png
+| link = Magic Nova Spell
+| text = Magic Nova Spell
+}}
+|{{ImageBlackLarge2
+| file = Elemental Detonation Spell.png
+| link = Elemental Detonation Spell
+| text = Elemental Detonation Spell
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = FireSpraySpell.png
+| link = Fire Spray Spell
+| text = Fire Spray Spell
+}}
+|{{ImageBlackLarge1
+| file = FlameBurstSpell.png
+| link = Flame Burst Spell
+| text = Flame Burst Spell
+}}
+|{{ImageBlack
+| file = FireNovaSpell.png
+| link = Fire Nova Spell
+| text = Fire Nova Spell
+}}
+|{{ImageBlackLarge1
+| file = ScorchingBlastSpell.png
+| link = Scorching Blast Spell
+| text = Scorching Blast Spell
+}}
+|{{ImageBlackLarge1
+| file = DestructionSphereSpell.png
+| link = Destruction Sphere Spell
+| text = Destruction Sphere Spell
+}}
+|{{ImageBlackLarge1
+| file = PenetratingBlastSpell.png
+| link = Penetrating Blast Spell
+| text = Penetrating Blast Spell
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

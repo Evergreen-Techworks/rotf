@@ -1,0 +1,4 @@
+# Helm of the Great General
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Helm%20of%20the%20Great%20General&prop=wikitext
+
+asdf

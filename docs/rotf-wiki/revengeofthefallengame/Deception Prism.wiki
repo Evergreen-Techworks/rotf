@@ -1,0 +1,4 @@
+# Deception Prism
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Deception%20Prism&prop=wikitext
+
+asdf

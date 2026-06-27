@@ -1,0 +1,14 @@
+{
+ "dungeon": "(LARGE ~200-entry stream) ROTF — undead-boss taunt fragment + event feed; chat overlay-obscured",
+ "source": "video disc_vhX_kjkU_9Q (1636 frames, 600 transitions = ~200 entries, 2455 chat; client X1.7.8). A persistent Subscriber-Goal overlay covers the chat box in most frames, so most lines are unreadable. Diverse biomes.",
+ "map": "DOCUMENTED biomes: brown brick rooms, green grass, tan desert, blue water, dark red/brick UNDEAD dungeon (with a skeleton boss), purple/magenta dungeon, white snow.",
+ "bosses": [
+  {"name":"(undead/lich boss — name overlay-obscured)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["...so called heroes, leave/abandon [them] to rot here and become one [of us]..."],"note":"PARTIAL/uncertain (chat covered by the sub-goal overlay) — an UNDEAD/LICH boss taunt: invites 'so called heroes' to rot and 'become one [of us/the dead]' (undead-conversion theme). Likely a Twilight Necropolis lich / Gravedigger-family boss; name not captured. A red/brick undead dungeon with a skeleton boss is shown."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Skull Shrine (just spawned)","Ghost Ship (just spawned)"],
+ "mechanics": "DOCUMENTED (low fidelity — sub-goal overlay covers chat): an undead/lich boss taunt fragment ('so called heroes... rot here... become one'); events Skull Shrine + Ghost Ship; client X1.7.8. Player note 'I have to restart adobe' (Flash client). Most chat unreadable due to the persistent overlay.",
+ "uncertain": "Undead-boss NAME not captured (overlay-obscured); taunt fragmentary. ~200 entries not named. Most chat covered by the Subscriber-Goal overlay.",
+ "confidence": "LOW — sub-goal overlay obscured most chat. HIGH only for: the undead-boss taunt FRAGMENT (rot/become-undead theme) + the Skull Shrine/Ghost Ship events."
+}

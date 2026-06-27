@@ -1,0 +1,4 @@
+# Head Full of Brains
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Head%20Full%20of%20Brains&prop=wikitext
+
+asdf

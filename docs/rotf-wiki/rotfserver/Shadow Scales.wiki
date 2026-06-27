@@ -1,0 +1,28 @@
+# Shadow Scales
+# https://rotfserver.fandom.com/api.php?action=parse&page=Shadow%20Scales&prop=wikitext
+
+{{ItemInfo
+| name = Shadow Scales
+| desc = A cloak woven from the light-manipulating scales of the Shadowscale.
+| slot = cloak
+| tier = ST
+
+| cost = 95
+| cooldown = 6
+| feedp = 500
+| fameb = 5
+
+| bonuses = {{Stat|hp|50}} {{Stat|mp|50}} {{Stat|att|5}} {{Stat|spd|5}} 
+
+| effects = yes
+| invisible = 5
+| speedy = 5
+
+| lootbag = white
+| dropsFrom = can be found in a White Bag dropped by: [[Shadowscale]].
+}}
+
+<noinclude>
+{{NavCloaks}}
+[[Category:Cloaks]]
+</noinclude>

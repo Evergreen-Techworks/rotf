@@ -1,0 +1,4 @@
+# Carved Golem Remains
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Carved%20Golem%20Remains&prop=wikitext
+
+asdf

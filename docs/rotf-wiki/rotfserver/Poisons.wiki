@@ -1,0 +1,13 @@
+# Poisons
+# https://rotfserver.fandom.com/api.php?action=parse&page=Poisons&prop=wikitext
+
+'''Poisons''' are used by [[Assassin|Assassins]]. It is used by throwing the bottle in an arc, when upon landing it will do portion of the total damage instantly (impact damage) and will apply {{i|e|Poison|poison}} to the enemy, which will do the rest of the total damage over the specified duration. {{i|e|Poison|Poisons}} can stack. {{i|e|Poison|Poisons}} ignore the defense of the enemy and can affect '''INVINCIBLE''' enemies, as long as the poison was applied before they become '''INVINCIBLE'''. '''STATIS''' does not affect the poison duration. 
+==Production {{PAGENAME}}==
+'''''For production {{PAGENAME}} please follow this [https://www.realmeye.com/wiki/poisons link].
+
+==Custom {{PAGENAME}}==
+{{ItemDisplay|The Searing Blood|a}}
+===Starforce {{PAGENAME}}===
+{|
+| {{ItemDisplay|Flask of Stardust|g}}
+|}

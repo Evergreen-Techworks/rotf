@@ -1,0 +1,4 @@
+# Candlestick
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Candlestick&prop=wikitext
+
+asdf

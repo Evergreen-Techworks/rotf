@@ -1,0 +1,98 @@
+<Objects>
+  <!-- Ordinary Client - STARFORCE ZONE (ROTF tech/space zone; roster footage-confirmed via the
+       event feed "Starforce > The Zuck has been defeated", disc_55seoqVjso4). Four bosses fought in a
+       grey-metal/space arena: The Zuck + Gem Gem (NEW, here) plus Cracked Core (0x8fd1) and Ortar
+       (0x8fd0), which already exist in OrdinaryClient_Bosses.xml and are reused by name in the map.
+       No boss TAUNTS were captured (event-feed only) -> tech/space flavor lines RECONSTRUCTED, marked.
+       Placeholder sprites (chars16x16dEncounters2); reused projectiles. New ids 0x8fd8-0x8fd9 + portal 0x8215. -->
+  <Object type="0x8fd8" id="The Zuck">
+    <Group>Starforce</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>9</Index></AnimatedTexture>
+    <MaxHitPoints>160000</MaxHitPoints>
+    <Defense>45</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <PerRealmMax>1</PerRealmMax>
+    <Level>20</Level>
+    <Size>170</Size>
+    <XpMult>0.25</XpMult>
+    <Projectile id="0">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>100</Speed>
+      <Damage>115</Damage>
+      <Size>120</Size>
+      <LifetimeMS>1500</LifetimeMS>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Grey Missile</ObjectId>
+      <Speed>80</Speed>
+      <Damage>95</Damage>
+      <Size>130</Size>
+      <LifetimeMS>1800</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x8fd9" id="Gem Gem">
+    <Group>Starforce</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>7</Index></AnimatedTexture>
+    <MaxHitPoints>120000</MaxHitPoints>
+    <Defense>40</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <Level>20</Level>
+    <Size>150</Size>
+    <XpMult>0.22</XpMult>
+    <Projectile id="0">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>90</Speed>
+      <Damage>100</Damage>
+      <Size>115</Size>
+      <LifetimeMS>1500</LifetimeMS>
+    </Projectile>
+  </Object>
+  <!-- L. BANDITO — Galactic Zones boss. DESIGNED stub: wiki-only, no footage.
+       Space outlaw/cowboy theme inferred from Handcannon drop ("Overwhelmed With Power" primal).
+       Galactic Zones = 5-boss successor to Starforce (wiki). -->
+  <Object type="0x8f7a" id="L. Bandito">
+    <Group>Galactic Zones</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>14</Index></AnimatedTexture>
+    <MaxHitPoints>130000</MaxHitPoints>
+    <Defense>42</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <PerRealmMax>1</PerRealmMax>
+    <Level>20</Level>
+    <Size>165</Size>
+    <XpMult>0.22</XpMult>
+    <Projectile id="0">
+      <ObjectId>Grey Missile</ObjectId>
+      <Speed>110</Speed>
+      <Damage>115</Damage>
+      <Size>115</Size>
+      <LifetimeMS>1200</LifetimeMS>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>85</Speed>
+      <Damage>100</Damage>
+      <Size>120</Size>
+      <LifetimeMS>1600</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x8215" id="Starforce Portal">
+    <Class>Portal</Class>
+    <IntergamePortal/>
+    <DungeonName>Starforce</DungeonName>
+    <Texture><File>lofiObj3</File><Index>0x21f</Index></Texture>
+    <Size>120</Size>
+    <ShowName/>
+  </Object>
+</Objects>

@@ -1,0 +1,35 @@
+{
+ "dungeon": "GENUINE ROTF single-dungeon boss fight (~73s+, creator 'RuinedBow'; client banner '1.1X' = ROTF target server). The boss is GHOST OF SKULD (= the built Epic Ghost of Skuld) with a WAVE-add mechanic. KEY: 2 enrich/verify candidate lines for the built boss + a Glowing-Shard loot source + heavy Legendary drops + damage-contribution loot.",
+ "map": "DOCUMENTED-from-transition+f_: a single dungeon — entry from a tan/brown realm area with a RED-tiled section (t001, circular minimap) into a GREY-BRICK walled arena (the chat/fight floor) where Ghost of Skuld is fought. Wave-based adds fill the arena. Single-room boss arena (no multi-dungeon).",
+ "bosses": [
+  {
+   "name": "Ghost of Skuld",
+   "phases": ["WAVE-based: 'Only seconds until the next wave.' -> spawns the next wave of adds (repeated)"],
+   "attacks": ["not cleanly traced (b002_73s climax low bullet density / varied frames) -> approximate; WAVE-SUMMON of adds is the documented mechanic"],
+   "minions": ["wave adds (summoned each wave)"],
+   "colorFlashes": "",
+   "taunts": [
+    "Only seconds until the next wave.",
+    "Your reward is...A SWIFT DEATH!"
+   ],
+   "note": "DOCUMENTED-from-chat VERBATIM (boss-coloured 'Ghost of Skuld', grayscale-pull chat_00006/00007 — prefix clear). = the BUILT 'Epic Ghost of Skuld' (OCBosses.cs). *** 2 ENRICH/VERIFY candidates ***: (1) 'Only seconds until the next wave.' is NEW (a wave-warning line NOT in the build) -> enrich candidate. (2) 'Your reward is...A SWIFT DEATH!' is a FULLER version of the built 'A SWIFT DEATH!!!' (VERIFIED-3x-spec) -> the prior 3 specs caught only the 'A SWIFT DEATH' tail; this 4th tag shows the 'Your reward is...' PREFIX (1 '!' here vs '!!!' in the 3-spec) -> VERIFY-loop should decide whether to prepend the prefix. Both flagged for dev/verify, NOT auto-applied here."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "items from a GLOWING SHARD ('RuinedBow has recieved a(n) <item> from a GL[owing] shard'): 'Whispered Promise', 'Sister's Flower'",
+  "Godly item 'Replica Tridon of the Sun' (with 100% damage dealt)",
+  "Legendary items (84.04%/24.88% damage dealt): 'Shattered Crescent Armor', 'Solemn Pendant', 'Resurrected Wand'[?]",
+  "(all base/standard RotMG items; loot via Glowing-Shard + damage-contribution)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Ghost Ship has been slain! (18/25)",
+  "Skull Shrine has been slain! (20/25)",
+  "A Pentaract has just spawned in the Realm!",
+  "A Grand Sphinx has just spawned in the Realm!",
+  "A Water Demon has just spawned in the Realm!"
+ ],
+ "mechanics": "DOCUMENTED: (1) GHOST OF SKULD WAVE mechanic — 'Only seconds until the next wave.' precedes each add-wave (the boss summons waves of minions). (2) GLOWING SHARD loot source ('received <item> from a Glowing shard') + DAMAGE-CONTRIBUTION loot ('You had 84.04% damage dealt!' / items 'with N% damage dealt!'). (3) ROTF event feed /25 (Ghost Ship 18/25, Skull Shrine 20/25) + base Oryx critical-enemy line ('Your futile efforts are no match for a Skull Shrine'). Client banner '1.1X' confirms the ROTF target server.",
+ "uncertain": "Boss = the BUILT Epic Ghost of Skuld (no new boss to build) -> the 2 lines are ENRICH/VERIFY candidates, NOT auto-applied: 'Only seconds until the next wave.' (new) + 'Your reward is...A SWIFT DEATH!' (fuller prefix vs the 3-spec 'A SWIFT DEATH!!!' -> verify before changing the built line; '!' vs '!!!' + prefix). Attack geometry NOT cleanly traced (low-bullet b002 frames; wave-summon is the mechanic). Drop item names mostly base RotMG; one Legendary name ('Resurrected W...') right-cut.",
+ "confidence": "MEDIUM-HIGH. GENUINE ROTF (1.1X banner). Solid value: 2 ENRICH/VERIFY candidate lines for the built Epic Ghost of Skuld ('Only seconds until the next wave.' NEW + 'Your reward is...A SWIFT DEATH!' fuller-prefix) + a WAVE-add mechanic + a Glowing-Shard loot source + damage-contribution loot. Recorded honestly: no NEW boss (Skuld already built), lines flagged as enrich/verify candidates (not auto-applied; the '!!!' vs prefix needs a verify decision), attacks approximate. Best follow-up: VERIFY-loop reconcile the 'Your reward is...' prefix + enrich Skuld with the wave line."
+}

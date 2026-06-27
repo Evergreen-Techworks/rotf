@@ -1,0 +1,26 @@
+{
+ "dungeon": "(MULTI-DUNGEON HIGHLIGHT STREAM) ROTF event-boss feed + several dungeon biomes + an Oryx the Mad fight",
+ "source": "gameplay video disc_aCAA_5Od6WY (player sillysocks/MilkShake). Contact sheet shows many biomes; chat is dominated by the SERVER-WIDE event/death feed (verbatim) which yielded the event-boss roster + meme-Encounter taunts below.",
+ "map": "DOCUMENTED biomes across the montage: purple gothic-stone dungeon; dark CRATER boss arenas (Oryx the Mad arena = dark stone crater); green grassy structure area; ORANGE/yellow Egyptian-desert area; purple area with a dark tornado/tree (Twilight-ish); brown dirt circular crater arenas; dark-blue water-tiled serpent room; snowy/icy green area; a RED boss arena with a pixel boss ('I WAS!!!' text). A title card reads 'Many thanks to adfyhasod for all the help!'.",
+ "bosses": [
+  {"name":"Oryx the Mad (God)","phases":["dark crater arena fight"],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED from a full-size frame: boss bar 'Oryx the Mad'; death-feed line '...has been crushed by Oryx the Mad God!'. Fought in a dark stone crater arena."},
+  {"name":"Breathing Encounter (meme realm-event boss)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["YOU HAVE MADE A GRAVE MISTAKE","I've seen leprechauns hit harder!"],"note":"DOCUMENTED VERBATIM from chat. A mocking meme 'Encounter' event boss."},
+  {"name":"Smashing Encounter (meme realm-event boss)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["YOU HAVE MADE A GRAVE MISTAKE"],"note":"DOCUMENTED VERBATIM. Same taunt family as Breathing/Shadow Encounter."},
+  {"name":"Shadow Encounter (meme realm-event boss)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["I've seen babies hit harder than that"],"note":"DOCUMENTED VERBATIM. Mocking meme 'Encounter' event boss."}
+ ],
+ "minions": [],
+ "drops": ["Potion of Speed (event reward when already maxed)","Special Crate (unboxed via <Loot Notifier>; an unboxable crate/lootbox)"],
+ "event_bosses_seen_in_global_feed": [
+   "Riverborn (just spawned / defeated 22/30 — confirms Riverborn is a /30 realm EVENT boss)",
+   "God of Reptilians (defeated 1/30 — /30 event boss)",
+   "Asgard Guardian (defeated 15/.. — event boss, drops Heavy Bow of the Asgard Guardian per earlier recovery)",
+   "Pentaract Tower Ultra (spawned + defeated)",
+   "Shade of Novus (just spawned — event boss)",
+   "Suspicious Looking Dragon (just spawned — meme event boss; candidate elemental-dragon-Lord teaser)",
+   "Oryx the Mad God",
+   "Haunted Armor"
+ ],
+ "mechanics": "DOCUMENTED: ROTF runs a SERVER-WIDE EVENT-BOSS system — bosses 'just spawned' / 'has been defeated! (N/30)' announcements in a global feed (Unicorn/Gargoyle/Mummy/Bat narrators), the /30 counter mirrors a galactic/realm-progress goal. Player line 'why are all events epic here' CONFIRMS the Epic Enemies system applies to event bosses (epic-scaled events). A 'Special Crate' unbox/lootbox system exists (<Loot Notifier> '[player] just unboxed a Special Crate, obtained ...'). When a player is already max-stat, event rewards convert to pots ('You're already maxed. Potion of Speed has been sent to you').",
+ "uncertain": "Exact attack patterns/HP for the Encounter meme bosses not isolated (only their taunts + spawn/defeat feed). The /30 counter denominator is consistent across Riverborn/God of Reptilians. Which biome maps to which dungeon not individually entered-and-named in this sample (montage only).",
+ "confidence": "HIGH for the meme-Encounter taunts (Breathing/Smashing/Shadow, verbatim) + the event-boss roster + the /30 event-counter + epic-events + Special-Crate system (all DOCUMENTED from chat). MEDIUM for biome->dungeon mapping (contact-sheet only)."
+}

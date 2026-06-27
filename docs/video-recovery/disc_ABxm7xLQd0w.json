@@ -1,0 +1,13 @@
+{
+ "dungeon": "(SHORT CLIP, 10 frames) ROTF — Icy Peaks snow combat",
+ "source": "video disc_ABxm7xLQd0w (only 10 frames, 2 chat, no contact sheet; server 'Atmosphere'). A short clip of an ICY/SNOW biome fight. Chat is washed out by the white snow background (low contrast).",
+ "map": "DOCUMENTED (frames): an ICY PEAKS snow biome — white SNOW ground, ICE CLIFFS (right side), white/snow enemies (snowman-like), and a RED BOSS. Snowy minimap.",
+ "bosses": [
+  {"name":"(Icy Peaks red boss — unnamed)","phases":[],"attacks":[],"minions":["snow/snowman enemies"],"colorFlashes":"icy","taunts":[],"note":"VISUALLY DOCUMENTED: a red boss amid snow enemies in an ice-cliff snow arena = Icy Peaks region combat (cf. the 'RI Yeti' / 'RotF: The Icy Peaks' title mascot). Name/taunt not legible (washed-out chat)."}
+ ],
+ "minions": ["snow/snowman enemies"],
+ "drops": [],
+ "mechanics": "DOCUMENTED (partial, low-contrast chat): re-confirms the 'YOU HAVE MADE A GRAVE MISTAKE' meme-Encounter taunt (already built: Breathing/Smashing Encounter); death feed references a 'yeti' + an 'Epic [boss]' (Icy Peaks yeti + Epic Enemies). Server 'Atmosphere'. Mostly reinforces the Icy Peaks region exists with snow combat.",
+ "uncertain": "Only 10 frames; chat washed out by snow background -> most lines unreadable. Boss name/taunt not captured. The 'GRAVE MISTAKE' line is a re-confirm, not new.",
+ "confidence": "MEDIUM-LOW: HIGH that this is Icy Peaks snow combat (visual) + re-confirms the Encounter taunt; LOW for any new boss/taunt (none captured)."
+}

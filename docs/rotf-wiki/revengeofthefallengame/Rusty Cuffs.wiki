@@ -1,0 +1,4 @@
+# Rusty Cuffs
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Rusty%20Cuffs&prop=wikitext
+
+asdf

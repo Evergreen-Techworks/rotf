@@ -1,0 +1,11 @@
+# Helms
+# https://rotfserver.fandom.com/api.php?action=parse&page=Helms&prop=wikitext
+
+Helms are used by Warriors to give themselves and others buffs
+
+There are various Helms Exclusive to RotF, these are:
+* [https://rotfserver.wikia.com/wiki/Helm_of_Oryx?venotify=created Helm of Oryx]
+* [[Helm of the Fallen]]
+* [[Helm of the Demon Lord]]
+* [[Shadowscale's Skull]]
+* [[Galactic Titan Helm]]

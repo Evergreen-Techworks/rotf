@@ -1,0 +1,13 @@
+{
+ "dungeon": "BossSpawning (admin sandbox event — NOT a single dungeon)",
+ "map": "N/A — an admin (KiddForce) mass-spawning bosses/enemies across multiple biomes (Nexus white-tile plaza, brown dirt, purple cosmic/Galactic-like, tan desert/Egyptian-like). Useful as a BOSS-VISUAL + TAUNT sampler, not a dungeon layout.",
+ "bosses": [
+   {"name":"Pirate King","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Miniscule worms!"]},
+   {"name":"Void Entity","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Those who enter my realm w... (cut off — 'will [perish]'?)"]}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "",
+ "uncertain": "480p source + chaotic crowd → chat hard to read; taunts above are partially legible. Desert + purple-cosmic biomes appear (possible Gate to the Underworld / Galactic Zones glimpses) but no dungeon name captured. Mostly player banter.",
+ "confidence": "LOW — admin sandbox, not a dungeon run. Recovered 2 partial boss taunt lines (Pirate King, Void Entity). Best value of this Tag = boss sprite visuals + the 15 transition snapshots."
+}

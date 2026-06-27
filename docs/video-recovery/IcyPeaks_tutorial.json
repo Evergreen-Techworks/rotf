@@ -1,0 +1,17 @@
+{
+ "dungeon": "Icy Peaks (ROTF) — NEW dungeon recovery. Ice Queen boss + ICE-BLOCK/TOWERS gate mechanic; frozen flower-garden boss arena. Tutorial 'how to cheese the Icy Peaks'. GENUINE ROTF.",
+ "map": "DOCUMENTED-from-video (tutorial captions + frames): ICY PEAKS layout = snowy/ICE biome (white+cyan tiles) with a WOODEN CABIN/LODGE entrance interior -> grey stone interior rooms -> an ICE-BLOCK room (an ice block encases TOWERS) -> the Ice Queen's boss arena, which is a frozen FLOWER GARDEN (brown/grey stone ring + scattered PINK FLOWERS + green-grass center). 'Icy Peaks' is also a ROTF SEASON title (see branding memory) -> likely a seasonal dungeon.",
+ "bosses": [
+  {"name":"Ice Queen","phases":["gated -> open"],"attacks":["(not densely captured — tutorial 'cheeses' the fight)"],"minions":["Towers (encased in an ice block)"],"colorFlashes":"cyan/white (ice)","taunts":[],"note":"DOCUMENTED-from-video (NEW boss): caption 'This is where you would find the Ice Queen btw. Just clear the ice block to kill the towers and the[n] it should open.' -> Ice Queen sits behind a TOWER GATE: an ICE BLOCK protects/contains the towers; CLEAR the ice block -> KILL the towers -> the boss room OPENS (Ice Queen becomes accessible/vulnerable). Same gate family as Ra's-Staves / Anubis's-Pillars (build on that proven pattern). No taunt captured."}
+ ],
+ "minions": ["Towers (ice-encased; must be destroyed to open the boss room)"],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [
+  "The Pentaract Tower Ultra has been defeated!",
+  "Pulse has just spawned! / defeated",
+  "Lord of the Lost Lands has been defeated"
+ ],
+ "mechanics": "DOCUMENTED-from-video (tutorial): (1) ICY PEAKS is an ICE dungeon with an Ice Queen boss. (2) TOWER-GATE mechanic — an ICE BLOCK encases TOWERS; players clear the ice block, kill the towers, and the boss room then opens (Ice Queen gated until towers fall). Maps to the Ra-Staves / Anubis-Pillars invuln-gate pattern. (3) The Ice Queen arena is a frozen FLOWER GARDEN (pink flowers). (4) A 'cheese' strat exists (the video's whole premise). (5) Realm event feed (announcer 'deathtrap'): Pentaract Tower Ultra, Pulse, Lord of the Lost Lands.",
+ "uncertain": "Ice Queen taunts NOT captured (sparse chat, cheese run). Attack geometry not densely captured (the tutorial avoids the full fight). Exact tower count/HP unknown. Whether 'Icy Peaks' is a standalone dungeon or a seasonal-realm variant (it's a known ROTF season title) is unconfirmed.",
+ "confidence": "HIGH that Icy Peaks + Ice Queen + the ice-block/towers gate mechanic + frozen-flower-garden arena are real ROTF content (verbatim tutorial captions + frames). MEDIUM for build details (no taunts, no attack pattern, no tower stats). NEW dungeon — build-ready on the Ra/Anubis tower-gate pattern once stats are designed."
+}

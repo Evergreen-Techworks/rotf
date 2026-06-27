@@ -1,0 +1,14 @@
+{
+ "dungeon": "(TRIO RPE STREAM ~34 entries) ROTF — NEW Ortar taunts + RUNE-BLESSING confirmation (validates D2) + crystal biomes",
+ "source": "video disc_n7RZ1JzWXXw (572 frames, 102 transitions = ~34 entries, 143 chat; 'started as a trio RPE' per overlay, early clips are trading). Heavy purple/blue CRYSTAL biomes. Chat captured Ortar boss taunts + the rune-blessing feed.",
+ "map": "DOCUMENTED biomes: purple/blue CRYSTAL CAVERN-style rooms (crystal clusters), blue ICE, tan/sand checkered dungeons, brown dungeons, grey stone. A 'Level 20 Sorcerer' death screen (class Sorcerer confirmed).",
+ "bosses": [
+  {"name":"Ortar","phases":[],"attacks":["'make you idle' = a Paralyze/stun attack"],"minions":[],"colorFlashes":"orange/red/purple","taunts":["Why you serious, why you serious?","Me serious now too.","Me want to go! Me angery!","Ortar make you idle. Hehehi"],"note":"DOCUMENTED VERBATIM (boss-colored chat). Ortar is ALREADY BUILT (OCBosses 0x8fd0). NEW taunts enrich it: broken/caveman English ('Me serious', 'Me angery', 'Me want'); 'Ortar make you idle. Hehehi' implies a PARALYZE/idle attack. Confirms the existing 'Me want to go! Me angery!' line. Event: '<Starforce> The Ortar has been defeated'."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["The Ortar (defeated)","The Grand Sphinx","Pentaract Tower Ultra","Uvuvwevwevwe (meme)"],
+ "mechanics": "MAJOR D2 VALIDATION — RUNE BLESSING confirmed VERBATIM: 'Arcane Symbol x 10 consumed, blessed [...]' + 'This symbol contained power beyond [measure?]'. This EXACTLY matches the built D2 mechanic (the /bless command consumes 10 matching rune Symbols to upgrade a rune) — so the '10 Symbols -> bless a rune' loop is footage-accurate. Also: class 'Sorcerer' confirmed (death screen). 'armor of the depths' item traded.",
+ "uncertain": "Ortar's 'Why you serious' line slightly truncated; its full attack set/HP/drops not isolated. Crystal-cavern dungeon name not printed. The rune-bless flavor line ('power beyond ...') truncated at crop edge.",
+ "confidence": "HIGH for: the NEW Ortar taunts (verbatim, enriches built boss) + the rune-blessing confirmation (validates D2) + Sorcerer class. MEDIUM for the 'make you idle'=Paralyze inference; LOW for dungeon mapping/drops."
+}

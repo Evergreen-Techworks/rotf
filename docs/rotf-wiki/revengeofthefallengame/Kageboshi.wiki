@@ -1,0 +1,4 @@
+# Kageboshi
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Kageboshi&prop=wikitext
+
+asdf

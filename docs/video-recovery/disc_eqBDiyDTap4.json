@@ -1,0 +1,32 @@
+{
+ "dungeon": "GENUINE ROTF Lair of the Marble Colossus run (edited compilation — 'PREVIOUS VIDEO' end cards, LEGENDARY loot overlays). Main boss = Marble Colossus; a Hermit God fight also appears. PRIMARY VALUE: clean bossend frames that DOCUMENT Marble Colossus's attack geometry (the prior Marble Colossus tag disc_E03Je5EgiZQ only had it approximate) + the full lair layout. Corroborates the built Marble Colossus death taunt. No NEW taunts (death line already known/built).",
+ "map": "DOCUMENTED-from-minimaps+bossends: the LAIR OF THE MARBLE COLOSSUS = a multi-room dungeon — grey stone CORRIDORS connecting BROWN/ORANGE tiled rooms, a PINK/RED-tiled special room (Pillar room), and a COLORFUL 4-QUADRANT puzzle room (blue/green/red/yellow quadrants), all leading to the BOSS ARENA: a large grey HEXAGONAL/octagonal room (checkered grey floor) with scattered pink/red PILLAR structures, fought from the open centre. The HERMIT GOD is a SEPARATE area: a circular BLUE WATER POOL with sandy edges. Choke points = the grey corridors between rooms.",
+ "bosses": [
+  {
+   "name": "Marble Colossus",
+   "phases": ["fights amid scattered Pillars; 'I feel myself... Slipping... Into the void...' as the death/finale line"],
+   "attacks": ["DOCUMENTED-from-frames (bossends, clear): the signature is a LARGE RADIAL RING/NOVA of evenly-spaced BLUE/PURPLE bullets — a big circle (~24-36 bullets) that fills/expands across the hexagonal arena; repeated. PILLARS (pink/red structures) are present as destructible adds. Maps to: Shoot with high count (~24-36), shootAngle ~360/count, radial (no predictive), blue projectile. (Prior tag disc_E03Je5EgiZQ also saw an orange-nova enrage beat -> treat that as a later/secondary phase; this tag cleanly confirms the BLUE RING as the core attack.)"],
+   "minions": ["Pillars (scattered pink/red destructible structures)"],
+   "colorFlashes": "blue/purple",
+   "taunts": ["I feel myself... Slipping... Into the void..."],
+   "note": "DOCUMENTED-from-chat (orange boss-coloured 'Marble Colossus'; death line CORROBORATES the prior tag + the built line). Marble Colossus is ALREADY built/enriched -> this tag adds NO new taunt but UPGRADES its attack from 'approx' to DOCUMENTED (blue radial ring/nova ~24-36) + confirms the hexagonal Pillar arena. High confidence (2 independent tags agree on the death line + blue-ring attack)."
+  },
+  {
+   "name": "Hermit God",
+   "phases": [],
+   "attacks": ["fought in a circular water pool; geometry not isolated here -> approximate (base-game tentacle/wave patterns)"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-sighting (combat overlay 'Enemy: Hermit God / Damage Inflicted: 12%'; blue water-pool arena). Hermit God is BASE-GAME (Davy Jones' Locker) -> not new; recorded as present (corroborates the Oryx realm-announcer 'Hermit God' references from prior tags)."
+  }
+ ],
+ "minions": ["Pillars (Marble Colossus)"],
+ "drops": [
+  "LEGENDARY-tier loot (rarity overlays shown; specific items not legible)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: a Lair of the Marble Colossus run (+ a Hermit God area). KEY value = clean attack documentation for the already-built Marble Colossus: a LARGE RADIAL RING/NOVA of evenly-spaced BLUE bullets (~24-36, filling the hexagonal arena) as the core attack, plus the destructible PILLARS — upgrading the prior tag's approximate read to DOCUMENTED-from-frames. Death taunt 'I feel myself... Slipping... Into the void...' corroborated (2nd independent tag). Full lair LAYOUT mapped (grey corridors -> brown rooms + pink Pillar room + 4-quadrant puzzle room -> grey hexagonal boss arena; Hermit God = separate blue water pool). Edited compilation (PREVIOUS VIDEO cards).",
+ "uncertain": "No NEW taunts (Marble Colossus death line already built; no other boss-spoken lines captured). Blue-ring bullet COUNT estimated (~24-36, not exactly counted). The orange-nova phase from the prior tag NOT seen here -> left as a secondary/later-phase note. Hermit God attack not isolated (base-game). The 4-quadrant puzzle room's exact mechanic not observed (layout only). LEGENDARY drop contents illegible.",
+ "confidence": "HIGH for the Marble Colossus ATTACK (blue radial ring/nova ~24-36 + Pillars, DOCUMENTED-from-bossends) and arena/layout, and for CORROBORATING the built death taunt (2 independent tags agree). GENUINE ROTF. Net value: turns Marble Colossus's attack from reconstructed->DOCUMENTED (useful for tightening its Shoot behaviour) + full lair map; no new taunt/boss. Best use: refine the built Marble Colossus Shoot to a ~24-36-count blue radial ring to match footage."
+}

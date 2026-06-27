@@ -1,0 +1,23 @@
+{
+ "dungeon": "GENUINE ROTF/RotMG creator LOOT/commentary video (~44s, higher-res 854x480) with meme overlay cards ('KIDS REACT!', 'WHITE BAGS', 'THIS EPISODE BRACER' — white-bag/legendary farming). The only boss content is BASE-GAME: The Forgotten Sentinel (Shatters mini-boss) in a lava/Shatters arena. NO new ROTF content.",
+ "map": "DOCUMENTED-from-transitions+bossends: RED/LAVA + grey checkered SHATTERS-style arenas (the Forgotten Sentinel is a Shatters boss) + dark space/void (overlay-card backgrounds). Short clip; no single contiguous layout traced.",
+ "bosses": [
+  {
+   "name": "The Forgotten Sentinel",
+   "phases": [],
+   "attacks": ["not isolated (short clip; lava-arena bullets, approximate)"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["FOOLS! YOU DO..."],
+   "note": "DOCUMENTED-from-chat (boss-coloured '<The Forgotten Sentinel>', grayscale-pull; line right-edge CUT at 'YOU DO...'). BASE-GAME RotMG SHATTERS mini-boss -> CANONICAL/NO-BUILD (consistent with the prior boss-the-forgotten-sentinel NO-BUILD: base Shatters, not ROTF-custom). 'FOOLS! YOU DON'T...' is a canonical Shatters line -> corroboration only, partial."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "(creator framing) 'WHITE BAGS' / 'THIS EPISODE BRACER' — white-bag (legendary) loot farming; a 'Bracer' item targeted"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "NONE new for ROTF. Creator loot/commentary video (meme overlays: 'KIDS REACT!', 'WHITE BAGS', episode-titled by a 'Bracer' loot target). The only boss = The Forgotten Sentinel (base-game Shatters mini-boss, partial canonical line 'FOOLS! YOU DO...') -> corroboration/no-build. White-bag (legendary) farming theme.",
+ "uncertain": "The Forgotten Sentinel = BASE-game Shatters (no-build); its line is right-CUT ('FOOLS! YOU DO[N'T...]') -> partial canonical, not completed/guessed. Short clip (44s) -> no attack geometry isolated. Most overlays = creator meme framing (KIDS REACT/WHITE BAGS). No ROTF-custom boss/dungeon/taunt content.",
+ "confidence": "MEDIUM (base corroboration) / NONE (new). GENUINE ROTF/RotMG creator loot video. Only boss = base-game The Forgotten Sentinel (partial canonical line, no-build). NO new ROTF content (bosses = base corroboration only). Recorded honestly: Sentinel=base/partial, creator overlays excluded. No build/enrich content."
+}

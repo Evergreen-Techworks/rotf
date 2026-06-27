@@ -1,0 +1,13 @@
+{
+ "dungeon": "Galactic Zones farming session (red/spooky galactic biome) — incl. the SPACESHIP mechanic",
+ "map": "DOCUMENTED: dark RED/MAROON galactic-cavern biome with grey stone + orange-lava accents, structured rooms (minimap shows a built dungeon). Spooky/Halloween-themed galactic zone.",
+ "bosses": [
+   {"name":"Spooky Spaceship (the Galactic Zones SPACESHIP — Halloween variant)","phases":["boot/startup","active","shutdown"],"attacks":[],"minions":[],"colorFlashes":"","taunts":["At your service, master.","Initiating startup sequence...","Systems shutting down...","See you, master."],"note":"NOT a boss — this is the player's boardable SPACESHIP (Galactic Zones transport) speaking. It addresses the pilot as 'master', boots up ('Initiating startup sequence'), and powers down ('Systems shutting down', 'See you, master'). 'Spooky Spaceship' = a Halloween skin of the ship. Directly informs D3's spaceship/fuel mechanic."},
+   {"name":"Cube God (galactic)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"'<Gargoyle> The Cube God has been defeated'."},
+   {"name":"Hermit God (galactic)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"'<Gargoyle> The Hermit God has been defeated'."}
+ ],
+ "drops": ["white bag(s) (player: 'white', '1 whitebag + 1 st[ar]')","crate items ([Sta..], [Mit..], [Cup..]) via 'You have opened a crate!'","'receipt' -> item ('You have identified the receipt! Obtaining...')","legendary loot via Loot Notifier (1% damage threshold)"],
+ "mechanics": "DOCUMENTED: the GALACTIC ZONES SPACESHIP is an interactive/boardable object that talks to the pilot ('master') with startup/shutdown dialogue — strong evidence for the D3 spaceship+fuel boarding mechanic. Halloween 'Spooky Spaceship' variant exists. Base-fame economy ('we got 309 basefame'). Crate + 'receipt'->item economy. Loot Notifier 1%-damage loot rule (reconfirmed). Announcer persona: Gargoyle. NOTE: gameplay chat partly obscured by a 'Screencast-O-Matic' recording watermark.",
+ "uncertain": "Some crate item names clipped by the screencast watermark ([Sta..]/[Mit..]/[Cup..]). Exact galactic-zone name/tier not shown. Ship's full dialogue may have more lines.",
+ "confidence": "HIGH for the Spaceship dialogue (verbatim — key D3 mechanic) + galactic farming context; MEDIUM for biome; LOW for exact crate item names."
+}

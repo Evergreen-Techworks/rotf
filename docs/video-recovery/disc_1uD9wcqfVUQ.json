@@ -1,0 +1,11 @@
+{
+ "dungeon": "Ortar fight (red lava cavern) — 2018 death recap",
+ "map": "DOCUMENTED from video: red/brown LAVA CAVERN biome — dark rock floor with rivers/pools of orange LAVA. Open cavern arena. (Player 'MrNoName, Level 20 Rogue' killed here on Nov 15 2018 by Ortar.)",
+ "bosses": [
+   {"name":"Ortar","phases":[],"attacks":["lava-cavern boss; killed the player"],"minions":[],"colorFlashes":"orange/red lava","taunts":["Hail, I Ortar, Highest of Staffords.","Me play. You play. Fun.","Anger! Me FUN! No hunt..."],"note":"A comedic ORYX-PARODY boss — name 'Ortar' ~ 'Oryx', broken-English caveman taunts. Also appears in other streams as an announced spawn ('A Ortar has just spawned'). Realm/event boss in a lava biome."}
+ ],
+ "drops": ["Dirk of Cronus (legendary dagger — Loot Notifier, obtained with 3% damage dealt)"],
+ "mechanics": "DOCUMENTED: ORTAR is an Oryx-parody boss (broken-English caveman speech) inhabiting a red lava cavern; lethal (killed a Level 20 Rogue). Verbatim taunts captured. Active PARTY system (repeated 'You've invited 1 member(s) to your party to your world!' + '<player> has accepted your request, and is now connecting to your world!'). Galactic /25 counter again ('<Beholder> The Cube God has been defeated! (6/25)'). Loot Notifier + damage-threshold loot: '[ZERODEFECT] just got some legendary loot, [Dirk of Cronus] obtained with 3% damage dealt!'. Announcer persona: Beholder.",
+ "uncertain": "Ortar's attack patterns not visually isolated (short death-recap clip). 'Highest of Staffords' spelling approximate (Oryx-title parody). Dungeon/source for Ortar not named (realm/lava event boss).",
+ "confidence": "HIGH for Ortar taunts (verbatim) + Dirk of Cronus legendary + lava-cavern biome (DOCUMENTED); MEDIUM for context."
+}

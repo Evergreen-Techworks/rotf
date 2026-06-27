@@ -1,0 +1,29 @@
+{
+ "dungeon": "ROTF MARATHON realm-farming stream (v1.3) — ~201 dungeon entries. SAMPLED (not exhaustive). Confirms Craig + God of Reptilians taunts; rich /25 realm event feed; Lucky-X meme-boss family. GENUINE ROTF.",
+ "source": "video disc_YC4vDxWTAyc (HUGE: 1815 f_, 2722 chat, 1361 minimap, 603 transitions = ~201 dungeon entries). A multi-hour realm/dungeon farming marathon (laganpaal-hosted, heavy 'gl' spam, youtube-livestream auto-message). Analyzed via contact sheet + a 25-transition sample + an 18-chat-crop sample. NOT exhaustively processed — see uncertain/flag.",
+ "map": "Sampled transitions are DOMINATED by a repeated tan/SANDSTONE-DESERT dungeon (farmed many times), plus red-lava rock rooms, green grass/forest, a blue water/dock area, brown brick rooms, grey stone, and an orange crater arena. The desert repetition suggests farming one specific sandstone dungeon.",
+ "bosses": [
+  {"name":"Craig, The Worst Nightmare","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["So if you don't want to su[ffer]... just have to kill you... [partial]","PREPARE TO DIE!!!"],"note":"DOCUMENTED-from-chat. Re-confirms built Craig taunts; the 'So if you don't want to suffer...' middle line recurs (still truncated at chat edge)."},
+  {"name":"God of Reptilians","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Don't push your luck adventurer...","Prepare to meet your purpose, DOOM!"],"note":"DOCUMENTED-from-chat. Re-confirms built taunts (BehaviorDb.OCBosses.cs). Spawns as a realm event ('A God of Reptilians ...')."},
+  {"name":"Cookie Monster","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'Lich - Cookie Monster has just spawned!'. Confirms ledger Cookie Monster as a real realm event boss (taunt 'Candy... Candy...' from prior recovery)."},
+  {"name":"Lucky Orion Bot","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'Lich - Lucky Orion Bot just spawned!'. Another 'Lucky-X' meme luck boss (family: Lucky Ent God, Lucky Orion Bot)."},
+  {"name":"Lord of the Lost Lands","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'Djinn - The Lord of the Lost Lands has been defeated! (1/25)'. Re-confirms the boss from disc_wsRSijbExRI."},
+  {"name":"Hermit God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'The Hermit God has been defeated! (1/25)'. Likely the base Ocean Trench Hermit (verify collision; enrich not build)."},
+  {"name":"Pentaract Tower Ultra","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'Spider - Pentaract Tower Ultra has just spawned!' + defeated. Base Pentaract, Ultra/epic variant."}
+ ],
+ "minions": [],
+ "drops": ["ritual robe (traded)", "radiant wand (traded)", "spiteful (item, sold cheap)", "cocktail (tradeable)", "spell (sold ~40k)", "artifact (4% roll)"],
+ "event_bosses_seen_in_global_feed": [
+  "The Ghost Ship has been defeated! (24/25)",
+  "The Hermit God has been defeated! (1/25)",
+  "The Lord of the Lost Lands has been defeated! (1/25)",
+  "The God of Reptilians has been defeated! (1/25)",
+  "Pentaract Tower Ultra spawned + defeated",
+  "Cookie Monster has just spawned!",
+  "Lucky Orion Bot just spawned!",
+  "Mad order/Mad Jester has just spawned!"
+ ],
+ "mechanics": "DOCUMENTED: (1) /25 EVENT COUNTER again (this realm = /25, matching disc_XGl3pTaNmTM; reinforces that the denominator is per-realm, not fixed /30). (2) NAMED NPC ANNOUNCERS drive the event feed (Qhalan, Djinn, Spire, Lich, Goblin, Spider, Demon) — each boss spawn/defeat line is prefixed by a random narrator name (the mechanic behind the /N counter). (3) 'LUCKY-X' MEME BOSS FAMILY — recurring luck-themed event bosses: Lucky Ent God, Lucky Orion Bot (the earlier 'Lucky Lint God' read was 'Lucky Ent God'). (4) Server 'v1.3'. (5) Potion-of-X 'has been sent' (to vault, when maxed) lines recur. (6) Trade system ('/trade <name>').",
+ "uncertain": "NOT EXHAUSTIVE — only ~25/201 transitions + 18/2722 chat crops sampled. The dominant SANDSTONE-DESERT dungeon (Egyptian/Gate-to-the-Underworld PRIORITY per cron) is farmed repeatedly but NO entry NAME was legible in the sampled transitions -> RECOMMEND a future dedicated unit to montage more of this tag's 603 transitions and read entry names (high chance of confirming Gate to the Underworld or a desert dungeon). Craig middle taunt still truncated.",
+ "confidence": "HIGH for the sampled chat: Craig + God of Reptilians taunt re-confirms, the /25 event feed, Cookie Monster + Lucky Orion Bot spawns, named announcers. MEDIUM/LOW for full dungeon coverage (sampled only). GENUINE ROTF (v1.3). FLAG for a deeper transition-name pass."
+}

@@ -1,0 +1,13 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM) ROTF — biome documentation only; low novelty (no boss taunts)",
+ "source": "video disc_vjqd2mcRNkk (233 frames, 6 transitions, 58 chat; main menu shows an 'ARCANICA' news banner + Discord). Chat = player chatter + creator annotations ('Name Pills'); no boss taunts captured.",
+ "map": "DOCUMENTED biomes: green grass, brown brick, LAVA arena with a white SKELETON boss, grey stone, pink CANDY LAND, tan SANDSTONE Egyptian temple/PYRAMID with gold chests (treasure tomb — weak Anubi's Lair / Tomb-of-the-Ancients lead), sandstone X-cross-pattern room.",
+ "bosses": [
+  {"name":"(lava skeleton boss — unnamed)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"A white SKELETON boss in a lava-brick arena; name/taunt not captured (chat = chatter). Undead-in-lava boss."}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "DOCUMENTED: biome documentation only — Candy Land (pink), a sandstone Egyptian temple/pyramid with treasure chests, a lava arena with a white skeleton boss. Main menu shows an 'ARCANICA' news/teaser banner. Creator annotation 'Name Pills' (re: naming stat-pots?). No boss taunts.",
+ "uncertain": "No boss taunts (chat = player chatter + creator overlays). Sandstone pyramid biome unidentified (Anubi's Lair / Tomb of the Ancients candidate). Lava skeleton boss not named. 'ARCANICA' menu banner = the teaser/news (cf. branding memory).",
+ "confidence": "LOW novelty — biome documentation + 'ARCANICA' menu banner only; no new boss/taunt captured."
+}

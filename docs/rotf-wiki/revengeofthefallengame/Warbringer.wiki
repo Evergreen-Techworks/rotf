@@ -1,0 +1,4 @@
+# Warbringer
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Warbringer&prop=wikitext
+
+asdf

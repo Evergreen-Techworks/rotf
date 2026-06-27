@@ -1,0 +1,36 @@
+entry-content">
+
+ Hey all! Bit of a slower post today, focusing on some legacy content that we’ve finished re-implementing. You’ve seen this stuff before, but it’s still work that had to get done! 
+
+ The party panel (that’s the UI on the bottom right of the screen, when you click on a player name) is more or less done. Whispering no longer highlights the command text in chat, so you won’t accidentally remove your /tell anymore. Teleporting, a context-aware party button, trading… it’s not *that* exciting, since much of this is repeated work from legacy, but I’ve recorded some clips anyway. 
+
+ Party work was particularly challenging. Behind the scenes, world logic on rotf2 uses some multithreading magic to better utilize server hardware, but it makes communicating information across worlds somewhat more difficult. Parties are the perfect “aaaaa, how do i make this work with our new world logic!!” problem, but we got it done! Here’s a clip of /psummon. 
+
+ The market UI is also in. See the clip below: 
+
+ All UI that you see is WIP (some of it is placeholder, even). Item stats are placeholder. We also re-implemented the legacy rune UI, but since many runes are still being worked on, we’re not ready to share that just yet. There’s also a possibility that by the time we’re ready to show the runemaster, the UI will have been overhauled anyway. Hang in there. 
+
+ Now: key time! We were beginning to get a bit worried that scraper scripts were going to snatch up keys before legitimate players. To prevent those absolute squids from gaining an unfair advantage, we’re trying something new with these keys: trivia! Let’s see how this goes… 
+
+ Closed testing key: 
+
+ GQ [1] W-V [2] 1G-LB0 [3] – [4] 3LM 
+
+ [1] The first letter of the name of the boss in the Tomb of Decaying Death. [2] The alliterative letter in the name of the first new dungeon we teased on this blog. [3] The first letter of a certain kiwi-loving developer’s name. [4] The first letter of both words in the name of Loki’s prism drop in Asgard. 
+
+ Use at https://rotf.io/register . Good luck, guys! 
+ Share this: Twitter Facebook Like this: Like Loading... 
+
+ Related 
+
+ Tagged closed key market panel party revenge of the fallen rotf testing ui 
+
+ Published by Miniguy 
+
+ I’m one of the lead developers at ACED. We’re currently working on porting RotF to Unity! 
+ View all posts by Miniguy 
+
+ Published 
+ December 19, 2020 December 19, 2020 
+
+</article

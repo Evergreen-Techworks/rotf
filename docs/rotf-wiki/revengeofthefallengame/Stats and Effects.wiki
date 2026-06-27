@@ -1,0 +1,242 @@
+# Stats and Effects
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Stats%20and%20Effects&prop=wikitext
+
+== '''Stats:''' ==
+The stats are the attributes of your character. All classes share the same stats, but some are focused in ones, and others in others.
+
+=== '''HP (Health/Hit Points)''' ===
+Your health. When it reaches 0, you die.
+
+When you have only 20% of your health and less, your character starts to blink red and you should drink some health potions or nexus before you take any further damage.
+
+=== '''MP (Magic/Mana Points)''' ===
+Your magic. This is expended to use abilities. Usage depends on what class and ability item tier you are using.
+
+=== '''ATT (Attack)''' ===
+Increases the amount of damage done by weapons. Attack does not affect ability damage.
+ Damage Multiplier if Weak = 0.5
+
+ Damage Multiplier normal = 0.5 + ATT / 50
+
+ Damage Multiplier with Damaging = Normal * 1.5
+Therefore,
+ Damage = Random(MinDamage, MaxDamage) * Damage Multiplier
+Starting with a base of 50% of weapon damage at 0 ATT, each point increases damage by 2% of weapon damage. Examples:
+ 10 ATT Priest with a Fire Wand (25-40 DMG) = 17-28 DMG
+
+ 83 ATT Warrior with a Sword of Acclaim (220-275 DMG) = 475-594 DMG
+Note: In game, the highest weapon base damage value is actually never rolled. Thus the effective weapon base damage range always is one less than stated in the weapon description. For example, the effective weapon base damage range of the Fire Wand (originally 25-40 DMG) is 25-39 DMG. Taking this into account, the previous two examples would change as follows:
+ 10 ATT Priest with a Fire Wand (25-39 DMG) = 17-27 DMG
+
+ 83 ATT Warrior with a Sword of Acclaim (220-274 DMG) = 475-591 DMG
+
+=== '''DEF (Defense)''' ===
+Decreases the amount of damage taken.
+
+Straight 1 point per 1 damage reduction, but caps at 85% of total damage. This means that every shot will do at least 15% of its damage to the player. Example:
+ 60 DMG Attack against 20 DEF = 40 DMG
+
+ 60 DMG Attack against 51 or higher DEF = 9 DMG
+
+=== '''SPD (Speed)''' ===
+Increases the speed at which the character moves. Base (0) is 4 tiles per second, then each point adds about 0.07467 tiles per second.
+ Actual speed in T/s (tiles per second) = 4 + 5.6 * (SPD / 75)
+
+ 50 SPD: 7.733 T/s
+
+ 75 SPD: 9.6 T/s
+
+ T/s while Speedy: Normal * 1.5 (75 SPD with Speedy means 14.4 T/s movement speed)
+
+=== '''DEX (Dexterity)''' ===
+Increases the speed at which the character attacks. Base (0) is 1.5 attacks per second, then each point adds about 0.0867 attacks per second.
+ A/s (attacks per second) = 1.5 + 6.5 * (DEX / 75)
+
+ 50 DEX: 5.833 A/s (350 per minute)
+
+ 75 DEX: 8 A/s (480 per minute)
+
+ A/s while Berserk: Normal * 1.5 (75 DEX with Berserk means 12 A/s or 720 per minute)
+
+
+
+=== '''VIT (Vitality)''' ===
+Increases the speed at which hit points are recovered. Base (0) is 1.0 HP per second, then each point adds about 0.12 HP per second.
+ HP/s (hp per second) = 1 + 0.12 * VIT
+
+ 40 VIT: 5.8 HP/s
+
+ 75 VIT: 10 HP/s
+
+ HP/s while Healing: Normal + 20 (75 VIT with Healing means 30 HP/s)
+
+
+
+=== '''WIS (Wisdom)''' ===
+Increases the speed at which magic points are recovered. Base (0) is 0.5 MP per second, then each point adds about 0.06 MP per second.
+ MP/s (mp per second) = 0.5 + 0.06 * WIS
+
+ 50 WIS: 3.5 MP/s
+
+ 75 WIS: 5 MP/s
+Also modifies the intensity, range, and duration of Priest Tomes, Paladin Seals, and Mystic Orbs, the radius and damage of Necromancer Skulls, the amount of targets and damage of Sorcerer Scepters and the damage of Assasins poison but only when the user’s WIS stat is more than 50.
+ modified value = initial value * (1 + (WIS - 50) / 50)
+Your ability potential multiplier can’t go below 1 (formula above only applies when Wisdom is 50 or higher). At 75 Wisdom your ability potential is 1.5 times that of if you had 50 Wisdom.
+
+=== '''EVA (Evasion)''' ===
+The evasion stat gives a chance to dodge attacks. This stat is hidden in screen and can only be checked through the "/checkevasion" command. All enemies and players have a base evasion of 5. Players can only increase evasion through the skill tree and with the speedy buff.
+ Chance to dodge (%) = Evasion
+
+== '''Effects''' ==
+Effects are temporary modifiers that enhance or reduce the abilities of the players.
+
+=== <u>'''Positive effects (Buffs)'''</u> ===
+
+==== Armored ====
+This effect doubles the defense stat. If you are affected by "Armor broken", it takes priority and your defense remains at 0.
+ Defense = Defense * 2
+
+==== Berserk ====
+This effect increases your attack speed by 50%. If you are affected by "Dazed", it takes priority and your dextery remains at 0
+ Attack speed = A/s * 1.5
+
+==== Damaging ====
+This effect increases weapon damage by 50%. If you are affected by "Weak", it takes priority and your attack remains at 0.
+ Weapon damage = TotalDamage * 1.5
+
+==== Daze Immune ====
+This effect makes you inmune to the negative effect "Daze". This effect is only used by some enemies/bosses.
+
+==== Healing ====
+This effect increases HP regeneration by 20 HP per second.
+ Healing = HP/s + 20
+
+==== HP Boost ====
+This effect increases the maximum HP of the player for a determined amount dependent of the seal and wisdom of the caster (only one of this buffs can be active at once. The highest hp boost takes priority).
+ TotalHP = HP + HPIncrease
+
+==== Invisible ====
+This effect allows the player to turn invisible, making the enemies ignore him (if using the bulwark rune, it will take preference), yet not being inmune to damage. 
+
+==== Invulnerable ====
+This effect reduces all damage taken to 0, but doesn't block status effects.
+ Damage = 0
+
+==== Paralyze Immune ====
+This effect makes you inmune to the "Paralyze" effect. This effect can only be used by some enemies/bosses.
+
+==== Speedy ====
+This effect increases the movement speed by 50%. If you are affected by "Slowed", it takes priority and your speed remains at 0. This also increases evasion by 10.
+ Movement speed = T/s * 1.5
+
+==== Stasis Immune ====
+This effect makes you inmune to the "Stasis" effect. This effect can only be used by some enemies/bosses.
+
+==== Stun Immune ====
+This effect makes you inmune to the "Stun" effect. This effect can only be used by some enemies/bosses.
+
+==== Purify ====
+This effect removes all the negative effects affecting the player.
+
+=== '''<u>Negative effect (debuffs)</u>''' ===
+
+==== Armor Broken ====
+This effect sets your armor to 0. 
+ Damage taken = ShotDamage - Defense * 0 = ShotDamage
+
+==== Bleeding ====
+This effect drains your HP by 20 per second. It cannot kill and stops HP regeneration through VIT.
+ HPLostPerSecond = 20 - VITHealing * 0
+
+==== Blind ====
+This effect reduces your area of vision by making the screen darker.
+ Screen brightness = Original brightness - blind darkness  (i'm just joking at this point, nobody needs these formulas)
+
+==== Confused ====
+This effect changes controls by rotating directional controls counterclockwise and reversing rotation controls. Left > Down, Down > Left, Right > Up, Up > Right, Rotate Left > Rotate Right, Rotate Right > Rotate Left.
+
+==== Curse ====
+This effect causes the affected target to take 20% more damage (applied after defense)
+ DamageCaused = (ShotDamage - TargetDefense) * 1.2
+
+==== Darkness ====
+This effect causes visibility to decrease to a small area around the player and prevents enemies from displaying red dots on the minimap
+
+==== Dazed ====
+This effect causes the player dextery to drop to 0 and nullifies the effect of "Berserker".
+
+==== Drunk ====
+This effect blurs the screen if Hardware Acceleration is disabled, or heavily warps the screen if Hardware Acceleration is enabled. 
+
+==== Exposed ====
+This effect reduces the target's defense by 20 (can turn negative).
+ DamageCaused = ShotDamage - (TargetDefense -20)
+
+==== Hallucinating ====
+This effect replaces how objects and enemies look on screen with random object or enemy sprites.
+
+==== Hexed ====
+This effect turns the player into a pet. This effect is endless, but can be removed with the "Purify" effect or touching water.
+
+==== Paralyzed ====
+This effect makes the affected character completely immobile
+
+==== Petrify ====
+This effect makes the player both stunned and paralyzed. During the duration the player can only use his ability and take damage reduced by a 10%
+ DamageTaken = ShotDamage * 0.9
+
+==== Quiet ====
+This effect reduces the character MP to 0 and blocks any way of MP regeneration.
+
+==== Sick ====
+This effect blocks any way of healing but through the effect "HP boost"
+
+==== Silenced ====
+This effect blocks the players from using their abilities 
+
+==== Slowed ====
+This effect causes the player's speed to drop to 0 and nullifies the Speedy effect
+
+==== Stasis ====
+This effect makes the target unable to move or attack, but also makes it inmune to damage
+
+==== Stunned ====
+This effect makes the target unable to attack
+
+==== Unstable ====
+This effect makes the target shoot in random directions when using their attacks or abilities.
+
+==== Weak ====
+This effect reduces the target's attack to 0 and nullifies Damaging
+
+=== '''<u>Others</u>''' ===
+
+====<nowiki/>====
+
+==== Loot boost ====
+Loot boost is a boost that's always active and increases the chance of getting better loot. There are various ways of increasing your loot boost.
+* Loot potions increase your loot boost by 50% for 30 minutes
+* Using the Looter keystone and loot nodes can increase your loot boost up to 24%
+* There are 3 utility runes for increasing your loot boost
+** Solo Thief: +75% loot boost if alone in the instance when killing the enemy, but -25% per player in the instance.
+** Dreadstump's Greed: +33% loot boost, but can't get loot boost from dealing damage
+** Eye for an eye: +45% loot boost, but can only get white bags.
+* By having certain items in your inventory:
+** Kendo Stick: +0.8% loot boost
+** Fire Sword: +1.5% loot boost
+** Useless Katana: +2.5% loot boost
+** Lucky Potion: +3% loot boost
+* Through guild loot boost (up to 100%)
+* During Sundays everyone has +25% loot boost
+* Through damaging enemies:
+** +2% to loot boost per 1% of damage dealt on any enemy
+** +50% to loot boost if you've dealt 100% damage (additive with the previous rule)
+* Epic enemies, +250% loot boost
+This can make up to a total of +888% loot boost if soloing an epic enemy
+ FinalDropChance = OriginalDropChance * LootBoost
+Example with 300% loot boost for a legendary item (0.038% original drop chance):
+ FinalDropChance (for any legendary item) = 0.038% * 300%/100 = 0.114%
+
+==== Fame boost ====
+Fame boost is a boost than applies on death. Whenever you die, there is a list of challenges that if completed, increase the death fame. Also, after the complete calculation is done, the guild boost (if you have one) applies, making up to twice death fame (+100% death fame boost).
+ Fame on death = (Base fame + (Base fame · (sum of all other boosts)) · guild boosts

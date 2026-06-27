@@ -1,0 +1,44 @@
+{
+ "dungeon": "GENUINE ROTF multi-dungeon run (~150s, readable chat; player died at end). Main boss = CRACKED CORE (built) — strong CORROBORATION of its glitch/corruption taunts. Also: a WOODLAND LABYRINTH dungeon + Treesmasher event boss + ROTF systems (Arcane Symbol blessing, coin-analysis). RESOLVES the earlier 'Cracked Gore' lead = a spelling variant of built Cracked Core.",
+ "map": "DOCUMENTED-from-frames+minimaps: CRACKED CORE arena = a BLUE/DARK COSMIC chamber with white/blue CRYSTALS (glitch/void theme). Also a brown/orange DIRT+ROCK dungeon (Woodland Labyrinth interior / another dungeon), a green grass realm, and a tan/sandy structured room. Multi-dungeon run; no single contiguous layout.",
+ "bosses": [
+  {
+   "name": "Cracked Core",
+   "phases": ["DOCUMENTED-from-build: glitch/corruption boss with escalating DOOM lines"],
+   "attacks": ["DOCUMENTED-from-frames (f_210, crowd/chat-obscured): scattered white/blue bullets in a blue cosmic crystal arena -> scattered/spread; no clean geometry isolatable."],
+   "minions": [],
+   "colorFlashes": "blue/cosmic crystal",
+   "taunts": [
+    "D--ie w-a-rr-i-o-r!",
+    "H-h-h-h-h-h-h-h-h",
+    "DOOOOOOOOOOOOOOOOOOOM!!!",
+    "These creatures are too overwhelming!!!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix 'Cracked Core', glitch-text). ALREADY BUILT (OCBosses.cs:42, object 0x8fd1). CORROBORATION: my reads 'D... ie-war-ien' = built 'D--ie w-a-rr-i-o-r!' (Die warrior, glitched); 'H-h-h...' / 'OOOOM!!!' / 'These creatures are too d[...]'='too overwhelming!!!' all match built. NAME RESOLUTION: the death-notifier/announcer spelling 'Cracked Gore' (my earlier disc_pPVFeHzz3co lead) = THIS built 'Cracked Core' (Core/Gore variant), NOT a new boss. Candidate-new line 'that was close' read but NOT in built set -> FLAGGED low-confidence (possible misread), NOT asserted/built."
+  },
+  {
+   "name": "Treesmasher",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-feed ('Flayer - A Treesmasher has just spawned!'). Well-attested (16 prior specs, partly built/base) tree/forest event boss -> corroboration, name-only here (no taunt captured)."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Arcane Symbol x10 consumed -> 'blessing you...' (a blessing/empower consumable system)",
+  "'You have analyzed the coin, discovering [...]' (a coin-analysis system)",
+  "Potion of Vitality / Potion of Wisdom"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Woodland Labyrinth opened by Ziperder (dungeon; 2 specs, unbuilt)",
+  "A Treesmasher has just spawned (announcer Flayer; 16 specs, partly built)",
+  "A Realm Giant has just spawned (announcer Djinn)",
+  "The Shadowscale has been defeated (announcer Skeleton; built) — corroboration"
+ ],
+ "mechanics": "DOCUMENTED ROTF SYSTEMS: (1) ARCANE SYMBOL blessing — 'Arcane Symbol x 10 consumed, blessing you...' (consume arcane symbols for a blessing/buff). (2) COIN-ANALYSIS — 'You have analyzed the coin, discovering [...]' (a coin/identify system). (3) the /8 + /16 death counters. (4) multi-persona announcers (Flayer, Djinn, Starforce, Skeleton, Death Notifier). Main boss CRACKED CORE (built glitch/corruption boss, blue cosmic crystal arena). WOODLAND LABYRINTH dungeon + Treesmasher/Realm Giant event spawns.",
+ "uncertain": "CORROBORATION-heavy: Cracked Core is ALREADY BUILT -> its taunts here confirm the build (glitch-text 'D--ie w-a-rr-i-o-r!' etc.). The 'that was close' line is FLAGGED candidate-new but LOW confidence (not in built set; possible misread) -> NOT built. 'Cracked Gore' announcer spelling = the built 'Cracked Core' (resolves the earlier name-only lead, NOT a new boss). Attacks crowd/chat-obscured (no clean geometry). Woodland Labyrinth + Treesmasher + Realm Giant are dungeon/event names (no taunts captured here). ROTF-confirmed (built bosses + systems; no TFR/gems).",
+ "confidence": "MEDIUM (corroboration). GENUINE ROTF. Best value: strong CORROBORATION of built CRACKED CORE (4 glitch taunts confirmed, incl. resolving 'Die warrior!' from the glitch-text) + RESOLVES the 'Cracked Gore' name lead (= Cracked Core) + documents WOODLAND LABYRINTH dungeon + Treesmasher event + Arcane-Symbol-blessing & coin-analysis systems. Recorded honestly: built-boss corroboration, name variant resolved, candidate-new 'that was close' flagged (not built), attacks crowd-obscured (not fabricated). Best follow-up: build Woodland Labyrinth / Treesmasher leads; verify the 'that was close' line."
+}

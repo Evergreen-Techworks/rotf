@@ -1,0 +1,17 @@
+{
+ "dungeon": "(GREY-LABYRINTH dungeon, likely The Shatters) ROTF — Hela's Power staff (full stats) + labyrinth biome",
+ "source": "video disc_WrAfGGUcuhA (213 frames, 12 transitions, 53 chat). Heavy grey-stone LABYRINTH/MAZE dungeon (pink/orange bullet-hell) — The-Shatters-style; plus a green forest where the player inspects an item. Chat = loot feed (no boss taunts captured).",
+ "map": "DOCUMENTED biomes: grey-stone LABYRINTH/MAZE rooms with pink + orange bullet patterns (resembles The Shatters machine-dungeon), green forest, purple/dark zones, a 'LEGENDARY' loot overlay.",
+ "bosses": [
+  {"name":"(Shatters-style labyrinth boss — not captured in a fight frame)","phases":[],"attacks":["scattered pink/white dot bursts + orange clusters across the grey maze (no single boss isolated this run)"],"minions":[],"colorFlashes":"pink/orange","taunts":[],"note":"ATTACK-PATTERN PASS (new workflow): the grey-labyrinth frames show pink/white scattered dot-bursts + orange bullet clusters, but no boss was captured in a clean fight frame, so no named boss/pattern this tag. Biome strongly matches The Shatters (Marble Colossus / Forgotten King family already seen in other specs)."}
+ ],
+ "minions": [],
+ "drops": ["Hela's Power (staff, Wizard/Necromancer/Mystic — full stats in mechanics; Hela's Asgard drop)"],
+ "recovered_items": [
+  {"name": "Hela's Power", "type": "staff (Wizard/Necromancer/Mystic)", "stats": "5 shots; 100-360 damage; shots hit multiple targets + pass through obstacles; On Equip +80 Max HP, +12 Wisdom, Fame Bonus 7%; 3.8% chance on hit to CURSE the enemy for 2.2s", "desc": "'A magical staff containing the remains of power that Hela once held.' — Hela's drop (the Asgard goddess, built boss)."}
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: (1) ITEM 'Hela's Power' — a STAFF with FULL stats (5 shots, 100-360 dmg, multi-target + piercing, +80HP/+12Wis/+7% fame, 3.8%-curse-2.2s on hit). Hela's drop -> add to the Asgard Hela loot table. (2) Damage-contribution loot ('100% damage dealt'). (3) The-Shatters-style grey labyrinth biome (pink/orange bullet-hell). Loki 'Hahahaha!' seen (Asgard, already documented).",
+ "uncertain": "No boss captured in a fight frame -> attack-pattern pass yielded only loose observations. The labyrinth dungeon name not printed (The Shatters inferred from biome + the Marble-Colossus/Forgotten-King family in other specs). Hela's Power exact tier unknown.",
+ "confidence": "HIGH for the 'Hela's Power' staff (full stats, verbatim tooltip) — a real Asgard/Hela drop. MEDIUM for The-Shatters biome ID; LOW for boss/attack-pattern (none cleanly captured)."
+}

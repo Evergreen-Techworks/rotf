@@ -1,0 +1,4 @@
+# Forest Maze
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Forest%20Maze&prop=wikitext
+
+asdf

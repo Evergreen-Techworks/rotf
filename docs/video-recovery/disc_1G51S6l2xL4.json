@@ -1,0 +1,13 @@
+{
+ "dungeon": "NOT ROTF / NOT RotMG — misqueued video. All frames (f_*.png, bossends/, _contact.png) show a 3D third-person realistic game: a stone medieval castle/fortress gate with a portcullis, grass courtyard, water. RotMG/ROTF is 2D top-down pixel art, so this is unrelated content that entered the queue via channel-expansion. No buildable ROTF content.",
+ "map": "N/A (not RotMG). Frames depict a 3D fortress gatehouse: tall stone curtain walls, an arched portcullis gate, a grassy approach and a small water channel — a realistic 3D scene, not a top-down tiled dungeon. No RotMG room/arena layout present.",
+ "bosses": [
+  {"name":"(none — not RotMG)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"No RotMG bosses. The 14 bossends/ frames all show the same 3D castle scene; the fade-to-black they bracket is a video outro/end-card (near-black final f_ frame with unreadable JPEG-degraded center text), NOT a dungeon-exit loading screen. blackdetect false-positive on a non-RotMG video."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "N/A — not ROTF. This is a 3D third-person game (realistic castle/fortress), not the 2D RotMG/ROTF engine. The chat_*.png crops captured 3D world terrain (grass + cobblestone wall) instead of a 2D chat box, confirming no RotMG HUD is present. PROCESS NOTE: channel-expansion (adding whole creator channels) can pull in non-RotMG uploads; bossends/transitions blackdetect fires on any fade-to-black including outros. Tag should be treated as junk for content purposes.",
+ "uncertain": "Game title unidentifiable — the only text is in a near-black outro frame too JPEG-degraded to read. Identity as non-RotMG is certain from the 3D realistic graphics across all 62 f_ frames.",
+ "confidence": "HIGH that this is NOT ROTF/RotMG content (clear 3D realistic graphics, no 2D pixel HUD/chat). Zero buildable value. Recorded only to mark the tag analyzed and flag the channel-expansion mis-pull."
+}

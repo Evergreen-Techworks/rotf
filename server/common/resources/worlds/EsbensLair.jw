@@ -1,0 +1,14 @@
+{
+  "id": 0,
+  "name": "Esben's Lair",
+  "sbName": "Esben's Lair",
+  "difficulty": 4,
+  "background": 0,
+  "blocking": 0,
+  "restrictTp": false,
+  "showDisplays": true,
+  "persist": false,
+  "portals": [
+    33284
+  ]
+}

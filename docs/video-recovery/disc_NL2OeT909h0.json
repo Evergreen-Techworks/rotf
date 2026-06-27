@@ -1,0 +1,13 @@
+{
+ "dungeon": "Living Forest (ROTF green-forest dungeon) + realm exploration",
+ "source": "video disc_NL2OeT909h0 (496 frames, 6 transitions, 124 chat). Heavy GREEN FOREST biome (giant brown tree-trunks + blue water). Chat identified the dungeon ('Living Forest key') + its guide NPC + UI features.",
+ "map": "DOCUMENTED: a GREEN FOREST dungeon/realm — grass + giant brown TREE-TRUNK pillars + blue water channels; player movement leaves dotted green trails; red enemy dots. A magenta/red zone also flashed.",
+ "bosses": [
+  {"name":"LF (Living Forest) Dungeon Guide","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Clear all of them out and I'll be able [to open the way]..."],"note":"DOCUMENTED VERBATIM (NPC-colored chat, truncated). A GUIDE NPC inside the Living Forest dungeon that gates progress on clearing enemies (matches the 'Current number of the remaining enemies: N' clear-gate mechanic). 'LF' = Living Forest."}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "DOCUMENTED: (1) DUNGEON IDENTIFIED — 'LIVING FOREST' dungeon, opened by a 'Living Forest key' ('<Shmitty> I got a living forest key'). Green giant-tree-trunk biome. (2) A GUIDE NPC ('LF Dungeon Guide') directs players to clear enemies before it opens the way (clear-all-enemies gate). (3) UI/QoL: 'tab to make people invisible' = the TAB key toggles OTHER PLAYERS' visibility (declutter crowded fights); 'you can put on auto aim' = an AUTO-AIM setting (alongside Autofire). (4) Fruit stat-pots in use (fruit build): Haste Orange, Defense Coconut, Attack Blackberry ('N more to max' caps).",
+ "uncertain": "Living Forest's BOSS not captured in this sample (mostly realm/clear gameplay + trading); the guide NPC line is truncated. Whether 'Living Forest' relates to 'Collapsed Woods' (Treesmasher) or the Elven forest (Infused Elven King, disc_iBUg7V) — possibly the same forest family — unconfirmed.",
+ "confidence": "HIGH for: the Living Forest dungeon + key + 'LF Dungeon Guide' NPC + the Tab-invisibility & auto-aim UI features + fruit pots. LOW for the dungeon's boss/drops (not captured)."
+}

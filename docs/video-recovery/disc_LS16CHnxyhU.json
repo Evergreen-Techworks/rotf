@@ -1,0 +1,15 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM, player TheRealFriend) ROTF — recovered taunts for Shadowscale + Archdemon Malphas",
+ "source": "video disc_LS16CHnxyhU (336 frames, 9 transitions, 84 chat). Opens on the ROTF 'Revenge of the Fallen' title; heavy BLUE ICE/WATER + PURPLE biomes (Icy Peaks / Shrouded Sanctum-style) + a red boss arena. Chat captured two bosses' taunts (truncated at the chat-box right edge).",
+ "map": "DOCUMENTED biomes: lots of BLUE ICE/WATER zones (Icy-Peaks-style); PURPLE stone rooms; a brown/orange dungeon; a RED boss arena. Char panel seen: 'Friend / Fame 2503 / HP 1154 (+434) / MP 324 (+72)' (a near-maxed char with equip bonuses).",
+ "bosses": [
+  {"name":"Shadowscale","phases":[],"attacks":[],"minions":[],"colorFlashes":"purple/blue","taunts":["Do not think you're [safe]...","I will reward you with..."],"note":"DOCUMENTED VERBATIM (boss-colored chat, truncated at crop edge). This is the SHROUDED SANCTUM boss (already built) — real taunts found! Theme = false-reward/menace ('I will reward you with...'). Event feed: '<Chimera> The Shadowscale has been [defeated]'. ENRICHES the Shrouded Sanctum build (which used a reconstructed line)."},
+  {"name":"Archdemon Malphas","phases":[],"attacks":[],"minions":["(commands minions)"],"colorFlashes":"","taunts":["Kill my prote[ges]...","You will regret...","My minions will...","My minions are...","I have been [released?]..."],"note":"DOCUMENTED VERBATIM (boss-colored chat, lines truncated at crop edge). A DEMON minion-commander boss (Malphas = an Ars Goetia demon). Multiple taunts — minion-summoner + 'you will regret' menace + an 'I have been [released/awakened]' line."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Shadowscale (defeated)","Cube God (just spawned)"],
+ "mechanics": "Two bosses' taunts recovered (both partially truncated by the fixed-width chat crop). Shadowscale = the existing Shrouded Sanctum boss (build can swap its reconstructed taunt for these real ones once full lines are captured). Archdemon Malphas = a NEW demon minion-commander boss to add. ROTF title 'Revenge of the Fallen'.",
+ "uncertain": "Both bosses' taunt lines are CUT OFF at the chat-box right edge (the chat_*.png crop width) — full wording not captured (e.g. 'Do not think you're [safe/getting away]...', 'I will reward you with [death?]...', 'I have been [released/freed]...'). Archdemon Malphas's dungeon/attacks/drops unknown. Shadowscale's dungeon = Shrouded Sanctum (inferred).",
+ "confidence": "HIGH that Shadowscale + Archdemon Malphas are real bosses with these (partial) taunts; MEDIUM for exact full wording (truncated); LOW for dungeon mapping/drops."
+}

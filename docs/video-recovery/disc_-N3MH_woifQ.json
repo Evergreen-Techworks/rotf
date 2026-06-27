@@ -1,0 +1,15 @@
+{
+ "dungeon": "(ASGARD THRONE-ROOM BOSS FIGHT, player Schmutz) ROTF — near-complete FRUIT stat-pot roster + Asgard gods' on-death taunts",
+ "source": "video disc_-N3MH_woifQ (927 frames, 9 transitions, 232 chat). A focused boss fight in a GOLD-CRYSTAL circular arena (= Asgard's Throne Room) with elaborate bullet-hell (rainbow beam, spirals, rings, radial). Chat captured the full stat-pot feed + Asgard boss taunts.",
+ "map": "DOCUMENTED: a large grey-stone CIRCULAR arena ringed by GOLD crystals/spikes (Asgard's gold THRONE ROOM), approached via a green/snow realm. Boss bullet patterns: a RAINBOW beam/bridge, spiral pinwheels of white shots, concentric rings, radial bursts.",
+ "bosses": [
+  {"name":"Heimdall (Asgard)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["nooo!!!!"],"note":"DOCUMENTED VERBATIM (boss-colored chat). An ON-DEATH panic line for the Asgard god Heimdall (in the build). The Asgard gods cry out when killed."},
+  {"name":"Thor (Asgard)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["noooo :C"],"note":"DOCUMENTED VERBATIM. Thor's ON-DEATH panic line (with a ':C' sad emote). Enriches the Asgard build."},
+  {"name":"(Asgard throne-room caster — robed, likely Odin/Loki)","phases":["spiral pinwheel","rainbow beam","concentric rings","radial burst"],"attacks":["spiral of white shots","rainbow beam/bridge","ring + radial bullet-hell"],"minions":[],"colorFlashes":"gold/rainbow","taunts":[],"note":"A robed humanoid boss casting spiral/ring bullet-hell in the gold throne room; name not legibly captured (HP-bar too faint). Part of the Asgard god fight."}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "MAJOR STAT-POT RECOVERY (this is the FRUIT-NAMED build — it fruit-names ALL stats, not just some). Verbatim '[Server] <Stat> <Fruit> consumed. N more to max.' roster now near-complete: Life(HP)->STRAWBERRY, Mana(MP)->BLUEBERRY, Attack->Blackberry, Defense->Coconut, Speed->KIWI, Dexterity->PEPPER, Wisdom->Elderberry, Haste->Orange. (Only Vitality's fruit still unseen.) This SUPERSEDES the earlier assumption that HP/MP keep 'Potion of Life/Mana' — that was a DIFFERENT (vanilla-named) build; the fruit build uses Strawberry/Blueberry. Also: 'walls for next phase' / 'wall' = a phase mechanic (players wall up between boss phases); Autofire toggle setting.",
+ "uncertain": "The throne-room caster boss's name not legibly read (HP-bar faint). Vitality's fruit-pot name still unknown. Exact bullet-pattern->phase mapping approximate. Heimdall/Thor lines are on-death panic (inferred from context).",
+ "confidence": "HIGH for the fruit stat-pot roster (8/9 stats, verbatim) + the Heimdall/Thor on-death taunts + Asgard throne-room arena + the 'wall' phase mechanic. MEDIUM for the caster boss identity; LOW for exact phase mapping."
+}

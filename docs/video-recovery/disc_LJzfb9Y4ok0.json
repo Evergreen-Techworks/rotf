@@ -1,0 +1,30 @@
+{
+ "dungeon": "GENUINE ROTF target-server single-dungeon clip — a PUPPET-MASTER-style fight where a low-HP 'Oryx' PUPPET (only 75000 HP) impersonates Oryx the Mad God, mocks players, then dies as 'Oryx Puppet', plus a controller line about losing 'henchmen'. Corroborates the built/queued The Puppet Master boss (puppet + henchmen theme). Chat partly readable; one solid HP-taunt + a death cry + a henchmen line.",
+ "map": "DOCUMENTED-from-bossends+f_frames: a multi-room interior dungeon — a green/yellow CHECKERED GRID arena (stone surrounds), a PURPLE/dark CHECKERED GRID arena, and a CASTLE INTERIOR room (tan BRICK walls, a CANDELABRA prop, a RED CARPET) with red/lava brick edges. Boss fought across these grid/castle rooms (the bossend climax is in the brick+candelabra+carpet castle room). Single-dungeon (entry 1s, climax ~74s, end ~225s).",
+ "bosses": [
+  {
+   "name": "Oryx Puppet (impersonates 'Oryx the Mad God')",
+   "phases": ["taunts at full HP -> 'Nooooo! This cannot be!' on death"],
+   "attacks": ["DOCUMENTED-from-bossends but APPROXIMATE: scattered PURPLE/BLUE + white bullets across the grid/castle arena -> no single clean geometric pattern isolated (edited multi-section bossend). Reconstructed class: spread/scattered. NOT a confidently-traced spiral/ring."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["Miniscule worms! I still have 75000 hitpoints!", "Nooooo! This cannot be!"],
+   "note": "DOCUMENTED-from-chat (wide-re-crop). The entry line reads '<Oryx the Mad God> Miniscule worms! I still have 75000 hitpoints!' but the DEATH line is '<Oryx Puppet> Nooooo! This cannot be!' -> this is a PUPPET impersonating Oryx (75000 HP is far too low for real Oryx; the 'Puppet' death-name confirms it). Ties to THE PUPPET MASTER (built/queued boss-the-puppet-master). NAME read both ways ('Oryx the Mad God' alive / 'Oryx Puppet' on death) -> recorded as the puppet."
+  },
+  {
+   "name": "The Puppet Master (henchmen-controller, inferred)",
+   "phases": [],
+   "attacks": [],
+   "minions": ["Oryx Puppet (+ other 'henchmen' puppets)"],
+   "colorFlashes": "",
+   "taunts": ["Can't... keep... henchmen... alive... anymore? ARGHHH!!!"],
+   "note": "DOCUMENTED-from-chat (wide-re-crop): a controller line lamenting losing its 'henchmen' as the puppets die -> consistent with THE PUPPET MASTER (controls puppet 'henchmen' incl. the Oryx Puppet). Speaker NAME not directly captured on this line -> attribution to the Puppet Master is INFERRED from the henchmen/puppet theme, flagged. Corroborates the built/queued boss-the-puppet-master."
+  }
+ ],
+ "minions": ["Oryx Puppet (a puppet 'henchman')"],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: a PUPPET-MASTER fight — the boss summons/animates PUPPET 'henchmen' (here an 'Oryx Puppet' that impersonates 'Oryx the Mad God' with a tell-tale low 75000 HP and mocks players 'Miniscule worms!'). When a puppet dies it cries 'Nooooo! This cannot be!' and the controller laments 'Can't... keep... henchmen... alive... anymore? ARGHHH!!!'. CORROBORATES the built/queued The Puppet Master boss (puppet/henchmen + the fake-death/plot-twist theme from disc_IBEp1CbA00Q). GENUINE ROTF. The '75000 hitpoints' self-announce is a distinctive HP-taunt gimmick.",
+ "uncertain": "Boss NAME: 'Oryx the Mad God' (alive) vs 'Oryx Puppet' (death) — recorded as the Oryx Puppet (a Puppet-Master puppet). The henchmen line's SPEAKER not directly captured -> Puppet-Master attribution INFERRED from theme, flagged. ATTACK: scattered purple/blue bullets, no clean geometric pattern isolated (edited bossend) -> approximate/reconstructed, NOT confidently classed. Some taunts mid-screen, partial player chat around them.",
+ "confidence": "MEDIUM-HIGH for the CHAT taunts (HP-taunt 'Miniscule worms! I still have 75000 hitpoints!' + 'Nooooo! This cannot be!' death + the henchmen line — all wide-re-crop-read, clear). MEDIUM for the Puppet-Master attribution (inferred from puppet/henchmen theme — corroborates the built boss). LOW for ATTACK (scattered bullets, not cleanly traced -> flagged, not invented). GENUINE ROTF. Net value: corroborates + enriches The Puppet Master with a concrete puppet ('Oryx Puppet') + 3 verbatim lines. Best follow-up: a clean single-boss clip for the Puppet Master's own taunts + attack geometry."
+}

@@ -1,0 +1,76 @@
+{
+ "dungeon": "GENUINE ROTF CHRISTMAS/HOLIDAY EVENT compilation (~420s, 28 dungeon entries; reindeer-named players Dancer/Comet/Dasher/Prancer + 'Happy Holidays'). Structured as an '8-DUNGEON CHALLENGE' (a prominent X/8 counter climbs 0/8 -> 8/8 as dungeons are cleared). HIGH value: multi-boss taunt haul — 2 unbuilt build-candidates with taunts (Nikad full set; The Forgotten King) + CONFIRMATION of built Twilight Archmage / Troll Matriarch / Marble Colossus lines + documented event mechanics.",
+ "map": "DOCUMENTED-from-frames+transitions: an 8-dungeon TOUR (no single layout) — biomes cleared in sequence include SNOWY/ICE arenas, RED/LAVA arenas, ORANGE/sandy grids, GREEN grass realms, COLORFUL-tiled rooms, and BROWN dirt rooms. Each is a self-contained boss arena entered via portal; the X/8 challenge counter + 'Current number of the remaining enemies <N>' track clear progress. Crowded public-event arenas.",
+ "bosses": [
+  {
+   "name": "Nikad",
+   "phases": ["DOCUMENTED-from-chat: a minion/summon phase ('my minions will!' / 'My minions will help me!') + a final defeat line ('This cannot be! I have l[ost]')"],
+   "attacks": ["not cleanly traced (crowded compilation). Reconstructed: minion-summon + spread, fitting the 'minions' theme."],
+   "minions": ["(unnamed) Nikad's minions"],
+   "colorFlashes": "",
+   "taunts": [
+    "If I don't kill you, my minions will!",
+    "Look out! My minions will help me!",
+    "You're a nasty little pest!",
+    "You cannot handle the full power of...",
+    "Nooooooo! This cannot be! I have l..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix 'Nikad', grayscale-pull). NOT built (1 prior spec) -> STRONG build candidate (full taunt set + minion-summoner gimmick). 2 lines tail-CUT (partial): 'You cannot handle the full power of [...]!', 'Nooooooo! This cannot be! I have l[ost]...'. The first 3 lines read complete."
+  },
+  {
+   "name": "The Forgotten King",
+   "phases": [],
+   "attacks": ["not cleanly traced (crowd). Reconstructed."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "You would challenge me?! and..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix 'The Forgotten King', grayscale-pull). WELL-ATTESTED (14 prior specs) but NOT built -> strong build candidate. Line tail-CUT ('You would challenge me?! and[...]') -> partial; consolidate with the 14 prior specs for the full taunt set before building."
+  },
+  {
+   "name": "Twilight Archmage",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "Darkness give me strength!",
+    "I... will... retuuurrnnn..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix '<Twilight Archmage>'). ALREADY BUILT. ENRICH/AUDIT value: 'Darkness give me strength!' CONFIRMS the FULL form of the earlier cut enrich-lead 'Darkness give me str...' (disc__WkTRDW_vQ0) -> now verbatim-complete. NEW DEATH LINE 'I... will... retuuurrnnn...' (= 'I will return') not yet built -> enrich lead."
+  },
+  {
+   "name": "Troll Matriarch",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "This forest will be your tomb!",
+    "I call upon the aid of warriors past!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix 'Troll Matriarch'). ALREADY BUILT (just enriched). CORROBORATION: both lines match the enriched build VERBATIM ('This forest will be your tomb!' + 'I call upon the aid of warriors past!') -> validates the recent enrich-troll-matriarch pass (second independent source)."
+  },
+  {
+   "name": "Marble Colossus",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (b022_183s, lava arena): an ORANGE radial RING-NOVA / curved arc of bullets from center (red/lava arena)."],
+   "minions": [],
+   "colorFlashes": "orange nova",
+   "taunts": [
+    "I feel my..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix 'Marble Colossus'). ALREADY BUILT. CORROBORATION: 'I feel my[self... slipping]...' matches the built crumbling line. (b022 lava-arena orange radial-nova attack may belong to a different lava boss in this multi-dungeon tour, not necessarily Marble Colossus -> attack attribution uncertain.)"
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Event Chest / 'The Reward Chest has spawned!' (public-event reward chest)",
+  "Potion of Speed / Potion of Life Consumed (potion use)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED ROTF SYSTEMS: (1) an '8-DUNGEON CHALLENGE' — a persistent X/8 counter climbs 0/8 -> 8/8 as dungeons are cleared (distinct from the /3, /30, /25, /150 event counters; this is a clear-8-dungeons quest). (2) 'Current number of the remaining enemies <N>' — a per-arena remaining-enemy COUNTDOWN. (3) 'Event Chest - The Reward Chest has spawned!' shared reward chest. (4) '8 MIN SHATTS' — a Shatters dungeon 8-minute event timer. (5) boss ATTACK-TELEGRAPH lines ('3 seconds until the next attack!'). (6) CHRISTMAS/HOLIDAY event (reindeer player names Dancer/Comet/Dasher/Prancer + 'Happy Holidays'). (7) a '20/20' indicator (maxed quest/stat). Bracket-prefixed boss speech (server convention).",
+ "uncertain": "Crowded multi-dungeon HOLIDAY compilation -> ATTACK geometry mostly NOT isolatable (only b022's orange radial-nova in a lava arena is clean, and its boss attribution is uncertain in a multi-dungeon tour). Several taunts tail-CUT (Nikad 'full power of...' + 'I have l...'; Forgotten King 'and...'; Marble Colossus 'I feel my...') -> partial, verify tails. Twilight Archmage 'Darkness give me strength!' + 'I... will... retuuurrnnn...' read clean (the former confirms a prior cut lead). Troll Matriarch + Marble Colossus lines are CORROBORATION of built bosses. Nikad + Forgotten King are unbuilt -> consolidate with prior specs (Forgotten King has 14) before building.",
+ "confidence": "HIGH (taunt IDs + corroboration) / LOW (attack geometry, crowd-obscured). GENUINE ROTF holiday event. Best finds: (a) NIKAD full taunt set (unbuilt -> build candidate w/ minion-summoner gimmick); (b) THE FORGOTTEN KING (14 specs, unbuilt -> strong candidate); (c) AUDIT WINS — confirms built Troll Matriarch (validates recent enrich) + Marble Colossus lines, and confirms Twilight Archmage 'Darkness give me strength!' (full form of a prior cut lead) + a NEW death line 'I... will... return...'. Recorded honestly: built-vs-unbuilt separated, cuts flagged, attacks DOCUMENTED-vs-reconstructed, attack attribution uncertainty noted, no fabrication. Best follow-up: ENRICH Twilight Archmage with the 2 confirmed lines; build Nikad + Forgotten King (consolidate prior specs)."
+}

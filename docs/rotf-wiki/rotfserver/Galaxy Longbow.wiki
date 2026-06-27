@@ -1,0 +1,30 @@
+# Galaxy Longbow
+# https://rotfserver.fandom.com/api.php?action=parse&page=Galaxy%20Longbow&prop=wikitext
+
+
+{{ItemInfo
+| name = Galaxy Longbow
+| slot = bow
+| tier = GL
+| soulbound = yes
+| desc = A bow of incredible power, said to be all the energy of a singular galaxy, condensed into one single weapon.
+
+| rof = 100
+| range = yes
+| projSpeed = 16
+| lifetime = 470
+| minDmg = 75
+| maxDmg = 90
+| shots = 3
+| arcgap = 8
+| fameb = 6
+
+| effects = yes
+| multihit = yes
+
+| lootbag = white
+}}
+<noinclude>
+[[Category:Bows]]
+{{NavBows}}
+</noinclude>

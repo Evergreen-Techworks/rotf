@@ -1,0 +1,4 @@
+# Rotting Arm
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Rotting%20Arm&prop=wikitext
+
+asdf

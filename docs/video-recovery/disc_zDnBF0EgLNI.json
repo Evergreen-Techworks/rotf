@@ -1,0 +1,35 @@
+{
+ "dungeon": "GENUINE ROTF short edited MEME clip (~100s; creator inserts cartoon reaction-images + a router meme; PREVIOUS/RANDOM/SUBSCRIBE outro). Boss content = STONETAKER (built) in a red/maroon rocky arena + a Marble Colossus line (built). Corroboration of 2 built bosses + 1 candidate-new Stonetaker fragment (flagged uncertain).",
+ "map": "DOCUMENTED-from-frames: the STONETAKER arena = a RED/MAROON ROCKY/stone arena where white BONE/STONE minions cluster around the boss; small white bullets scatter. (Stone/rock theme fits the 'beautiful stones' boss.) Edited clip -> broader layout not traced. A separate red arena shows a coiled-SERPENT bullet pattern (b004/b005, unattributed).",
+ "bosses": [
+  {
+   "name": "Stonetaker",
+   "phases": ["DOCUMENTED-from-build: an ENRAGE phase (built 'enrage' states with 'LEAVE MY STONES ALONE!' / 'NOT MY STONES!!!!!')"],
+   "attacks": ["DOCUMENTED-from-frames (b003@10s): SUMMON white BONE/STONE minions (cluster) + scattered small white bullets in the red rocky arena -> summon + scatter; no clean geometric pattern isolatable."],
+   "minions": ["white bone/stone constructs"],
+   "colorFlashes": "red/maroon rocky; white bullets",
+   "taunts": [
+    "Mmm... Beautiful stones...",
+    "LEAVE MY STONES ALONE!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix 'Stonetaker', grayscale-pull over red floor). ALREADY BUILT (OCBosses.cs:121). CORROBORATION: 'Mhm... Beautiful stones...' = built 'Mmm... Beautiful stones...' (build's 'Mmm' kept); 'Leave my stones alone!' = built 'LEAVE MY STONES ALONE!'. I also read a '...Wait you are not...' tail after 'Beautiful stones...' -> FLAGGED candidate-new ('Beautiful stones... Wait you are not [...]?', boss noticing the player) but LOW confidence (low-contrast red-floor read; may be a bleed) -> NOT asserted/built."
+  },
+  {
+   "name": "Marble Colossus",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "I feel myself... Slipping... Into the void... It is so... Dark..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix 'Marble Colossus', 'I feel mysel[f]...'). ALREADY BUILT. CORROBORATION of the built slipping/void line."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: STONETAKER (built) — a stone/rock-obsessed boss in a red/maroon rocky arena, summons white BONE/STONE minions + scattered white bullets, with an ENRAGE phase ('LEAVE MY STONES ALONE!'). Marble Colossus corroborated ('I feel myself... slipping...'). Edited meme clip (cartoon reaction-images + router meme inserted by creator). No new boss.",
+ "uncertain": "Short EDITED meme clip: bossend group b003 mixes the real fight frame with creator MEME overlays (router image + cartoons) -> attack from the one real frame only (summon + scatter, no clean geometry). Both bosses (Stonetaker, Marble Colossus) are ALREADY BUILT -> corroboration, not new. The Stonetaker '...Wait you are not...' tail is FLAGGED candidate-new but LOW confidence (red-floor low contrast) -> NOT built. A coiled-serpent bullet pattern in a separate red arena (b004/b005) is UNATTRIBUTED (no chat name). ROTF (built ROTF bosses confirm).",
+ "confidence": "MEDIUM (corroboration). GENUINE ROTF. Value: corroborates built STONETAKER (2 taunts + summon/red-rocky-arena/bone-minions documented) + built Marble Colossus (slipping line). 1 candidate-new Stonetaker fragment flagged (NOT built, low confidence). Recorded honestly: built-boss corroboration, uncertain fragment flagged not asserted, meme-overlay bossend noted, unattributed serpent-attack not assigned, attacks not fabricated. No follow-up needed (both bosses built; revisit the 'Wait you are not' fragment if a cleaner clip appears)."
+}

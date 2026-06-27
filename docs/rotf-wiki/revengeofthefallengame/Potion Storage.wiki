@@ -1,0 +1,19 @@
+# Potion Storage
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Potion%20Storage&prop=wikitext
+
+
+In ROTF the main way of making your character stronger is through potions that increase your base stats up to a maximum (8/8). Usually reaching that point can take a long time, so that's where the potion storage makes it's appearance
+[[File:Potion Storage.png|thumb|154x154px]]
+
+== Basics ==
+The potion storage allows you to send the potions you loot as a maxed character directly to your storage. The storage can store up to 99 potions (can be increased with vip ranks) of each type. These can be used at any point by a character that needs them
+
+== Usage ==
+To use the potion storage, first go to your vault, interact with the potion storage and click on whatever you desire to do.
+
+The Sell option allows you to sell the 6 basic potions for 2 fame each, 10 fame for each mana potion and 20 fame for each life potion. Potions sell automaticly if you are maxed and the potion storage is full
+
+The Consume option uses 1 of the chosen potion in the character if possible
+
+The Max option instantly maxes that stat in the character if possible. (DANGER: if your character level is lower than 20, it will still consume as many potions as it needs to take the stat to it's maximum at level 20. This means that you could use 99 life potions without maxing if done in a lvl 1 character. No refunds, you have been warned).
+[[File:PotionStorageMenu.png|centre|thumb|322x322px]]

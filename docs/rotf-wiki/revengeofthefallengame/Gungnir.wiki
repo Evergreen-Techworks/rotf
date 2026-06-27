@@ -1,0 +1,4 @@
+# Gungnir
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Gungnir&prop=wikitext
+
+asdf

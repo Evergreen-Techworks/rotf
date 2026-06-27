@@ -1,0 +1,4 @@
+# Doom Katana
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Doom%20Katana&prop=wikitext
+
+asdf

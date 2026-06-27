@@ -1,0 +1,4 @@
+# The Winged Wand
+# https://rotfserver.fandom.com/api.php?action=parse&page=The%20Winged%20Wand&prop=wikitext
+
+{{ItemInfo|name = The Winged Wand|desc = Riverborn's wings infused with magic allow the wielder full control over the waters within the river|rarity = a|slot = wand|tier = ST|minDmg = 65|maxDmg = 120|shots = 2|rof = 95|range2 = 7.01|fameb = 5|effects = yes|multihit = yes|passthrough = yes|bonuses = {{Stat|att|2}}{{Stat|dex|4}}|dropsFrom = drops from riverborn}}

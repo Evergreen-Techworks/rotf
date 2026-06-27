@@ -1,0 +1,13 @@
+{
+ "dungeon": "ROTF facecam stream (616 frames, ~11 entries) — LOW text yield (webcam covers chat). Biome catalog: white/grey TILED vault dungeons + a green/ICE island + lava + red boss room. Possible 'Magic Woods' entry. GENUINE ROTF (channel-expansion video).",
+ "map": "DOCUMENTED-from-transitions: mostly WHITE/GREY TILED vault-style dungeons (chests + enemies on a tiled grid), a GREEN-grass + CYAN-ICE island (water), orange/LAVA combat areas, a red-enemy boss room, brown dirt. A black loading frame showed text reading 'Magic Woods' (possible dungeon name). Facecam (bottom-left) obscures the chat box.",
+ "bosses": [
+  {"name":"(none recoverable — facecam covers chat)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"No boss taunts/names recoverable — the streamer's webcam sits over the bottom-left chat box (same limitation as disc_0kX-it52bNQ / disc_Z8W1MO1Nv0I — this channel-expansion creator films that way). Tiled-vault + ice-island biomes only."}
+ ],
+ "minions": [],
+ "drops": ["loot fragment seen: '...of Honor (Untiered) Pet' (a pet/item, name partial)", "'WOW landed a [...]' loot line (obscured)"],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED (limited by facecam): a ~11-entry run across white/grey tiled vault dungeons + a green/ice island + lava areas + a red boss room. Possible 'Magic Woods' dungeon (loading text). Chat fully obscured by webcam -> no taunts/event-feed/dungeon-names confirmable.",
+ "uncertain": "Chat box covered by facecam -> no taunts/names recoverable. 'Magic Woods' read off a loading frame (unconfirmed as a dungeon name). The tiled-vault dungeons not name-identified. '...of Honor (Untiered) Pet' item name partial.",
+ "confidence": "LOW for content (facecam blocks chat). MEDIUM only for the biome catalog. GENUINE ROTF. Low-yield facecam tag (recurring pattern for this channel-expansion creator)."
+}

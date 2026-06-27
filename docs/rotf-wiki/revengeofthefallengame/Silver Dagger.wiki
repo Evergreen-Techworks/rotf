@@ -1,0 +1,4 @@
+# Silver Dagger
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Silver%20Dagger&prop=wikitext
+
+asdf

@@ -1,0 +1,4 @@
+# Mysterious Card
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Mysterious%20Card&prop=wikitext
+
+asdf

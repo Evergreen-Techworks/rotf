@@ -1,0 +1,42 @@
+{
+ "dungeon": "GENUINE ROTF multi-dungeon group run (~180s, 8 entries, busy global feed). Corroboration-heavy: base-game Archdemon Malphas (Abyss) + the BUILT ROTF Firebreather (verbatim corroboration of its corrected lines) + an event-boss /25 feed. No NEW boss isolated. Notable build-variant detail: the event-defeat counter is /25 here (vs /30 seen in other builds).",
+ "map": "DOCUMENTED-from-transitions+bossends: an 8-entry multi-dungeon hop — dark SPACE/VOID arenas (b004_70s, scattered red/purple bullets = Abyss/void boss), a distinctive GOLD/YELLOW CHECKERED CROSS-shaped arena (b006-area; Shatters-style cross plus floor), GREEN grass realms, tan SANDY arenas w/ structures, and RED/dark dungeon rooms. No single contiguous layout (hunt-style multi-dungeon).",
+ "bosses": [
+  {
+   "name": "Archdemon Malphas",
+   "phases": [],
+   "attacks": ["void-arena scattered red/purple bullet clusters (b004_70s; approximate, not clean geometry)"],
+   "minions": ["demons ('My minions will slay you!')"],
+   "colorFlashes": "",
+   "taunts": [
+    "You will regret your decision.. DIE!",
+    "My minions will slay you!",
+    "My minions are failing me! I will...",
+    "I have been defeated... My demons will crush you!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured, grayscale-pull). BASE-GAME Abyss-of-Demons boss -> CANONICAL/no-build, corroboration (matches the verbatim set already recovered in disc_PE04BhHHyBk)."
+  },
+  {
+   "name": "Firebreather",
+   "phases": [],
+   "attacks": ["not isolated this tag"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "Death is your reward! Say no more and I'll make it quick!",
+    "Your courage softens me... considering it won't be lasting much longer!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Firebreather', grayscale-pull). CORROBORATES the BUILT ROTF Firebreather lines verbatim (BehaviorDb.FlamingHearth.cs; these are the CORRECTED full lines from a prior verify pass). No new content; no build needed."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [
+  "The Mad Jester has been defeated! (23/25)",
+  "Pentaract Tower Ultra has just spawned!",
+  "The Firebreather has been defeated! (4/25) ... (11/25)"
+ ],
+ "mechanics": "DOCUMENTED: a server-wide EVENT-BOSS /25 defeat-counter feed (Mad Jester 23/25; Firebreather 4/25 -> 11/25; Pentaract Tower Ultra spawn) -> NOTABLE: this build uses a /25 counter, whereas other builds/footage show /30 (the [[rotf-stat-systems]] note had Riverborn 22/30 etc.) -> the event-counter cap is BUILD-DEPENDENT (25 vs 30). Plus 'X has achieved the max level' notifications and a '6man' group-host mention. Bosses are base Malphas (Abyss) + built Firebreather (corroboration).",
+ "uncertain": "No NEW/ROTF-custom boss isolated (all readable bosses = base Malphas + built Firebreather). Attack geometry NOT cleanly traced (void arena = scattered red bullets, gold-cross arena unattributed; no clean ring/spiral). The /25 vs /30 counter difference is build-variant (both observed). Most chat = player banter ('me go toilet', loot calls, 'gibby i can host 6man'). Malphas/Firebreather lines partly right-edge cut but match known verbatim sets.",
+ "confidence": "MEDIUM (corroboration) / NONE (new boss). GENUINE ROTF multi-dungeon run. Value = corroboration of base Malphas + the BUILT Firebreather's corrected lines (verbatim) + a build-variant detail (event counter is /25 here, vs /30 elsewhere). No new buildable boss, no clean attacks. Recorded honestly. Best follow-up: a clean single-boss clip for the gold-cross-arena boss (unidentified)."
+}

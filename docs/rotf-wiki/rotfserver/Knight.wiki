@@ -1,0 +1,46 @@
+# Knight
+# https://rotfserver.fandom.com/api.php?action=parse&page=Knight&prop=wikitext
+
+{{Classbox
+| desc = The knight fights at close range, wears very heavy armor, and uses his shield to stun enemies.
+| weaponSlot = Sword
+| weapon = Short Sword
+| abilitySlot = Shield
+| ability = Wooden Shield
+| armor = HeavyArmor
+| armorLink = Heavy Armors
+
+| hpStart = 250
+| hpLevel = 20 - 30
+| hpCap = 855
+
+| mpStart = 100
+| mpLevel = 2 - 8
+| mpCap = 252
+
+| attStart = 15
+| attLevel = 1 - 2
+| attCap = 50
+
+| defStart = 0
+| defLevel = 0
+| defCap = 45
+
+| spdStart = 7
+| spdLevel = 0 - 2
+| spdCap = 50
+
+| dexStart = 10
+| dexLevel = 0 - 2
+| dexCap = 50
+
+| vitStart = 10
+| vitLevel = 1 - 2
+| vitCap = 75
+
+| wisStart = 10
+| wisLevel = 0 - 2
+| wisCap = 50
+}}
+
+The Knight uses the '''Shield''', making it very popular. PStunning (Permanently Stunning) is very popular among [https://rotfserver.fandom.com/wiki/Galactic_Zones galaxies] especially, making them very easy and less dangerous. Rotf has added many new [https://rotfserver.fandom.com/wiki/Shields shields] to the game.

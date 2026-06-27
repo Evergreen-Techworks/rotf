@@ -1,0 +1,11 @@
+{
+ "dungeon": "(SHORT GAMEPLAY CLIP) ROTF — AFK/idle-warning system + assorted dungeons; low novelty",
+ "source": "video disc_r97sSXws67I (55 frames, 3 transitions, 14 chat; recorded with an annotation toolbar, 'Flash projector link' shown). Short clip across lava/water/ice dungeons + menu panels.",
+ "map": "DOCUMENTED biomes: orange/lava BRICK dungeon, blue WATER + tan DESERT, blue ICE, plus options/menu panels.",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "mechanics": "DOCUMENTED: (1) AFK / IDLE-WARNING system — '[Server] You have been idle for 3 minutes,' ... '10 minutes.' (escalating idle warnings; likely auto-kick/disconnect at 10 minutes idle, an anti-AFK measure). (2) The game runs via a FLASH PROJECTOR ('Flash projector link:' shown) — confirms ROTF is played through the standalone Flash projector (same stack as our Ordinary Client build). Just player chatter otherwise (no boss taunts).",
+ "uncertain": "Idle-kick exact threshold inferred (warnings at 3 + 10 minutes; 10 min likely the kick). No bosses/dungeon names captured (short clip). Flash-projector mention is from the recorder's annotation, confirming the client type.",
+ "confidence": "MEDIUM for the AFK/idle-warning system (verbatim) + Flash-projector confirmation. LOW novelty / no boss recovery."
+}

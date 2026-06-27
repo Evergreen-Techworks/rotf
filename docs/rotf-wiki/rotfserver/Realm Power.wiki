@@ -1,0 +1,4 @@
+# Realm Power
+# https://rotfserver.fandom.com/api.php?action=parse&page=Realm%20Power&prop=wikitext
+
+{{ItemInfo|name = Realm Power|desc = This wand holds what's unknown to the universe. The power of the great realm giant |rarity = l|slot = wand|tier = UT|minDmg = 155|maxDmg = 180|shots = 1|rof = 115|range2 = 8.24|fameb = 6|effects = yes|pierce = yes|multihit = yes|legendary = 4|dropsFrom = drops from realm giant}}

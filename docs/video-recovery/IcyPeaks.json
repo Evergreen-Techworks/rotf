@@ -1,0 +1,17 @@
+{
+ "dungeon": "Icy Peaks",
+ "map": "VIDEO-RECOVERED (tutorial fSO2ZflJRco): multi-room — BROWN WOODEN LODGE rooms (plank floors, wood walls) connected by SNOW/ICE corridors (light-blue snow, ice tiles, rock outcrops). 'Tower' enemies are scattered and must be cleared. The ICE QUEEN's boss room is GATED: 'clear the ice block to kill the towers and then it opens'. Boss arena = oval room with PINK CRYSTAL formations on dark stone, ringed by snow walls.",
+ "bosses": [{
+   "name": "Ice Queen (a.k.a. Frozen Queen)",
+   "hp": 0, "defense": 0, "texture": "UNKNOWN",
+   "phases": ["VIDEO: fought in a gated pink-crystal arena, opened by clearing the ice blocks/towers"],
+   "attacks": ["ice/frost projectiles (theme); pattern timing TBD from a boss-kill clip"],
+   "minions": ["Tower / 'Tower Elite' structures (must be destroyed to open the boss room)"],
+   "colorFlashes": "", "taunts": []
+ }],
+ "minions": ["Tower Elite (gating structures)", "ice creatures"],
+ "drops": ["Ninja set incl. 'Traceless' (cloak) — VIDEO-noted as dropping here", "Ice Shatter (wiki)", "Wand of the Frozen Queen (wiki)", "Asura (wiki)", "Fang of Frost (wiki)", "Special Crate -> Plague Poison (chat)"],
+ "mechanics": "Destroy ice blocks -> kills the towers -> opens the Ice Queen's room.",
+ "uncertain": "Ice Queen exact stats/attack timings + taunts need a boss-KILL clip (this is a cheese/route tutorial). Texture indices unknown.",
+ "confidence": "VIDEO-DOCUMENTED: layout (wooden lodge + snow corridors), the ice-block/tower gating mechanic, the pink-crystal Ice Queen arena, and a Ninja 'Traceless' set drop. Drops cross-checked vs wiki. Stats pending."
+}

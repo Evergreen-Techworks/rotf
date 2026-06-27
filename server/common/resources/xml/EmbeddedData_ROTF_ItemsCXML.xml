@@ -1,0 +1,1583 @@
+<Objects>
+    <Object type="0x8000" id="A Precious Rock">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj6</File><Index>0x10</Index></Texture>
+        <SlotType>20</SlotType>
+        <Description>A goldish gem, stuck in a pile of rubble, attracting anyone who lays their eyes upon it</Description>
+        <FameBonus>7</FameBonus>
+        <ActivateOnEquip stat="20" amount="6">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="28" amount="6">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="21" amount="-12">IncrementStat</ActivateOnEquip>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8001" id="A trap made of cookies">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj6</File><Index>0x10</Index></Texture>
+        <SlotType>20</SlotType>
+        <Description>YACK,YACK,YACK,YACK,man down.</Description>
+        <FameBonus>5</FameBonus>
+        <ActivateOnEquip stat="0" amount="4">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="3" amount="4">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="20" amount="4">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="26" amount="4">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="27" amount="4">IncrementStat</ActivateOnEquip>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8002" id="A triangular cookie">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj6</File><Index>0xb0</Index></Texture>
+        <SlotType>22</SlotType>
+        <Description>This blue balloon, the month of june!</Description>
+        <FameBonus>5</FameBonus>
+        <feedPower>700</feedPower>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>80</Speed>
+            <MinDamage>100</MinDamage>
+            <MaxDamage>250</MaxDamage>
+            <LifetimeMS>600</LifetimeMS>
+        </Projectile>
+        <NumProjectiles>15</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <ActivateOnEquip stat="0" amount="18">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="3" amount="18">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="20" amount="4">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="26" amount="4">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="27" amount="4">IncrementStat</ActivateOnEquip>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8003" id="Acid Katana">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj3</File><Index>0x21c</Index></Texture>
+        <SlotType>24</SlotType>
+        <Description>This Katana melts almost anything it touches instantly</Description>
+        <FameBonus>5</FameBonus>
+        <Projectile>
+            <ObjectId>Katana Slash</ObjectId>
+            <Speed>120</Speed>
+            <MinDamage>100</MinDamage>
+            <MaxDamage>135</MaxDamage>
+            <LifetimeMS>350</LifetimeMS>
+        </Projectile>
+        <RateOfFire>1.6</RateOfFire>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8004" id="Arcane Bait">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj6</File><Index>0x10</Index></Texture>
+        <SlotType>20</SlotType>
+        <Description>The arcanic beings often lure in their prey with the help of the arcane power they posses.</Description>
+        <FameBonus>8</FameBonus>
+        <ActivateOnEquip stat="26" amount="-2">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="28" amount="2">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="27" amount="2">IncrementStat</ActivateOnEquip>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8005" id="Asura">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj3</File><Index>0x21c</Index></Texture>
+        <SlotType>24</SlotType>
+        <Description>tool long cba</Description>
+        <FameBonus>8</FameBonus>
+        <Projectile>
+            <ObjectId>Katana Slash</ObjectId>
+            <Speed>120</Speed>
+            <MinDamage>125</MinDamage>
+            <MaxDamage>150</MaxDamage>
+            <LifetimeMS>350</LifetimeMS>
+            <MultiHit/>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>1.25</RateOfFire>
+        <NumProjectiles>3</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <ActivateOnEquip stat="22" amount="3">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8006" id="Bel&#x27;s Decapitator">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x30</Index></Texture>
+        <SlotType>1</SlotType>
+        <Description>This ancient axe, once wielded by bel, has guarded the Necropolis for thousands of years</Description>
+        <FameBonus>10</FameBonus>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>100</Speed>
+            <MinDamage>630</MinDamage>
+            <MaxDamage>770</MaxDamage>
+            <LifetimeMS>350</LifetimeMS>
+        </Projectile>
+        <RateOfFire>0.7</RateOfFire>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8007" id="Blackhole Trap">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj6</File><Index>0x10</Index></Texture>
+        <SlotType>20</SlotType>
+        <Description>The first object to ever survive a blackhole, now imbued with it&#x27;s powerful gravity.</Description>
+        <FameBonus>6</FameBonus>
+        <ActivateOnEquip stat="20" amount="3">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="26" amount="3">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="27" amount="3">IncrementStat</ActivateOnEquip>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8008" id="Blade of the Fallen Sky">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x30</Index></Texture>
+        <SlotType>1</SlotType>
+        <Description>A pointy blade that seems to go throught enemies,which also seems to be lightweight.When slashed,you feel as the sky would fall any moment... Thanks to: BeeEasy.</Description>
+        <FameBonus>5</FameBonus>
+        <feedPower>900</feedPower>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>10</Speed>
+            <MinDamage>170</MinDamage>
+            <MaxDamage>235</MaxDamage>
+            <LifetimeMS>480</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+        <RateOfFire>1.2</RateOfFire>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8009" id="Blazetalon">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj3</File><Index>0x21c</Index></Texture>
+        <SlotType>24</SlotType>
+        <Description>With a blade made of magmarock and a hild of pure flame,one who wields this blade feels its true fiery rage</Description>
+        <FameBonus>7</FameBonus>
+        <Projectile>
+            <ObjectId>Katana Slash</ObjectId>
+            <Speed>120</Speed>
+            <MinDamage>140</MinDamage>
+            <MaxDamage>160</MaxDamage>
+            <LifetimeMS>350</LifetimeMS>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>1.5</RateOfFire>
+        <NumProjectiles>2</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x800a" id="Bow of the Lightning God">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x50</Index></Texture>
+        <SlotType>3</SlotType>
+        <Description>A bow once used by the lightning God, it shoots lightning-fast projectiles that the eye can barley see</Description>
+        <FameBonus>6</FameBonus>
+        <feedPower>666</feedPower>
+        <Projectile>
+            <ObjectId>Green Arrow</ObjectId>
+            <Speed>160</Speed>
+            <MinDamage>100</MinDamage>
+            <MaxDamage>130</MaxDamage>
+            <LifetimeMS>440</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+        <RateOfFire>0.8</RateOfFire>
+        <NumProjectiles>2</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <Sound>weapon/poor_quality_bow</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x800b" id="Broken Branch">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj3</File><Index>0x21c</Index></Texture>
+        <SlotType>24</SlotType>
+        <Description>One of many branches laying around in the broken Forest, sharpened into swift and deadly weapon</Description>
+        <FameBonus>5</FameBonus>
+        <Projectile>
+            <ObjectId>Katana Slash</ObjectId>
+            <Speed>120</Speed>
+            <MinDamage>300</MinDamage>
+            <MaxDamage>450</MaxDamage>
+            <LifetimeMS>350</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+        <RateOfFire>0.5</RateOfFire>
+        <ActivateOnEquip stat="20" amount="6">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="28" amount="4">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x800c" id="Celestial Caduceus">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x40</Index></Texture>
+        <SlotType>8</SlotType>
+        <Description>A wand originating from the far reaches of the universe, imbued with the endless power of millions of stars.</Description>
+        <FameBonus>6</FameBonus>
+        <Projectile>
+            <ObjectId>Red Fire</ObjectId>
+            <Speed>130</Speed>
+            <MinDamage>135</MinDamage>
+            <MaxDamage>180</MaxDamage>
+            <LifetimeMS>770</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+        <RateOfFire>1.0</RateOfFire>
+        <ActivateOnEquip stat="20" amount="4">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="28" amount="4">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/fire_wand</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x800d" id="Claw of the Beast">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x60</Index></Texture>
+        <SlotType>2</SlotType>
+        <Description>A claw, freshly plucked from the forepaw of the Necropolis&#x27; werewolf.</Description>
+        <FameBonus>10</FameBonus>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>140</Speed>
+            <MinDamage>80</MinDamage>
+            <MaxDamage>111</MaxDamage>
+            <LifetimeMS>400</LifetimeMS>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>1.5</RateOfFire>
+        <NumProjectiles>3</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <Sound>weapon/blunt_dagger</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x800e" id="Cloak of the 1000 Oceans">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj6</File><Index>0x20</Index></Texture>
+        <SlotType>13</SlotType>
+        <Description>This has literally the simplest name ever, I&#x27;m not good at those, okay? Good for chain-rushing.</Description>
+        <FameBonus>6</FameBonus>
+        <feedPower>1250</feedPower>
+        <Sound>spell/fire_nova</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x800f" id="Cometstrike Dirk">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x60</Index></Texture>
+        <SlotType>2</SlotType>
+        <Description>A dagger forged from the body of a dwarf star, imbued with the energy of a thousand comets.</Description>
+        <FameBonus>6</FameBonus>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>14</Speed>
+            <MinDamage>115</MinDamage>
+            <MaxDamage>195</MaxDamage>
+            <LifetimeMS>420</LifetimeMS>
+        </Projectile>
+        <RateOfFire>1.0</RateOfFire>
+        <Sound>weapon/blunt_dagger</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8010" id="Cosmic Phantom Prism">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj6</File><Index>0xb0</Index></Texture>
+        <SlotType>22</SlotType>
+        <Description>A prism of the cosmos, capable of warping dimensions, causing mirages of the user to appear everywhere.</Description>
+        <FameBonus>6</FameBonus>
+        <ActivateOnEquip stat="26" amount="3">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="27" amount="3">IncrementStat</ActivateOnEquip>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8011" id="Dagger of Goddess of Goddesses">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x60</Index></Texture>
+        <SlotType>2</SlotType>
+        <Description>Taken from the deep ends of the Trench.</Description>
+        <FameBonus>6</FameBonus>
+        <feedPower>1250</feedPower>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>33.3</Speed>
+            <MinDamage>150</MinDamage>
+            <MaxDamage>190</MaxDamage>
+            <LifetimeMS>200</LifetimeMS>
+        </Projectile>
+        <RateOfFire>0.85</RateOfFire>
+        <Sound>weapon/blunt_dagger</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8012" id="Dagger of the Endless Void">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x60</Index></Texture>
+        <SlotType>2</SlotType>
+        <Description>Ths dagger was long lost,before it was found in some old,dark ruins of an cursed place. Wielders of this weapon will suffer,and then die. Thanks to: BeeEasy</Description>
+        <FameBonus>7</FameBonus>
+        <feedPower>900</feedPower>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>10</Speed>
+            <MinDamage>95</MinDamage>
+            <MaxDamage>135</MaxDamage>
+            <LifetimeMS>500</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+        <RateOfFire>1.0</RateOfFire>
+        <NumProjectiles>2</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <Sound>weapon/blunt_dagger</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8013" id="Deepspace Veil">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj6</File><Index>0x20</Index></Texture>
+        <SlotType>13</SlotType>
+        <Description>A cloak weaved from an unknown material, said to drape it&#x27;s user in absolute, utter, nothingness.</Description>
+        <FameBonus>6</FameBonus>
+        <ActivateOnEquip stat="22" amount="5">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="28" amount="4">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="26" amount="3">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="27" amount="3">IncrementStat</ActivateOnEquip>
+        <Sound>spell/fire_nova</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8014" id="Destructor Cloak">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj6</File><Index>0x20</Index></Texture>
+        <SlotType>13</SlotType>
+        <Description>There is only 1 copy of this cloak... And you o... Well, there might be 2.</Description>
+        <FameBonus>6</FameBonus>
+        <feedPower>500</feedPower>
+        <ActivateOnEquip stat="21" amount="2">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="26" amount="2">IncrementStat</ActivateOnEquip>
+        <Sound>spell/fire_nova</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8015" id="Destructor Dagger">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x60</Index></Texture>
+        <SlotType>2</SlotType>
+        <Description>A dagger obtainted from the Master Destructor himself...</Description>
+        <FameBonus>6</FameBonus>
+        <feedPower>500</feedPower>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>10</Speed>
+            <MinDamage>105</MinDamage>
+            <MaxDamage>175</MaxDamage>
+            <LifetimeMS>510</LifetimeMS>
+            <MultiHit/>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>0.9</RateOfFire>
+        <Sound>weapon/blunt_dagger</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8016" id="Doom Katana">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj3</File><Index>0x21c</Index></Texture>
+        <SlotType>24</SlotType>
+        <Description>This foul Katana has doomed many opponents, as it is slowly decaying</Description>
+        <FameBonus>5</FameBonus>
+        <Projectile>
+            <ObjectId>Katana Slash</ObjectId>
+            <Speed>120</Speed>
+            <MinDamage>250</MinDamage>
+            <MaxDamage>335</MaxDamage>
+            <LifetimeMS>350</LifetimeMS>
+        </Projectile>
+        <RateOfFire>0.55</RateOfFire>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8017" id="Dreadstump&#x27;s Rapier">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x30</Index></Texture>
+        <SlotType>1</SlotType>
+        <Description>Finesse of the high seas, Thanks to: Nekrie.</Description>
+        <FameBonus>5</FameBonus>
+        <feedPower>333</feedPower>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>10</Speed>
+            <MinDamage>150</MinDamage>
+            <MaxDamage>200</MaxDamage>
+            <LifetimeMS>350</LifetimeMS>
+        </Projectile>
+        <RateOfFire>1.75</RateOfFire>
+        <ActivateOnEquip stat="22" amount="4">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="26" amount="3">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8018" id="Enchanted Uru Sword">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x30</Index></Texture>
+        <SlotType>1</SlotType>
+        <Description>Once able to open the Bifrost to Asguard, without Heimdallr&#x27;s magic, the blade is no better than any other mortal sword.</Description>
+        <FameBonus>7</FameBonus>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>100</Speed>
+            <MinDamage>200</MinDamage>
+            <MaxDamage>270</MaxDamage>
+            <LifetimeMS>350</LifetimeMS>
+            <MultiHit/>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>0.75</RateOfFire>
+        <NumProjectiles>2</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <ActivateOnEquip stat="21" amount="4">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="27" amount="6">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8019" id="Fang of Frost">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x30</Index></Texture>
+        <SlotType>1</SlotType>
+        <Description>An unearthly metal forged into a blade colder than winter in all of it&#x27;s fury. Thanks to: Nekrie.</Description>
+        <FameBonus>6</FameBonus>
+        <feedPower>580</feedPower>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>10</Speed>
+            <MinDamage>120</MinDamage>
+            <MaxDamage>165</MaxDamage>
+            <LifetimeMS>450</LifetimeMS>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>1.4</RateOfFire>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x801a" id="Firebreather&#x27;s Tail">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x60</Index></Texture>
+        <SlotType>2</SlotType>
+        <Description>Cut off from the body of the fallen Firebreather and covered in it&#x27;s searing blood.</Description>
+        <FameBonus>5</FameBonus>
+        <feedPower>500</feedPower>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>10</Speed>
+            <MinDamage>85</MinDamage>
+            <MaxDamage>190</MaxDamage>
+            <LifetimeMS>550</LifetimeMS>
+            <PassesCover/>
+        </Projectile>
+        <Sound>weapon/blunt_dagger</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x801b" id="Flameblast Staff">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x70</Index></Texture>
+        <SlotType>17</SlotType>
+        <Description>Tipped with blazing crystals, the heat from this staff can be felt by even the wielder.</Description>
+        <FameBonus>7</FameBonus>
+        <Projectile>
+            <ObjectId>Grey Missile</ObjectId>
+            <Speed>180</Speed>
+            <MinDamage>400</MinDamage>
+            <MaxDamage>500</MaxDamage>
+            <LifetimeMS>475</LifetimeMS>
+        </Projectile>
+        <RateOfFire>0.35</RateOfFire>
+        <NumProjectiles>2</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <Sound>weapon/fire_wand</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x801c" id="Flask of Stardust">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj6</File><Index>0x80</Index></Texture>
+        <SlotType>18</SlotType>
+        <Description>A flask filled with glittering stardust, combined with the venom of a cosmic dragon, able to bring down any foe.</Description>
+        <FameBonus>6</FameBonus>
+        <ActivateOnEquip stat="26" amount="3">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="27" amount="3">IncrementStat</ActivateOnEquip>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x801d" id="Flesh Trap">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj6</File><Index>0x10</Index></Texture>
+        <SlotType>20</SlotType>
+        <Description>A trap made of flesh from Norghus&#x27; collection of corpses</Description>
+        <FameBonus>10</FameBonus>
+        <ActivateOnEquip stat="20" amount="4">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="28" amount="9">IncrementStat</ActivateOnEquip>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x801e" id="Galaxy Longbow">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x50</Index></Texture>
+        <SlotType>3</SlotType>
+        <Description>A bow of incredible power, said to be all the energy of a singular galaxy, condensed into one single weapon.</Description>
+        <FameBonus>6</FameBonus>
+        <Projectile>
+            <ObjectId>Green Arrow</ObjectId>
+            <Speed>16</Speed>
+            <MinDamage>75</MinDamage>
+            <MaxDamage>90</MaxDamage>
+            <LifetimeMS>470</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+        <RateOfFire>1.0</RateOfFire>
+        <NumProjectiles>3</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <Sound>weapon/poor_quality_bow</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x801f" id="Gravedigger&#x27;s Shovel">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x70</Index></Texture>
+        <SlotType>17</SlotType>
+        <Description>Despite looking like an ordinary shovel, it is not, in fact it contains the limitless power of thousands of souls</Description>
+        <FameBonus>6</FameBonus>
+        <Projectile>
+            <ObjectId>Grey Missile</ObjectId>
+            <Speed>180</Speed>
+            <MinDamage>100</MinDamage>
+            <MaxDamage>105</MaxDamage>
+            <LifetimeMS>475</LifetimeMS>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>0.8</RateOfFire>
+        <NumProjectiles>5</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <ActivateOnEquip stat="21" amount="-5">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="22" amount="4">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/fire_wand</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8020" id="Greeni">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x50</Index></Texture>
+        <SlotType>3</SlotType>
+        <Description>This is a acidi... A galactic blaster made up from the greenest of green.</Description>
+        <feedPower>3000</feedPower>
+        <Projectile>
+            <ObjectId>Green Arrow</ObjectId>
+            <Speed>18.5</Speed>
+            <MinDamage>115</MinDamage>
+            <MaxDamage>140</MaxDamage>
+            <LifetimeMS>350</LifetimeMS>
+        </Projectile>
+        <RateOfFire>1.2</RateOfFire>
+        <NumProjectiles>2</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <Sound>weapon/poor_quality_bow</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8021" id="Gungnir">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x30</Index></Texture>
+        <SlotType>1</SlotType>
+        <Description>The magical spear that once belonged to the Allfather himself  .</Description>
+        <FameBonus>7</FameBonus>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>100</Speed>
+            <MinDamage>250</MinDamage>
+            <MaxDamage>340</MaxDamage>
+            <LifetimeMS>350</LifetimeMS>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>1.1</RateOfFire>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8022" id="Hallow&#x27;s End">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x50</Index></Texture>
+        <SlotType>3</SlotType>
+        <Description>A light rustle in the amber sea... Thanks to: Nekrie.</Description>
+        <FameBonus>6</FameBonus>
+        <feedPower>400</feedPower>
+        <Projectile>
+            <ObjectId>Green Arrow</ObjectId>
+            <Speed>14</Speed>
+            <MinDamage>205</MinDamage>
+            <MaxDamage>255</MaxDamage>
+            <LifetimeMS>570</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+        <RateOfFire>0.66</RateOfFire>
+        <Sound>weapon/poor_quality_bow</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8023" id="Handcannon">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x50</Index></Texture>
+        <SlotType>3</SlotType>
+        <Description>The legendary firearm forged from hard steel and demonic blood containing mighty power.</Description>
+        <Projectile>
+            <ObjectId>Green Arrow</ObjectId>
+            <Speed>160</Speed>
+            <MinDamage>100</MinDamage>
+            <MaxDamage>125</MaxDamage>
+            <LifetimeMS>700</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+        <RateOfFire>0.95</RateOfFire>
+        <NumProjectiles>8</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <Sound>weapon/poor_quality_bow</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8024" id="Head of the Firebreather">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x70</Index></Texture>
+        <SlotType>17</SlotType>
+        <Description>The resurrected head of the fallen Firebreather attached to a wooden stick allows for full control over the Firebreather&#x27;s flames.</Description>
+        <FameBonus>5</FameBonus>
+        <Projectile>
+            <ObjectId>Grey Missile</ObjectId>
+            <Speed>180</Speed>
+            <MinDamage>40</MinDamage>
+            <MaxDamage>70</MaxDamage>
+            <LifetimeMS>475</LifetimeMS>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>1.2</RateOfFire>
+        <NumProjectiles>4</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <Sound>weapon/fire_wand</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8025" id="Heavy Bow of the Asgard Guardian">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x50</Index></Texture>
+        <SlotType>3</SlotType>
+        <Description>This bow has harvested souls of many dark elves in its lifetime.</Description>
+        <FameBonus>5</FameBonus>
+        <feedPower>1000</feedPower>
+        <Projectile>
+            <ObjectId>Green Arrow</ObjectId>
+            <Speed>10</Speed>
+            <MinDamage>1350</MinDamage>
+            <MaxDamage>1650</MaxDamage>
+            <LifetimeMS>900</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+        <RateOfFire>0.11</RateOfFire>
+        <Sound>weapon/poor_quality_bow</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8026" id="Hela&#x27;s Power">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x70</Index></Texture>
+        <SlotType>17</SlotType>
+        <Description>A magical staff, containing the remains of power that Hela once held.</Description>
+        <FameBonus>7</FameBonus>
+        <Projectile>
+            <ObjectId>Grey Missile</ObjectId>
+            <Speed>180</Speed>
+            <MinDamage>100</MinDamage>
+            <MaxDamage>360</MaxDamage>
+            <LifetimeMS>475</LifetimeMS>
+            <MultiHit/>
+            <PassesCover/>
+            <ConditionEffect duration="2.2">Hexed</ConditionEffect>
+        </Projectile>
+        <RateOfFire>0.45</RateOfFire>
+        <NumProjectiles>5</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <ActivateOnEquip stat="0" amount="80">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="27" amount="12">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/fire_wand</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8027" id="Himura&#x27;s Katana">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj3</File><Index>0x21c</Index></Texture>
+        <SlotType>24</SlotType>
+        <Description>A powerful blade, wielded by only the greatest of magical swordsmen, this blade has been lost to obsidian dragon for many ages, lost it is no more...</Description>
+        <FameBonus>5</FameBonus>
+        <Projectile>
+            <ObjectId>Katana Slash</ObjectId>
+            <Speed>120</Speed>
+            <MinDamage>120</MinDamage>
+            <MaxDamage>160</MaxDamage>
+            <LifetimeMS>350</LifetimeMS>
+        </Projectile>
+        <RateOfFire>1.3</RateOfFire>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8028" id="Hornshot">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x50</Index></Texture>
+        <SlotType>3</SlotType>
+        <Description>A slingshot, made from the horns of the trolls</Description>
+        <FameBonus>8</FameBonus>
+        <feedPower>3600</feedPower>
+        <Projectile>
+            <ObjectId>Green Arrow</ObjectId>
+            <Speed>10</Speed>
+            <MinDamage>500</MinDamage>
+            <MaxDamage>600</MaxDamage>
+            <LifetimeMS>800</LifetimeMS>
+        </Projectile>
+        <RateOfFire>0.23</RateOfFire>
+        <ActivateOnEquip stat="27" amount="-4">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="22" amount="-4">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/poor_quality_bow</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8029" id="Ice Shatter">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x50</Index></Texture>
+        <SlotType>3</SlotType>
+        <Description>A crystallized crossbow imbued with magical energy, firing icecles that freeze the bones of its victims, readying them for shattering</Description>
+        <FameBonus>5</FameBonus>
+        <Projectile>
+            <ObjectId>Green Arrow</ObjectId>
+            <Speed>160</Speed>
+            <MinDamage>200</MinDamage>
+            <MaxDamage>225</MaxDamage>
+            <LifetimeMS>440</LifetimeMS>
+        </Projectile>
+        <RateOfFire>1.25</RateOfFire>
+        <ActivateOnEquip stat="20" amount="3">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="22" amount="4">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="28" amount="5">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/poor_quality_bow</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x802a" id="Loki&#x27;s Dagger">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x60</Index></Texture>
+        <SlotType>2</SlotType>
+        <Description>Taken from the false trickster, the dagger is imbued with a lethal poison.</Description>
+        <FameBonus>7</FameBonus>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>140</Speed>
+            <MinDamage>120</MinDamage>
+            <MaxDamage>200</MaxDamage>
+            <LifetimeMS>400</LifetimeMS>
+            <MultiHit/>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>1.2</RateOfFire>
+        <Sound>weapon/blunt_dagger</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x802b" id="Metal Blood Bow">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x50</Index></Texture>
+        <SlotType>3</SlotType>
+        <Description>A bow forged out of Metal and Blood. Thanks to: WizardishG.</Description>
+        <FameBonus>6</FameBonus>
+        <feedPower>600</feedPower>
+        <Projectile>
+            <ObjectId>Green Arrow</ObjectId>
+            <Speed>160</Speed>
+            <MinDamage>130</MinDamage>
+            <MaxDamage>165</MaxDamage>
+            <LifetimeMS>440</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+        <RateOfFire>0.75</RateOfFire>
+        <Sound>weapon/poor_quality_bow</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x802c" id="Molten Katana">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj3</File><Index>0x21c</Index></Texture>
+        <SlotType>24</SlotType>
+        <Description>Sizzle sizzle sizzle...</Description>
+        <FameBonus>7</FameBonus>
+        <Projectile>
+            <ObjectId>Katana Slash</ObjectId>
+            <Speed>120</Speed>
+            <MinDamage>180</MinDamage>
+            <MaxDamage>240</MaxDamage>
+            <LifetimeMS>350</LifetimeMS>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>0.75</RateOfFire>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x802d" id="Omega Ancient Sword">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x30</Index></Texture>
+        <SlotType>1</SlotType>
+        <Description>A Omega Ancient Sword, Thanks to: MegaLerio223.</Description>
+        <FameBonus>6</FameBonus>
+        <feedPower>100</feedPower>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>11</Speed>
+            <MinDamage>180</MinDamage>
+            <MaxDamage>240</MaxDamage>
+            <LifetimeMS>450</LifetimeMS>
+        </Projectile>
+        <RateOfFire>1.0</RateOfFire>
+        <NumProjectiles>3</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <ActivateOnEquip stat="21" amount="2">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x802e" id="PoOoOoOokkErrRr">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x60</Index></Texture>
+        <SlotType>2</SlotType>
+        <Description>01001110 01101001 01100011 01100101 00100001</Description>
+        <FameBonus>7</FameBonus>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>18</Speed>
+            <MinDamage>160</MinDamage>
+            <MaxDamage>235</MaxDamage>
+            <LifetimeMS>249</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+        <RateOfFire>1.2</RateOfFire>
+        <ActivateOnEquip stat="28" amount="5">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/blunt_dagger</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x802f" id="Radiant Wand of Royalism">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x40</Index></Texture>
+        <SlotType>8</SlotType>
+        <Description>This wand was forged with burning rubies, dedicated to what was once a Royal Family</Description>
+        <FameBonus>6</FameBonus>
+        <Projectile>
+            <ObjectId>Red Fire</ObjectId>
+            <Speed>130</Speed>
+            <MinDamage>60</MinDamage>
+            <MaxDamage>80</MaxDamage>
+            <LifetimeMS>770</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+        <RateOfFire>1.6</RateOfFire>
+        <NumProjectiles>2</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <Sound>weapon/fire_wand</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8030" id="Realm Power">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x40</Index></Texture>
+        <SlotType>8</SlotType>
+        <Description>This wand holds what&#x27;s unknown to the universe. The power of the great realm giant</Description>
+        <FameBonus>6</FameBonus>
+        <Projectile>
+            <ObjectId>Red Fire</ObjectId>
+            <Speed>130</Speed>
+            <MinDamage>155</MinDamage>
+            <MaxDamage>180</MaxDamage>
+            <LifetimeMS>770</LifetimeMS>
+            <MultiHit/>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>1.15</RateOfFire>
+        <Sound>weapon/fire_wand</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8031" id="Reaper&#x27;s Bow">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x50</Index></Texture>
+        <SlotType>3</SlotType>
+        <Description>This bow fires the souls of Elithor&#x27;s victims.</Description>
+        <FameBonus>10</FameBonus>
+        <Projectile>
+            <ObjectId>Green Arrow</ObjectId>
+            <Speed>160</Speed>
+            <MinDamage>200</MinDamage>
+            <MaxDamage>300</MaxDamage>
+            <LifetimeMS>440</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+        <RateOfFire>0.62</RateOfFire>
+        <NumProjectiles>2</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <Sound>weapon/poor_quality_bow</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8032" id="Rotting Arm">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x30</Index></Texture>
+        <SlotType>1</SlotType>
+        <Description>Despite its fragile and disgusting appearance, this cut-off arm packs a powerful hit.</Description>
+        <FameBonus>6</FameBonus>
+        <feedPower>1600</feedPower>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>10</Speed>
+            <MinDamage>175</MinDamage>
+            <MaxDamage>200</MaxDamage>
+            <LifetimeMS>290</LifetimeMS>
+        </Projectile>
+        <RateOfFire>0.55</RateOfFire>
+        <NumProjectiles>5</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <ActivateOnEquip stat="0" amount="40">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="21" amount="4">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8033" id="Shadow Scales">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj6</File><Index>0x20</Index></Texture>
+        <SlotType>13</SlotType>
+        <Description>A cloak woven from the light-manipulating scales of the Shadowscale.</Description>
+        <FameBonus>5</FameBonus>
+        <feedPower>500</feedPower>
+        <ActivateOnEquip stat="0" amount="50">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="3" amount="50">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="20" amount="5">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="22" amount="5">IncrementStat</ActivateOnEquip>
+        <Sound>spell/fire_nova</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8034" id="Shadowbone Sword">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x30</Index></Texture>
+        <SlotType>1</SlotType>
+        <Description>A sword crafted from countless bones collected from the corpses lying around Shadowland.</Description>
+        <FameBonus>5</FameBonus>
+        <feedPower>500</feedPower>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>10</Speed>
+            <MinDamage>123</MinDamage>
+            <MaxDamage>166</MaxDamage>
+            <LifetimeMS>480</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+        <NumProjectiles>3</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <ActivateOnEquip stat="20" amount="4">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="26" amount="2">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8035" id="Shadowscale&#x27;s Horn">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x60</Index></Texture>
+        <SlotType>2</SlotType>
+        <Description>A sharp bone, cut from the head of the fallen Shadowscale.</Description>
+        <FameBonus>5</FameBonus>
+        <feedPower>500</feedPower>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>14</Speed>
+            <MinDamage>95</MinDamage>
+            <MaxDamage>165</MaxDamage>
+            <LifetimeMS>400</LifetimeMS>
+            <MultiHit/>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>1.25</RateOfFire>
+        <Sound>weapon/blunt_dagger</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8036" id="Shattered War Axe">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x30</Index></Texture>
+        <SlotType>1</SlotType>
+        <Description>An axe that has been shattered in the holy war enchanted by angles, yet shattered can cause quite the blow. Thanks to: Oeti.</Description>
+        <FameBonus>6</FameBonus>
+        <feedPower>2900</feedPower>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>10</Speed>
+            <MinDamage>500</MinDamage>
+            <MaxDamage>700</MaxDamage>
+            <LifetimeMS>650</LifetimeMS>
+        </Projectile>
+        <RateOfFire>0.45</RateOfFire>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8037" id="Staff of Annihilation">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x70</Index></Texture>
+        <SlotType>17</SlotType>
+        <Description>too long cba</Description>
+        <FameBonus>10</FameBonus>
+        <Projectile>
+            <ObjectId>Grey Missile</ObjectId>
+            <Speed>180</Speed>
+            <MinDamage>80</MinDamage>
+            <MaxDamage>120</MaxDamage>
+            <LifetimeMS>475</LifetimeMS>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>1.5</RateOfFire>
+        <NumProjectiles>10</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <Sound>weapon/fire_wand</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8038" id="Staff of Nature">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x70</Index></Texture>
+        <SlotType>17</SlotType>
+        <Description>A staff which holds the power of nature. Losing this staff might severely pollute the realm</Description>
+        <FameBonus>5</FameBonus>
+        <Projectile>
+            <ObjectId>Grey Missile</ObjectId>
+            <Speed>180</Speed>
+            <MinDamage>65</MinDamage>
+            <MaxDamage>140</MaxDamage>
+            <LifetimeMS>475</LifetimeMS>
+        </Projectile>
+        <RateOfFire>1.2</RateOfFire>
+        <NumProjectiles>2</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <Sound>weapon/fire_wand</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8039" id="Starbuster Blade">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x30</Index></Texture>
+        <SlotType>1</SlotType>
+        <Description>A sword forged from a comet, imbued with the energy of a supernova star.</Description>
+        <FameBonus>6</FameBonus>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>10</Speed>
+            <MinDamage>240</MinDamage>
+            <MaxDamage>300</MaxDamage>
+            <LifetimeMS>430</LifetimeMS>
+        </Projectile>
+        <RateOfFire>1.0</RateOfFire>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x803a" id="Stardust Cutter">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj3</File><Index>0x21c</Index></Texture>
+        <SlotType>24</SlotType>
+        <Description>A blade stardust, wielded only by the greatest shinobi, able to slice through the veil of reality itself.</Description>
+        <FameBonus>6</FameBonus>
+        <Projectile>
+            <ObjectId>Katana Slash</ObjectId>
+            <Speed>120</Speed>
+            <MinDamage>170</MinDamage>
+            <MaxDamage>210</MaxDamage>
+            <LifetimeMS>350</LifetimeMS>
+        </Projectile>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x803b" id="Starlight Crook">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x70</Index></Texture>
+        <SlotType>17</SlotType>
+        <Description>A mysterious staff, glittering with the light of a star, said to contain the energy of many galaxies</Description>
+        <FameBonus>6</FameBonus>
+        <Projectile>
+            <ObjectId>Grey Missile</ObjectId>
+            <Speed>180</Speed>
+            <MinDamage>80</MinDamage>
+            <MaxDamage>125</MaxDamage>
+            <LifetimeMS>475</LifetimeMS>
+        </Projectile>
+        <RateOfFire>1.0</RateOfFire>
+        <NumProjectiles>2</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <Sound>weapon/fire_wand</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x803c" id="Stem of the Brain">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj3</File><Index>0x21c</Index></Texture>
+        <SlotType>24</SlotType>
+        <Description>It&#x27;s a little gruesome, but it&#x27;ll work.</Description>
+        <FameBonus>5</FameBonus>
+        <Projectile>
+            <ObjectId>Katana Slash</ObjectId>
+            <Speed>120</Speed>
+            <MinDamage>250</MinDamage>
+            <MaxDamage>350</MaxDamage>
+            <LifetimeMS>350</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+        <RateOfFire>0.65</RateOfFire>
+        <ActivateOnEquip stat="20" amount="6">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x803d" id="Sweet Sugar Rush Staff">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x70</Index></Texture>
+        <SlotType>17</SlotType>
+        <Description>A yummy staff that casts Chocolate Projectiles. Thanks to :pepus</Description>
+        <FameBonus>2</FameBonus>
+        <Projectile>
+            <ObjectId>Grey Missile</ObjectId>
+            <Speed>180</Speed>
+            <MinDamage>95</MinDamage>
+            <MaxDamage>100</MaxDamage>
+            <LifetimeMS>475</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+        <RateOfFire>1.2</RateOfFire>
+        <Sound>weapon/fire_wand</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x803e" id="Sword of Oryx">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x30</Index></Texture>
+        <SlotType>1</SlotType>
+        <Description>This sword comes from the deepest of mountains, the highest of oceans. Straight from the sky.</Description>
+        <FameBonus>7</FameBonus>
+        <feedPower>1400</feedPower>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>12</Speed>
+            <MinDamage>265</MinDamage>
+            <MaxDamage>340</MaxDamage>
+            <LifetimeMS>350</LifetimeMS>
+        </Projectile>
+        <RateOfFire>1.05</RateOfFire>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x803f" id="Sword of the Aquatic God">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x30</Index></Texture>
+        <SlotType>1</SlotType>
+        <Description>A Sword of the Aquatic God, Thanks to: Neva.</Description>
+        <FameBonus>6</FameBonus>
+        <feedPower>490</feedPower>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>10</Speed>
+            <MinDamage>165</MinDamage>
+            <MaxDamage>230</MaxDamage>
+            <LifetimeMS>350</LifetimeMS>
+        </Projectile>
+        <RateOfFire>1.15</RateOfFire>
+        <ActivateOnEquip stat="27" amount="5">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8040" id="Sword of the Demon Lord">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x30</Index></Texture>
+        <SlotType>1</SlotType>
+        <Description>A Sword of the Demon Lord, Thanks to: Neva.</Description>
+        <FameBonus>5</FameBonus>
+        <feedPower>490</feedPower>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>10</Speed>
+            <MinDamage>220</MinDamage>
+            <MaxDamage>260</MaxDamage>
+            <LifetimeMS>370</LifetimeMS>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>0.8</RateOfFire>
+        <ActivateOnEquip stat="0" amount="50">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="26" amount="5">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8041" id="Sword of the Fallen">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x30</Index></Texture>
+        <SlotType>1</SlotType>
+        <Description>Once posessed by the King of the Giants, the sword is the most powerful one within the realm.</Description>
+        <FameBonus>6</FameBonus>
+        <feedPower>500</feedPower>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>10</Speed>
+            <MinDamage>275</MinDamage>
+            <MaxDamage>320</MaxDamage>
+            <LifetimeMS>520</LifetimeMS>
+        </Projectile>
+        <RateOfFire>0.9</RateOfFire>
+        <ActivateOnEquip stat="20" amount="2">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="28" amount="2">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8042" id="The Apex Bulwark">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x40</Index></Texture>
+        <SlotType>8</SlotType>
+        <Description>This wand was once wielded by the leader of the ancient battle mages. His dark energy continues to pulsate through the wand, making it impossible to command through traditional methods</Description>
+        <FameBonus>10</FameBonus>
+        <Projectile>
+            <ObjectId>Red Fire</ObjectId>
+            <Speed>130</Speed>
+            <MinDamage>225</MinDamage>
+            <MaxDamage>250</MaxDamage>
+            <LifetimeMS>770</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+        <NumProjectiles>4</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <Sound>weapon/fire_wand</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8043" id="The Searing Blood">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj6</File><Index>0x80</Index></Texture>
+        <SlotType>18</SlotType>
+        <Description>Collected from the veins of the fallen Firebreather, the blood&#x27;s fiery structure may have its uses.</Description>
+        <FameBonus>5</FameBonus>
+        <feedPower>400</feedPower>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8044" id="The Seaweed Sword">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x30</Index></Texture>
+        <SlotType>1</SlotType>
+        <Description>Crafted from the seaweed that occupies the Riverborn&#x27;s face, the sword is agile and very deadly.</Description>
+        <FameBonus>5</FameBonus>
+        <feedPower>500</feedPower>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>10</Speed>
+            <MinDamage>75</MinDamage>
+            <MaxDamage>145</MaxDamage>
+            <LifetimeMS>500</LifetimeMS>
+        </Projectile>
+        <RateOfFire>1.2</RateOfFire>
+        <NumProjectiles>3</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <ActivateOnEquip stat="26" amount="4">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8045" id="The Winged Wand">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x40</Index></Texture>
+        <SlotType>8</SlotType>
+        <Description>Riverborn&#x27;s wings infused with magic allow the wielder full control over the waters within the river</Description>
+        <FameBonus>5</FameBonus>
+        <Projectile>
+            <ObjectId>Red Fire</ObjectId>
+            <Speed>130</Speed>
+            <MinDamage>65</MinDamage>
+            <MaxDamage>120</MaxDamage>
+            <LifetimeMS>770</LifetimeMS>
+            <MultiHit/>
+        </Projectile>
+        <RateOfFire>0.95</RateOfFire>
+        <NumProjectiles>2</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <ActivateOnEquip stat="20" amount="2">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="28" amount="4">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/fire_wand</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8046" id="Throwing Spear">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x30</Index></Texture>
+        <SlotType>1</SlotType>
+        <Description>HOW MANY TIME HAVE I CALL MY NAME FOR YOU</Description>
+        <FameBonus>6</FameBonus>
+        <feedPower>950</feedPower>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>15</Speed>
+            <MinDamage>325</MinDamage>
+            <MaxDamage>325</MaxDamage>
+            <LifetimeMS>650</LifetimeMS>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>0.8</RateOfFire>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8047" id="Thusala&#x27;s Slasher">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x30</Index></Texture>
+        <SlotType>1</SlotType>
+        <Description>This anciant polearm, once wielded by Thusala, has guarded the Necropolis for thousands of years.</Description>
+        <FameBonus>10</FameBonus>
+        <Projectile>
+            <ObjectId>Blade</ObjectId>
+            <Speed>100</Speed>
+            <MinDamage>50</MinDamage>
+            <MaxDamage>1675</MaxDamage>
+            <LifetimeMS>350</LifetimeMS>
+            <MultiHit/>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>0.4</RateOfFire>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8048" id="Undead&#x27;s Gross Bow">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x50</Index></Texture>
+        <SlotType>3</SlotType>
+        <Description>A gross,rather large bow that was crafted from the dead. Thanks to: BeeEasy.</Description>
+        <FameBonus>6</FameBonus>
+        <feedPower>900</feedPower>
+        <Projectile>
+            <ObjectId>Green Arrow</ObjectId>
+            <Speed>16</Speed>
+            <MinDamage>85</MinDamage>
+            <MaxDamage>120</MaxDamage>
+            <LifetimeMS>440</LifetimeMS>
+            <MultiHit/>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>0.85</RateOfFire>
+        <NumProjectiles>5</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <Sound>weapon/poor_quality_bow</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8049" id="Wand Full of Mana">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x40</Index></Texture>
+        <SlotType>8</SlotType>
+        <Description>Composed of the arcane essence that allows arcanic beings to exist.</Description>
+        <FameBonus>8</FameBonus>
+        <Projectile>
+            <ObjectId>Red Fire</ObjectId>
+            <Speed>130</Speed>
+            <MinDamage>25</MinDamage>
+            <MaxDamage>50</MaxDamage>
+            <LifetimeMS>770</LifetimeMS>
+        </Projectile>
+        <RateOfFire>1.45</RateOfFire>
+        <NumProjectiles>5</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <ActivateOnEquip stat="27" amount="-8">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="0" amount="-75">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="3" amount="200">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/fire_wand</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x804a" id="Wand of Bone">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x40</Index></Texture>
+        <SlotType>8</SlotType>
+        <Description>A wand fashioned from the bones of Diagon himself. It draws power from Diagon&#x27;s necrotic life essence</Description>
+        <FameBonus>10</FameBonus>
+        <Projectile>
+            <ObjectId>Red Fire</ObjectId>
+            <Speed>130</Speed>
+            <MinDamage>180</MinDamage>
+            <MaxDamage>200</MaxDamage>
+            <LifetimeMS>770</LifetimeMS>
+            <MultiHit/>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>0.75</RateOfFire>
+        <NumProjectiles>2</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <Sound>weapon/fire_wand</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x804b" id="Wand of Retribution">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x40</Index></Texture>
+        <SlotType>8</SlotType>
+        <Tier>14</Tier>
+        <Description>A golden wand of breathtaking power, created by elemental forces from the realms of ice and flame to unleash revenge on their enemies.</Description>
+        <Projectile>
+            <ObjectId>Red Fire</ObjectId>
+            <Speed>10</Speed>
+            <MinDamage>120</MinDamage>
+            <MaxDamage>160</MaxDamage>
+            <LifetimeMS>800</LifetimeMS>
+        </Projectile>
+        <Sound>weapon/fire_wand</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x804c" id="Wand of the Frozen Queen">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x40</Index></Texture>
+        <SlotType>8</SlotType>
+        <Description>Ripped straight from the ground of te Frozen Queen&#x27;s domain, this wand pierces your enemies with an unrelenting coldness</Description>
+        <FameBonus>7</FameBonus>
+        <Projectile>
+            <ObjectId>Red Fire</ObjectId>
+            <Speed>130</Speed>
+            <MinDamage>180</MinDamage>
+            <MaxDamage>200</MaxDamage>
+            <LifetimeMS>770</LifetimeMS>
+            <MultiHit/>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>1.1</RateOfFire>
+        <ActivateOnEquip stat="20" amount="5">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="28" amount="2">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/fire_wand</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x804d" id="Wand of the Rising Star">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x40</Index></Texture>
+        <SlotType>8</SlotType>
+        <Description>Various kinds of stars have been used in the creation of this wand... Maybe.</Description>
+        <FameBonus>1</FameBonus>
+        <Projectile>
+            <ObjectId>Red Fire</ObjectId>
+            <Speed>130</Speed>
+            <MinDamage>75</MinDamage>
+            <MaxDamage>130</MaxDamage>
+            <LifetimeMS>770</LifetimeMS>
+        </Projectile>
+        <RateOfFire>0.6</RateOfFire>
+        <NumProjectiles>3</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <Sound>weapon/fire_wand</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x804e" id="Windcutter">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj3</File><Index>0x21c</Index></Texture>
+        <SlotType>24</SlotType>
+        <Description>A suspiciously looking katana</Description>
+        <FameBonus>6</FameBonus>
+        <Projectile>
+            <ObjectId>Katana Slash</ObjectId>
+            <Speed>120</Speed>
+            <MinDamage>240</MinDamage>
+            <MaxDamage>280</MaxDamage>
+            <LifetimeMS>350</LifetimeMS>
+            <MultiHit/>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>1.2</RateOfFire>
+        <ActivateOnEquip stat="22" amount="3">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="28" amount="3">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/blunt_sword</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x804f" id="Wooden Elegance">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj5</File><Index>0x50</Index></Texture>
+        <SlotType>3</SlotType>
+        <Description>Crafted from the fine wood found in the Broken Forest, this bow will bring style to the way you shoot.</Description>
+        <FameBonus>5</FameBonus>
+        <feedPower>500</feedPower>
+        <Projectile>
+            <ObjectId>Green Arrow</ObjectId>
+            <Speed>160</Speed>
+            <MinDamage>65</MinDamage>
+            <MaxDamage>95</MaxDamage>
+            <LifetimeMS>440</LifetimeMS>
+            <MultiHit/>
+            <PassesCover/>
+        </Projectile>
+        <RateOfFire>1.15</RateOfFire>
+        <NumProjectiles>2</NumProjectiles>
+        <ArcGap>11.25</ArcGap>
+        <ActivateOnEquip stat="20" amount="4">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="28" amount="6">IncrementStat</ActivateOnEquip>
+        <Sound>weapon/poor_quality_bow</Sound>
+        <BagType>0</BagType>
+    </Object>
+    <Object type="0x8050" id="Shield of Vendettas">
+        <Class>Equipment</Class>
+        <Item/>
+        <Texture><File>lofiObj6</File><Index>0x72</Index></Texture>
+        <SlotType>5</SlotType>
+        <Description>Forged from grudges held too long. Craig had a list. You were on it.</Description>
+        <RateOfFire>1.0</RateOfFire>
+        <Sound>spell/fire_spray</Sound>
+        <Projectile>
+            <ObjectId>Silver Shield</ObjectId>
+            <Speed>180</Speed>
+            <MinDamage>160</MinDamage>
+            <MaxDamage>235</MaxDamage>
+            <LifetimeMS>240</LifetimeMS>
+            <Size>170</Size>
+            <ConditionEffect duration="4">Stunned</ConditionEffect>
+            <MultiHit/>
+            <PassesCover/>
+            <ParticleTrail/>
+        </Projectile>
+        <ActivateOnEquip stat="0" amount="120">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="21" amount="14">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="27" amount="6">IncrementStat</ActivateOnEquip>
+        <MpCost>120</MpCost>
+        <Cooldown>5</Cooldown>
+        <Usable/>
+        <FameBonus>6</FameBonus>
+        <feedPower>950</feedPower>
+        <BagType>3</BagType>
+    </Object>
+</Objects>

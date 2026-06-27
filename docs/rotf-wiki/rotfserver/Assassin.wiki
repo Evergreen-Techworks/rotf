@@ -1,0 +1,44 @@
+# Assassin
+# https://rotfserver.fandom.com/api.php?action=parse&page=Assassin&prop=wikitext
+
+{{Classbox
+| desc = The assassin fights from medium range and uses poison to damage his enemies over time.
+| weaponSlot = Dagger
+| weapon = Steel Dagger
+| abilitySlot = Poison
+| ability = Centipede Poison
+| armor = LeatherArmor
+| armorLink = Leather Armors
+
+| hpStart = 150
+| hpLevel = 20 - 30
+| hpCap = 720
+
+| mpStart = 100
+| mpLevel = 2 - 8
+| mpCap = 252
+
+| attStart = 12
+| attLevel = 0 - 2
+| attCap = 60
+
+| defStart = 0
+| defLevel = 0
+| defCap = 25
+
+| spdStart = 15
+| spdLevel = 1 - 2
+| spdCap = 75
+
+| dexStart = 15
+| dexLevel = 1 - 2
+| dexCap = 75
+
+| vitStart = 15
+| vitLevel = 0 - 1
+| vitCap = 40
+
+| wisStart = 10
+| wisLevel = 1 - 2
+| wisCap = 60
+}}

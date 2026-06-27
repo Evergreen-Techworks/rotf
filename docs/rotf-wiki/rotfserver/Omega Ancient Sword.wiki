@@ -1,0 +1,31 @@
+# Omega Ancient Sword
+# https://rotfserver.fandom.com/api.php?action=parse&page=Omega%20Ancient%20Sword&prop=wikitext
+
+{{ItemInfo
+| name = Omega Ancient Sword
+| slot = sword
+| tier = UT
+| rarity = l
+| desc = A Omega Ancient Sword, Thanks to: MegaLerio223.
+
+| rof = 100
+| range = 
+| projSpeed = 11
+| lifetime = 450
+| minDmg = 180
+| maxDmg = 240
+| shots = 3
+| arcgap = 15
+| feedp = 100
+| fameb = 6
+
+| bonuses = {{Stat|def|2}}
+ 
+| legendary = 4
+
+|lootbag = white
+|dropsFrom = is obtainable from The Shatters|range2 = 4.7}}
+<noinclude>
+[[Category:Swords]]
+{{NavSwords}}
+</noinclude>

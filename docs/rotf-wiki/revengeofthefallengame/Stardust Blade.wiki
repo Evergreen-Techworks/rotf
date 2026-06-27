@@ -1,0 +1,4 @@
+# Stardust Blade
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Stardust%20Blade&prop=wikitext
+
+asdf

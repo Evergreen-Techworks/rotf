@@ -1,0 +1,739 @@
+# Rings
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Rings&prop=wikitext
+
+Rings can be used by all classes and offer a variety of stats for each situation and build
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = ElithorsSoulBottle.png
+| link = Elithor's Soul Bottle
+| text = Elithor's Soul Bottle
+}}
+| {{ImageBlackLarge1
+| file = RingOfFleshlyDesire.png
+| link = Ring of Fleshly Desire
+| text = Ring of Fleshly Desire
+}}
+| {{ImageBlackLarge1
+| file = NecklaceOfFangs.png
+| link = Necklace of Fangs
+| text = Necklace of Fangs
+}}
+| {{ImageBlack
+| file = YetiWalkers.png
+| link = Yeti Walkers
+| text = Yeti Walkers
+}}
+| {{ImageBlackLarge1
+| file = AmuletOfAscension.png
+| link = Amulet of Ascension
+| text = Amulet of Ascension
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = AmuletOfDispersion.png
+| link = Amulet of Dispersion
+| text = Amulet of Dispersion
+}}
+|{{ImageBlackLarge1
+| file = BracerOfTheGuardian.png
+| link = Bracer of the Guardian
+| text = Bracer of the Guardian
+}}
+|{{ImageBlackLarge1
+| file = TheTwilightGemstone.png
+| link = The Twilight Gemstone
+| text = The Twilight Gemstone
+}}
+|{{ImageBlackLarge1
+| file = TheForgottenCrown.png
+| link = The Forgotten Crown
+| text = The Forgotten Crown
+}}
+|{{ImageBlackLarge1
+| file = BloodshedRing.png
+| link = Bloodshed Ring
+| text = Bloodshed Ring
+}}
+|{{ImageBlackLarge1
+| file = MagicalLodestone.png
+| link = Magical Lodestone
+| text = Magical Lodestone
+}}
+|-
+|{{ImageBlack
+| file = Sourcestone.png
+| link = Sourcestone
+| text = Sourcestone
+}}
+|{{ImageBlackLarge1
+| file = OmnipotenceRing.png
+| link = Omnipotence Ring
+| text = Omnipotence Ring
+}}
+|{{ImageBlack
+| file = GoldMedal.png
+| link = Gold Medal
+| text = Gold Medal
+}}
+|{{ImageBlack
+| file = AmericaRing.png
+| link = America Ring
+| text = America Ring
+}}
+|{{ImageBlack
+| file = IceCrown.png
+| link = Ice Crown
+| text = Ice Crown
+}}
+|{{ImageBlack
+| file = HelmetOfThor.png
+| link = Helmet of Thor
+| text = Helmet of Thor
+}}
+|-
+|{{ImageBlackLarge1
+| file = ThorsBracelets.png
+| link = Thor's Bracelets
+| text = Thor's Bracelets
+}}
+|{{ImageBlack
+| file = HelasHorns.png
+| link = Hela's Horns
+| text = Hela's Horns
+}}
+|{{ImageBlackLarge2
+| file = GoldenAsgardianHelmet.png
+| link = Golden Asgardian Helmet
+| text = Golden Asgardian Helmet
+}}
+|{{ImageBlackLarge2
+| file = ObsidianAsgardianHelmet.png
+| link = Obsidian Asgardian Helmet
+| text = Obsidian Asgardian Helmet
+}}
+|{{ImageBlackLarge2
+| file = PlatinumAsgardianHelmet.png
+| link = Platinum Asgardian Helmet
+| text = Platinum Asgardian Helmet
+}}
+|{{ImageBlack
+| file = RingOfOryx.png
+| link = Ring of Oryx
+| text = Ring of Oryx
+}}
+|-
+|{{ImageBlack
+| file = TheSoulRing.png
+| link = The Soul Ring
+| text = The Soul Ring
+}}
+|{{ImageBlackLarge1
+| file = TheConsumedRing.png
+| link = The Consumed Ring
+| text = The Consumed Ring
+}}
+|{{ImageBlack
+| file = ForsakenRing.png
+| link = Forsaken Ring
+| text = Forsaken Ring
+}}
+|{{ImageBlackLarge1
+| file = RingOfTheCosmos.png
+| link = Ring of the Cosmos
+| text = Ring of the Cosmos
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = ExperimentalRing.png
+| link = Experimental Ring
+| text = Experimental Ring
+}}
+|{{ImageBlackLarge1
+| file = RingOfTheSphinx.png
+| link = Ring of the Sphinx
+| text = Ring of the Sphinx
+}}
+|{{ImageBlack
+| file = RingOfTheNile.png
+| link = Ring of the Nile
+| text = Ring of the Nile
+}}
+|{{ImageBlackLarge1
+| file = RingOfThePyramid.png
+| link = Ring of the Pyramid
+| text = Ring of the Pyramid
+}}
+|{{ImageBlack
+| file = SilverMedal.png
+| link = Silver Medal
+| text = Silver Medal
+}}
+|{{ImageBlackLarge1
+| file = RingOfTheBurning Sun.png
+| link = Ring of the Burning Sun
+| text = Ring of the Burning Sun
+}}
+|{{ImageBlackLarge1
+| file = RingOfDecades.png
+| link = Ring of Decades
+| text = Ring of Decades
+}}
+|-
+|{{ImageBlackLarge1
+| file = EnchantedIceShard.png
+| link = Enchanted Ice Shard
+| text = Enchanted Ice Shard
+}}
+|{{ImageBlack
+| file = Frimarra.png
+| link = Frimarra
+| text = Frimarra
+}}
+|{{ImageBlackLarge1
+| file = RingOfTheNorthenLight.png
+| link = Ring of the Northen Light
+| text = Ring of the Northen Light
+}}
+|{{ImageBlackLarge1
+| file = RingOfTheDestructor.png
+| link = Ring of the Destructor
+| text = Ring of the Destructor
+}}
+|{{ImageBlackLarge1
+| file = RingOfThePokerKing.png
+| link = Ring of the Poker King
+| text = Ring of the Poker King
+}}
+|{{ImageBlackLarge1
+| file = OceanicTreasure.png
+| link = Oceanic Treasure
+| text = Oceanic Treasure
+}}
+|-
+|{{ImageBlackLarge2
+| file = RingOfTheMysticalEncounter.png
+| link = Ring of the Mystical Encounter
+| text = Ring of the Mystical Encounter
+}}
+|{{ImageBlackLarge1
+| file = CrystallizedRingOfHatred.png
+| link = Crystallized Ring of Hatred
+| text = Crystallized Ring of Hatred
+}}
+|{{ImageBlack
+| file = JanusEyeRing.png
+| link = Janus Eye Ring
+| text = Janus Eye Ring
+}}
+|{{ImageBlackLarge1
+| file = LightningGodRing.png
+| link = Lightning God Ring
+| text = Lightning God Ring
+}}
+|{{ImageBlack
+| file = AcidRing.png
+| link = Acid Ring
+| text = Acid Ring
+}}
+|{{ImageBlack
+| file = GrayBelt.png
+| link = Gray Belt
+| text = Gray Belt
+}}
+|}</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-
+|{{ImageBlackLarge1
+| file = AlmandineRingOfWrath.png
+| link = Almandine Ring of Wrath
+| text = Almandine Ring of Wrath
+}}
+|{{ImageBlackLarge1
+| file = RingOfPureWishes.png
+| link = Ring of Pure Wishes
+| text = Ring of Pure Wishes
+}}
+|{{ImageBlackLarge1
+| file = GebsRingOfWisdom.png
+| link = Geb's Ring of Wisdom
+| text = Geb's Ring of Wisdom
+}}
+|{{ImageBlackLarge1
+| file = SpectralRingOfHorrors.png
+| link = Spectral Ring of Horrors
+| text = Spectral Ring of Horrors
+}}
+|{{ImageBlackLarge1
+| file = TheForgottenRing.png
+| link = The Forgotten Ring
+| text = The Forgotten Ring
+}}
+|-
+|{{ImageBlackLarge1
+| file = RingOfTheCovetousHeart.png
+| link = Ring of the Covetous Heart
+| text = Ring of the Covetous Heart
+}}
+|{{ImageBlackLarge1
+| file = AmuletOfDrakefyre.png
+| link = Amulet of Drakefyre
+| text = Amulet of Drakefyre
+}}
+|{{ImageBlack
+| file = HoneyCirclet.png
+| link = Honey Circlet
+| text = Honey Circlet
+}}
+|{{ImageBlack
+| file = RustyCuffs.png
+| link = Rusty Cuffs
+| text = Rusty Cuffs
+}}
+|{{ImageBlack
+| file = Interregnum.png
+| link = Interregnum
+| text = Interregnum
+}}
+|-
+|{{ImageBlack
+| file = HorrificClaws.png
+| link = Horrific Claws
+| text = Horrific Claws
+}}
+|{{ImageBlackLarge1
+| file = HivemindCirclet.png
+| link = Hivemind Circlet
+| text = Hivemind Circlet
+}}
+|{{ImageBlackLarge1
+| file = EyesOfTheFirebreather.png
+| link = Eyes of the Firebreather
+| text = Eyes of the Firebreather
+}}
+|{{ImageBlack
+| file = Candlestick.png
+| link = Candlestick
+| text = Candlestick
+}}
+|{{ImageBlackLarge1
+| file = WaterFromTheRiver.png
+| link = Water from the River
+| text = Water from the River
+}}
+|-
+|{{ImageBlackLarge1
+| file = FlamesInAbottle.png
+| link = Flames in a bottle
+| text = Flames in a bottle
+}}
+|{{ImageBlackLarge1
+| file = SpikesOfTheTreesmasher.png
+| link = Spikes of the Treesmasher
+| text = Spikes of the Treesmasher
+}}
+|{{ImageBlack
+| file = WingNecklace.png
+| link = Wing Necklace
+| text = Wing Necklace
+}}
+|{{ImageBlack
+| file = PracticeTarget.png
+| link = Practice Target
+| text = Practice Target
+}}
+|{{ImageBlackLarge1
+| file = TailOfTheRiverborn.png
+| link = Tail Of The Riverborn
+| text = Tail Of The Riverborn
+}}
+|{{ImageBlackLarge2
+| file = RingOfTheNatureGoddess.png
+| link = Ring of the Nature Goddess
+| text = Ring of the Nature Goddess
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">
+Unique
+</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = SnakeEyeRing.png
+| link = Snake Eye Ring
+| text = Snake Eye Ring
+}}
+|{{ImageBlackLarge1
+| file = SpiderEyeRing.png
+| link = Spider Eye Ring
+| text = Spider Eye Ring
+}}
+|{{ImageBlackLarge1
+| file = CrystalBoneRing.png
+| link = Crystal Bone Ring
+| text = Crystal Bone Ring
+}}
+|{{ImageBlack
+| file = CandyRing.png
+| link = Candy Ring
+| text = Candy Ring
+}}
+|{{ImageBlack
+| file = CaptainsRing.png
+| link = Captain’s Ring
+| text = Captain’s Ring
+}}
+|{{ImageBlackLarge1
+| file = RingOfDivineFaith.png
+| link = Ring of Divine Faith
+| text = Ring of Divine Faith
+}}
+|{{ImageBlack
+| file = CoralRing.png
+| link = Coral Ring
+| text = Coral Ring
+}}
+|-
+|{{ImageBlack
+| file = BronzeMedal.png
+| link = Bronze Medal
+| text = Bronze Medal
+}}
+|{{ImageBlackLarge1
+| file = RingOfTheEncounter.png
+| link = Ring of the Encounter
+| text = Ring of the Encounter
+}}
+|{{ImageBlackLarge1
+| file = RingOfTheDemonLord.png
+| link = Ring of the Demon Lord
+| text = Ring of the Demon Lord
+}}
+|{{ImageBlack
+| file = BurgerKring.png
+| link = Burger K-ring
+| text = Burger K-ring
+}}
+|{{ImageBlack
+| file = RingOfOrtar.png
+| link = Ring of Ortar
+| text = Ring of Ortar
+}}
+|{{ImageBlackLarge1
+| file = RingOfTheAquaticGod.png
+| link = Ring of the Aquatic God
+| text = Ring of the Aquatic God
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = CosmicRingOfVigor.png
+| link = Cosmic Ring Of Vigor
+| text = Cosmic Ring Of Vigor
+}}
+|{{ImageBlackLarge1
+| file = CosmicRingOfPotency.png
+| link = Cosmic Ring Of Potency
+| text = Cosmic Ring Of Potency
+}}
+|{{ImageBlackLarge1
+| file = CosmicRingOfOnslaught.png
+| link = Cosmic Ring of Onslaught
+| text = Cosmic Ring of Onslaught
+}}
+|{{ImageBlackLarge1
+| file = CosmicRingOfResolve.png
+| link = Cosmic Ring Of Resolve
+| text = Cosmic Ring Of Resolve
+}}
+|{{ImageBlackLarge1
+| file = CosmicRingOfPrecision.png
+| link = Cosmic Ring Of Precision
+| text = Cosmic Ring Of Precision
+}}
+|{{ImageBlackLarge1
+| file = CosmicRingOfMomentum.png
+| link = Cosmic Ring Of Momentum
+| text = Cosmic Ring Of Momentum
+}}
+|{{ImageBlackLarge1
+| file = CosmicRingOfRestoration.png
+| link = Cosmic Ring Of Restoration
+| text = Cosmic Ring Of Restoration
+}}
+|{{ImageBlackLarge1
+| file = CosmicRingOfInsight.png
+| link = Cosmic Ring Of Insight
+| text = Cosmic Ring Of Insight
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge2
+| file = RingOfUnboundHealth.png
+| link = Ring of Unbound Health
+| text = Ring of Unbound Health
+}}
+|{{ImageBlackLarge1
+| file = RingOfUnboundMagic.png
+| link = Ring of Unbound Magic
+| text = Ring of Unbound Magic
+}}
+|{{ImageBlackLarge2
+| file = RingOfUnboundAttack.png
+| link = Ring of Unbound Attack
+| text = Ring of Unbound Attack
+}}
+|{{ImageBlackLarge2
+| file = RingOfUnboundDefense.png
+| link = Ring of Unbound Defense
+| text = Ring of Unbound Defense
+}}
+|{{ImageBlackLarge2
+| file = RingOfUnboundDextery.png
+| link = Ring of Unbound Dextery
+| text = Ring of Unbound Dextery
+}}
+|{{ImageBlackLarge2
+| file = RingOfUnboundSpeed.png
+| link = Ring of Unbound Speed
+| text = Ring of Unbound Speed
+}}
+|{{ImageBlackLarge2
+| file = RingOfUnboundVitality.png
+| link = Ring of Unbound Vitality
+| text = Ring of Unbound Vitality
+}}
+|{{ImageBlackLarge2
+| file = RingOfUnboundWisdom.png
+| link = Ring of Unbound Wisdom
+| text = Ring of Unbound Wisdom
+}}
+|-
+|{{ImageBlackLarge1
+| file = RingOfExaltedHealth.png
+| link = Ring of Exalted Health
+| text = Ring of Exalted Health
+}}
+|{{ImageBlackLarge1
+| file = RingOfExaltedMagic.png
+| link = Ring of Exalted Magic
+| text = Ring of Exalted Magic
+}}
+|{{ImageBlackLarge1
+| file = RingOfExaltedAttack.png
+| link = Ring of Exalted Attack
+| text = Ring of Exalted Attack
+}}
+|{{ImageBlackLarge1
+| file = RingOfExaltedDefense.png
+| link = Ring of Exalted Defense
+| text = Ring of Exalted Defense
+}}
+|{{ImageBlackLarge1
+| file = RingOfExaltedDextery.png
+| link = Ring of Exalted Dextery
+| text = Ring of Exalted Dextery
+}}
+|{{ImageBlackLarge1
+| file = RingOfExaltedSpeed.png
+| link = Ring of Exalted Speed
+| text = Ring of Exalted Speed
+}}
+|{{ImageBlackLarge1
+| file = RingOfExaltedVitality.png
+| link = Ring of Exalted Vitality
+| text = Ring of Exalted Vitality
+}}
+|{{ImageBlackLarge1
+| file = RingOfExaltedWisdom.png
+| link = Ring of Exalted Wisdom
+| text = Ring of Exalted Wisdom
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge2
+| file = RingOfParamountHealth.png
+| link = Ring of Paramount Health
+| text = Ring of Paramount Health
+}}
+|{{ImageBlackLarge2
+| file = RingOfParamountMagic.png
+| link = Ring of Paramount Magic
+| text = Ring of Paramount Magic
+}}
+|{{ImageBlackLarge2
+| file = RingOfParamountAttack.png
+| link = Ring of Paramount Attack
+| text = Ring of Paramount Attack
+}}
+|{{ImageBlackLarge2
+| file = RingOfParamountDefense.png
+| link = Ring of Paramount Defense
+| text = Ring of Paramount Defense
+}}
+|{{ImageBlackLarge2
+| file = RingOfParamountDextery.png
+| link = Ring of Paramount Dextery
+| text = Ring of Paramount Dextery
+}}
+|{{ImageBlackLarge2
+| file = RingOfParamountSpeed.png
+| link = Ring of Paramount Speed
+| text = Ring of Paramount Speed
+}}
+|{{ImageBlackLarge2
+| file = RingOfParamountVitality.png
+| link = Ring of Paramount Vitality
+| text = Ring of Paramount Vitality
+}}
+|{{ImageBlackLarge2
+| file = RingOfParamountWisdom.png
+| link = Ring of Paramount Wisdom
+| text = Ring of Paramount Wisdom
+}}
+|-
+|{{ImageBlackLarge1
+| file = RingOfSuperiorHealth.png
+| link = Ring of Superior Health
+| text = Ring of Superior Health
+}}
+|{{ImageBlackLarge1
+| file = RingOfSuperiorMagic.png
+| link = Ring of Superior Magic
+| text = Ring of Superior Magic
+}}
+|{{ImageBlackLarge1
+| file = RingOfSuperiorAttack.png
+| link = Ring of Superior Attack
+| text = Ring of Superior Attack
+}}
+|{{ImageBlackLarge2
+| file = RingOfSuperiorDefense.png
+| link = Ring of Superior Defense
+| text = Ring of Superior Defense
+}}
+|{{ImageBlackLarge2
+| file = RingOfSuperiorDextery.png
+| link = Ring of Superior Dextery
+| text = Ring of Superior Dextery
+}}
+|{{ImageBlackLarge1
+| file = RingOfSuperiorSpeed.png
+| link = Ring of Superior Speed
+| text = Ring of Superior Speed
+}}
+|{{ImageBlackLarge1
+| file = RingOfSuperiorVitality.png
+| link = Ring of Superior Vitality
+| text = Ring of Superior Vitality
+}}
+|{{ImageBlackLarge2
+| file = RingOfSuperiorWisdom.png
+| link = Ring of Superior Wisdom
+| text = Ring of Superior Wisdom
+}}
+|-
+|{{ImageBlackLarge1
+| file = RingOfGreaterHealth.png
+| link = Ring Of Greater Health
+| text = Ring Of Greater Health
+}}
+|{{ImageBlackLarge1
+| file = RingOfGreaterMagic.png
+| link = Ring Of Greater Magic
+| text = Ring Of Greater Magic
+}}
+|{{ImageBlackLarge1
+| file = RingOfGreaterAttack.png
+| link = Ring Of Greater Attack
+| text = Ring Of Greater Attack
+}}
+|{{ImageBlackLarge2
+| file = RingOfGreaterDefense.png
+| link = Ring Of Greater Defense
+| text = Ring Of Greater Defense
+}}
+|{{ImageBlackLarge2
+| file = RingOfGreaterDextery.png
+| link = Ring Of Greater Dextery
+| text = Ring Of Greater Dextery
+}}
+|{{ImageBlackLarge1
+| file = RingOfGreaterSpeed.png
+| link = Ring Of Greater Speed
+| text = Ring Of Greater Speed
+}}
+|{{ImageBlackLarge1
+| file = RingOfGreaterVitality.png
+| link = Ring Of Greater Vitality
+| text = Ring Of Greater Vitality
+}}
+|{{ImageBlackLarge2
+| file = RingOfGreaterWisdom.png
+| link = Ring Of Greater Wisdom
+| text = Ring Of Greater Wisdom
+}}
+|-
+|{{ImageBlackLarge1
+| file = RingOfHealth.png
+| link = Ring Of Health
+| text = Ring Of Health
+}}
+|{{ImageBlackLarge1
+| file = RingOfMagic.png
+| link = Ring Of Magic
+| text = Ring Of Magic
+}}
+|{{ImageBlackLarge1
+| file = RingOfAttack.png
+| link = Ring Of Attack
+| text = Ring Of Attack
+}}
+|{{ImageBlackLarge1
+| file = RingOfDefense.png
+| link = Ring Of Defense
+| text = Ring Of Defense
+}}
+|{{ImageBlackLarge1
+| file = RingOfDextery.png
+| link = Ring Of Dextery
+| text = Ring Of Dextery
+}}
+|{{ImageBlackLarge1
+| file = RingOfSpeed.png
+| link = Ring Of Speed
+| text = Ring Of Speed
+}}
+|{{ImageBlackLarge1
+| file = RingOfVitality.png
+| link = Ring Of Vitality
+| text = Ring Of Vitality
+}}
+|{{ImageBlackLarge1
+| file = RingOfWisdom.png
+| link = Ring Of Wisdom
+| text = Ring Of Wisdom
+}}
+|-
+|{{ImageBlackLarge1
+| file = RingOfMinorDefense.png
+| link = Ring Of Minor Defense
+| text = Ring Of Minor Defense
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

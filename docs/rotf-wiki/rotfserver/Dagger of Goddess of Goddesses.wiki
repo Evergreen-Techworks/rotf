@@ -1,0 +1,29 @@
+# Dagger of Goddess of Goddesses
+# https://rotfserver.fandom.com/api.php?action=parse&page=Dagger%20of%20Goddess%20of%20Goddesses&prop=wikitext
+
+{{ItemInfo
+| name = Dagger of Goddess of Goddesses
+| desc = Taken from the deep ends of the Trench.
+| tier = UT
+| rarity = h
+| slot = dagger
+
+| minDmg = 150
+| maxDmg = 190
+| shots = 1
+| rof = 85
+| range = 
+| projSpeed = 33.3
+| lifetime = 200
+| fameb = 6
+| feedp = 1250
+
+| lootbag = white
+| dropsFrom = can be found in a White Bag dropped by: [[Thessal the Mermaid Goddess]]
+|range2 = 6.19}}
+
+<noinclude>
+{{NavDaggers}}
+</noinclude><noinclude>
+[[Category: Daggers]]</noinclude><noinclude>
+[[Category:Tiered weapons]]</noinclude>

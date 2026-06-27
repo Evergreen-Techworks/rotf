@@ -1,0 +1,34 @@
+{
+ "dungeon": "Tomb of Decaying Death (ToDD)",
+ "source": "aced.gg dev blog 2021-05-23 (designer Shmitty) \u2014 DOCUMENTED design write-up, no live footage exists",
+ "map": "Graveyard biome: dark dirt/moss ground with BONES, TOMBSTONES, trees, and glowing 'SOUL CRACKS' in the ground (spooky graveyard). Noisy/heavily-textured + anti-aliased art style. Darker-dirt tiles have no blend. Many object variants.",
+ "bosses": [
+  {
+   "name": "Tombstone Carrier (ToDD boss/Lord)",
+   "phases": [],
+   "attacks": [],
+   "minions": [
+    "Rotten Corpse",
+    "Brain Craver",
+    "Buried Hand",
+    "Revealed Remains",
+    "Spoilt Flesh"
+   ],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "CONFIRMED boss = the Tombstone Carrier (per Dragons/Midgame post: 'Tomb of Decaying Death - where you'll find yourself fighting against the Tombstone Carrier for the titular tomb'). A returning legacy enemy, now a zombie. Earlier 'Lord of Decaying Death' guess was WRONG."
+  }
+ ],
+ "minions": [
+  "The Rotten Corpse",
+  "The Brain Craver",
+  "The Buried Hand",
+  "The Revealed Remains (counterpart of Buried Hand)",
+  "The Spoilt Flesh",
+  "The Tombstone Carrier (returning from legacy ROTF, now a zombie \u2014 drops loot when killed, classic tomb-robber)"
+ ],
+ "drops": [],
+ "mechanics": "DOCUMENTED (dev blog): ToDD is a returning legacy dungeon. Biome = eldritch graveyard. Enemies are a bone+zombie mix that CRAWL, SPRINT, and sometimes FLOAT (varied movement AI). Roster: Rotten Corpse, Brain Craver, Buried Hand + Revealed Remains pair, Spoilt Flesh, Tombstone Carrier. Same designer also made Nyx of Fire, Soul Harvest, Legendary/Primal items. ALSO REVEALED: a separate unshown dungeon 'Twilight Necropolis' exists.",
+ "uncertain": "No map layout, boss fight pattern, taunts, or drops in this post (art/biome-design focused). Boss name 'Lord of Decaying Death' inferred. This is the BEST source for ToDD \u2014 no video footage exists (verified).",
+ "confidence": "HIGH for biome + enemy roster + boss NAME (Tombstone Carrier, DOCUMENTED across 2 posts); LOW for fight/map/drops."
+}

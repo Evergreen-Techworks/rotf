@@ -1,0 +1,26 @@
+{
+ "dungeon": "GENUINE ROTF multi-dungeon FARM run (~9 min, 15 entries; small facecam top-left; chat readable but MOSTLY IDLE '/tell'). LOW yield: NO clear new boss-prefix TAUNT (chat = idle + player banter + an Oryx loot line); a red/lava boss arena fought. Corroboration + biome inventory only.",
+ "map": "DOCUMENTED-from-frames+transitions (15-dungeon tour): green grass REALMS, a RED/LAVA boss arena (greek-key bordered, white bullets), brown WOODEN vault rooms, grey/white CHECKERED rooms, dark SPACE, white SNOWY grids, colorful tiled rooms. Multi-dungeon farm; no single contiguous layout.",
+ "bosses": [
+  {
+   "name": "(unidentified — red/lava arena boss)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (f_330, lava arena): scattered white bullets in a red/lava greek-key-bordered arena -> scattered/spread; no clean geometry isolatable (no bossends; chat idle)."],
+   "minions": [],
+   "colorFlashes": "red/lava",
+   "taunts": [],
+   "note": "A red/lava boss fought (f_330) but NO boss-prefix TAUNT captured (chat idle '/tell' during the fight) -> boss UNIDENTIFIED, not attributed/guessed. Attack scattered (approximate)."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Oryx loot line: 'Glory dealt the crucial blows with 247300 (13.56%) damage' (damage-contribution loot on an Oryx kill)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Oryx the Mad God (damage-contribution loot line) — corroboration",
+  "death-cause 'by Oryx Noble' (UNCERTAIN read — 0 specs/0 build; possible misread or player name in the death feed; NOT asserted)"
+ ],
+ "mechanics": "DOCUMENTED (limited — idle chat): a multi-dungeon farm with the damage-CONTRIBUTION loot system (Oryx 'crucial blows with X (Y%) damage'). Small facecam top-left; chat readable but mostly idle ('/tell'). Multi-dungeon biome inventory (green/lava/vault/space/checkered/snowy). No new ROTF-custom boss/taunt isolated.",
+ "uncertain": "Chat is MOSTLY IDLE ('/tell' placeholders) for the run -> NO clear new boss-prefix TAUNT recovered; the red/lava arena boss is UNIDENTIFIED (no taunt during the fight). A faint possible boss line ('...This place will be your tomb soon enough...') was seen once but could NOT be re-confirmed/attributed -> NOT recorded as a taunt. 'by Oryx Noble' death-cause is an UNCERTAIN read (possible misread / player) -> flagged, NOT asserted. No bossends -> attacks approximate (scattered lava bullets). ROTF (Oryx contribution-loot system; no TFR/gems banner).",
+ "confidence": "LOW. GENUINE ROTF multi-dungeon farm but minimal yield: NO new boss/taunt (chat mostly idle), 1 unidentified red/lava arena boss (scattered attack, approximate). Value = biome/map inventory + Oryx damage-contribution loot corroboration. Recorded honestly: boss unidentified (no guessed taunt), the faint 'tomb' line NOT recorded (unconfirmed), 'Oryx Noble' flagged uncertain (not asserted), attacks not fabricated, ROTF-confirmed. No follow-up (low yield)."
+}

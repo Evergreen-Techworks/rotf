@@ -1,0 +1,12 @@
+{
+ "dungeon": "RunesNodes (Special-Crate + Runes/Nodestone economy test — a SYSTEM, not a dungeon)",
+ "map": "N/A — player opening 200 Special Crates in a room (floor covered in loot bags) + testing Nodestone->Rune acquisition.",
+ "bosses": [
+   {"name":"Thor (Asgard boss)","phases":[],"attacks":["thunder/lightning attacks"],"minions":[],"colorFlashes":"","taunts":["Power of the thunder!","Watch out for the thunder!"]}
+ ],
+ "minions": [],
+ "drops": ["Special-Crate pool (from chat 'You have opened a crate! Obtaining a ...'): Mantis Skull, Spirit Dagger, Snake Skin Shield, Particulum Armor, Doom Bow, Thousand Shot, Coralton Armor, Robe of the Tlatoani, Martial Sword, Skullish Remains, Sword of the Mad God, Crystal Wand, Frozen Wand, Heavy Armor, Lost Dragon Hide, Spicy Wand, Cheater Robe, Sentinel"],
+ "mechanics": "SPECIAL CRATES: opened 200 -> '55 legendaries out of 200' = ~27.5% legendary rate (concrete drop-rate data for the crate economy). Crates drop a wide item pool (above). Video also tested NODESTONE -> Rune acquisition ('how many nodes to get all runes') — the rune/nodestone UI is present but counts not legible.",
+ "uncertain": "Exact Nodestone->Rune conversion numbers not captured. Some crate item names approximate (480p). Thor taunts verbatim.",
+ "confidence": "HIGH for: Special-Crate legendary rate (55/200 ~27.5%), the crate item pool, and Thor's taunts. Feeds Phase-D2 Runes/Nodestone + the crate system."
+}

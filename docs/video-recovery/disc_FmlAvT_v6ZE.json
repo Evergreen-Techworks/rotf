@@ -1,0 +1,23 @@
+{
+ "dungeon": "GENUINE ROTF edited compilation (meme caption 'This was a result of Mike being big gay.' + 'PREVIOUS VIDEO' end card) of a single CUSTOM CROSS-SHAPED PURPLE/SAND ARENA being run/farmed repeatedly. High-population EVENT server -> chat is DOMINATED by green/yellow notification spam (achievements/drops), so boss TAUNTS/NAMES are NOT cleanly recoverable. STRONG point: 126 bossends give a clean ATTACK + ARENA read; weak point: no boss name/taunt extractable from the spam.",
+ "map": "DOCUMENTED-from-bossends+transitions: a symmetric CROSS/PLUS-SHAPED ARENA — a central PURPLE/MAGENTA cross/plaza with FOUR SAND/TAN corridors radiating outward (N/S/E/W), tan-brick borders, open center where the boss is fought. The same arena recurs across the run (the video farms it repeatedly). One side-room is a brown dungeon with a blue water pool. Choke points = the 4 corridor mouths into the central cross.",
+ "bosses": [
+  {
+   "name": "(unnamed central boss — name buried in notification spam)",
+   "phases": ["multi-COLOR bullet phases: yellow/gold ring, then orange, then a dense RED nova (color shifts read across bossend frames -> likely HP-threshold phase changes)"],
+   "attacks": ["DOCUMENTED-from-frames (bossends, clear): a RADIAL RING / NOVA — a full circle of evenly-spaced bullets (~20-30 count) expanding outward from the central boss; observed in YELLOW/GOLD, ORANGE, and a denser RED variant across phases; an early BLUE partial-ring also seen. Maps to: Shoot with count ~24, shootAngle ~360/count, radial (no predictive), color/phase-shifting. Fits the cross arena (bullets fill all 4 corridors)."],
+   "minions": [],
+   "colorFlashes": "yellow/gold -> orange -> red (phase shifts)",
+   "taunts": [],
+   "note": "DOCUMENTED-attack-only: the chat is a wall of notification spam on this event server, so the boss NAME and any taunt could NOT be isolated. The radial-ring/nova attack + the cross arena are cleanly documented from the 126 bossends. Not attributable to a named boss this tag."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "(loot lines present but lost in the notification spam — not cleanly isolable)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED-limited (spam-heavy): an edited compilation farming a single CUSTOM CROSS-SHAPED PURPLE/SAND ARENA. KEY clean finds (from 126 bossends): the arena LAYOUT (central purple cross + 4 radiating sand corridors) and the boss's ATTACK = a color/phase-shifting RADIAL RING/NOVA (yellow/gold -> orange -> red, ~20-30 evenly-spaced bullets). The server is a high-population EVENT server -> chat is dominated by achievement/drop notification spam, which BLOCKS clean recovery of the boss name + taunts + loot. Edited (meme captions, PREVIOUS VIDEO).",
+ "uncertain": "Boss NAME + taunts NOT recoverable (notification-spam-dominated chat). Radial-ring bullet COUNT estimated (~20-30, not exactly counted); the color phases (yellow->orange->red) read as HP-threshold changes but the thresholds aren't measured. Drops lost in spam. The cross arena is clearly one custom dungeon but its NAME is not captured on entry (transitions show the arena interior, not a name banner).",
+ "confidence": "MEDIUM for the ARENA layout (cross/plus shape, purple center + 4 sand corridors) and the boss ATTACK (color-shifting radial ring/nova) — both DOCUMENTED-from-bossends. LOW for everything chat-based (no boss name/taunt/loot — spam-blocked). GENUINE ROTF. Net value: a documented cross-arena layout + a radial-nova attack pattern (reusable for a Shoot behaviour), but NO named-boss/taunt content. Best follow-up: a low-spam clip of this purple cross arena to capture the boss name + taunts."
+}

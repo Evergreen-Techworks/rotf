@@ -1,0 +1,21 @@
+{
+ "dungeon": "GENUINE ROTF very-short EDITED MEME CLIP (~17 frames; big white meme-caption overlays 'dont tell me what to do' / 'Thorga...' / 'Frolic - Lucia...' + an 'Executive Producer Valox' end-card credit). A single grass-REALM fight against a minor 'Cavalier' enemy. LOW yield: the on-screen big text is EDITED CAPTIONS, not chat -> NO real boss taunts; the only named entity is a weak 'Cavalier' (Bleed-status'd, ~200 HP -> a minor realm enemy, not a major boss).",
+ "map": "DOCUMENTED-from-frames: the green GRASS REALM (open island) — no dungeon entered (the only transition is the realm spawn). Open-field fight, no room/arena layout. Not a dungeon.",
+ "bosses": [
+  {
+   "name": "Cavalier",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (approx): fires RED snowflake/star-shaped bullets in a SCATTERED radial pattern across the grass; low count. A minor realm enemy's attack, not a boss bullet-hell."],
+   "minions": [],
+   "colorFlashes": "red",
+   "taunts": [],
+   "note": "DOCUMENTED-from-nameplate ('Cavalier' with a floating red 'Bleeding' STATUS-effect label + ~200/200 HP). This is a MINOR realm ENEMY (low HP), NOT a major boss. No taunt (the big on-screen text is EDITED MEME CAPTIONS, not chat). Name read 'Cavalier' (the 'Bleeding' is the bleed debuff applied to it, not part of the name) -> flagged: could be 'Bleeding Cavalier' if that's its actual id, but the red 'Bleeding' reads as the status effect."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED-limited: a short EDITED MEME CLIP (producer 'Valox', meme-caption overlays) of a grass-realm fight vs a minor 'Cavalier' enemy (Bleed-status'd, ~200 HP). The big white on-screen text is EDITED VIDEO CAPTIONS ('dont tell me what to do', 'Thorga...', 'Frolic - Lucia...'), NOT in-game chat -> no boss taunts recoverable. Attack = scattered red star/snowflake bullets. NOT a dungeon (realm only), NOT a major boss. Lowest-value tag type (meme edit).",
+ "uncertain": "Whether 'Cavalier' is a named custom enemy or a base realm mob is unclear (~200 HP = minor). The red 'Bleeding' label reads as the BLEED STATUS effect on the enemy, not part of its name (but 'Bleeding Cavalier' as a full id can't be fully ruled out). No taunts (captions are edits). No dungeon. Attack geometry approximate (few frames).",
+ "confidence": "LOW. GENUINE ROTF but a tiny edited meme clip of a grass-realm fight vs a minor 'Cavalier' enemy -> NO taunts (on-screen text is edited captions), NO dungeon, NOT a major boss. Recorded only to mark the tag analyzed + note the 'Cavalier' minor-enemy name (Bleed-status'd) and its red scatter attack. Not a source of buildable boss/taunt content."
+}

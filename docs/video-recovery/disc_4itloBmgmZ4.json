@@ -1,0 +1,19 @@
+{
+ "dungeon": "disc_4itloBmgmZ4 — Godlands/realm boss fight + server-wide event chat",
+ "map": "VIDEO: a boss fought on an ORANGE/EARTH diamond-shaped tiled platform ringed by green grass + blue water (Godlands/realm-event arena). Central boss with a red HP bar; party of players.",
+ "bosses": [{
+   "name":"(unidentified orange-arena boss — possibly Pentaract-related, name not shown on the boss)",
+   "phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]
+ }],
+ "minions": [],
+ "drops": [],
+ "mechanics": "",
+ "events_and_systems_recovered_from_chat": {
+   "announcer": "[Giant] = server-wide event announcer channel",
+   "event_bosses": ["Pentaract Tower Ultra ('has just spawned' — an ULTRA/buffed Pentaract event)", "The Hermit God ('has been defeated')"],
+   "galactic_party_terms": "'H GL1 LF DPS 3/4' = Host Galactic-Zone tier 1, Looking For DPS, party 3/4 (confirms GL tier shorthand + party-size system)",
+   "trade": "'buying grass/gross bow for 220k' (Undead's Gross Bow?)"
+ },
+ "uncertain": "Boss in the arena not named on-screen; could be the Pentaract Ultra or a Godlands realm boss. Short clip.",
+ "confidence": "MEDIUM for the CHAT data (event-boss announcements + Galactic party terminology DOCUMENTED verbatim); LOW for boss identity."
+}

@@ -1,0 +1,4 @@
+# Assassin
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Assassin&prop=wikitext
+
+asdf

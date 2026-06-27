@@ -1,0 +1,13 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM ~20 entries) ROTF — NEW Craig taunts (enriches built Craig's Castle boss)",
+ "source": "video disc_SPBkDdC5JGM (445 frames, 60 transitions = ~20 entries, 111 chat). Diverse dungeons (brick/lava/desert/water). Chat captured new Craig taunts (titled 'Craig, The Worst Nightmare') + the stat-pot feed.",
+ "map": "DOCUMENTED biomes: brown/purple BRICK dungeons, grey CASTLE STONE, blue water, tan DESERT, orange/gold arena, RED LAVA brick, grey checkered, blue snow.",
+ "bosses": [
+  {"name":"Craig (Craig, The Worst Nightmare)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Obvi[ously I knew] how bad you were! But my next tri[ck]...","You [...] fix that problem with some gain!"],"note":"DOCUMENTED VERBATIM (boss-colored chat, truncated). This is CRAIG — the BUILT Craig's Castle boss (built as 'Craig the Mad Intern', 0x1fe2, with taunts 'I'M STARTING TO GET ANGRY!!!' etc.). Here titled 'Craig, The Worst Nightmare' (a title/variant) with NEW trick/mocking-themed taunts. ENRICHES the Craig build (Craig's Castle is a flagged high-priority dungeon)."}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "DOCUMENTED: (1) NEW Craig taunts (trick/'gain'-themed: 'Obviously how bad you were! But my next trick...', 'fix that problem with some gain!') — Craig the Mad Intern / 'Craig, The Worst Nightmare' enrichment for the built Craig's Castle boss. (2) Stat-pots (vanilla-named build): Potion of Dexterity/Speed/Life/Wisdom 'N left to max' caps + overflow to potion storage ('You're already maxed. Potion of X sent...').",
+ "uncertain": "Craig taunt lines truncated at the chat-box edge (full wording unclear). Whether 'Craig, The Worst Nightmare' is a higher-difficulty Craig variant or just his full title — unconfirmed. No other boss taunts captured.",
+ "confidence": "HIGH that these are NEW Craig taunts (verbatim fragments) enriching the built Craig's Castle boss; MEDIUM for the full wording (truncated). Useful since Craig's Castle is a flagged high-priority dungeon."
+}

@@ -1,0 +1,4 @@
+# Toga Picta
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Toga%20Picta&prop=wikitext
+
+asdf

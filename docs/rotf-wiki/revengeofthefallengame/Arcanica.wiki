@@ -1,0 +1,4 @@
+# Arcanica
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Arcanica&prop=wikitext
+
+asdf

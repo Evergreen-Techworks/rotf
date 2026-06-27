@@ -1,0 +1,12 @@
+{
+    "id": 0,
+    "name": "Twilight Necropolis",
+    "sbName": "Twilight Necropolis",
+    "difficulty": 5,
+    "background": 0,
+    "blocking": 0,
+    "restrictTp": false,
+    "showDisplays": true,
+    "persist": false,
+    "portals": [ 33295 ]
+}

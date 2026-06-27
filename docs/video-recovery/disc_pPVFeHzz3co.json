@@ -1,0 +1,22 @@
+{
+ "dungeon": "GENUINE ROTF multi-dungeon run (~150s, 854x480), meme channel (cannabis-leaf intro card). EVENT-FEED-HEAVY, NOT a single boss fight: chat is dominated by a multi-persona realm ANNOUNCER system + player chat + loot lines -> NO boss-prefix TAUNT captured. Value: corroborates the announcer system + several well-attested UNBUILT event bosses (Mad Jester, Lucky Ent God) + 1 NEW name lead (Cracked Gore) + documents the crate/receipt loot system.",
+ "map": "DOCUMENTED-from-f_+transition (multi-dungeon hop; minimaps sparse): a sandy/tan GRID dungeon (Pyramid/sandy, t001@17s + f_030) -> dark PURPLE/SPACE void area (f_060) -> grey CHECKERED stone room (f_090) -> brown DIRT room (f_120) -> a purple/pink DIAMOND-GRID cosmic arena (f_145, Mad-God/Pentaract-style). No single contiguous layout; quick multi-dungeon biome tour.",
+ "bosses": [],
+ "minions": [],
+ "drops": [
+  "You have opened a crate! Obtaining... (CRATE-opening loot)",
+  "You have identified the receipt! Obtaining... (RECEIPT-identification loot step)",
+  "Potion of Wisdom / Potion of Attack consumed (maxed -> 'You're already maxed' auto-routing)",
+  "Selling legendary C[...] / frost bows / fire sword (player market chatter)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Mad Jester ('A Mad Jester has just spawned', announcer Dragon) — WELL-ATTESTED (29 specs), NOT built (strong build candidate; already queued boss-mad-jester)",
+  "Lucky Ent God ('A Lucky Ent God has just spawned' / 'has been defeated', announcer Chimera) — WELL-ATTESTED (13 specs), NOT built (likely a luck/holiday-themed Ent God variant)",
+  "Cracked Gore ('The Cracked Gore has b[een]', announcer Starforce) — NEW name lead (0 prior specs)",
+  "Shadowscale ('The Shadowscale has...', announcer Deathmage) — BUILT (corroboration)",
+  "Mysterious Card ('The Mysterious Card has b[een]', announcer Dragon) — BUILT (corroboration)"
+ ],
+ "mechanics": "DOCUMENTED ROTF SYSTEMS (the value here): (1) MULTI-PERSONA realm ANNOUNCER system — distinct announcer NPCs each post event lines: 'Death Notifier' (death lines w/ stats e.g. 'Carso (8/16, 647)'), 'Deathmage', 'Dragon', 'Starforce', 'Chimera', 'Notification' (achievements). (2) CRATE + RECEIPT loot economy — 'You have opened a crate! Obtaining...' + 'You have identified the receipt! Obtaining...' (two-step crate->receipt loot). (3) a /3 EVENT COUNTER next to player names (X/3 — another counter variant alongside the seen /30, /25, /150). (4) maxed-potion auto-route ('You're already maxed. Potion of Wisdom...'). Event bosses are realm/global spawns (Mad Jester / Lucky Ent God / Cracked Gore / Shadowscale / Mysterious Card).",
+ "uncertain": "EVENT-FEED-HEAVY clip -> NO boss-prefix TAUNT captured (chat = announcers + player banter + loot); the event bosses are NAME-ONLY feed announcements (spawn/defeat), not fought-on-screen with a taunt/arena. The only 'bossend' detected (b001@2s) is the INTRO cannabis card + login screen, NOT a boss climax -> no clean attack geometry traceable (bosses=[] for that reason). Multi-dungeon biome tour (sandy/space/stone/dirt/cosmic) but no single boss isolated. 'Cracked Gore' + 'Lucky Ent God' need fought-footage for taunts/arenas. Counter is '/3' here (vs /30 /25 /150 elsewhere).",
+ "confidence": "LOW (no taunt / no boss fought on-screen) but USEFUL corroboration. GENUINE ROTF. Recorded honestly: bosses=[] (none fought with a taunt), the feed entries logged as NAME-ONLY leads with attestation counts (Mad Jester 29 / Lucky Ent God 13 / Cracked Gore NEW), built bosses (Shadowscale/Mysterious Card) noted as corroboration, loot + announcer + /3-counter SYSTEMS documented. No fabrication (no invented taunt/arena/attack). Best follow-up: fought-footage of Mad Jester / Lucky Ent God / Cracked Gore for buildable taunts + arenas."
+}

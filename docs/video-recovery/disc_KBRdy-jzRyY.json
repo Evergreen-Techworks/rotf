@@ -1,0 +1,14 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM + ROTF TITLE SCREEN, player SeverFifty) — branding/UI metadata + event-boss feed",
+ "source": "video disc_KBRdy-jzRyY (783 frames, 51 transitions, 196 chat). Opens on the ROTF main menu/title screen; then a multi-dungeon session. Chat = event feed + trade chatter.",
+ "map": "DOCUMENTED biomes: tan/sand desert, green grass realm (several variants), a PINK/magenta zone (Shade-of-Novus-style), white/snow area, red/dark dungeon. Plus UI screens: the title screen, an Options menu, and a CIRCULAR ABILITY/SKILL-TREE UI panel (colored ability nodes arranged in a ring).",
+ "bosses": [
+  {"name":"Treesmasher","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED from feed: '<Imp> Treesmasher has just spawned!' — CONFIRMS Treesmasher is a realm EVENT boss (validates the Collapsed Woods boss already built)."},
+  {"name":"Cube God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED from feed: '<Imp> Cube God has just spawned!' (galactic/event boss; already in setpieces)."}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "BRANDING/UI METADATA (DOCUMENTED from the title screen): the game's full title is 'RotF — THE HOUR OF TWILIGHT' (an expansion/season subtitle, with a red demonic-skull mascot). This ties the whole 'Twilight' theme together (Twilight Necropolis, Twilight Archmage). Main-menu tabs: Editor | Servers | Play | Account | Legends ('Editor' = built-in content/map editor; 'Legends' = a leaderboard/hall-of-legends). Version banner ~'X1.0' / 'Exalt 2019'. A circular ABILITY/SKILL-TREE UI (ringed colored nodes) is shown — the class/skill-tree interface. Trade economy: 'abyss cloak +8k', a 'lode' (Lodestone?) worth '600k+'.",
+ "uncertain": "Dungeon entries not individually named (montage scale). No boss taunts captured this run (chat = event feed + trade). The skill-tree UI layout seen but not read in detail. 'Hour of Twilight' could be the whole game's title or a specific expansion/season.",
+ "confidence": "HIGH for the title/branding ('The Hour of Twilight' + menu tabs + mascot) and the Treesmasher/Cube God event spawns (verbatim feed). MEDIUM for the skill-tree UI existence; LOW for biome->dungeon mapping."
+}

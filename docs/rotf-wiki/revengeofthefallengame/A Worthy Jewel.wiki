@@ -1,0 +1,4 @@
+# A Worthy Jewel
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=A%20Worthy%20Jewel&prop=wikitext
+
+asdf

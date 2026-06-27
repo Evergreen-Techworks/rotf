@@ -1,0 +1,4 @@
+# Plain Katana
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Plain%20Katana&prop=wikitext
+
+asdf

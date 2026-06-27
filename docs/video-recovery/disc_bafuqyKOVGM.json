@@ -1,0 +1,13 @@
+{
+ "dungeon": "Multi-dungeon maxing run — dragon Lords + event bosses + realm-boss /25 counter",
+ "map": "DOCUMENTED biomes: grey STONE castle interiors (Lost-Halls/Craig-style), purple & tan circular boss arenas, blue water, orange/brown brick temples, dark-red caverns, a purple arena w/ red boss + orange bullets, sandy checkered dungeon. Multi-dungeon session.",
+ "bosses": [
+   {"name":"Firebreather (fire dragon Lord)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"Announced defeated: '<Chimera> The Firebreather has been defeated! (8/25)' — the elemental dragon Lords ALSO count toward the realm-boss /25 counter."},
+   {"name":"Riverborn (aqua dragon Lord)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"'<Reaper> A Riverborn has just spawned!' (realm Lord spawn)."},
+   {"name":"Ghost God (Septavius)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"Death feed: 'Jeefmyname (8/8, 115) has been crushed by Ghost God!' — Septavius killing maxed players."}
+ ],
+ "drops": [],
+ "mechanics": "DOCUMENTED: the REALM-BOSS /25 COUNTER tracks the elemental dragon LORDS too (not only Galactic bosses) — 'The Firebreather has been defeated! (8/25)'. So defeating realm Lords + galactic/event bosses fills the /25 (or /30) counter toward the final spawn. TRADE system: '<player> wants to trade with you. Type \"/trade <player>\"' -> 'Trade Successful'. '/vault' command gives a free vault chest unlock (tip). Event bosses announced: Grand Sphinx, Pentaract Tower Ultra, Riverborn. Announcer personas: Chimera, Reaper, Dragon (+ Death Notifier). Max-level notifications.",
+ "uncertain": "No new boss TAUNTS here (dragon awakening taunts captured in disc_AUiz1LBnNJg; this run = defeat/spawn announcements + social/trade). Death-feed killer names partly clipped ('Suf...').",
+ "confidence": "MEDIUM-HIGH — /25 counter includes dragon Lords (DOCUMENTED), trade + /vault commands, event-boss roster, Ghost God deaths; biomes documented; no new taunts."
+}

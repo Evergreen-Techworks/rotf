@@ -1,0 +1,4 @@
+# Craig's Castle
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Craig%27s%20Castle&prop=wikitext
+
+asdf

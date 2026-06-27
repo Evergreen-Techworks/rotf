@@ -1,0 +1,203 @@
+# Katanas
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Katanas&prop=wikitext
+
+The katana is the main weapon of the ninja. It is focused on average-high dps at medium range.
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = RayKatana.png
+| link = Ray Katana
+| text = Ray Katana
+}}
+| {{ImageBlack
+| file = SullenBlade.png
+| link = Sullen Blade
+| text = Sullen Blade
+}}
+| {{ImageBlack
+| file = DokuNoKen.png
+| link = Doku No Ken
+| text = Doku No Ken
+}}
+| {{ImageBlack
+| file = VoidBlade.png
+| link = Void Blade
+| text = Void Blade
+}}
+|-
+| {{ImageBlack
+| file = UselessKatana.png
+| link = Useless Katana
+| text = Useless Katana
+}}
+| {{ImageBlack
+| file = Windcutter.png
+| link = Windcutter
+| text = Windcutter
+}}
+| {{ImageBlackLarge1
+| file = StemOfTheBrain.png
+| link = Stem of the Brain
+| text = Stem of the Brain
+}}
+| {{ImageBlack
+| file = Asura.png
+| link = Asura
+| text = Asura
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = ArbitersWrath.png
+| link = Arbiters Wrath
+| text = Arbiters Wrath
+}}
+| {{ImageBlack
+| file = MoltenKatana.png
+| link = Molten Katana
+| text = Molten Katana
+}}
+| {{ImageBlack
+| file = AcidKatana.png
+| link = Acid Katana
+| text = Acid Katana
+}}
+| {{ImageBlack
+| file = DoomKatana.png
+| link = Doom Katana
+| text = Doom Katana
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = BrokenBranch.png
+| link = Broken Branch
+| text = Broken Branch
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Unique</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = DiamondBladedKatana.png
+| link = Diamond Bladed Katana
+| text = Diamond Bladed Katana
+}}
+| {{ImageBlackLarge1
+| file = CorruptedCleaver.png
+| link = Corrupted Cleaver
+| text = Corrupted Cleaver
+}}
+| {{ImageBlack
+| file = Salju.png
+| link = Salju
+| text = Salju
+}}
+| {{ImageBlackLarge1
+| file = HimurasKatana.png
+| link = Himura's Katana
+| text = Himura's Katana
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = StardustCutter.png
+| link = Stardust Cutter
+| text = Stardust Cutter
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = Muramasa.png
+| link = Muramasa
+| text = Muramasa
+}}
+| {{ImageBlack
+| file = Masamune.png
+| link = Masamune
+| text = Masamune
+}}
+| {{ImageBlack
+| file = Sadamune.png
+| link = Sadamune
+| text = Sadamune
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = RustyKatana.png
+| link = Rusty Katana
+| text = Rusty Katana
+}}
+| {{ImageBlack
+| file = KendoStick.png
+| link = Kendo Stick
+| text = Kendo Stick
+}}
+| {{ImageBlack
+| file = PlainKatana.png
+| link = Plain Katana
+| text = Plain Katana
+}}
+| {{ImageBlackLarge1
+| file = ThunderKatana.png
+| link = Thunder Katana
+| text = Thunder Katana
+}}
+| {{ImageBlackLarge1
+| file = LineKutterKatana.png
+| link = Line Kutter Katana
+| text = Line Kutter Katana
+}}
+| {{ImageBlack
+| file = NightEdge.png
+| link = Night Edge
+| text = Night Edge
+}}
+|-
+| {{ImageBlack
+| file = SkyEdge.png
+| link = Sky Edge
+| text = Sky Edge
+}}
+| {{ImageBlack
+| file = BusterKatana.png
+| link = Buster Katana
+| text = Buster Katana
+}}
+| {{ImageBlack
+| file = DemonEdge.png
+| link = Demon Edge
+| text = Demon Edge
+}}
+| {{ImageBlackLarge1
+| file = JewelEyeKatana.png
+| link = Jewel Eye Katana
+| text = Jewel Eye Katana
+}}
+| {{ImageBlack
+| file = Ichimonji.png
+| link = Ichimonji
+| text = Ichimonji
+}}
+| {{ImageBlack
+| file = Kusanagi.png
+| link = Kusanagi
+| text = Kusanagi
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

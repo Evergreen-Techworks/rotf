@@ -1,0 +1,4 @@
+# Galaxy
+# https://rotfserver.fandom.com/api.php?action=parse&page=Galaxy&prop=wikitext
+
+#REDIRECT [[Galactic Zones]]

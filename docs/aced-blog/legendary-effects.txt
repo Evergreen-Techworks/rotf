@@ -1,0 +1,48 @@
+Revenge of the Fallen: Legendary Effects Preview 
+
+ Hey! In this devlog, we’re going to take a look at some new Legendary Effects . We’ll also talk about our plans for the legendary system as a whole, which is quite different from how it functioned in legacy. 
+
+ Check it out: 
+
+ As always, I’ll highlight some important bits from the video. 
+
+ Legendary items now drop as Variants , with a randomly selected Legendary Effect. That means that my Ring of the Sun could have Angel’s Touch as its Legendary Effect, but it could also have Lion’s Shout, Retaliation, or any number of other possible effects. 
+
+ Previously, Legendary Effects were hardly differentiable from Primal Effects—the only discernible distinction between them was that Primal Effects were stronger, probably. Now, whereas Primal Effects are unique, meaning that each primal has its own Primal Effect, Legendary Effects are added to Legendary Items right when they drop . 
+
+ This creates an opportunity to develop builds that rely on a specific variant of a legendary item. And with enchanting + crafting, there will likely be a way to reforge an item with a desired legendary effect. We’re not showing that today, though, so what are we looking at? 
+
+ The three effects that we looked at today were Angel’s Touch, Nexus Blessing, and Final Stand . 
+
+ Angel’s Touch and Nexus Blessing are best explained by the video, so I’ll just summarize their functions here. 
+
+ Returning from legacy, Angel’s Touch provides a small chance to restore health on-hit . Essentially, it’s a weak lifesteal. 
+
+ A new challenger, Nexus Blessing, grants a +10% boost to a random stat. This stat is re-randomized each time you enter a new world. This effect can stack multiple times. 
+
+ Now, let’s take a look at Final Stand . Upon taking damage that would reduce your health below 10%, gain a shield equal to your maximum health. While the shield is active, heal for 2% of all damage dealt. 
+
+ final stand going hard 
+
+ We’ve got more effects to show off, but we’re stopping here for today. I’m sorry that this post is so late! 
+
+ This post will be updated tomorrow (@ 4pm ET) with some testing keys. Hang in there, guys! 
+ Share this: Twitter Facebook Like this: Like Loading... 
+
+ Related 
+
+ Published by Miniguy 
+
+ I’m one of the lead developers at ACED. We’re currently working on porting RotF to Unity! 
+ View all posts by Miniguy 
+
+ May 17, 2021 
+
+ Uncategorized 
+
+ aced games , aced.gg , angels touch , final stand , items , legendaries , legendary , nexus blessing , revenge of the fallen , rotf , rotf.io 
+
+ Post navigation 
+ Revenge of the Fallen: The Darkest Depths 
+
+ Comments are closed.

@@ -1,0 +1,4 @@
+# Falchion
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Falchion&prop=wikitext
+
+asdf

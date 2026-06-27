@@ -1,0 +1,50 @@
+{
+ "dungeon": "GENUINE ROTF-server run of THE SHATTERS — the BASE-GAME RotMG dungeon (edited 'VALOX PRESENTS...' video, same Valox producer as disc_H_zJSEalZnI). Chat readable -> the three Shatters mini/final bosses with their CANONICAL taunts: The Forgotten King, The Forgotten Sentinel, Twilight Archmage, + the green 'Helpless Souls' captives. KEY value = a 2nd INDEPENDENT confirmation that Twilight Archmage is BASE-GAME Shatters (not ROTF-custom).",
+ "map": "DOCUMENTED-from-transitions+frames: the SHATTERS layout — the TWILIGHT ARCHMAGE room (green/yellow CHECKERED grid arena with red borders), the FORGOTTEN KING lava arena (orange/red lava with a radial-burst centre), and dark stone CORRIDORS linking them. Many rapid transitions (0-5s = the in-Shatters room-to-room loads). Canonical three-path-then-king Shatters layout.",
+ "bosses": [
+  {
+   "name": "Twilight Archmage",
+   "phases": ["Inferno(fire)/Blizzard(ice) elemental attacks"],
+   "attacks": ["DOCUMENTED-from-frames (canonical Shatters): orange fire + blue ice bullets in the green-grid arena (Inferno wave + Blizzard ring)."],
+   "minions": [],
+   "colorFlashes": "orange/blue",
+   "taunts": ["Darkness give me strength!", "I... will... retu[rn]..."],
+   "note": "DOCUMENTED-from-chat. *** BASE-GAME SHATTERS — 2nd INDEPENDENT CONFIRMATION *** (1st was disc_g1Ce99YlFrI). Twilight Archmage is NOT ROTF-custom. The BUILD has it as a custom OC boss (BehaviorDb.OCBosses.cs + OrdinaryClient_Bosses.xml) -> this is a flagged VERIFY-LOOP issue (reclassify/verify the built Twilight Archmage vs base canon). 'Darkness give me strength!' = canonical Shatters line."
+  },
+  {
+   "name": "The Forgotten King",
+   "phases": ["Shatters FINAL boss; lava arena"],
+   "attacks": ["canonical Forgotten King lava/sword patterns -> base-game"],
+   "minions": ["Helpless Souls (captives)"],
+   "colorFlashes": "",
+   "taunts": ["Ha... ha...", "Impossible... IMPOSSIBLE!!!", "[...] my crown now"],
+   "note": "DOCUMENTED-from-chat. BASE-GAME Shatters final boss -> CANONICAL taunts, not ROTF-custom."
+  },
+  {
+   "name": "The Forgotten Sentinel",
+   "phases": [],
+   "attacks": ["canonical Shatters mini-boss -> base-game"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["FOOLS! YOU DO NOT UNDERSTAND!", "I tried to protect you... I have failed. You release a great evil upon this realm..."],
+   "note": "DOCUMENTED-from-chat. BASE-GAME Shatters mini-boss -> CANONICAL taunts, not ROTF-custom."
+  },
+  {
+   "name": "Helpless Souls",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["PLEASE HELP MEEEE"],
+   "note": "DOCUMENTED-from-chat (green captive minions in the Shatters). Base-game flavour adds, not a boss."
+  }
+ ],
+ "minions": ["Helpless Souls"],
+ "drops": [
+  "(Shatters loot; not isolated — edited video)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: a base-game THE SHATTERS run (Valox edited video). PRIMARY VALUE = a 2nd INDEPENDENT CONFIRMATION that Twilight Archmage (+ Forgotten King + Forgotten Sentinel) are BASE-GAME Shatters bosses with CANONICAL taunts, NOT ROTF-custom. The BUILT 'Twilight Archmage' (custom OC boss) is a flagged VERIFY-LOOP issue -> this corroborates it should be reclassified/checked vs canon (cf. the Forgotten King = base Shatters + Geb/Nut = base Tomb + Void Entity = base Cultist Hideout corrections). Twilight Archmage's Inferno/Blizzard attack + the Shatters layout (grid room + lava arena) DOCUMENTED. Helpless Souls captives present.",
+ "uncertain": "Identity as base-game Shatters is CERTAIN (canonical names+taunts+arenas). Edited video -> attacks documented but base-game; loot not isolated. Some taunts right-edge cut ('I... will... retu[rn]', '[...] my crown now').",
+ "confidence": "HIGH that this is a BASE-GAME Shatters run -> LOW new-content value, but HIGH-value as the 2nd independent CONFIRMATION that Twilight Archmage = base-game (the built custom Twilight Archmage should be reclassified/verified — a pending verify-loop item). GENUINE ROTF-server. No new buildable custom boss/taunt. Recorded to reinforce the Twilight-Archmage-is-base-game flag + document the Shatters bosses."
+}

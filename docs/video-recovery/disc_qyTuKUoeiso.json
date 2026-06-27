@@ -1,0 +1,35 @@
+{
+ "dungeon": "GENUINE ROTF group/farming run (~314s, player 'VoltriPlay' + party; client banner 'VotR 2.0 Beta'). KEY find: a NEW boss 'Hades' with a FULL VERBATIM taunt + a soul-minion gimmick. Plus a 'Zaragon' boss (death-notifier lead) and a 'Ser/Spt Fragment' economy detail. Multi-dungeon; much of the chat is party banter (leeching/recording rules, trading).",
+ "map": "DOCUMENTED-from-transitions+minimaps+f_: a multi-segment run — a MAGENTA/pink checkered arena (chat_00012-19, party banter), a tan SANDY GRID loot/staging floor (crates + fragment-cache showcase, b004_194s), a DARK ANGULAR-WALLED arena (zigzag black walls — the Hades fight, f_00187), plus RED/LAVA + GREEN-grass + dark SPACE biomes from the 5 transitions. No single contiguous room sequence (multi-dungeon).",
+ "bosses": [
+  {
+   "name": "Hades",
+   "phases": ["sustained/empowered by SOUL minions ('the SOULS that GIVE ME ENERGY'); when those soul-sources are destroyed it loses energy and dies ('ARE GONE! ARAAAGAAAGH!') — reconstructed-from-taunt soul-minion gimmick (cf. Ghost King 'loyal subjects sustain me')"],
+   "attacks": ["NOT cleanly traced (the Hades arena = a dark angular-walled room, f_00187; the sampled bossends were loot/fragment showcases, not the Hades bullet climax) -> approximate; soul-minion summoner likely. reconstructed."],
+   "minions": ["Souls (soul minions that 'GIVE ME ENERGY' — destroying them kills Hades)"],
+   "colorFlashes": "",
+   "taunts": ["What!? The SOULS that GIVE ME ENERGY ARE GONE! ARAAAGAAAGH!"],
+   "note": "DOCUMENTED-from-chat VERBATIM (boss-coloured 'Hades', recovered via wide f_00187 re-crop — the 224px chat crop cut the tail at 'GIVE ME', the wide crop gives the FULL line). NEW boss: Hades is a soul/underworld boss empowered by SOUL minions; the line is its death cry when the souls are destroyed. NOT in the build (the only .cs 'hades' hit is a false 'shades' substring) and NOT in other recovery specs -> genuinely new, BUILDABLE (clear verbatim taunt + soul-minion gimmick). Arena = dark angular-walled room."
+  },
+  {
+   "name": "Zaragon",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-feed (death notifiers: 'Mist/RafaelRaz/YandieBan/WojnPL died at level 20, killed by Zaragon, the [...]'). A boss/entity killing many lvl-20 players; has a TITLE ('Zaragon, the ...') that's right-edge cut. NAME-ONLY lead (no taunt/arena/attack isolated). Not in build/specs -> new lead; verify before building."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Ser Fragment Cache (item — 'Using this item drops [N] Ser Fragments to your gift chest. This item only drops from Elite Lootboxes. ... Consumed with use'; Double/Shift-Click to use)",
+  "Spt/Ser Fragments ('You received 4 Spt Fragments')"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "(many) <player> died at level 20, killed by Zaragon, the [...]"
+ ],
+ "mechanics": "DOCUMENTED: (1) NEW boss 'Hades' — soul-empowered (SOUL minions 'GIVE ME ENERGY'); destroy the souls -> Hades dies (verbatim death cry). (2) FRAGMENT economy detail: a 'Ser Fragment Cache' consumable that DROPS [N] 'Ser Fragments' to your GIFT CHEST and ONLY drops from ELITE LOOTBOXES ('You received 4 Spt Fragments' confirms the fragment-receipt feed) — extends the prior Fragment stat system w/ a cache item + gift-chest delivery + Elite-Lootbox source. (3) client version banner 'VotR 2.0 Beta'. (4) party anti-LEECH / recording-rules banter (VoltriPlay/SlimySword) — social, not boss content.",
+ "uncertain": "Hades attack GEOMETRY not traced (the bossends sampled were loot/fragment showcases; arena is a dark angular room) -> attacks approximate/reconstructed; the soul-minion gimmick is reconstructed-from-taunt (the taunt strongly implies it but the minion entity wasn't frame-isolated). Zaragon = name-only (title cut, no taunt). 'Ser' vs 'Spt' vs 'Spr' Fragment spelling ambiguous in the busy feed. High red-density chat frames (0.7) were the MAGENTA arena floor + party banter, NOT taunts. 'AMK HADESI' in chat = a player name (Turkish), NOT the boss.",
+ "confidence": "MEDIUM-HIGH (Hades) / LOW (Zaragon). GENUINE ROTF. Strong NEW find: boss 'Hades' with a FULL VERBATIM taunt ('What!? The SOULS that GIVE ME ENERGY ARE GONE! ARAAAGAAAGH!') + a clear soul-minion gimmick -> BUILDABLE (flag for dev queue). Plus a Zaragon name-lead + a 'Ser Fragment Cache'/Elite-Lootbox fragment-economy detail. Recorded honestly: Hades attacks not traced (reconstructed gimmick), Zaragon name-only, fragment spelling ambiguous, party banter excluded. Best follow-up: a clean Hades fight for its attack pattern + soul-minion entity, and a Zaragon clip."
+}

@@ -1,0 +1,4 @@
+# Decoy Prism
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Decoy%20Prism&prop=wikitext
+
+asdf

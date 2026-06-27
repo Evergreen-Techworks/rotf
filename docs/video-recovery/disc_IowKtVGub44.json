@@ -1,0 +1,13 @@
+{
+ "dungeon": "(BOSS/SHOWCASE VIDEO) ROTF — a sealed-lord awakening fight (likely Lord Ruthven) + ability/tincture UI",
+ "source": "video disc_IowKtVGub44 (583 frames, 108 transitions, 146 chat). Much of the video is ZOOMED character-sprite showcase (a white-hair / red-robe / dagger figure) + UI close-ups; the gameplay is a blue/purple dungeon boss fight. Boss dialogue captured in chat (blurry).",
+ "map": "DOCUMENTED biomes: purple dungeon corridors; a blue/dark circular BOSS ARENA; a blue ice/snow DOME structure; a red/magenta room (where the boss-awakening dialogue plays). A '0/82' + '8/8' wave/clear counter shown.",
+ "bosses": [
+  {"name":"(sealed lord — likely Lord Ruthven / a vampire lord)","phases":["sealed -> awakened (monologue on seal-break)"],"attacks":[],"minions":[],"colorFlashes":"red/magenta","taunts":["I bow to thank you... You have broken the ancient seal binding me...","I have waited a thousand years for this day to come...","Now, VENGEANCE IS MINE FOR THE TAKING..."],"note":"DOCUMENTED VERBATIM (boss-colored chat, blurry) — a multi-line AWAKENING monologue: the boss thanks the player who broke its ancient seal, then turns on them. Boss NAME read as a short red-colored name (UNCERTAIN; best guess Lord Ruthven, the ROTF vampire lord — the 'thousand years / vengeance / broken seal' trope fits a vampire awakening, and Ruthven's Castle is a ROTF dungeon). The player who broke the seal appears to be named 'Forgiven'."}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "DOCUMENTED UI/items: a buff TINCTURE/consumable granting '+5 Def +5 Spd' = 'Speedy for 12 sec.' (a timed-buff consumable). An ability named 'Eye for an Eye' (blue eye icon). An ABILITY/SKILL UI panel with a grid of ability icons (relates to the documented Class/Skill-tree system — abilities have icons/slots). A '0/82' + '8/8' wave/clear counter (a clear-N-waves gate, complements the 'Current number of the remaining enemies' gate seen elsewhere).",
+ "uncertain": "Boss NAME not legibly read (blurry red text) — 'Lord Ruthven' is an educated guess from the awakening trope + ROTF roster, NOT confirmed. Attacks/phases/drops not isolated. Much of the video is sprite/UI showcase, not a full fight.",
+ "confidence": "HIGH for the verbatim awakening monologue lines + the '+5 Def +5 Spd / Speedy 12s' tincture + the 'Eye for an Eye' ability + the ability-UI panel. LOW/UNCERTAIN for the boss identity (likely Ruthven) and the dungeon name."
+}

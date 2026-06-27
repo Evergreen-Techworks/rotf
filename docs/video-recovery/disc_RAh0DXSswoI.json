@@ -1,0 +1,13 @@
+{
+ "dungeon": "(MULTI-DUNGEON/GALACTIC STREAM) ROTF — Elite enemy tier + vault/space arenas; low novelty",
+ "source": "video disc_RAh0DXSswoI (183 frames, 3 transitions, 46 chat; client X1.8.7). Dark space bullet-hell arenas + brown crater arenas + a treasure-VAULT grid. Chat = startup + death feed + player chatter.",
+ "map": "DOCUMENTED biomes: tan DESERT, dark SPACE arenas with colorful spiral/radial bullet-hell (galactic-zone style), brown circular CRATER arenas (Oryx-style), a grey VAULT room full of treasure chests.",
+ "bosses": [
+  {"name":"Oryx the Mad God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You are food for my minions!"],"note":"DOCUMENTED from startup chat (re-confirmed)."}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "DOCUMENTED: (1) 'ELITE' ENEMY TIER — death feed '<player> has been killed by Elite [enemy]' + player callout '<Spore> elite'. Confirms an ELITE enemy modifier/tier (alongside 'Epic' — relates to the built Epic Enemies system; ROTF may have both Epic AND Elite enemy tiers). (2) Galactic-zone-style dark space bullet-hell arenas + a treasure-VAULT chest room. (3) Vanilla MOTD ('Welcome to Realm of the Mad God'); client X1.8.7; WASDQE controls.",
+ "uncertain": "The 'Elite' enemy's name truncated. Whether 'Elite' is distinct from 'Epic' (two tiers) or a synonym — unconfirmed. No boss taunts beyond Oryx. Dungeon names not printed.",
+ "confidence": "MEDIUM for the 'Elite' enemy tier (death feed + player callout) + the galactic/vault biomes. LOW novelty (Oryx re-confirm)."
+}

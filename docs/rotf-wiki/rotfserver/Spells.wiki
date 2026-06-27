@@ -1,0 +1,4 @@
+# Spells
+# https://rotfserver.fandom.com/api.php?action=parse&page=Spells&prop=wikitext
+
+Spell is an ability used by the Wizard to deal massive damage.

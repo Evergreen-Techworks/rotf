@@ -1,0 +1,60 @@
+{
+ "dungeon": "GENUINE ROTF-server run of THE SHATTERS — the BASE-GAME RotMG dungeon (a small facecam appears only at the very end; chat is readable for most of it). Long session (~556s+) through the Shatters: its three mini-bosses + the final Forgotten King, all with their CANONICAL RotMG taunts. KEY CORRECTION (provenance): 'Twilight Archmage' is a BASE-GAME Shatters boss — NOT a new custom boss. An earlier spec (disc_dkyXVJtdX_Q) flagged 'Twilight Archmage' as a 'NEW ROTF-custom boss candidate'; THIS tag proves it is base-game Shatters and should NOT be built as custom.",
+ "map": "DOCUMENTED-from-frames+minimaps: the SHATTERS layout — dark stone CORRIDORS + lava channels linking the boss rooms. (1) the TWILIGHT ARCHMAGE room: a GREEN/YELLOW CHECKERED grid arena with red borders (the canonical Twilight room). (2) a brown/black LAVA biome with lava channels (the Forgotten King approach / 'nice dip in the LAVA' room). (3) a PURPLE/MAGENTA zone + dark corridors. (4) WHITE treasure-vault rooms (chest grids) traversed earlier in the session. The Shatters is the classic three-path-then-king layout.",
+ "bosses": [
+  {
+   "name": "Twilight Archmage",
+   "phases": ["alternates two elemental attacks: INFERNO (fire) and BLIZZARD (ice) — 'You leave me no choice... Inferno! Blizzard!'"],
+   "attacks": ["DOCUMENTED-from-frames (canonical Shatters): INFERNO = ORANGE/RED fire bullets in a sweeping WAVE/ARC; BLIZZARD = BLUE ice/snowflake bullets in RADIAL RINGS / spirals. Alternating fire-wave + ice-ring beats in the green-grid arena. (Base-game pattern; documented as observed.)"],
+   "minions": [],
+   "colorFlashes": "orange (inferno) / blue (blizzard)",
+   "taunts": [
+    "Your souls will feel my evil",
+    "Your souls will feed my eyes",
+    "Darkness gave me strength!",
+    "How best to kill you...",
+    "Ahh... this should do the trick",
+    "You leave me no choice... Inferno! Blizzard!",
+    "You will find that it was... so... to wake me",
+    "I... will... return..."
+   ],
+   "note": "DOCUMENTED-from-chat (red boss-coloured 'Twilight Archmage'). BASE-GAME Shatters mini-boss -> these are CANONICAL RotMG Shatters taunts, NOT ROTF-custom. CORRECTS the disc_dkyXVJtdX_Q spec which mislabeled Twilight Archmage as a NEW custom candidate. Do NOT build as a new boss; if anything, these confirm base content. Some lines right-edge cut."
+  },
+  {
+   "name": "The Forgotten King",
+   "phases": ["Shatters FINAL boss; lava-arena fight"],
+   "attacks": ["canonical Shatters Forgotten King patterns (lava/sword); not isolated here -> base-game"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "You would challenge me? I am the King of this place.",
+    "You are so brave. Perhaps a nice dip in the LAVA!?",
+    "Drown, and be swept away by those who have failed before.",
+    "YOU TEST THE PATIENCE OF A GOD!"
+   ],
+   "note": "DOCUMENTED-from-chat (orange boss-coloured). BASE-GAME Shatters final boss -> CANONICAL taunts, not ROTF-custom. Recorded for completeness/reference only."
+  },
+  {
+   "name": "The Forgotten Sentinel",
+   "phases": [],
+   "attacks": ["canonical Shatters mini-boss -> base-game"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "FOOLS! YOU DO NOT UNDERSTAND!",
+    "I tried to protect you... I have failed. You release a great evil upon this realm..."
+   ],
+   "note": "DOCUMENTED-from-chat. BASE-GAME Shatters mini-boss -> CANONICAL taunts, not ROTF-custom."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "(Shatters loot; specific items not cleanly isolated)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "server restart notice ('The server will restart in 15 minutes, please exit the game accordingly')"
+ ],
+ "mechanics": "DOCUMENTED: a base-game THE SHATTERS run on the ROTF server. PRIMARY VALUE = a PROVENANCE CORRECTION: Twilight Archmage (+ The Forgotten King + The Forgotten Sentinel) are BASE-GAME Shatters bosses with CANONICAL taunts — NOT ROTF-custom. This CORRECTS the earlier disc_dkyXVJtdX_Q spec that listed 'Twilight Archmage' as a NEW custom boss candidate (it is not). Twilight Archmage's Inferno(fire-wave)/Blizzard(ice-ring) attack is DOCUMENTED-from-frames and matches the canonical Shatters pattern. The Shatters dungeon (green-grid Twilight room, lava Forgotten King arena, dark corridors) is present on this server. No new custom content; the value is preventing base-game Shatters bosses from being mistaken for ROTF-original.",
+ "uncertain": "Identity as base-game Shatters is CERTAIN (canonical boss names + taunts + arenas all match RotMG's Shatters). Some Twilight Archmage lines right-edge cut. Whether the white treasure-vault rooms are a separate custom dungeon or part of the session's other content is unclear (traversed but not the focus). Exact Shatters loot not isolated.",
+ "confidence": "HIGH that this is a BASE-GAME Shatters run (canonical Forgotten King / Twilight Archmage / Forgotten Sentinel taunts + arenas) and therefore LOW new-content value. The IMPORTANT output is the PROVENANCE CORRECTION (Twilight Archmage = base-game Shatters, not a new custom boss -> overturns the disc_dkyXVJtdX_Q misclassification + should stop any auto-bridge 'build Twilight Archmage' task). Attacks documented but base-game. Recommend: re-tag the disc_dkyXVJtdX_Q Twilight Archmage entry as base-game, and verify the auto-bridge hasn't queued/built it as custom."
+}

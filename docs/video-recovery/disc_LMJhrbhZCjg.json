@@ -1,0 +1,13 @@
+{
+ "dungeon": "(TITLE SCREEN ONLY) ROTF expansion title card — 'The Icy Peaks'",
+ "source": "video disc_LMJhrbhZCjg (140 frames, 3 transitions, 35 chat). The ENTIRE video sits on the ROTF main-menu/title screen — no gameplay, no chat text captured.",
+ "map": "N/A — title screen: a dark-blue cavern background framing the logo.",
+ "bosses": [
+  {"name":"(Icy Peaks ice-demon mascot)","phases":[],"attacks":[],"minions":[],"colorFlashes":"icy blue / red horns","taunts":[],"note":"The title-card MASCOT: a blue horned YETI / ICE-DEMON face. Likely the Icy Peaks region boss. Art only — no fight captured here (but gameplay tags 'IcyPeaks' / 'IcyPeaks_tutorial' exist separately)."}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "BRANDING RECOVERY: the title screen reads 'RotF — THE ICY PEAKS' (a ROTF EXPANSION/SEASON subtitle), with a blue horned ice-demon/yeti mascot. This is a SECOND titled season distinct from 'RotF: The Hour of Twilight' (the red-demon title in disc_KBRdy-jzRyY) — so ROTF shipped multiple named seasons/expansions, each with its own title card + themed mascot boss. 'The Icy Peaks' = an ICE-themed region/expansion (matches the existing 'IcyPeaks'/'IcyPeaks_tutorial' gameplay tags).",
+ "uncertain": "No gameplay/boss-fight/chat in THIS video (title screen only). The ice-demon mascot's in-game name/stats not captured here — see the IcyPeaks gameplay specs for the actual region. Whether 'Icy Peaks' is a full expansion vs a single region unconfirmed.",
+ "confidence": "HIGH for the 'RotF: The Icy Peaks' title card + ice-demon mascot existing (clear art). N/A for gameplay (none in this video)."
+}

@@ -1,0 +1,30 @@
+# Sword of the Demon Lord
+# https://rotfserver.fandom.com/api.php?action=parse&page=Sword%20of%20the%20Demon%20Lord&prop=wikitext
+
+{{ItemInfo
+| name = Sword of the Demon Lord
+| slot = sword
+| tier = UT
+| rarity = u
+| desc = A Sword of the Demon Lord, Thanks to: Neva.
+
+| rof = 80
+| range = 
+| projSpeed = 10
+| lifetime = 370
+| minDmg = 220
+| maxDmg = 260
+| feedp = 490
+| fameb = 5
+
+| effects = yes
+| pierce = yes
+
+| bonuses = {{Stat|hp|50}} {{Stat|vit|5}}
+
+|lootbag = white
+|dropsFrom = is obtainable from The Abyss|range2 = 4.1}}
+<noinclude>
+[[Category:Swords]]
+{{NavSwords}}
+</noinclude>

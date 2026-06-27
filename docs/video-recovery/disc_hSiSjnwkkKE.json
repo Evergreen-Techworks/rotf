@@ -1,0 +1,14 @@
+{
+ "dungeon": "Multi-dungeon run — Shatters (Forgotten King), Septavius, Cookie Monster + Legendary/Primal loot",
+ "map": "DOCUMENTED biomes: orange/red LAVA dungeons (cross structures), red boss arena (radial white bullets), multi-color CHECKERED/rainbow dungeon (Candyland), grey Shatters interior, purple boss arena (pink radial), green realm. Market/vault UI.",
+ "bosses": [
+   {"name":"The Forgotten King (Shatters true final boss)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["DIE! DIE! DIE!"],"note":"Shatters secret final boss (after Marble Colossus). Vanilla."},
+   {"name":"Marble Colossus (Shatters)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["YOU TEST THE [...]"],"note":"Shatters boss (vanilla)."},
+   {"name":"Septavius the Ghost God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["My two [...]","My minions will crush you!","I have fai[led/failed ...]"],"note":"Re-confirms implemented Septavius taunts; possible extra lines 'My two...' / 'I have failed...'."},
+   {"name":"Cookie Monster (event boss)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"NEW Candyland-themed event boss — '<Slime> Cookie Monster has just spawned!' / defeated."}
+ ],
+ "drops": ["Special Crate -> Juggernaut (armor)","LEGENDARY loot (rarity-tier obtain shown)","PRIMAL loot (Primal-effect item obtain shown)"],
+ "mechanics": "DOCUMENTED: ROTF rarity tiers VISIBLE in-game — 'LEGENDARY' and 'PRIMAL' obtain moments (the dev-blog Legendary/Primal effect systems are live). Shatters present (Marble Colossus -> The Forgotten King 'DIE! DIE! DIE!'). NEW event boss 'Cookie Monster' (Candyland/meme). Crate -> Juggernaut (armor). 100%-damage loot ('just got ... with 100% damage dealt!'). Events: Riverborn/Cube God/Skull Shrine/Uvuvwevwevwe (personas Slime/Phoenix/Hydra).",
+ "uncertain": "Exact LEGENDARY/PRIMAL item names not captured (only the rarity banner). Septavius extra lines partly clipped. Marble Colossus taunt clipped.",
+ "confidence": "MEDIUM-HIGH — Forgotten King taunt + Cookie Monster (new) + Legendary/Primal rarity in-game + Juggernaut crate item DOCUMENTED; Septavius re-confirmed."
+}

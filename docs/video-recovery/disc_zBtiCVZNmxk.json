@@ -1,0 +1,37 @@
+{
+ "dungeon": "GENUINE ROTF multi-dungeon FARM run (version banner 'RotMG #X33.0.0 Connected!'; facecam BOTTOM-RIGHT so bottom-left CHAT is readable; ~11 min, 16 entries; subscriber-goal streamer). MEDIUM yield: a recurring build-candidate boss (Avatar of the Forgotten King, 5 specs, unbuilt) with 2 taunts + a PILLAR-DEFENSE mechanic + arena; a NEW minion name (Blobomb); base Oryx realm line.",
+ "map": "DOCUMENTED-from-frames+transitions (16-dungeon tour): green grass REALMS, dark SPACE/void arenas, TAN/SANDY grids, BLUE/ICE rooms, grey CHECKERED dungeons, COLORFUL-tile (pink/green/red grid) rooms, brown dirt. The AVATAR OF THE FORGOTTEN KING arena = a dark/SPACE arena where a giant WHITE SKULL boss is fought (players ring it). No single contiguous layout (multi-dungeon farm).",
+ "bosses": [
+  {
+   "name": "Avatar of the Forgotten King",
+   "phases": ["DOCUMENTED-from-chat: a PILLAR-DEFENSE phase ('ACTIVATING PILLAR DEFENSE') — implies destructible/defensive pillars mid-fight"],
+   "attacks": ["DOCUMENTED-from-frames (f_425-440, crowd-obscured): scattered RED/ORANGE bullets around a dark/space arena from a giant WHITE SKULL boss -> scattered/spread; no clean geometry isolatable (large crowd). PILLAR mechanic ('ACTIVATING PILLAR DEFENSE'). Reconstructed: scatter + pillars."],
+   "minions": ["pillars (PILLAR DEFENSE); Blobomb (a blob-bomb enemy killing players nearby)"],
+   "colorFlashes": "white skull; red/orange bullets",
+   "taunts": [
+    "EYE see you!",
+    "ACTIVATING PILLAR DEFENSE"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix '<Avatar of the Forgotten King>', + death lines 'killed by Avatar of the Forgo[tten King]'). RECURRING lead (4 prior specs + this = 5), NOT built. BASE-vs-CUSTOM UNCERTAIN: base RotMG HAS an 'Avatar of the Forgotten King' (giant skull boss) -> verify whether these taunts ('EYE see you!' eye-pun + 'ACTIVATING PILLAR DEFENSE') are ROTF-custom or base before building/enriching. 'ACTIVATING PILLAR DEFENSE' tail may continue. Strong lead either way (white-skull arena + pillar mechanic documented)."
+  },
+  {
+   "name": "Oryx the Mad God",
+   "phases": [],
+   "attacks": [],
+   "minions": ["7 Ent Ancients (forest)"],
+   "colorFlashes": "",
+   "taunts": [
+    "My forest of 7 Ent Ancients is all th..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix '<Oryx the Mad God>'). BASE/realm Oryx line about 'my forest of 7 Ent Ancients' (an Ent-Ancient realm event) -> likely canonical/base, corroboration; tail-cut."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [
+  "deaths: 'killed by Avatar of the Forgotten King', 'killed by Blobomb'"
+ ],
+ "mechanics": "DOCUMENTED: AVATAR OF THE FORGOTTEN KING with a 'PILLAR DEFENSE' mechanic ('ACTIVATING PILLAR DEFENSE' -> destructible/defensive pillars) + an 'EYE see you!' eye-pun taunt; fought as a giant white SKULL in a dark/space arena. 'Blobomb' = a blob-bomb enemy (NEW name). Oryx realm event references '7 Ent Ancients' (a forest/Ent event). ROTF X33.0.0; facecam-bottom-right streamer (chat readable). Multi-dungeon farm.",
+ "uncertain": "Multi-dungeon FARM + crowded fights -> attacks NOT cleanly traceable (no bossends; f_ shows scattered bullets + a white skull, crowd-obscured). AVATAR OF THE FORGOTTEN KING: base RotMG has a boss of this exact name -> base-vs-custom UNCERTAIN; its taunts here may be ROTF-custom OR base -> verify before building (recorded as a lead, not asserted custom). 'ACTIVATING PILLAR DEFENSE' may be tail-cut. 'Blobomb' is a name-only minion (no taunt). Oryx '7 Ent Ancients' line tail-cut + likely base. ROTF-confirmed (X33.0.0, not TFR/Valor).",
+ "confidence": "MEDIUM. GENUINE ROTF (X33.0.0). Best value: AVATAR OF THE FORGOTTEN KING recurring lead (5 specs, unbuilt) — 2 taunts ('EYE see you!' + 'ACTIVATING PILLAR DEFENSE'), a PILLAR-DEFENSE mechanic, and a white-skull/dark-arena documented; flagged base-vs-custom to verify before building. Plus a NEW minion name (Blobomb) + base Oryx Ent-Ancient realm line. Recorded honestly: base-vs-custom flagged (not asserted custom), attacks crowd-obscured (not fabricated), tails marked cut, ROTF-confirmed. Best follow-up: confirm Avatar-of-the-Forgotten-King base-vs-custom + a low-crowd clip for clean attack geometry."
+}

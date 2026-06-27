@@ -1,0 +1,14 @@
+{
+ "dungeon": "(SINGLE-AREA STREAM) ROTF — desert/water boss (unnamed) + event feed; low novelty",
+ "source": "video disc_VvustUmO0Mg (1090 frames, 3 transitions, 273 chat). Mostly ONE desert + blue-water + brown-brick + green-grass arena with a boss; a skill-tree UI panel shown. Chat = event/trade feed (boss name not cleanly captured).",
+ "map": "DOCUMENTED: a tan DESERT + blue WATER + brown-brick + green-grass arena (single biome the whole session). A circular SKILL-TREE UI panel (colored ability nodes) shown.",
+ "bosses": [
+  {"name":"(desert/water boss — 'Marac...'?)","phases":[],"attacks":["blue bullet-spread"],"minions":[],"colorFlashes":"","taunts":[],"note":"A boss in the desert/water arena firing a spread of blue projectiles; its HP-bar name read partially as 'Marac...' (UNCERTAIN — could be a boss name or a player). Not confirmed in chat."}
+ ],
+ "minions": [],
+ "drops": ["Uru sword (traded)"],
+ "event_bosses_seen_in_global_feed": ["Suspicious Looking Dragon","Riverborn (just spawned)","Cookie Monster (defeated)","Realm Giant (just spawned)"],
+ "mechanics": "DOCUMENTED: dungeon-open feed 'Sprite World opened by [player]' (Limon's Sprite World portal opened); event feed (Suspicious Looking Dragon, Riverborn, Cookie Monster, Realm Giant); item trade 'Uru sword'; a skill-tree UI panel. A desert/water boss ('Marac...'?) fires blue bullet-spread. No boss taunts captured.",
+ "uncertain": "Desert/water boss name read partially ('Marac...', uncertain — boss vs player). No boss taunts. Single biome (3 transitions) so few dungeon names.",
+ "confidence": "LOW novelty — event/trade feed + 'Sprite World opened' + an unidentified desert/water boss (no taunt). Skill-tree UI re-confirmed."
+}

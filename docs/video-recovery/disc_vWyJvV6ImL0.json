@@ -1,0 +1,15 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM ~18 entries) ROTF — Firebreather taunt (enriches built boss) + Ortar fight",
+ "source": "video disc_vWyJvV6ImL0 (179 frames, 54 transitions = ~18 entries, 45 chat; 'Check the description' intro). Diverse dungeons incl. a Diagon-style red-diamond arena + Ortar fight. Chat captured a Firebreather taunt + event feed.",
+ "map": "DOCUMENTED biomes: grey stone + diamond boss arena, grey maze, sandstone, blue water + space, RED-BRICK arena with orange-DIAMOND bullet-hell (Diagon-style), green grass, brown dirt, pink Candy Land. Skill-tree UI panel shown.",
+ "bosses": [
+  {"name":"Firebreather","phases":[],"attacks":[],"minions":[],"colorFlashes":"fire","taunts":["Your courage softens me..."],"note":"DOCUMENTED VERBATIM (boss-colored chat). Firebreather is the BUILT Flaming Hearth fire-dragon Lord (0x8f80) — which I shipped TAUNT-LESS. This gives it a real taunt: 'Your courage softens me...' (a mercy/respect line). NOTE: a near-identical 'your courage softens me. I could grant you a...' was earlier attributed to the Gravedigger (disc_TwilightNecropolis) — the line may be SHARED across bosses, or my Gravedigger attribution needs review. TODO: add to the Flaming Hearth build."},
+  {"name":"Ortar","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"Ortar sprite shown (fight); taunts already fully documented elsewhere."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["God of Reptilians (just spawned)","Mysterious Card (just spawned)","Skull Shrine (defeated)"],
+ "mechanics": "DOCUMENTED: FIREBREATHER taunt 'Your courage softens me...' — enriches the built Flaming Hearth boss (was taunt-less). (Possible shared line with the Gravedigger's 'courage softens me' — flag for review.) Ortar fight (taunts already documented). Skill-tree UI + Diagon-style red-diamond arena. Events: God of Reptilians, Mysterious Card, Skull Shrine.",
+ "uncertain": "Firebreather taunt tail truncated. The 'courage softens me' line overlaps with an earlier Gravedigger attribution — could be shared or a re-attribution; verify before finalizing. No other new taunts.",
+ "confidence": "HIGH for the Firebreather taunt (verbatim, enriches built boss). MEDIUM for whether it's unique to Firebreather vs shared with Gravedigger."
+}

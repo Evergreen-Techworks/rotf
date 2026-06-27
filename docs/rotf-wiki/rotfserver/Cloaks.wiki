@@ -1,0 +1,18 @@
+# Cloaks
+# https://rotfserver.fandom.com/api.php?action=parse&page=Cloaks&prop=wikitext
+
+'''Cloaks''' are used by [[Rogue|Rogues]], and allow them to turn {{i|e|Invisible|invisible}}.
+
+==Production {{PAGENAME}}==
+'''''For production {{PAGENAME}} please follow this [https://www.realmeye.com/wiki/cloaks link].
+
+==Custom {{PAGENAME}}==
+{|
+| {{ItemDisplay|Destructor Cloak|h}}
+| {{ItemDisplay|Cloak of the 1000 Oceans|h}}
+| {{ItemDisplay|Shadow Scales|a}}
+|}
+===Galactic {{PAGENAME}}===
+{|
+| {{ItemDisplay|Deepspace Veil|g}}
+|}

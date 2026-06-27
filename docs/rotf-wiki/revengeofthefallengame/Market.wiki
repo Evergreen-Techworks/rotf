@@ -1,0 +1,14 @@
+# Market
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Market&prop=wikitext
+
+The market is the place where players can buy or sell items in exchange of fame
+
+== Usage ==
+To use the market, first use the portal through the nexus, then speak with the ghost in the wardrobe and you will enter the auction menu. There you can search for items, buy them or sell yours<gallery>
+Market.png
+Auction.png
+AuctionMenu.png
+AuctionSell.png
+AuctionBuy.png
+AuctionSR.png
+</gallery>Each auction has a limit time of 48 hours. If your auction ends without being bought, the item will move to your gift chests (DANGER: if all the gift chests are full, the item will be destroyed. No refunds, you have been warned)

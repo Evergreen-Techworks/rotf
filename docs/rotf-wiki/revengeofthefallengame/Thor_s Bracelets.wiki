@@ -1,0 +1,4 @@
+# Thor's Bracelets
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Thor%27s%20Bracelets&prop=wikitext
+
+asdf

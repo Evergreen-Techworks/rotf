@@ -1,0 +1,4 @@
+# The Puppet's Master Theatre
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=The%20Puppet%27s%20Master%20Theatre&prop=wikitext
+
+asdf

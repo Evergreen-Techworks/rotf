@@ -1,0 +1,4 @@
+# Tablet of the King’s Avatar
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Tablet%20of%20the%20King%E2%80%99s%20Avatar&prop=wikitext
+
+asdf

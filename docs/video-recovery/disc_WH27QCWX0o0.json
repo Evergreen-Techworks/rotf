@@ -1,0 +1,23 @@
+{
+ "dungeon": "FACECAM STREAM (player '00Dragan0o', ~780s, 834 f_) — a webcam + Twitter-handle overlay fully covers the bottom-left CHAT box, so NO boss taunts/names are readable. Likely ROTF (corroborated by the 'XP##' epic-tier item suffix — 'Magic of Demons (XP9)' — matching the ROTF XP## system). LOW yield: a multi-dungeon/realm session documented via TRANSITIONS + MINIMAPS (dungeon/biome inventory + layouts) only; no taunt, no named boss isolated.",
+ "map": "DOCUMENTED-from-transitions+minimaps (8 entries, multi-dungeon hop; no single contiguous layout): (1) a brown WOODEN VAULT/TREASURE room — tan-brick floor, stop-sign + flower/coin decor, multi-room (t001/t007; t007 adds blue WATER pools). (2) a round SANDY timed arena ('00:40 Time Opened') with red humanoid enemies (t002). (3) a diagonal CHECKERED MAD-LAB room — grey/white diagonal grid with red/purple/green brick borders + pink walls + corridors, blue ROBOT/BOT enemies + green enemies (t003). (4) open GREEN grass realms, some with blue WATER/rivers ('Time Opened' countdowns) (t004/t005/t006). (5) a RED LAVA DEMON dungeon — diagonal lava-brick corridors with dark void gaps, irregular multi-room (t005-area fight; 'Magic of Demons' item). (6) a domed grey VAULT/STORAGE arena — rounded top + central chamber, crates + '500m' tags (t008).",
+ "bosses": [
+  {
+   "name": "(unidentified — lava demon-dungeon boss)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (f_549-558, approximate): sparse scattered white bullets in diagonal lava-brick corridors -> scattered/aimed; NO clean geometric pattern traceable (corridor fight, no bossends extracted)."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "NO NAME/taunt (facecam covers chat). A red LAVA demon dungeon (diagonal lava-brick corridors, 'Magic of Demons (XP9)' item) — likely Abyss of Demons or a demon-themed dungeon. Boss UNIDENTIFIED, attack only approximate. NOT attributed/guessed."
+  }
+ ],
+ "minions": ["blue ROBOT/BOT enemies + green enemies (Mad-Lab checkered room, t003)", "red humanoid enemies (sandy timed arena, t002)"],
+ "drops": [
+  "Magic of Demons (XP9) — epic-tier item (ROTF XP## suffix; partial name)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED (limited — facecam): a multi-dungeon/realm session with repeated 'Time Opened' TIMED-EVENT countdowns ('00:40' / '00:54' / '00:19' Time Opened) gating realm/event arenas. ROTF 'XP##' EPIC-TIER item suffix corroborated ('Magic of Demons (XP9)'). Biome inventory: wooden treasure vault, sandy timed arena, diagonal Mad-Lab (bots), green/water realms, red lava demon dungeon, domed vault/storage. NO boss taunt (chat facecam-covered).",
+ "uncertain": "FACECAM STREAM: the webcam + Twitter-handle overlay fully COVERS the bottom-left chat box -> NO boss names/taunts recoverable; the fought bosses are UNIDENTIFIED (not attributed/guessed). No bossends extracted (older prep) -> attacks only approximate from f_ (lava corridor = sparse scattered, no clean geometry). 'Time Opened' countdowns + biomes are consistent with RotMG/ROTF but no ROTF-custom boss is CONFIRMED here (the only ROTF marker is the XP## item suffix). The 'magenta cross' marks near t004 were UI/teleport markers, NOT a boss attack (not claimed).",
+ "confidence": "LOW. Likely-ROTF FACECAM stream (XP## item suffix corroborates) but minimal yield: NO boss taunts/names (chat facecam-covered), 1 unidentified lava-dungeon boss (approximate scattered attack), no bossends. Value = a dungeon/biome + MAP-LAYOUT inventory (treasure vault / sandy timed arena / Mad-Lab bots / green-water realms / lava demon dungeon / domed vault) + the 'Time Opened' timed-event system + 'Magic of Demons (XP9)' epic item. Recorded honestly (bosses unidentified, attacks approximate, no fabrication). Best follow-up: a non-facecam clip to name these bosses."
+}

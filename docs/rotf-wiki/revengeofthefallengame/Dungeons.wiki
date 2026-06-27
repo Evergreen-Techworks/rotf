@@ -1,0 +1,234 @@
+# Dungeons
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Dungeons&prop=wikitext
+
+In ROTF one of the main things to do is complete dungeons. Each dungeon is unique and allows the player to fight a variety of monsters and bosses to get strong equipment and items.
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Dungeons</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Easy dungeons</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| style="width: auto;" align="center"
+|-  
+| {{ImageBlack
+| file = PirateCavePortal.png
+| link = Pirate Cave
+| text = Pirate Cave
+}}
+|{{ImageBlack
+| file = ForestMazePortal.png
+| link = Forest Maze
+| text = Forest Maze
+}}
+|{{ImageBlack
+| file = SpiderDenPortal.png
+| link = Spider Den
+| text = Spider Den
+}}
+|{{ImageBlackLarge1
+| file = ForbiddenJunglePortal.png
+| link = Forbidden Jungle
+| text = Forbidden Jungle
+}}
+|{{ImageBlack
+| file = TheHivePortal.png
+| link = The Hive
+| text = The Hive
+}}
+|}
+</div>
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Medium dungeons</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| style="width: auto;" align="center"
+|-  
+|{{ImageBlack
+| file = SnakePitPortal.png
+| link = Snake Pit
+| text = Snake Pit
+}}
+|{{ImageBlack
+| file = SpriteWorldPortal.png
+| link = Sprite World
+| text = Sprite World
+}}
+|{{ImageBlackLarge2
+| file = CandylandHuntingGroundsPortal.png
+| link = Candyland Hunting Grounds
+| text = Candyland Hunting Grounds
+}}
+| {{ImageBlackLarge2
+| file = CaveOfAThousandTreasuresPortal.png
+| link = Cave of a Thousand treasures
+| text = Cave of a Thousand treasures
+}}
+|{{ImageBlackLarge1
+| file = HauntedCemeteryPortal.png
+| link = Haunted Cemetery
+| text = Haunted Cemetery
+}}
+|{{ImageBlack
+| file = UndeadLairPortal.png
+| link = Undead Lair
+| text = Undead Lair
+}}
+|{{ImageBlackLarge1
+| file = AbyssOfDemonsPortal.png
+| link = Abyss of demons
+| text = Abyss of demons
+}}
+|-
+|{{ImageBlackLarge1
+| file = ManorOfTheInmortalsPortal.png
+| link = Manor of the Inmortals
+| text = Manor of the Inmortals
+}}
+|{{ImageBlackLarge1
+| file = ThePuppetsMasterTheatrePortal.png
+| link = The Puppet's Master Theatre
+| text = The Puppet's Master Theatre
+}}
+|{{ImageBlack
+| file = ToxicSewersPortal.png
+| link = Toxic Sewers
+| text = Toxic Sewers
+}}
+|{{ImageBlack
+| file = MadLabPortal.png
+| link = Mad Lab
+| text = Mad Lab
+}}
+|{{ImageBlackLarge1
+| file = DavyJonesLockerPortal.png
+| link = Davy Jone's Locker
+| text = Davy Jone's Locker
+}}
+|{{ImageBlackLarge1
+| file = DeadwaterDocksPortal.png
+| link = Deadwater Docks
+| text = Deadwater Docks
+}}
+|{{ImageBlackLarge1
+| file = WoodlandLabyrinthPortal.png
+| link = Woodland Labyrinth
+| text = Woodland Labyrinth
+}}
+|-
+|{{ImageBlackLarge1
+| file = TheCrawlingDepthsPortal.png
+| link = The Crawling Depths
+| text = The Crawling Depths
+}}
+|{{ImageBlack
+| file = OceanTrenchPortal.png
+| link = Ocean Trench
+| text = Ocean Trench
+}}
+|{{ImageBlackLarge1
+| file = TombOfTheAncientsPortal.png
+| link = Tomb Of the Ancients
+| text = Tomb Of the Ancients
+}}
+|{{ImageBlack
+| file = AnubisLairPortal.png
+| link = Anubi's Lair
+| text = Anubi's Lair
+}}
+|{{ImageBlack
+| file = CraigsCastlePortal.png
+| link = Craig's Castle
+| text = Craig's Castle
+}}
+|{{ImageBlack
+| file = TheShowcasePortal.png
+| link = The Showcase
+| text = The Showcase
+}}
+|{{ImageBlack
+| file = IllusionPortal.png
+| link = Illusion
+| text = Illusion
+}}
+|}
+</div>
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Hard dungeons</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| style="width: auto;" align="center"
+|-  
+|{{ImageBlack
+| file = TheShattersPortal.png
+| link = The Shatters
+| text = The Shatters
+}}
+|{{ImageBlack
+| file = LostHallsPortal.png
+| link = Lost Halls
+| text = Lost Halls
+}}
+|{{ImageBlack
+| file = OryxCastlePortal.png
+| link = Oryx Castle
+| text = Oryx Castle
+}}
+| {{ImageBlackLarge2
+| file = PuppetMastersEncore.png
+| link = Puppet Master's Encore
+| text = Puppet Master's Encore
+}}
+|-
+|{{ImageBlackLarge2
+| file = TombOfDecayingDeath.png
+| link = Tomb of Decaying Death
+| text = Tomb of Decaying Death
+}}
+|{{ImageBlack
+| file = AsgardPortal.png
+| link = Asgard
+| text = Asgard
+}}
+|{{ImageBlack
+| file = NecropolisPortal.png
+| link = Necropolis
+| text = Necropolis
+}}
+|{{ImageBlack
+| file = TheIcyPeaksPortal.png
+| link = The Icy Peaks
+| text = The Icy Peaks
+}}
+|-
+|{{ImageBlack
+| file = SthenosDenPortal.png
+| link = Stheno's Den
+| text = Stheno's Den
+}}
+|{{ImageBlackLarge1
+| file = MalphasHideoutPortal.png
+| link = Malphas's Hideout
+| text = Malphas's Hideout
+}}
+|{{ImageBlackLarge1
+| file = CavernOfSeptaviusPortal.png
+| link = Cavern of Septavius
+| text = Cavern of Septavius
+}}
+|{{ImageBlack
+| file = LimonsLairPortal.png
+| link = Limon's Lair
+| text = Limon's Lair
+}}
+|}
+</div>
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Special dungeons</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| style="width: auto;" align="center"
+|-  
+|{{ImageBlack
+| file = ArenaPortal.png
+| link = Arena
+| text = Arena
+}}
+|{{ImageBlack
+| file = LuckyBoxPortal.png
+| link = Lucky Box
+| text = Lucky Box
+}}
+|{{ImageBlack
+| file = AdminArenaPortal.png
+| link = Admin Arena
+| text = Admin Arena
+}}
+|}
+</div>
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

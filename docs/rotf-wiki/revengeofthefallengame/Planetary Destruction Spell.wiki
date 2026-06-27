@@ -1,0 +1,4 @@
+# Planetary Destruction Spell
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Planetary%20Destruction%20Spell&prop=wikitext
+
+asdf

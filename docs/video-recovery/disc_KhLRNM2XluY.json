@@ -1,0 +1,11 @@
+{
+ "dungeon": "*** NON-TARGET MIS-PULL — NOT ROTF / NOT RotMG at all. *** This is a CITY-BUILDER game (Cities: Skylines or near-identical): the frames show a top-down ZONING GRID of city blocks with roads, sidewalks, trees and buildings, a city-builder TOOLBAR along the bottom (road/zone/building tool icons + money/population stat readouts), and a streamer FACECAM (top-right). Zero RotMG/ROTF content. The discovery loop grabbed an unrelated city-building stream (keyword coincidence). Recorded as an EXCLUSION so the auto-bridge never treats it as ROTF content.",
+ "map": "NON-TARGET (not a dungeon): top-down city-builder map — green residential/commercial ZONING blocks separated by a grid of roads & sidewalks, scattered trees, a few placed buildings. This is city-builder terrain, NOT a ROTF dungeon/arena layout. Catalogued only to confirm non-target.",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "NON-TARGET (city-builder, Cities:Skylines-style). Frames show zoning grid + road tools + economy/population HUD + facecam — a city-management game, not an MMO dungeon crawler. No boss, no taunt, no loot, no ROTF dungeon. 147 chat crops are the game's bottom-left UI (not RotMG chat); ~0 boss-coloured text. No bossends/transitions (continuous city-builder session, no fade-to-black dungeon loads). Nothing mined — there is no ROTF content to recover.",
+ "uncertain": "Exact title (Cities: Skylines vs a similar builder) not 100% pinned, but the genre is unambiguous (top-down zoning grid + road/building toolbar + economy HUD). Either way it is NON-TARGET. Confident the whole tag is unrelated to ROTF.",
+ "confidence": "HIGH that this is NON-TARGET (a city-building game with facecam, not RotMG/ROTF). ZERO ROTF-buildable content. Net value = a documented EXCLUSION preventing fabricated cross-game attribution (serves the 'how much fake stuff is in our build' concern). No boss/taunt/attack recorded by design. Like the 'Faer' tag (disc_KBzHN9gFmGg): if discovery keeps pulling non-RotMG streams, a genre/keyword pre-filter on the discovery side would save these wasted recovery slots."
+}

@@ -1,0 +1,12 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM) ROTF — event feed + vanilla stat-pots; low novelty (no boss taunts)",
+ "source": "video disc_TbdK1H0XTms (264 frames, 0 transitions, 66 chat; cloud/blob avatar overlay). Diverse dungeons. Chat = event/death feed + stat-pots + player chatter (no boss taunts captured).",
+ "map": "DOCUMENTED biomes: brown brick + sandstone, grey stone, a red/dark boss arena, red dirt, brown crater, grey maze, blue ICE/snow, purple dungeon.",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["God of Reptilians (just spawned)","Lord of the Lost Lands (spawned)","Shade of Novus (just spawned)","Mad Jester (defeated)"],
+ "mechanics": "DOCUMENTED (re-confirmations): event-boss feed (God of Reptilians, Lord of the Lost Lands, Shade of Novus, Mad Jester); VANILLA-named stat pots on this build ('Potion of Defense consumed. N left', 'Potion of Vitality consumed. N left'). Player chatter incl. 'RUN FORESTO RUNE' (a 'Foresto' rune/item? unclear) and 'do they drop loot?'. No boss taunts.",
+ "uncertain": "No boss taunts (chat = event feed + chatter). 'Foresto Rune' reference unclear. Dungeon names not captured (0 transitions). Diverse biomes likely re-cover known dungeons.",
+ "confidence": "LOW novelty — event-roster + vanilla stat-pot re-confirmations only; no new boss/taunt captured."
+}

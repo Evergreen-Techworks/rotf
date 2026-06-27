@@ -1,0 +1,19 @@
+<!-- Shared build settings for the .NET 8 port of realm-src (Ordinary Client / ROTF).
+     Applies to all 4 projects under server/. Original .NET Framework 4.7.2 project
+     files are preserved alongside as *.csproj.netfx.bak. -->
+<Project>
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <!-- Keep the existing hand-written Properties/AssemblyInfo.cs (no auto-gen → no dupes) -->
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <LangVersion>latest</LangVersion>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Deterministic>true</Deterministic>
+    <Platforms>AnyCPU</Platforms>
+    <!-- NU1701: net4x packages (Anna, DotNetZip) restored onto net8 via compat shim.
+         CS0618/CS0612: obsolete-API warnings from old code, not actionable here. -->
+    <NoWarn>$(NoWarn);NU1701;CS0618;CS0612;MSB3277</NoWarn>
+  </PropertyGroup>
+</Project>

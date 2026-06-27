@@ -1,0 +1,4 @@
+# Enchanted Uru Sword
+# https://rotfserver.fandom.com/api.php?action=parse&page=Enchanted%20Uru%20Sword&prop=wikitext
+
+{{ItemInfo|name = Enchanted Uru Sword|desc = Once able to open the Bifrost to Asguard, without Heimdallr's magic, the blade is no better than any other mortal sword.|rarity = l|slot = sword|tier = UT|minDmg = 200|maxDmg = 270|shots = 2|rof = 75|range2 = 4.7|fameb = 7|effects = yes|pierce = yes|multihit = yes|bonuses = {{Stat|def|4}}{{Stat|wis|6}}|legendary = 1|dropsFrom = drops from Heimdallr}}

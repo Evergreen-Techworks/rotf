@@ -1,0 +1,4 @@
+# Red Beehemoth Armor
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Red%20Beehemoth%20Armor&prop=wikitext
+
+asdf

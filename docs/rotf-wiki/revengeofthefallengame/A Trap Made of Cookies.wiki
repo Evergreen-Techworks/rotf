@@ -1,0 +1,4 @@
+# A Trap Made of Cookies
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=A%20Trap%20Made%20of%20Cookies&prop=wikitext
+
+asdf

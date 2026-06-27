@@ -1,0 +1,33 @@
+{
+ "dungeon": "ROTF realm + lava-dungeon run (692 frames) — CONFIRMED 'Welcome to Revenge of the Fallen!'. Rich event feed: Epic Deep Sea Beast, Flying Brain, Crystal Prisoner + Special-Crate items + God Keys. GENUINE ROTF.",
+ "source": "video disc_ySxgLzZbJ1g (692 f_, 173 chat, 86 minimap, 2 entries). Content-creator video ('LEAVE A LIKE SUBSCRIBE'). 2 entries: t001 = REALM overworld (desert+grass+beach), t002 = orange/red LAVA-ROCK dungeon. Biomes also incl. a blue/grey COLUMNED TEMPLE hall + space/void rooms. Server intro captured verbatim: 'Welcome to Revenge of the Fallen! ... You are food for my minions! Use [WASDQE] to move; click to shoot!'.",
+ "bosses": [
+  {"name":"Epic Deep Sea Beast","phases":[],"attacks":["heavy — crushed 5+ players in a row"],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat (NEW): killed many players ('crushed by Epic Deep Sea Beast' x5+). Epic variant of a Deep Sea Beast — a tough realm/ocean boss. Likely drops 'Soul of the Beast'."},
+  {"name":"Flying Brain","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'killed by Flying Brain'. This is likely the full name of the 'Flying' Encounter boss (OrdinaryClient_Encounters.xml 0x8f13) — a flying brain."},
+  {"name":"Crystal Prisoner","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'killed by Crystal Prisoner'. Confirms the ledger Crystal Prisoner (Clone) boss as live realm content."},
+  {"name":"Asgard Guardian","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: killed 3 players. Built boss (Asgard). Spawns in the realm as an event guardian."},
+  {"name":"Suspicious Looking Dragon","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'has been defeated! (24/30)'. Re-confirms the boss from disc_XGl3pTaNmTM."},
+  {"name":"Firebreather / Shadowscale / Mad Jester / Grand Sphinx / Ghost Ship / Hermit God / Lucky-X","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat event feed (spawn/defeat lines): Firebreather, Shadowscale (spawned), Mad Jester (killer + crushed), Grand Sphinx (spawned), Ghost Ship (29/30), Hermit God, Lucky Orion / Lucky Ent God / 'Lucky God Bot'. Most are built or base bosses."}
+ ],
+ "minions": [],
+ "drops": [
+  "Soul of the Beast (UT — unboxed from a Special Crate; likely Epic Deep Sea Beast themed)",
+  "Crucifixion (item — unboxed from 200 Permits Tokens)",
+  "The Mysterious [?] (from a Special Crate)",
+  "Thousand [Suns?] (from a Special Crate, partial)",
+  "God Keys (Yura: '4 GOD KEYS TP' — god-dungeon keys, traded)",
+  "legendary loot (with 100% damage dealt)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "The Ghost Ship has been defeated! (29/30)",
+  "The Suspicious Looking Dragon has been defeated! (24/30)",
+  "The Mad Jester has been crushed!",
+  "Grand Sphinx has just spawned!",
+  "Shadowscale has just spawned!",
+  "The Firebreather has been defeated!",
+  "Hermit God / Lucky Orion / Lucky Ent God / Lucky God Bot (spawn/defeat)"
+ ],
+ "mechanics": "DOCUMENTED: (1) SERVER CONFIRMED ROTF — 'Welcome to Revenge of the Fallen!' intro verbatim. (2) SPECIAL CRATE unboxing — Loot Notifier '[player] just unboxed a Special Crate, obtaining a <item>' (Soul of the Beast, The Mysterious ?, Thousand ?). (3) PERMITS TOKENS currency — '[player] just hyped 200 Permits Tokens, obtaining a Crucifixion!' (token-fed unboxing -> item). (4) GOD KEYS — keys traded ('4 GOD KEYS TP'); likely open god/Tomb dungeons. (5) EVENT COUNTER /30 confirmed this realm (Ghost Ship 29/30, Suspicious Dragon 24/30) — NOTE earlier left-column reads showed /10 for some bosses (Lucky Orion/Hermit/Firebreather/Mad Jester '4/10'); likely a SEPARATE realm-session with a /10 config -> denominator is per-realm/per-session, not fixed. (6) NAMED NPC ANNOUNCERS again (Golem, Reaper, Mummy, Hyleen, Salor) prefix the event feed. (7) EPIC-prefixed realm bosses (Epic Deep Sea Beast, Epic Ghost, Epic Redbeard) — the Epic-Enemies system (D1) in the live realm.",
+ "uncertain": "Counter denominator inconsistency (/10 vs /30) — likely two realm-sessions in the stream, not a contradiction, but unverified. 'Soul of the Beast' / 'Crucifixion' / 'Thousand ?' item stats not shown (just names). 'Flying Brain' = the Flying Encounter boss is a strong inference, not a label match. The lava dungeon (t002) name not legible (could be Flaming Hearth given Firebreather in the feed).",
+ "confidence": "HIGH that this is GENUINE ROTF (intro verbatim) and for the chat event-feed boss names + Special-Crate/Permits-Tokens/God-Keys systems. MEDIUM for the /10-vs-/30 reconciliation and item identities. NEW notable: Epic Deep Sea Beast, Flying Brain, Permits Tokens currency, God Keys, Soul of the Beast."
+}

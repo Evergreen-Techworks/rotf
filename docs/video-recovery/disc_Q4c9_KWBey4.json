@@ -1,0 +1,14 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM ~50 entries) ROTF — re-confirms Stonetaker + Fuel/coin/Market mechanics",
+ "source": "video disc_Q4c9_KWBey4 (629 frames, 150 transitions = ~50 entries, 944 chat). Opens on the 'Hour of Twilight' title; lava/brick-heavy dungeons. Chat re-confirmed Stonetaker taunts + the Fuel/coin/Market systems (many lava-dungeon chat samples were dark/empty).",
+ "map": "DOCUMENTED biomes: ORANGE/RED LAVA-BRICK dungeons (Stonetaker fought here), brown brick, white SNOW, green grass, dark blue checkered rooms, magenta. A SKILL-TREE node-grid panel shown.",
+ "bosses": [
+  {"name":"Stonetaker","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Mmm... Beautiful stones...","Leave my stones in peace..."],"note":"DOCUMENTED VERBATIM — RE-CONFIRMS the Stonetaker taunts from disc_PRzNeGfRR00 (stone-hoarder boss). Here fought in an orange/red LAVA-BRICK dungeon (so Stonetaker may be a lava/galactic-area boss)."}
+ ],
+ "minions": [],
+ "drops": ["Spirit Dagger (listed in Market)","Claw of the Beast (traded — a Necropolis drop)"],
+ "event_bosses_seen_in_global_feed": ["Cube God (defeated)","Mad Jester (just spawned)"],
+ "mechanics": "DOCUMENTED (mostly re-confirmations that solidify prior finds): (1) FUEL extraction — 'You have extracted [68] Fuel from this mysterious object!' (reconfirms Fuel-from-mysterious-objects). (2) Coin-analyze -> Fame ('You have analyzed the coin, discovering [Fame]'). (3) 'You have been granted an additional [...]' reward. (4) MARKETPLACE in active use — 'Spirit Dagger in Market' (item listings), 'S> Claw of the Beast' (validates the Marketplace feature). (5) Stonetaker taunts re-confirmed. Skill-tree panel present.",
+ "uncertain": "Most lava-dungeon chat samples were dark/empty (no new boss taunts beyond Stonetaker). Stonetaker's attacks/HP/dungeon-name still not isolated. ~50 entries not individually named.",
+ "confidence": "HIGH for the Stonetaker re-confirmation + Fuel/coin/Market mechanics (all corroborate prior tags). LOW novelty (mostly reinforcement); LOW for dungeon mapping."
+}

@@ -1,0 +1,35 @@
+# Galactic Zones
+# https://rotfserver.fandom.com/api.php?action=parse&page=Galactic%20Zones&prop=wikitext
+
+Galactic Zones (or Galaxies) are the successor to Starforce. It consists of 5 bosses, spawning in random order one after the other infinitely after each is defeated. There are four tiers currently accessible, each increasing in difficulty and drop chance. To access the 4 Galactic Zones from the Spaceship located in your vault, an 8/8 character is required. To enter a Galactic Zone, find the Spaceship in your vault (or type "summon" in the text chat to have the Spaceship fly to you) and choose the tier you'd like to do. Fuel is obtainable from the market, or Galactic Zones themselves. It is also possible to get into a Galactic Zone before having maxed your characters stats to 8/8 via the party system if someone else summons you.
+
+'''Tier 1: Sungravel:''' 500 Fuel 
+
+'''Tier 2: Splinterspire:''' 2000 Fuel
+
+'''Tier 3: Flamefeather:''' 5000 Fuel
+
+'''Tier 4: Frostwood:''' 10000 Fuel
+
+'''<u>Loot: </u>'''
+
+The Galactic Zones share the same items that can drop, but with each higher tier of Galactic Zone the drop rates for Galactic Essence and other Galactic items increases. 
+
+'''Galactic Essence: '''A consumable only dropped by the bosses found in the Galactic Zones. By consuming a Galactic Essence you unlock a Skill point on your character usable on the Skilltree. Your character has to be maxed stats (8/8) to consume Galactic Essence. The maximum amount of Skill points you can have on one character is 82, after which you cannot consume more Galactic Essence.
+
+'''Galactic items:''' Items obtainable only from Galactic Zones which often have similar statistics to the highest tiered items, only with slight improvements. 
+
+<u>'''Strategies:'''</u>
+
+Generally its a good idea to create a party (with the command "/pmake") and invite people (with the command "/pinvite ''name''") to help you defeat the bosses. You can commonly find people looking to party up to max their characters in the first tier in the '''Nexus'''. The Zones are often referred with the abbreviations GL. For example, someone saying "H GL4 LF BPriest" would mean they are "hosting" (creating a party and summoning its members to the Galactic Zone) the fourth tier of Galactic Zones, with LF meaning "looking for" and "bpriest" meaning a Priest using the Bulwark of the Surgeon rune. 
+
+'''Tier  1:''' It is recommended to start with the first tier, Sungravel, to get familiar with the different bosses and how to beat them before moving on to later tiers. The first tier is also best for maxing out a characters skill points since the bosses have the least health there making it faster than in later tiers. It is common 
+
+'''Tier 2: '''Similar to the first tier but with more difficult bosses which deal more damage and have more health. The drop chances for Galactic items (GL) is also slightly higher.
+
+'''Tier 3:''' Again similar to the second tier but with bosses which have even more health and deal even more damage with their attacks. Usually not recommended to play since its almost as difficult as the fourth tier but with slightly lower drop chances for Galactic items. 
+
+'''Tier 4: '''The most difficult out of the Galactic Zones but in return the one with the highest drop chances for Galactic Items. It is very much recommended to bring a party with you and consider the composition of your party. Generally its recommended to bring a Priest who has equipped the Bulwark of the Surgeon rune to drag the attention of the bosses away from classes unable to protect themselves. A Warrior or Paladin is also a good addition since they increase the entire party's DPS. This Galactic Zone is usually meant for trying to get Galactic items and be less focused on the Galactic Essence which is readily available in the first tier. 
+
+[[File:Screenshot 2019-04-10 at 9.47.36 PM.png|thumb|209x209px]]
+[[File:Screenshot 2019-04-10 at 9.46.45 PM.png|thumb|381x381px]]

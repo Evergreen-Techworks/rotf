@@ -1,0 +1,4 @@
+# Crystal Sword
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Crystal%20Sword&prop=wikitext
+
+asdf

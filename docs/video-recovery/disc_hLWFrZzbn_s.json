@@ -1,0 +1,11 @@
+{
+ "dungeon": "NOT ROTF / NOT RotMG — misqueued video. This is a 3D FIRST-PERSON SHOOTER (CS:GO / Valorant-style: first-person GUN + KNIFE viewmodels in the hands, 3D tactical maps with crates/ramps/concrete-and-sand bombsites, a knife-inspect animation, a circular scope/zoom view). RotMG/ROTF is 2D top-down pixel art, so this is unrelated content. No buildable ROTF content.",
+ "map": "N/A (not RotMG). 3D FPS environments (tactical-shooter corridors/bombsites), not a 2D top-down tiled dungeon.",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "N/A — not ROTF. It is a 3D first-person SHOOTER (FPS gun/knife viewmodels, 3D maps). PROCESS NOTE: another non-RotMG channel-expansion mis-pull (cf. disc__DeAPr-hsqg = Valorant; disc_1G51S6l2xL4 = 3D castle game; disc_3EeKxDleJx8 = Minecraft; disc_eNT1-b_i8ic = trading-website promo). Creator channels post mixed content; the discovery step keeps pulling unrelated uploads. The chat_*.png crops captured 3D FPS scenes + viewmodels, NOT a 2D chat box; bossends only fired on FPS scene cuts.",
+ "uncertain": "Identity as non-RotMG is CERTAIN (3D first-person-shooter graphics + gun/knife viewmodels). Exact FPS title (CS:GO/Valorant most likely) not critical. Nothing buildable.",
+ "confidence": "HIGH that this is NOT ROTF/RotMG content (3D first-person shooter). Zero buildable value (no boss/taunt/attack/map). Recorded only to mark the tag analyzed and flag the recurring non-gameplay discovery mis-pull — a standing argument for a RotMG-keyword/2D-content pre-filter on discover_videos.sh."
+}

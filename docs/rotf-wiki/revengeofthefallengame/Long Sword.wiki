@@ -1,0 +1,4 @@
+# Long Sword
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Long%20Sword&prop=wikitext
+
+asdf

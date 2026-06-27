@@ -1,0 +1,15 @@
+{
+ "dungeon": "Epic Bosses (Epic-enemy TIER — a system, not one dungeon)",
+ "map": "N/A — montage of one player soloing EPIC versions of bosses in their own arenas across several dungeons (lava/fire room, purple spider arena, rainbow Sprite-World tiles, blue/white creature arenas). 'x2 Speed' overlay on clips.",
+ "bosses": [
+   {"name":"Epic Archdemon","phases":[],"attacks":["fire/lava arena, dense bullets"],"minions":[],"colorFlashes":"","taunts":[]},
+   {"name":"Epic Septavius","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]},
+   {"name":"Epic Djinn","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]},
+   {"name":"Epic (god-tier) — implied from death notifications: Kraken, Hydra, Cyclops, Phoenix, Golem, Beholder/Medusa","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]}
+ ],
+ "minions": [],
+ "drops": ["loot bags opened (specific items not legible at this resolution)"],
+ "mechanics": "EPIC = buffed version of a normal boss/god with its own harder arena; soloable; drops better loot. Confirms the wiki's Epic Gods roster (Brain/Medusa/Ent/Septavius/White Demon/Beholder/Djinn) + Epic bosses (Archdemon etc.). Feeds the Phase-D1 Epic Enemies system.",
+ "uncertain": "Exact per-boss stats/patterns + drop item names not legible (480p, x2 speed). Boss NAMES confirmed via chat death-notifications.",
+ "confidence": "MEDIUM — boss roster confirmed from chat (Epic Archdemon, Epic Septavius, Epic Djinn + implied epic gods). Useful for the Epic Enemies system, not a dungeon map."
+}

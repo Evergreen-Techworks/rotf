@@ -1,0 +1,73 @@
+# Skill Tree
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Skill%20Tree&prop=wikitext
+
+The skill tree is a custom mechanic through which the player can make his character stronger and develope a customs build for each one to make them unique and perfect for each situation.
+
+== Usage ==
+[[File:Skill Tree.png|thumb|180x180px]]
+The skill tree is unique to each class and is unlocked once you max all 8 main stats of the character, starting at 5/82 skill points.
+
+To design your skill tree, you first need to go to your vault and speak with the thing in the image. Once you do that, the skill tree will appear and you will have to choose a sub-class (1 of the 8 squares) and then the stats you want to enhance. Each node costs 1 skill point and you can have a maximum of 82 points
+
+<gallery>
+SkillTreeEmpty.png|How the skill tree looks like when your first open it
+SkillTreeFull.png|      The complete skill tree
+SkillTreeExample.png|A custom skill tree based in evasion
+</gallery>
+
+== Obtention ==
+To obtain skill points you need to go to one of the galaxies and kill bosses. These bosses will drop Galatic Essence among other things. These will grant 1 skill point and 5 random potions (added to your potion storage). You will need 77 Galatic Essence to max you character
+
+== The 8 sub-classes ==
+                       In the skill tree you can choose among 8 subclasses:
+{| style="width: auto;" align="center"
+|-  
+|{{ImageBlue
+| file = SurvivorSubclass.png
+| link = Survivor
+| text = Survivor
+}}
+|{{ImageBlue
+| file = InfiltratorSubclass.png
+| link = Infiltrator
+| text = Infiltrator
+}}
+| {{ImageBlue
+| file = SentinelSubclass.png
+| link = Sentinel
+| text = Sentinel
+}}
+|{{ImageBlue
+| file = LooterSubclass.png
+| link = Looter
+| text = Looter
+}}
+|{{ImageBlue
+| file = ManiacSubclass.png
+| link = Maniac
+| text = Maniac
+}}
+|{{ImageBlue
+| file = ButcherSubclass.png
+| link = Butcher
+| text = Butcher
+}}
+|{{ImageBlue
+| file = JuggernautSubclass.png
+| link = Juggernaut
+| text = Juggernaut
+}}
+| {{ImageBlue
+| file = AdeptSubclass.png
+| link = Adept
+| text = Adept
+}}
+|}
+== Other data ==
+-Each skill tree is unique to it's character and lost upon death
+
+-All nodes need to be connected to at least other node
+
+-The skill tree is the only permanent source of the evasion stat for your character
+
+-You can use this UNOFFICIAL website to plan your build https://rotfskilltree.ddns.net/ (this site is not affiliated to ROTF, anything that happens in this webstie is not related and will not be attended by admins)

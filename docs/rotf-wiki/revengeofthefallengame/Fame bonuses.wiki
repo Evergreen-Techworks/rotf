@@ -1,0 +1,4 @@
+# Fame bonuses
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Fame%20bonuses&prop=wikitext
+
+asdf

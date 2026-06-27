@@ -1,0 +1,46 @@
+{
+ "dungeon": "GENUINE ROTF run (~119s, player 'VoltiPlay'). A boss is fought (combat overlay + a 'A skull covered in chocolate' item near it) but NO boss taunt is captured (chat = event-feed + trade/LFG-heavy). Value: 2 NEW event-boss NAME LEADS (God of Injustice, The Quiet Murder) + corroboration of built/base bosses. LOW yield (no taunt).",
+ "map": "DOCUMENTED-from-transition+bossends: a brown/DIRT arena (the boss fight, t001_at29s) + open GREEN grass realm + a BLUE/WATER area + a SANDY/snowy area (b002_at119s). Multi-biome; no single contiguous layout.",
+ "bosses": [
+  {
+   "name": "(unidentified — dirt-arena boss)",
+   "phases": [],
+   "attacks": ["not cleanly traced (multi-biome bossends; green/water/sandy frames, approximate scattered bullets)"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "A boss is fought (combat-overlay in t001_at29s, with a 'A skull covered in chocolate' meme/holiday item nearby) but NO NAME/taunt captured (chat = event-feed + trade/LFG). NOT attributed/guessed."
+  },
+  {
+   "name": "God of Injustice",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-feed ('Pirates - God of Injustice has just spawned!', t001). NAME-ONLY event-boss lead (no taunt/arena/attack isolated). NEW to the ledger -> flagged, verify before building (cf. Greatfish/Zaragon name-only leads)."
+  },
+  {
+   "name": "The Quiet Murder",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-feed ('Antidote - The Quiet Murder has been defeated!', t001). NAME-ONLY event-boss lead (no taunt/arena). NEW -> flagged, verify before building."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "A skull covered in chocolate (meme/holiday item, tooltip seen)",
+  "VoltiPlay got a 'very legendary item' (Staff of Corruption? — name uncertain, with damage-contribution %)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "God of Injustice has just spawned! (NEW name lead)",
+  "The Quiet Murder has been defeated! (NEW name lead)",
+  "Hermit God (spawned/defeated), Firebreather defeated, Grand Sphinx defeated, Cube God spawned, Uvuvwevwevwe defeated, Warbringer spawned (built/base corroboration)"
+ ],
+ "mechanics": "DOCUMENTED: a busy event-boss feed with 2 NEW name leads (God of Injustice spawned, The Quiet Murder defeated) + corroboration of built (Uvuvwuwuwe/Warbringer/Firebreather) and base (Hermit God/Cube God/Grand Sphinx) bosses. A 'A skull covered in chocolate' meme/holiday item. The fought boss is UNNAMED (no taunt). Player VoltiPlay (ROTF owner). No new taunt/buildable boss.",
+ "uncertain": "NO boss taunt captured (chat = event-feed + trade/LFG). The fought dirt-arena boss is UNIDENTIFIED. 'God of Injustice' + 'The Quiet Murder' are NAME-ONLY feed leads (no taunt/arena/attack -> not buildable yet, flagged). High chat red-density was the busy floor + feed. Legendary drop name uncertain. Attacks not cleanly traced (multi-biome).",
+ "confidence": "LOW (no taunt) / leads. GENUINE ROTF (VoltiPlay). NO boss taunt; 1 unidentified fought boss. Value = 2 NEW event-boss NAME LEADS (God of Injustice, The Quiet Murder) for follow-up + a 'skull covered in chocolate' meme item + built/base event corroboration. Recorded honestly (unnamed boss, name-only leads flagged, no fabrication). Best follow-up: clean clips of God of Injustice / The Quiet Murder for taunts + arenas."
+}

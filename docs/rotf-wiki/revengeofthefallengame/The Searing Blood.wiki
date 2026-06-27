@@ -1,0 +1,4 @@
+# The Searing Blood
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=The%20Searing%20Blood&prop=wikitext
+
+asdf

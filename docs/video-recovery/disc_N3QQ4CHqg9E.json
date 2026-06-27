@@ -1,0 +1,11 @@
+{
+ "dungeon": "*** NON-GAMEPLAY — NOT a dungeon run. *** This video is a ROTF content-creator's GIVEAWAY / RAFFLE announcement: a screen-recording of the website 'YouTube Random Comment Picker' (commentpicker.com/youtube.html) being used to pick a random winner from the creator's YouTube comments ('Winner: ThatkidAlex', 'Amount of unique commenters: 360'), followed by a 'thanks for watching' outro card. ZERO RotMG gameplay, bosses, dungeons, or taunts. Recorded as a NON-GAMEPLAY exclusion. (Likely the same creator as disc_M04fBHBpodE / disc_mHY6O5kMU1I — same outro-card style.)",
+ "map": "N/A — not a dungeon. The footage is a desktop WEB BROWSER showing commentpicker.com (a YouTube comment-raffle tool) for the whole clip, then a 'thanks for watching' outro. No game map.",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "NON-GAMEPLAY (giveaway-winner announcement). The whole clip is a screen-recording of the 'YouTube Random Comment Picker' website (commentpicker.com) running a raffle on the creator's video comments (winner 'ThatkidAlex', 360 unique commenters), then an outro. The 30 'chat' crops are all the website (all-zero boss-coloured text -> the red-detection found nothing, consistent with a web page). The 'bossend' fade-to-black detections were just the page->outro transition, NOT a boss kill. No RotMG content to recover.",
+ "uncertain": "None on the identity — it is unambiguously a commentpicker.com giveaway screen-recording (the site title 'YOUTUBE RANDOM COMMENT PICKER' + URL commentpicker.com/youtube.html are on-screen). It is ROTF-CREATOR content (a giveaway for their channel) but contains NO gameplay -> nothing to recover.",
+ "confidence": "HIGH that this is NON-GAMEPLAY (a giveaway/raffle website recording + outro). ZERO ROTF dungeon/boss/taunt content. Net value = a documented exclusion (prevents the web-page fade-to-blacks being mistaken for boss kills). No boss/taunt/attack recorded by design. Like the facecam/outro-only tags: best handled by a discovery-side filter that drops non-gameplay creator videos (giveaways, intros, web-page recordings)."
+}

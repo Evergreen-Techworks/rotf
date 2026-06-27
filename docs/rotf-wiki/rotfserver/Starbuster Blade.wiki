@@ -1,0 +1,25 @@
+# Starbuster Blade
+# https://rotfserver.fandom.com/api.php?action=parse&page=Starbuster%20Blade&prop=wikitext
+
+{{ItemInfo
+| name = Starbuster Blade
+| slot = sword
+| tier = GL
+| soulbound = yes
+| desc = A sword forged from a comet, imbued with the energy of a supernova star.
+
+| rof = 100
+| range = yes
+| projSpeed = 10
+| lifetime = 430
+| minDmg = 240
+| maxDmg = 300
+| fameb = 6
+
+|lootbag = white
+|dropsFrom = is obtainable from Galactic Zones}}
+
+<noinclude>
+[[Category:Swords]]
+{{NavSwords}}
+</noinclude>

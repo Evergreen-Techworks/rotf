@@ -1,0 +1,12 @@
+{
+ "dungeon": "Early-build (X1.5) multi-dungeon run — elemental dragon LORDS (Treesmasher + Firebreather) + others",
+ "map": "DOCUMENTED biomes: green FOREST floor (Treesmasher/Collapsed Woods), red LAVA floor (Firebreather/Flaming Hearth), gold/yellow temples, blue ocean, purple dungeons, a pink radial-attack boss arena, grey crypts. Multi-dungeon maxing session.",
+ "bosses": [
+   {"name":"Treesmasher (Collapsed Woods lord)","phases":["awakens when challenged"],"attacks":[],"minions":[],"colorFlashes":"forest green","taunts":["You have awoken the [Treesmasher/woods]..."],"note":"Elemental (earth/wood) dragon LORD. Green forest arena. Matches dev-blog 'dormant Treesmasher'. Present in EARLY X1.5 build -> original content."},
+   {"name":"Firebreather (Flaming Hearth lord)","phases":["awakens when challenged"],"attacks":[],"minions":[],"colorFlashes":"fire red/orange","taunts":["You have awoken the [Firebreather]..."],"note":"Elemental (fire) dragon LORD. Red lava arena. Same 'You have awoken the...' awakening-taunt pattern as Treesmasher. Confirms the 4 elemental dragons as realm Lords in the original game."}
+ ],
+ "drops": [],
+ "mechanics": "DOCUMENTED (early X1.5 build): the ELEMENTAL DRAGON LORDS (Treesmasher=earth/wood, Firebreather=fire; Riverborn=water elsewhere) are realm bosses that share a 'You have awoken the [Lord]...' awakening taunt — confirming they're original 2017-2018 content (not just 2021 ACED). BOOSTER SYSTEM confirmed: status lines 'You have a <N>% drop chance boost.', 'You have no tier booster active.', 'You have no XP booster active.' (drop-chance / tier / XP boosters players can activate). 'You're already maxed.' message when drinking a pot on a maxed stat. Events: Mad Jester defeated, Skull Shrine spawned (announcer persona Sprite).",
+ "uncertain": "Dragon taunt endings clipped ('You have awoken the ...'). Attack patterns not isolated. Which exact dungeons the gold/pink/purple arenas are = unconfirmed.",
+ "confidence": "HIGH for Treesmasher + Firebreather as elemental Lords with awakening taunts + the booster system (DOCUMENTED); MEDIUM for biomes."
+}

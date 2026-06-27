@@ -1,0 +1,4 @@
+# Penetrating Blast Spell
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Penetrating%20Blast%20Spell&prop=wikitext
+
+asdf

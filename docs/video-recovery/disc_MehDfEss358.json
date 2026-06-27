@@ -1,0 +1,21 @@
+{
+ "dungeon": "FACECAM realm-clearing + multi-dungeon stream — SAME creator as disc_m8KnWYLT4Ac / disc_McIRLo7w4Co ('Dragstar', youtube.com/c/Dragstar; webcam over the bottom-left chat + 'LEAVE A LIKE'). ~9 entries over ~558s. The webcam obscures the chat -> NO boss taunts captured. A green/yellow REALM clear (Realm of the Mad God, /85 event counter) + desert/cave/water/snow dungeon entries. LOW boss-content yield. Server identity = RotMG-engine (same Dragstar server as the other two tags); not positively confirmed.",
+ "map": "DOCUMENTED-from-transitions+f_frames: a GREEN/YELLOW grassy REALM (open realm with scattered trees + enemies, where the realm-clear happens) plus dungeon entries — a tan DESERT realm, a brown/tan CAVE dungeon, a BLUE WATER/ocean area, and a blue/white SNOW/ICE area. Plus character-select + space/void hub screens. Realm-clear + dungeon-hop; no single dungeon room-sequence. No bossends.",
+ "bosses": [
+  {
+   "name": "(unidentified realm boss)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames but APPROXIMATE: the green realm had a brown SPIKY boss + multi-colour scattered bullets (red/green/blue) across the open realm -> spread/scattered, no clean single pattern isolated."],
+   "minions": ["various realm enemies (green creatures)"],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "A brown spiky realm boss seen in the green realm (Realm of the Mad God clear) with scattered multi-colour bullets. NAME NOT captured (facecam covers chat) -> left UNIDENTIFIED (no guessing). Attack loosely characterised (scattered/spread), flagged."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED (limited — facecam): the bottom-left CHAT is WEBCAM-COVERED -> no boss taunts readable. A realm-clear (Realm of the Mad God event counter at 46/85 -> a large /85-denominator realm; the event tracker is per-realm-configurable, cf. /25 & /30 in other tags) + dungeon-hop across desert/cave/water/snow. Same creator (Dragstar) as disc_m8KnWYLT4Ac + disc_McIRLo7w4Co. No bossends -> no clean attack geometry; no new boss names/taunts.",
+ "uncertain": "CHAT facecam-covered -> NO boss taunts; the realm boss is UNIDENTIFIED (not guessed). SERVER IDENTITY not positively confirmed (RotMG-engine; same Dragstar creator/server as the other two tags). Attacks scattered/approximate (no bossends). No priority dungeons (Craig's Castle / Gate to the Underworld / Tomb of Decaying Death / Broken Forest / The Showcase) seen.",
+ "confidence": "LOW. RotMG-engine FACECAM realm/dungeon stream (Dragstar, 3rd tag) -> very low recoverable boss content (chat covered, no bossends, no boss name/taunt). Concrete notes: the realm + dungeon-biome set (desert/cave/water/snow) + a /85 realm event counter + an unidentified brown spiky realm boss. NO boss/taunt recorded (honestly left empty/unidentified, no fabrication). Recurring low-yield facecam pattern -> best follow-up = prefer non-facecam ROTF-custom-dungeon footage."
+}

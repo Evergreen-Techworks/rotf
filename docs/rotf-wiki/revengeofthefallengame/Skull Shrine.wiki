@@ -1,0 +1,4 @@
+# Skull Shrine
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Skull%20Shrine&prop=wikitext
+
+asdf

@@ -1,0 +1,24 @@
+{
+ "dungeon": "GENUINE ROTF/RotMG multi-dungeon / loot-marathon run (4 entries, ~449s) — green grass REALM (LEGENDARY drop) + a yellow/sand arena + dark SPACE + a RED LAVA arena. 77 bossends / 3 groups, but NO boss NAMES captured (chat = loot-feed + player banter + a server announcement). LOW-MEDIUM yield: dungeon/biome set + a market/sell-for-Fame mechanic + scattered-bullet attack class; bosses unidentified.",
+ "map": "DOCUMENTED-from-transitions+bossends: 4-entry hop — GREEN grass realm (green+brown enemies, b003_66s), a grey/brown rocky arena (b002_4s), a yellow/sand arena, dark SPACE, and a RED LAVA arena (b004 area). No single room-sequence (multi-dungeon/marathon).",
+ "bosses": [
+  {
+   "name": "(unidentified multi-dungeon bosses)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames but APPROXIMATE: scattered bullets across green/grey/blue arenas (b002_4s grey-rock, b003_66s green, b004_298s blue/green) -> spread/scattered, no clean single geometric pattern isolated."],
+   "minions": ["green/brown realm enemies"],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "3 boss climaxes (77 bossends) but NO boss NAME/taunt captured (chat is loot-feed + player banter + a 'Server' restart announcement; no boss-prefix isolated) -> bosses left UNIDENTIFIED (no guessing). Attacks loosely characterised (scattered/spread), flagged approximate."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "RuinedBow has looted a Legendary [item] (with 32% damage dealt!)",
+  "LEGENDARY-tier drop (green realm, on-screen overlay)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: a loot-marathon multi-dungeon run. (1) MARKET / SELL-FOR-FAME: 'Your Dexterity got sold for [N] Fame' (×2) -> a marketplace where stat-pots/items sell for Fame. (2) Legendary-loot feed ('RuinedBow has looted a Legendary'). (3) a 'Server' restart ANNOUNCEMENT. (4) guild RECRUITMENT chat ('Recruiting for Instinct, reqs are 3 16/16s and 50k account worth...'). Boss attacks = scattered/spread (frames, approximate). NO boss names/taunts captured.",
+ "uncertain": "NO boss NAMES or taunts captured (chat = loot-feed + player banter + server announcement) -> all bosses UNIDENTIFIED (not guessed). Attack geometry approximate (scattered/spread). The market 'sold for Fame' amounts partial. Multi-dungeon -> no single layout. Server = RotMG-engine (not a non-target).",
+ "confidence": "LOW-MEDIUM. GENUINE ROTF/RotMG loot-marathon. Concrete: biome/dungeon set + a MARKET sell-for-Fame mechanic + a legendary-loot feed + scattered-bullet attack class. NO boss name/taunt captured -> bosses recorded as unidentified (no fabrication). Same pattern as disc_k1Yg0c2rySM / disc_m30Lq2tVK54 / disc_nFN8h1GVL-o (edited/marathon multi-dungeon -> attack-class + mechanics but not boss names). Best follow-up: clean single-boss clips for names + taunts."
+}

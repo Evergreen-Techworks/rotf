@@ -1,0 +1,46 @@
+entry-content">
+
+ Hey all! This is a sort of “backstage” post about the new Rune + Skill Tree system in rotf2. We started designing components of this system back in September, but this is the first time we’ve had something in-game that we can show off. 
+
+ some of the early concept designs for the new skill tree. 
+
+ After talking to a lot of players about which design they preferred, one thing that we heard consistently was that the stat preview in design #2 should definitely be in whichever iteration we decide to use. With that in mind, we started building out the skill tree’s layout in the editor. 
+
+ it’s… alive…? dear god 
+
+ So, yikes. But that was (obviously) just a first attempt at figuring out where everything should be positioned — not how everything should look. Making the lines appear at the correct positions, even, was a challenge… 
+
+ THESE LINES AREN’T EVEN IN THE RIGHT PLACE, OR THE RIGHT COLOR, OR KLFJDLKGJKLGDJKLG 
+
+ But we got there eventually. 
+
+ we did it we did it we did it we did it 
+
+ We’re pretty proud of how it’s going, and how well we were able to follow our original design goals, but we ‘re definitely not done with this thing. Some things to note: 
+
+ Runes slots now have names! Arcane (blue), Chrysalis (green), Impact (orange), and Adaptive (clear). The Overview tab on the right allows you to live-preview your build as you develop it. The All Stats button will give you a more detailed overview (including things like primal effects on items, and reactive effects from runes), but we’re still working on that. Masterwork nodes literally don’t do anything yet. We’re still figuring out how we want to keep the choices thematically exciting (i.e. matching their core rune), without taking away too much variety from the build system. Their sprites are also completely placeholder (lol). You might have noticed a mini-node for Haste — this is a cdr-like stat that should be relevant for some classes, since many abilities now have cooldowns (as opposed to just mana costs). Runes don’t have tooltips yet, but they will. The UI in general is still WIP. The sword and shield in the video are not actually UT. The tier system from legacy won’t be returning as-was, and we haven’t had a chance to finish implementing the new system yet. what’s this new area we’re standing in 
+
+ We’re hoping that the new skill tree system will continue to encourage players to seek out diverse builds and playstyles. We think it’s going to be pretty sick, especially when combined with the Class Tree (more on that some other time). 
+
+ For now, another Closed Testing key! Use at https://rotf.io/register . 
+
+ (Post will be updated in 15 minutes with the key to give you time to read the post. EDIT: Here it is!) 
+
+ Closed Testing key: [1] V2E- [2] TXR-O0 [3] U-X [4] NO 
+
+ [1] The first letter of the blue rune in legacy rotf that gave increased loot chance for rare drops, but prevented you from looting any other items. [2] The first letter of the stat in legacy rotf, scaling with speed, that gave you a % chance to dodge an incoming attack. [3] The first letter of the boss of the legacy rotf Showcase dungeon. [4] The first letter of the realm event in legacy rotf that threw playing cards everywhere. 
+ Share this: Twitter Facebook Like this: Like Loading... 
+
+ Related 
+
+ Tagged aced games aced.gg adaptive chrysalis closed testing masterwork revenge of the fallen rotf rotf.io rune runes skill tree skill trees 
+
+ Published by Miniguy 
+
+ I’m one of the lead developers at ACED. We’re currently working on porting RotF to Unity! 
+ View all posts by Miniguy 
+
+ Published 
+ February 15, 2021 February 15, 2021 
+
+</article

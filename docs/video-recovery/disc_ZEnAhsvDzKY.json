@@ -1,0 +1,27 @@
+{
+ "dungeon": "ROTF 'THROWBACK' montage video (793 frames, v3.0) — CONFIRMS built taunts for Encounters + Epic Ghost of Skuld + Gravedigger; rich realm event feed. GENUINE ROTF.",
+ "source": "video disc_ZEnAhsvDzKY (793 f_, 198 chat, 99 minimap, 4 entries; edited w/ Filmora, 'THROWBACK' overlay). Entries: realm overworld -> orange/red LAVA dungeon (t002/t003) -> a 'PREVIOUS/RANDOM' skin/pet wheel UI (t004). Biomes also: god-temple arena, blue ice area, sandstone labyrinth, green dungeons. Server 'v3.0'. Strong chat event-feed + verbatim boss taunts.",
+ "bosses": [
+  {"name":"Epic Ghost of Skuld","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Congratulations on your victory...","A SWIFT DEATH!!!"],"note":"DOCUMENTED-from-chat. CONFIRMS the built taunts (BehaviorDb.OCBosses.cs Epic Ghost of Skuld)."},
+  {"name":"Gravedigger","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Let's see how you handle this...","It seems like you have [survived]... I offer you my congratulations, but you..."],"note":"DOCUMENTED-from-chat. CONFIRMS built Gravedigger 'Let's see how you handle this...' (BehaviorDb.Necropolis.cs) + adds a NEW 'false-congratulations' line ('...offer you my congratulations, but you...') matching the Gravedigger's offer-then-betray theme."},
+  {"name":"Shadow Encounter","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["YOU HAVE MADE A GRAVE MISTAKE","I've seen babies hit harder"],"note":"DOCUMENTED-from-chat. CONFIRMS the built Encounter taunts (BehaviorDb.Encounters.cs Shadow Encounter)."},
+  {"name":"Epic Flying Encounter","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["YOU HAVE [MADE A GRAVE MISTAKE]","I've seen ba[bies hit harder]"],"note":"DOCUMENTED-from-chat (partial). The Flying Encounter, Epic variant — shares the Encounter taunt set. Confirms the Encounters as live Epic realm bosses (D1)."},
+  {"name":"Golden Oryx Effigy","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You won't know..."],"note":"DOCUMENTED-from-chat (partial, new line). Base RotMG realm-event boss — verify collision (enrich)."},
+  {"name":"Warbringer","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'Cyclops - Warbringer just spawned!'. Re-confirms Warbringer as a live realm event boss (taunts captured in disc_Yx0kTFEixbA)."}
+ ],
+ "minions": [],
+ "drops": ["Endless Torment! (UT — Special Crate unbox, recurs across tags)", "loot with N% damage dealt (0%, 64%)", "t1 robe (free giveaway)"],
+ "event_bosses_seen_in_global_feed": [
+  "The Hermit God has been defeated (Djinn/Titan)",
+  "The Shadowscale has been defeated (Phoenix)",
+  "The Cube God has been defeated (Goblin)",
+  "Warbringer just spawned! (Cyclops)",
+  "The Lucky Ent God has been defeated (Ghost)",
+  "Lucky Djinn has just spawned! (Cube)",
+  "Pentaract Tower Ultra has spawned (Mummy)",
+  "Mad Jester has just spawned"
+ ],
+ "mechanics": "DOCUMENTED: (1) Server 'v3.0'. (2) CONFIRMS built taunts across 4 bosses (Epic Ghost of Skuld, Gravedigger, Shadow Encounter, Flying Encounter) — strong validation of shipped content. (3) SPECIAL CRATE unboxing + IDENTIFY-RECEIPT ('You have identified the receipt! Obtaining...') + VOID COINS ('analyzed the coin') recur (consistent with prior tags). (4) Damage-% loot (Loot Notifier 'with N% damage dealt'). (5) Named NPC announcers (Djinn/Cyclops/Titan/Phoenix/Goblin/Ghost/Cube/Mummy) drive the event feed. (6) Recurring UT 'Endless Torment!' from crates.",
+ "uncertain": "Flying Encounter / Golden Oryx Effigy / Gravedigger 2nd line partial (truncated at chat edges). The lava dungeon entry name not legible. 'Epic Stormcure[?]' enemy name unclear.",
+ "confidence": "HIGH for the verbatim chat: Epic Ghost of Skuld + Gravedigger + Shadow Encounter taunts (all CONFIRM built content), plus the realm event feed. MEDIUM for partials (Flying Encounter, Golden Oryx Effigy, Gravedigger new line). GENUINE ROTF (v3.0)."
+}

@@ -1,0 +1,17 @@
+{
+ "dungeon": "GENUINE ROTF MEME/STUNT video — NOT a dungeon/boss fight. 'This was done on a p4 account' (duped/multi-account stunt): hundreds of identical BLUE player sprites massed on a realm and arranged to SPELL WORDS (GBL / SBNR / SURGE). ~190s. Chat = global EVENT FEED only (no boss-prefix taunt). NO buildable boss/dungeon content.",
+ "map": "DOCUMENTED-from-frames: the open REALM overworld — a TAN/SANDY biome (grass + dirt) where the massed blue 'p4' accounts cluster and form letter shapes. Not a dungeon; no rooms/arena/choke points. Standard realm overworld.",
+ "bosses": [],
+ "minions": [],
+ "drops": [
+  "Loot Notifier '[player] just unboxed [...] from a daily loot, obtained with 100% damage deal!' (lootbox + damage-% contribution)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "God of Reptilians ('Phoenix - God of Reptilians has just spawned') — well-attested (20 specs, partly built) ROTF event boss; corroboration",
+  "another 'The God [...] has just spawned' (announcer Spider; name cut)",
+  "death-notifier lines (Whaleking/AK '... has been crushed')"
+ ],
+ "mechanics": "DOCUMENTED: a 'p4 account' (duped/multi-account) STUNT — hundreds of cloned blue accounts massed on the realm to spell words (creator showcase, 'more info on p4 accounts in the description'). Global event feed corroborates ROTF systems: multi-persona ANNOUNCERS (Phoenix, Spider), the lootbox + 'X% damage deal' contribution, and a well-attested event boss (God of Reptilians). NO boss fought, NO new content.",
+ "uncertain": "This is a STUNT/meme video, NOT a dungeon run -> bosses=[] (none fought, no taunt). The 'bossend' detection (b002@38s, 37 frames) is a FALSE POSITIVE on the moving blue account-mass, not a boss climax -> no attack geometry (none exists). Chat is largely OBSCURED by the blue sprite pile; only event-feed lines readable. 'God of Reptilians' is a well-attested/partly-built ROTF event boss (corroboration, NOT new). GENUINE ROTF (announcers + lootbox + God-of-Reptilians confirm).",
+ "confidence": "HIGH that this is a ROTF p4-account-army STUNT video with NO boss fight -> NO new content (bosses=[]). Value: confirms ROTF (event feed: God of Reptilians spawn, multi-persona announcers, lootbox + damage-% system) + documents the 'p4 account' multi-account stunt. Recorded honestly: bosses empty (no fight), bossend flagged as a false-positive (no fabricated attack), God-of-Reptilians as corroboration not new, no taunt invented. No follow-up (no buildable ROTF content)."
+}

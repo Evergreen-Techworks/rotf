@@ -1,0 +1,4 @@
+# The Apex Bulwark
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=The%20Apex%20Bulwark&prop=wikitext
+
+asdf

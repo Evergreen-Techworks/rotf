@@ -1,0 +1,17 @@
+{
+ "dungeon": "GENUINE ROTF CRAIG'S CASTLE run (grey/dark-stone castle) — Craig, The Worst Nightmare boss + a 'BARRIER ACTIVATED!' dungeon mechanic. Realm-feed also corroborates Anubis + Cracked Core/Starforce. NOTABLE: Craig's Castle was flagged as a no-DUNGEON-footage dungeon; this gives the castle biome + the BARRIER mechanic. 1.5x event multiplier active.",
+ "map": "DOCUMENTED-from-transitions+frames: a GREY/DARK-STONE CASTLE dungeon (structured stone rooms + corridors, dark floors) where Craig, The Worst Nightmare is fought; orange/lava combat pockets + a blue/cyan circular pool/arena seen in the run. Craig's Castle interior is grey-stone (not the red/lava some assume). Room sequence partially traced (2 loading entries).",
+ "bosses": [
+  {"name":"Craig, The Worst Nightmare","phases":["'BARRIER ACTIVATED!' gating phase; 'NOOOO' on death"],"attacks":["DOCUMENTED-from-frames (approx): scattered bullets across the arena during the fight; a BARRIER mechanic gates damage ('BARRIER ACTIVATED!') -> reconstruct as a periodic Invulnerable/shield phase"],"minions":[],"colorFlashes":"","taunts":["HAHAHA, I AM [INCREASING IN STRENGTH]...","DESTROY YOU EVEN MORE!!!","NOOOO[...] (death)"],"note":"DOCUMENTED-from-chat. = the built/verified 'Craig the Mad Intern' (heritage-rename). CORROBORATES the verified Craig taunts (HAHAHA I AM.../DESTROY YOU EVEN MORE!!!/NOOOO death). NEW: the 'BARRIER ACTIVATED!' dungeon mechanic — a barrier/shield phase, worth adding to the Craig build."},
+  {"name":"Anubis","phases":[],"attacks":[],"minions":["Pillars"],"colorFlashes":"","taunts":["Pillars... please help me!"],"note":"DOCUMENTED-from-chat (realm feed). CORROBORATES the verified Anubis line + the destructible-Pillars mechanic."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [
+  "Cracked Core ('Starforce: A Cracked Core has just spawned') — corroborates built Cracked Core/Starforce",
+  "Anubis (Pillars line above)"
+ ],
+ "mechanics": "DOCUMENTED: a CRAIG'S CASTLE run. KEY NEW FIND: a 'BARRIER ACTIVATED!' dungeon/boss mechanic during the Craig fight — a barrier/shield phase (likely Craig becomes invulnerable behind a barrier until something is destroyed/timed, then vulnerable). Craig taunts corroborate the built Craig the Mad Intern (HAHAHA I AM.../DESTROY YOU EVEN MORE!!!/NOOOO death). Anubis 'Pillars... please help me!' + Cracked Core/Starforce corroborate other built bosses. Announcer 'Jon Bilgewater the Pirate King'. A '1.5x' event multiplier overlay (loot/XP boost event). ATTACKS: Craig = scattered bullets (DOCUMENTED-approx). The grey-stone castle biome documents the Craig's Castle interior (previously no-footage).",
+ "uncertain": "Craig taunts partial (HAHAHA line ending cut, consistent with prior Craig sources). 'BARRIER ACTIVATED!' mechanic seen as a message but its exact trigger/effect not fully observed (reconstruct as a shield/invuln phase). The blue circular pool's role unclear. 1.5x overlay = an event multiplier (loot/XP), exact scope not shown.",
+ "confidence": "MEDIUM-HIGH for CORROBORATION (Craig the Mad Intern + Anubis + Cracked Core all confirmed as live ROTF bosses) + the NEW 'BARRIER ACTIVATED!' Craig's Castle mechanic (valuable — Craig's Castle was a no-dungeon-footage dungeon). Craig's Castle interior biome documented (grey-stone). Taunts corroborate verified content; attacks approx. GENUINE ROTF."
+}

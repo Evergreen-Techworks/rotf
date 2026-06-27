@@ -1,0 +1,4 @@
+# Malevolent Armor
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Malevolent%20Armor&prop=wikitext
+
+asdf

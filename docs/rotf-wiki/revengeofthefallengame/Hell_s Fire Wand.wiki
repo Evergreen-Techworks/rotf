@@ -1,0 +1,4 @@
+# Hell’s Fire Wand
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Hell%E2%80%99s%20Fire%20Wand&prop=wikitext
+
+asdf

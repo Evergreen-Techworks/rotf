@@ -1,0 +1,17 @@
+{
+ "dungeon": "(ROSTER) RotF world/difficulty structure + Medium-rank worlds",
+ "source": "aced.gg dev blog 2021-03-28 (Dragons/Midgame) + Dungeons wiki page — DOCUMENTED",
+ "map": "N/A (dungeon roster)",
+ "bosses": [
+   {"name":"Treesmasher","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"Boss of COLLAPSED WOODS (Medium). 'Dormant' until awoken."},
+   {"name":"Shadowscale","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"Boss of SHROUDED SANCTUM (Medium). Hides secrets."},
+   {"name":"Devoted Shaman + Reptilian God","phases":[],"attacks":[],"minions":["reptilian hunters"],"colorFlashes":"","taunts":[],"note":"SACRIFICIAL GROUNDS (Medium): the Devoted Shaman's reptilian hunters try to sacrifice players to a 'Reptilian God'."},
+   {"name":"Firebreather","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"Lord of FLAMING HEARTH (fire dragon). See aced_FlamingHearth."},
+   {"name":"Riverborn","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"Lord of RIVERSIDE REFUGE (aqua dragon). See aced_RiversideRefuge."},
+   {"name":"Tombstone Carrier","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"Boss of TOMB OF DECAYING DEATH. See aced_TombOfDecayingDeath."}
+ ],
+ "drops": [],
+ "mechanics": "DOCUMENTED world structure: RotF dungeons ('worlds') are tiered EASY / MEDIUM / HARD. Closed Testing had 6 Easy + 4 Hard worlds; MEDIUM = 6 worlds (in pipeline): (1) Flaming Hearth [Firebreather], (2) Riverside Refuge [Riverborn], (3) Collapsed Woods [Treesmasher], (4) Shrouded Sanctum [Shadowscale], (5) Tomb of Decaying Death [Tombstone Carrier], (6) Sacrificial Grounds [Devoted Shaman -> Reptilian God]. The FOUR ELEMENTAL DRAGONS return from legacy as realm LORDS (Firebreather=fire, Riverborn=water; +2 others=earth/air). 'Lord' bosses are found by exploring the realm for their lair, then a dungeon opens. EASY worlds (from Dungeons wiki): Pirate Cave, Forest Maze, Spider Den, Forbidden Jungle, The Hive.",
+ "uncertain": "The 2 remaining elemental dragons (earth/air Lords) not named in this post. HARD-rank roster (beyond Gate to the Underworld) partly unknown. This is the 2021 ACED design — original 2019 server roster overlapped but differed.",
+ "confidence": "HIGH for the Medium-world list + bosses + tier structure (DOCUMENTED); informs the whole dungeon-build plan."
+}

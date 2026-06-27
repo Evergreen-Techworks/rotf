@@ -1,0 +1,12 @@
+{
+ "dungeon": "Undead Lair (ROTF reworked UDL)",
+ "map": "VIDEO: GRAY STONE CRYPT interior with RED/BLOOD pools and red-tinted boss room; multi-room with corridors. (Player also travels realm/desert/snowy areas en route.) Reworked vanilla Undead Lair.",
+ "bosses": [
+   {"name":"Undead Lair boss (red; vanilla = Septavius the Ghost God, ROTF-reworked)","phases":[],"attacks":["red/blood crypt arena"],"minions":["undead minions"],"colorFlashes":"","taunts":[]}
+ ],
+ "minions": ["undead/skeletons (vanilla UDL set)"],
+ "drops": ["Shattered War Axe (wiki — ROTF UDL drop)"],
+ "mechanics": "",
+ "uncertain": "Chat crop region captured the Windows TASKBAR (game ran windowed) -> no chat/taunts/drop-lines readable for this video. Boss is the reworked vanilla UDL boss; exact ROTF changes not captured. Map (gray crypt + red/blood) is clear.",
+ "confidence": "MEDIUM — map documented (gray crypt + red boss room); boss = reworked vanilla Septavius; drop (Shattered War Axe) from wiki. No chat data (taskbar crop)."
+}

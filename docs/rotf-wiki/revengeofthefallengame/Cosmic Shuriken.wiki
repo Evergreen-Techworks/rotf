@@ -1,0 +1,4 @@
+# Cosmic Shuriken
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Cosmic%20Shuriken&prop=wikitext
+
+asdf

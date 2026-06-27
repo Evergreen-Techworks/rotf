@@ -1,0 +1,27 @@
+# Arcane Bait
+# https://rotfserver.fandom.com/api.php?action=parse&page=Arcane%20Bait&prop=wikitext
+
+{{ItemInfo
+| name = Arcane Bait
+| desc = The arcanic beings often lure in their prey with the help of the arcane power they posses.
+| slot = trap
+| tier = UT
+| rarity = h
+| cost = 140
+| damage = 80,140,180
+| radius = 9,6,3
+| triggerradius = 4.5,3,1.5
+| armtime = 8,6,4
+| cooldown = 0
+| fameb = 8
+| bonuses = {{Stat|vit|-2}}{{Stat|dex|2}}{{Stat|wis|2}}
+| effects = yes
+| cursed = (middle)2
+
+| paralysed = (small)2
+| lootbag = white
+| dropsFrom = can be found in a White Bag dropped by 
+}}
+<noinclude>
+{{NavTraps}}
+</noinclude>

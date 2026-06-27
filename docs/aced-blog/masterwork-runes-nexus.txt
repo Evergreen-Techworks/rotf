@@ -1,0 +1,52 @@
+entry-content">
+
+ Hey all! Today, we’ll show an overview of the Nexus , which was finally revealed during Closed Testing, and then we’ll walk you through some of the work we’ve been doing on Masterwork Runes . 
+
+ sorry for literal static mic. i’ll have a real setup soon, promise! 
+
+ The Nexus has dedicated areas for the: 
+
+ Market (Manny) Runemaster (Nero) Guild Liaison (Luther) Alchemist (Minerva) Blacksmith (Alastair) Stylist (Amir) 
+
+ But for now, let’s focus on the Nero, the Runemaster. 
+
+ this old man still knows a few tricks. 
+
+ In a previous post , we talked about the new Skill Tree system, so check that out if you haven’t already. When we released that post, the last component that we needed to finalize was the function of Masterwork Runes. 
+
+ Here’s what we’ve worked out since then: Masterwork Runes are unlockable runes that are equipped to a specific rune slot (much like Rune Cores, which reside on the innermost ring). Masterwork Runes should cause more meaningful changes in playstyle than the simple stat nodes surrounding them. 
+
+ While the video demonstrates some of these Masterwork Runes pretty well, here’s another in-game sample that we think looks cool. 
+
+ above: Astral Thorns (Arcane), Mirror’s Edge (Chrysalis), and Shatter Strike (Impact). 
+
+ There’s still a lot to do before this system is ready. While the Nexus is fairly far along in development, Masterwork Runes are still highly work in progress . 
+
+ And by “highly work in progress,” we mean that nearly everything is an experiment: most of the Cores and Masterwork Runes, for example, will likely switch places. Runes that have as high of a mechanical impact as Astral Thorns should clearly be Rune Cores, while complementary runes, like Perfectionist, should clearly be Masterwork Runes. But differentiating between Masterworks and Cores won’t be a priority until we’ve built enough runes that every class can find variety in their builds. 
+
+ Mike and I have been trying to build things that feel satisfying to play. For now, that means they’re really unbalanced. They’re also missing sprites. But as with the last Skill Tree post, I still hope that this gives some insight around our intended direction with these systems. 
+
+ it’s balanced! 
+
+ The work is ongoing. Hang in there! 
+
+ More keys! We’re skipping trivia this time, but we’re still doing some random fuzzing to make sure that bots don’t snatch up these keys. As always, good luck! https://rotf.io/register 
+
+ JV [1] X-HFJ [2] -VM [3] 7-AI [4] G Replace with Q Replace with X Replace with B Replace with 4 HV [1] V-TS [2] U-9B [3] W-P [4] 8M Replace with D Replace with S Replace with 0 Replace with Z 1L [1] L-M [2] JM- [3] 4IM- [4] RR3 Replace with X Replace with B Replace with Y Replace with X 
+
+ Thanks for sticking with us! ❤ 
+ Share this: Twitter Facebook Like this: Like Loading... 
+
+ Related 
+
+ Tagged aced games aced.gg masterwork nero nexus revenge of the fallen rotf rotf.io runemaster runes skill tree 
+
+ Published by Miniguy 
+
+ I’m one of the lead developers at ACED. We’re currently working on porting RotF to Unity! 
+ View all posts by Miniguy 
+
+ Published 
+ March 14, 2021 
+
+</article

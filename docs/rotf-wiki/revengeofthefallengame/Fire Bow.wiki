@@ -1,0 +1,4 @@
+# Fire Bow
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Fire%20Bow&prop=wikitext
+
+asdf

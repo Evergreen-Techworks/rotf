@@ -1,0 +1,120 @@
+# Scepters
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Scepters&prop=wikitext
+
+The scepter is the ability of the sorcerer. It causes damage to various enemies close to eachother
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = ScepterOfTheAncients.png
+| link = Scepter of the Ancients
+| text = Scepter of the Ancients
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = ScepterOfFulmination.png
+| link = Scepter of Fulmination
+| text = Scepter of Fulmination
+}}
+| {{ImageBlackLarge1
+| file = ScepterOfDevastation.png
+| link = Scepter of Devastation
+| text = Scepter of Devastation
+}}
+| {{ImageBlack
+| file = SoulScatter.png
+| link = Soul Scatter
+| text = Soul Scatter
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = CrystallizedScepter.png
+| link = Crystallized Scepter
+| text = Crystallized Scepter
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = HoneyScepter.png
+| link = Honey Scepter
+| text = Honey Scepter
+}}
+| {{ImageBlackLarge1
+| file = GrotesqueScepter.png
+| link = Grotesque Scepter
+| text = Grotesque Scepter
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Unique</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = ScepterOfTheEncounter.png
+| link = Scepter of the Encounter
+| text = Scepter of the Encounter
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = SolarisScepter.png
+| link = Solaris Scepter
+| text = Solaris Scepter
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = ScepterOfSkybolts.png
+| link = Scepter of Skybolts
+| text = Scepter of Skybolts
+}}
+| {{ImageBlackLarge1
+| file = Scepter of Storms.png
+| link = Scepter of Storms
+| text = Scepter of Storms
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = LightningScepter.png
+| link = Lightning Scepter
+| text = Lightning Scepter
+}}
+| {{ImageBlackLarge1
+| file = DischargeScepter.png
+| link = Discharge Scepter
+| text = Discharge Scepter
+}}
+| {{ImageBlackLarge1
+| file = ThunderclapScepter.png
+| link = Thunderclap Scepter
+| text = Thunderclap Scepter
+}}
+| {{ImageBlackLarge1
+| file = ArcblastScepter.png
+| link = Arcblast Scepter
+| text = Arcblast Scepter
+}}
+| {{ImageBlackLarge1
+| file = CloudflashScepter.png
+| link = Cloudflash Scepter
+| text = Cloudflash Scepter
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

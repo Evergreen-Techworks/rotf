@@ -1,0 +1,4 @@
+# Haunted Cemetery
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Haunted%20Cemetery&prop=wikitext
+
+asdf

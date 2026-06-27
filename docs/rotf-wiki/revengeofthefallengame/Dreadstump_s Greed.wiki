@@ -1,0 +1,4 @@
+# Dreadstump's Greed
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Dreadstump%27s%20Greed&prop=wikitext
+
+asdf

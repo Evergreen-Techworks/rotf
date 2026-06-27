@@ -1,0 +1,4 @@
+# Djinn
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Djinn&prop=wikitext
+
+asdf

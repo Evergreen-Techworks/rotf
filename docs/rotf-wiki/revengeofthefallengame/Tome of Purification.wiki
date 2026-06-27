@@ -1,0 +1,4 @@
+# Tome of Purification
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Tome%20of%20Purification&prop=wikitext
+
+asdf

@@ -1,0 +1,4 @@
+# Epic Snake Pit
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Epic%20Snake%20Pit&prop=wikitext
+
+#REDIRECT [[Stheno's Den]]

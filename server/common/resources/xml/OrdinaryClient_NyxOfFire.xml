@@ -1,0 +1,84 @@
+<Objects>
+  <!-- Ordinary Client - NYX OF FIRE (the 'Demon Lady'), a fire/demon REALM WORLD BOSS.
+       Reconstructed from the aced.gg dev blog (docs/video-recovery/aced_NyxOfFire.json, Shmitty/Miniguy):
+       signature mechanic = the EVIL PLAYER PHASE (she 'recruits' a player to fight FOR her — modelled here
+       as Confusion-applying 'recruitment' shots [proj1] that turn your controls against you, plus Evil
+       Thrall summons), a WORLD-TRANSFORMATION phase, and a CLONE that jumps in. No portal — she spawns in
+       the realm (rare). Placeholder sprites; reused projectiles. ids 0x8f20-0x8f22. -->
+  <Object type="0x8f20" id="Nyx of Fire">
+    <Group>Nyx of Fire</Group>
+    <DisplayId>Nyx of Fire, the Demon Lady</DisplayId>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>0</Index></AnimatedTexture>
+    <MaxHitPoints>200000</MaxHitPoints>
+    <Defense>55</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <PerRealmMax>1</PerRealmMax>
+    <Level>20</Level>
+    <Size>185</Size>
+    <XpMult>0.25</XpMult>
+    <!-- proj 0: fire bullet-hell -->
+    <Projectile id="0">
+      <ObjectId>Demon Blade</ObjectId>
+      <Speed>110</Speed>
+      <Damage>120</Damage>
+      <Size>120</Size>
+      <LifetimeMS>1300</LifetimeMS>
+      <ConditionEffect duration="2">Bleeding</ConditionEffect>
+    </Projectile>
+    <!-- proj 1: 'recruitment' shot — turns a player against the group (Confused) -->
+    <Projectile id="1">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>70</Speed>
+      <Damage>60</Damage>
+      <Size>140</Size>
+      <LifetimeMS>1600</LifetimeMS>
+      <ConditionEffect duration="4">Confused</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x8f21" id="Evil Thrall">
+    <Group>Nyx of Fire</Group>
+    <DisplayId>Evil Thrall</DisplayId>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>11</Index></AnimatedTexture>
+    <MaxHitPoints>5500</MaxHitPoints>
+    <Defense>15</Defense>
+    <Level>20</Level>
+    <Size>105</Size>
+    <XpMult>0.05</XpMult>
+    <Projectile id="0">
+      <ObjectId>Demon Blade</ObjectId>
+      <Speed>100</Speed>
+      <Damage>60</Damage>
+      <Size>90</Size>
+      <LifetimeMS>1000</LifetimeMS>
+      <ConditionEffect duration="2">Bleeding</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x8f22" id="Nyx Clone">
+    <Group>Nyx of Fire</Group>
+    <DisplayId>Nyx of Fire</DisplayId>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>0</Index></AnimatedTexture>
+    <MaxHitPoints>50000</MaxHitPoints>
+    <Defense>40</Defense>
+    <God/>
+    <StasisImmune/>
+    <Level>20</Level>
+    <Size>160</Size>
+    <XpMult>0.0</XpMult>
+    <!-- the clone's 'new pathing' = a tighter spiral pattern -->
+    <Projectile id="0">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>95</Speed>
+      <Damage>100</Damage>
+      <Size>110</Size>
+      <LifetimeMS>1400</LifetimeMS>
+    </Projectile>
+  </Object>
+</Objects>

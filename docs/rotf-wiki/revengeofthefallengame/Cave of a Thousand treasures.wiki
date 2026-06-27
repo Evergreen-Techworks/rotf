@@ -1,0 +1,6 @@
+# Cave of a Thousand treasures
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Cave%20of%20a%20Thousand%20treasures&prop=wikitext
+
+The Cave of a Thousand Treasures is a cave dropped by Djinn in Godlands
+
+It drops the blade of the fallen

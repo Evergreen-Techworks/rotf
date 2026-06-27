@@ -1,0 +1,4 @@
+# Bark of the Ent
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Bark%20of%20the%20Ent&prop=wikitext
+
+asdf

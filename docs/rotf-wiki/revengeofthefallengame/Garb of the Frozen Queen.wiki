@@ -1,0 +1,4 @@
+# Garb of the Frozen Queen
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Garb%20of%20the%20Frozen%20Queen&prop=wikitext
+
+asdf

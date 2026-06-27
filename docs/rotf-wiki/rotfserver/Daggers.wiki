@@ -1,0 +1,23 @@
+# Daggers
+# https://rotfserver.fandom.com/api.php?action=parse&page=Daggers&prop=wikitext
+
+'''Daggers''' are used by [[Rogue]]s, [[Assassin]]s and [[Trickster]]s.
+
+==Production {{PAGENAME}}==
+'''''For production {{PAGENAME}} please follow this [https://www.realmeye.com/wiki/daggers link].'''''
+
+==Custom {{PAGENAME}}==
+{|
+| {{ItemDisplay|Destructor Dagger|h}}
+| {{ItemDisplay|Dagger of Goddess of Goddesses|h}}
+| {{ItemDisplay|Firebreather's Tail|a}}
+| {{ItemDisplay|Shadowscale's Horn|a}}
+| {{ItemDisplay|Dagger of the Endless Void|l}}
+| {{ItemDisplay|PoOoOoOokkErrRr|l}}
+| {{ItemDisplay|Loki's Dagger|l}}
+| {{ItemDisplay|Claw of the Beast|p}}
+|}
+===Galactic {{PAGENAME}}===
+{|
+| {{ItemDisplay|Cometstrike Dirk|g}}
+|}

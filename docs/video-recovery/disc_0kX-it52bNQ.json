@@ -1,0 +1,13 @@
+{
+ "dungeon": "ROTF facecam stream (756 frames, ~15 entries) — LOW text yield (webcam covers the chat box). Biome catalog only: sandstone realm + a multicolor-checkered CANDY-style dungeon + purple dungeon + white-tiled vault/dungeon. GENUINE ROTF (channel-expansion video).",
+ "map": "DOCUMENTED-from-transitions: tan/SANDSTONE desert realm (overworld), a distinctive MULTICOLOR-CHECKERED tiled dungeon (purple/green/red/blue squares — Candyland-style), a PURPLE/dark dungeon with a boss, a WHITE-TILED vault/dungeon (orange chests/enemies). Facecam (bottom-left) obscures the chat box.",
+ "bosses": [
+  {"name":"(none recoverable — facecam covers chat)","phases":[],"attacks":["a white-bullet RING/nova arena seen in one f_ frame (boss not identified)"],"minions":[],"colorFlashes":"","taunts":[],"note":"No boss taunts/names recoverable — the streamer's webcam sits over the bottom-left chat box (same limitation as disc_Z8W1MO1Nv0I). One frame shows a circular white-bullet nova arena (unidentified boss)."}
+ ],
+ "minions": [],
+ "drops": ["an item tooltip seen (+25 Mana, +25 Max[HP?], +2 Att[ack]) — name not visible", "pet feeding ('Feed Power')"],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED (limited by facecam): a ~15-entry run across sandstone realm + a multicolor-checkered CANDY-style dungeon (Candyland-like) + a purple dungeon + a white-tiled vault/dungeon. Shop UI + pet-feeding seen. Player stat overlay ([LVL15], item tooltip +25 Mana/+25 Max/+2 Att). No event feed / boss taunts (chat obscured by webcam).",
+ "uncertain": "Chat box fully covered by the facecam -> no taunts/dungeon names/event feed recoverable. The multicolor-checkered dungeon = Candyland (base) or a ROTF candy dungeon, inferred from the candy-tile biome (no entry name). Item tooltip name not visible.",
+ "confidence": "LOW for content (facecam blocks chat). MEDIUM only for the biome catalog (sandstone realm + candy-checkered dungeon + purple dungeon + white-tiled vault). GENUINE ROTF. Low-yield facecam tag."
+}

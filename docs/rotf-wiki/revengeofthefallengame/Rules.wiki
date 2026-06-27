@@ -1,0 +1,25 @@
+# Rules
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Rules&prop=wikitext
+
+== The Rules ==
+* DO NOT RWT or gamble. 
+* DO NOT advertise non-ROTF content.
+* DO NOT post NSFW content.
+* DO NOT exploit bugs, glitches or hack.
+* DO NOT impersonate staff or other users.
+* DO NOT attempt to bait other players into breaking these rules.
+* DO NOT intentionally worsen a player's experience.
+* DO NOT use racist, homophobic, or otherwise offensive slurs.
+* DO NOT spam. (includes rapidly sending messages & repeating the same message)
+* DO NOT mic spam or use your microphone for other reasons than to <em>talk</em> through voice chat.
+* DO show common courtesy.
+* DO report bugs and glitches.
+* DO report users that break the rules.
+<em>'''These rules are subject to change without notice. They serve as fairly robust guidelines, but the Staff reserves the right to deny access to RotF, even if none of these rules have been broken.'''</em>
+
+'''<u>Extra</u>'''
+* Under NO circumstances will we EVER grant refund requests.
+* If you feel that a Staff member has not resolved your case justly, then you may wish to contact a higher-up.
+* Account sharing is OK but we provide NO support if you were to lose that account. If your pal gets your account banned or you get locked out of it, yell at them, not us.
+
+For more info: https://goo.gl/JQGrxs

@@ -1,0 +1,4 @@
+# Wind Circle
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Wind%20Circle&prop=wikitext
+
+asdf

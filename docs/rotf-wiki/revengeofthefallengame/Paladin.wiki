@@ -1,0 +1,4 @@
+# Paladin
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Paladin&prop=wikitext
+
+asdf

@@ -1,0 +1,4 @@
+# Orbs
+# https://rotfserver.fandom.com/api.php?action=parse&page=Orbs&prop=wikitext
+
+Orbs are items that can only be used by the [[Mystic]] Class. The orb can be used to Curse and in some cases Stasis an enemy. Different orbs and their tier determine the duration and ability.

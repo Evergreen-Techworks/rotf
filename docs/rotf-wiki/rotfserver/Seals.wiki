@@ -1,0 +1,4 @@
+# Seals
+# https://rotfserver.fandom.com/api.php?action=parse&page=Seals&prop=wikitext
+
+Seals are the special ability of the Paladin. It has the ability to give the Damaging and Healing buffs. Some other seals have different buffs.

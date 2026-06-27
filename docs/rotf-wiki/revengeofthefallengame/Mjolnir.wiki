@@ -1,0 +1,4 @@
+# Mjolnir
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Mjolnir&prop=wikitext
+
+asdf

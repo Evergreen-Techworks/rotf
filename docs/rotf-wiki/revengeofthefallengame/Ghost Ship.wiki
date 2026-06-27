@@ -1,0 +1,4 @@
+# Ghost Ship
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Ghost%20Ship&prop=wikitext
+
+asdf

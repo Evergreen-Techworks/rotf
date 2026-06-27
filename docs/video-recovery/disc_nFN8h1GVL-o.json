@@ -1,0 +1,26 @@
+{
+ "dungeon": "GENUINE ROTF/RotMG LOOT-GRIND multi-dungeon clip (3 entries, ~194s) through grey/STONE dungeons — heavy legendary-loot feed ('RuinedBow has looted a Legendary' x many) + Potion Dust. Boss arenas are grey hexagonal/circular stone rooms, but NO clean boss NAME or taunt was captured (chat is loot-feed-dominated; one partial boss-ish line only). Low-medium yield: dungeons/biomes + an unidentified grey-stone boss + a partial unattributed line.",
+ "map": "DOCUMENTED-from-transitions+bossends: 3 grey/STONE dungeons — grey square-tile rooms/corridors + a grey HEXAGONAL/OCTAGONAL arena with a red/pink GRID floor (the main boss arena, b003_45s) + a grey/brown CIRCULAR arena (b004_196s). Catacombs/labyrinth-style grey stone. No single room-sequence (multi-dungeon).",
+ "bosses": [
+  {
+   "name": "(unidentified grey-stone arena boss)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (bossend b003_45s) but APPROXIMATE: scattered WHITE/blue bullets across a grey hexagonal/octagonal arena (red-grid floor) -> spread/scattered, no clean single geometric pattern isolated."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "A boss fought in a grey HEXAGONAL stone arena (red-grid floor) with scattered white/blue bullets. NAME NOT captured (loot-feed-dominated chat; no boss-prefix line isolated) -> left UNIDENTIFIED (no guessing). The grey-hex arena superficially resembles the built Marble Colossus's room, BUT the bullets here are scattered white (not its clean blue ring) and no name confirms it -> NOT attributed to Marble Colossus. A partial line 'You will see the power of th[e...]' appears nearby but with NO clear speaker -> NOT attributed (and it matches a generic Fire-Elemental-type pattern)."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "RuinedBow has looted a Legendary [item] (repeated — legendary loot grind)",
+  "Potion (from a Potion Dust)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "(N/30) [boss] has been defeated (counter line, boss name not isolated)"
+ ],
+ "mechanics": "DOCUMENTED: a legendary-LOOT-GRIND multi-dungeon run through grey/stone dungeons. Heavy loot feed ('RuinedBow has looted a Legendary' repeated) + Potion Dust -> Potion. Boss = an UNIDENTIFIED grey-hexagonal-arena boss with scattered white/blue bullets (no name/taunt captured). A partial 'You will see the power of th[e...]' line is present but UNATTRIBUTED. No clean boss NAME -> nothing boss-buildable recovered. /30 event counter present.",
+ "uncertain": "NO clean boss NAME captured (loot-feed-dominated chat) -> grey-stone boss UNIDENTIFIED (not guessed; NOT assumed to be Marble Colossus despite the similar grey-hex arena, because the attack differs + no name). The partial 'You will see the power of...' line is UNATTRIBUTED (possible generic Fire-Elemental pattern). Attack geometry approximate (scattered/spread). Loot specifics (which legendaries) not isolated.",
+ "confidence": "LOW-MEDIUM. GENUINE ROTF/RotMG loot-grind clip. Concrete: 3 grey-stone dungeon arenas (incl. a grey-hex red-grid arena) + a legendary-loot-grind + Potion-Dust mechanic. NO boss NAME/taunt cleanly captured -> recorded as unidentified (no fabrication, NOT mis-attributed to Marble Colossus). Best follow-up: a clean single-boss clip of the grey-hex arena for the name + taunt + bullet geometry."
+}

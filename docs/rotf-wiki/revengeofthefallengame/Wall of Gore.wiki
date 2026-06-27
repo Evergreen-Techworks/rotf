@@ -1,0 +1,4 @@
+# Wall of Gore
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Wall%20of%20Gore&prop=wikitext
+
+asdf

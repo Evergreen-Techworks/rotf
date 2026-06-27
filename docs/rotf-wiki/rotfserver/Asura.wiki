@@ -1,0 +1,4 @@
+# Asura
+# https://rotfserver.fandom.com/api.php?action=parse&page=Asura&prop=wikitext
+
+{{ItemInfo|name = Asura|desc = tool long cba|rarity = l|slot = katana|tier = UT|minDmg = 125|maxDmg = 150|shots = 3|rof = 125|range2 = 5|fameb = 8|effects = yes|pierce = yes|multihit = yes|passthrough = yes|bonuses = {{Stat|spd|3}}|legendary = 4|dropsFrom = icy peaks}}

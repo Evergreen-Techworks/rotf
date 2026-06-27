@@ -1,0 +1,54 @@
+{
+ "dungeon": "GENUINE ROTF marathon / edited compilation (an 'ARCHER PPE' run that DIES — death screen 'Subscribe, Level 20 Archer, Killed on November 10, 2017 by [...] Sphere'; ends on a 'PREVIOUS / RANDOM / SUBSCRIBE IF YOU ENJOYED' end card). Chat is readable (facecam only appears over the OUTRO, not the gameplay). GOOD taunt yield: three named bosses with boss-coloured taunts — Void Entity (red, prominent + repeated), Twilight Archmage (orange), Malus (orange). Date Nov 10 2017 confirms ROTF era.",
+ "map": "DOCUMENTED-from-minimaps+transitions+f_frames: a multi-biome marathon. KEY arena = a CIRCULAR ORANGE/BROWN-bordered boss ROOM (minimap shows a solid orange disc with the player at centre) where Void Entity is fought — a single round arena, open centre, no interior choke points. Other areas traversed: a PINK/MAGENTA checkerboard-floor zone (a 'Crafting' popup seen there -> vault/crafting area), a PURPLE/BLUE VOID/SPACE zone with pink structures and dense bullet swarms, a dark grey-STONE dungeon with green tree/blob minions, a dark-RED/maroon bullet room, and the green GRASS REALM (outer hub). Because it is an edited marathon, room-to-room sequence is not continuous; arenas catalogued individually.",
+ "bosses": [
+  {
+   "name": "Void Entity",
+   "phases": ["multi-line enrage monologue during the fight; 'No... NO! THIS IS NOT THE END!' as a near-death / phase-flip line"],
+   "attacks": ["DOCUMENTED-from-frames (approx, cross-attributed in a marathon): in the circular orange arena — RED bullets in SWEEPING ARCS / curved waves (wave/sweeping class) layered over SCATTERED radial bullets; killer credited as '[...] Sphere' (a Void-sphere projectile). Reconstruct as a radial ring/nova + sweeping red wave, with a slow-orb ('Sphere') component."],
+   "minions": ["green blob/scatter minions fill the arena (add chaotic scattered fire)"],
+   "colorFlashes": "red",
+   "taunts": [
+    "No... NO! THIS IS NOT THE END!",
+    "You fools... You can never [truly defeat me]",
+    "I am the embodiment of your o[wn ...] ... yourselves!",
+    "Naivety! You really think you ha[ve ...] ... delayed. One day you shall be slain, and o[n ...]"
+   ],
+   "note": "DOCUMENTED-from-chat (red boss-coloured, line repeated many times across the fight -> high confidence on the STEMS; right-edge of the chat crop cuts each line, so [brackets] = unconfirmed completion). Void Entity was already a flagged build candidate; this gives its taunt set. Strong build candidate. Build with the verbatim stems and mark the bracketed tails reconstructed."
+  },
+  {
+   "name": "Twilight Archmage",
+   "phases": [],
+   "attacks": ["not cleanly captured separately (marathon cross-attribution) -> leave approximate"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "Your soul will fe[el ...]",
+    "Darkness overcome[s] stren[gth ...]",
+    "I... will... re[turn ...]"
+   ],
+   "note": "DOCUMENTED-from-chat (orange boss-coloured 'Twilight Archmage'). All three lines right-edge cut -> stems grounded, completions reconstructed. NEW ROTF-custom boss candidate (no prior spec). Name confirmed verbatim."
+  },
+  {
+   "name": "Malus",
+   "phases": [],
+   "attacks": ["not separately captured -> approximate"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "Even if you are victorious, that... that... [you] make an irredeemable mistake by defeating t[he ...]"
+   ],
+   "note": "DOCUMENTED-from-chat (orange boss-coloured 'Malus', single readable line, right-edge cut). NEW ROTF-custom boss candidate. One line only this tag -> needs a second source before build-ready verbatim."
+  }
+ ],
+ "minions": ["green blob/tree minions (grey-stone + circular arenas)"],
+ "drops": [
+  "Haunted Armor (dropped repeatedly; players in chat say 'ignore haunted armor' -> a common/low-value drop in this run)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Oryx the Mad God realm announcer line: 'Can't... keep... [my] henchmen [...]' (orange) -> base-game Oryx realm flavour, corroborates Oryx present"
+ ],
+ "mechanics": "DOCUMENTED: an edited ROTF marathon (Archer PPE that dies). NEW taunt sets for Void Entity (red; 4 distinct lines, heavily repeated -> reliable stems), Twilight Archmage (orange; 3 lines) and Malus (orange; 1 line) — all right-edge cut by the chat crop, so stems are grounded and bracketed tails reconstructed. Void Entity arena = a circular orange/brown room; killer credited as a '[...] Sphere' projectile (slow void-orb). Drop noise: Haunted Armor (common). Oryx realm announcer present. AMBIGUITY FLAG: green chat lines 'Helpless Souls - SAVE US!!!' / 'MY SOUL... IT BURNING' / 'The Forgotten Soul - Ha...' / 'IBurnYou: now?' are GREEN (player-chat colour) and several match player names already in the feed -> treated as player-name spam, NOT claimed as boss taunts.",
+ "uncertain": "Every boss taunt is right-edge CUT by the 224px chat crop (stems solid, completions in [brackets] reconstructed). Attacks are cross-attributed across a multi-dungeon marathon -> Void Entity's red-wave + scattered + 'Sphere' read is DOCUMENTED-approx, not isolated. Dungeon NAMES not captured on entry (no big entry-banner text legible) -> arenas described by layout/biome only. Malus has just one readable line here. 'Helpless Souls/The Forgotten Soul' green lines flagged as likely player-name spam, not bosses.",
+ "confidence": "MEDIUM-HIGH for the Void Entity taunt STEMS (red boss-coloured, repeated many times -> reliable) and MEDIUM for Twilight Archmage + Malus (orange boss-coloured, fewer repeats, all cut). GENUINE ROTF (Nov 2017 death screen). Net value: a taunt set for the previously taunt-less Void Entity build candidate + two NEW boss-name candidates (Twilight Archmage, Malus) for the auto-bridge; circular-arena map for Void Entity; attacks approximate. Best follow-up: a single-dungeon Void Entity clip to complete the cut line tails + isolate its attack geometry."
+}

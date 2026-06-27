@@ -1,0 +1,12 @@
+{
+    "id": 0,
+    "name": "Craig's Castle",
+    "sbName": "Craig's Castle",
+    "difficulty": 4,
+    "background": 0,
+    "blocking": 0,
+    "restrictTp": false,
+    "showDisplays": true,
+    "persist": false,
+    "portals": [ 33281 ]
+}

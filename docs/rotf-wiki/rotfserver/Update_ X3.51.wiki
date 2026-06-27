@@ -1,0 +1,16 @@
+# Update: X3.51
+# https://rotfserver.fandom.com/api.php?action=parse&page=Update%3A%20X3.51&prop=wikitext
+
+Patch X3.51!
+
+New:
+ Epic monsters will now drop EPIC dungeons, where all of the monsters in the dungeon will be EPIC.
+ More potion drops have been added to improve legion farming. Still a grind, though!
+ Accounts with 2FA enabled get doubled EXP gains.
+Bugfixes:
+ Various chat colors have been fixed.
+ Trading has been re-enabled.
+Updated:
+ 2FA is only required after 24h from the last login, or if you login at a new location.
+ All monsters can now be epic.
+ The final Necrop secret now drops the correct items.

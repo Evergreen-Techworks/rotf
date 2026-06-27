@@ -1,0 +1,11 @@
+{
+ "dungeon": "Epic Septavius the Ghost God fight (grey crypt arena) + galactic farming — 'Angel's Touch' stream",
+ "map": "DOCUMENTED: grey diagonal-walled MARBLE/CRYPT dungeon (Lost-Halls-style) with RED BLOOD/gore splatter zones = Septavius's arena. Also a vault screen, sandy + dark-purple transition areas.",
+ "bosses": [
+   {"name":"Epic Septavius the Ghost God (EPIC ENEMY variant)","phases":["summons minions","immortal -> vulnerable ('I cannot stay immortal forever')"],"attacks":["throws GRENADES ('How about a few grenades?!')","waves of deadly attacks","minion summons"],"minions":["ghost minions (Ghost Mage/Rogue/Warrior of Septavius, Septavius Summoner)"],"colorFlashes":"","taunts":["I... will... destroy you!","Hahaha! How about a few grenades?!","Enough! You shall not survive another wave of my deadly attacks!","I am weak... I cannot stay immortal forever!"],"note":"EPIC-tier variant (validates the D1 Epic Enemies system on a named boss). These are the COMPLETE/CORRECTED Septavius taunts — supersedes the clipped guesses in disc_B4dLdyMZkH0 ('few greater minions' was actually 'few grenades?!')."}
+ ],
+ "drops": ["Special Crate -> [Leg of Doom] (and other crate items)"],
+ "mechanics": "DOCUMENTED: confirms EPIC ENEMIES (D1) apply to named bosses — 'Epic Septavius the Ghost God'. CORRECTED/COMPLETED Septavius taunt set (grenades, 'another wave of my deadly attacks', 'cannot stay immortal forever' = the immortal->vulnerable phase). Galactic /30 counter ('<Hydra> The Pulse has been defeated! (8/30)'). Special Crate unboxing ('[player] just unboxed a Special Crate, obtaining a [Leg of Doom]'). Announcer persona: Hydra.",
+ "uncertain": "Some taunt tails still slightly clipped at the far right but materially complete. 'Leg of Doom' crate item name partly obscured.",
+ "confidence": "HIGH — Epic Septavius full taunts (verbatim, corrects prior spec) + Epic-Enemy validation on a boss + /30 counter; biome documented."
+}

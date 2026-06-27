@@ -1,0 +1,4 @@
+# Ghost God
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Ghost%20God&prop=wikitext
+
+asdf

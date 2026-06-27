@@ -1,0 +1,15 @@
+{
+ "dungeon": "ROTF facecam stream (565 frames, 4 entries) — login screen confirms ROTF. LOW text yield: the webcam overlay sits over the bottom-left chat box, obscuring most taunts. SKULL-shaped arena + green serpent dungeon notable.",
+ "source": "video disc_Z8W1MO1Nv0I (565 f_, 424 chat, 212 minimap, 4 transitions). Facecam content-creator stream. Contact sheet top-left = ROTF login/menu. 4 entries: t001 realm overworld -> t002 grey stone dungeon -> t003 SKULL-SHAPED grey arena (Skull Shrine / skull dungeon) -> t004 green grass dungeon (with a green serpentine bullet trail = a snake/serpent boss). CAVEAT: the streamer's webcam overlays the bottom-left chat box, so chat_*.png crops mostly show the face, not text -> only line-ENDINGS of taunts are legible.",
+ "bosses": [
+  {"name":"(Skull arena boss — Skull Shrine?)","phases":[],"attacks":["dense bullet-hell in a skull-outline arena"],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-frames: t003 is a SKULL-SHAPED grey stone arena (matches Skull Shrine event or a skull dungeon). Boss name not legible (facecam over chat)."},
+  {"name":"(green serpent dungeon boss)","phases":[],"attacks":["green serpentine bullet trail (snake/wave pattern) across a grass arena"],"minions":[],"colorFlashes":"green","taunts":[],"note":"DOCUMENTED-from-frames: t004 green dungeon shows a long green snake-like bullet trail (a serpent/wave-attack boss). Name not captured."},
+  {"name":"(unattributed taunt fragments — names obscured by facecam)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["...is your defeat!","...Warden will be very [pleased?]... [t]hat the grief has...","...[I'll] blow you away like..."],"note":"DOCUMENTED-from-chat but PARTIAL — the facecam cuts the start of each line so boss NAMES are missing. 'Warden'+'grief' fragment may be a 'Warden' boss; 'blow you away' suggests an air/wind boss."}
+ ],
+ "minions": [],
+ "drops": ["loot drops noted ('Just dropped!!' x2) — items not legible"],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED (limited by facecam): (1) ROTF confirmed (login screen). (2) 4-entry run: realm -> grey stone dungeon -> skull-shaped arena -> green serpent dungeon. (3) Boss taunt fragments exist but are unattributable (chat box obscured by webcam) — a 'Warden' boss (grief-themed) and an air/wind boss ('blow you away') are hinted. (4) 'Just dropped!!' loot lines.",
+ "uncertain": "MAJOR: the streamer's facecam overlays the bottom-left chat box, so almost all chat text (taunts, loot, event feed, dungeon names) is obscured — only line-endings legible. Boss names NOT recoverable from this tag. Skull arena = Skull Shrine inferred from the skull outline. The 'Warden'/'grief' and 'blow you away' taunt fragments are unattributed.",
+ "confidence": "LOW for verbatim taunts/boss names (facecam blocks chat). MEDIUM for the biome catalog (skull arena, green serpent dungeon) and that it's GENUINE ROTF. Flag: low-yield tag — webcam-obscured chat; not much actionable beyond the skull/serpent biome notes and taunt fragments."
+}

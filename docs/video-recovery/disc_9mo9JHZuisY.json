@@ -1,0 +1,11 @@
+{
+ "dungeon": "Long multi-dungeon ROTF stream (~59 dungeon entries via transition detection)",
+ "map": "DOCUMENTED biomes from transition frames: (1) a distinctive recurring PURPLE-floor / GOLD-&-YELLOW brick-wall temple in a PLUS/CROSS layout with a central altar chamber and magenta/pink accent borders [most-entered dungeon — UNIDENTIFIED; candidate for a ROTF-custom temple or Sprite-World variant]; (2) tan/sandy circular DOME arenas (recurring); (3) a RED LAVA boss arena with a central red creature; (4) blue-water dungeons with central structures; (5) brown treasure/vault rooms; (6) grey castle/keep interiors; (7) standard Realm grass/desert/beach biomes + godlands.",
+ "bosses": [
+   {"name":"(red lava-arena boss — unidentified)","phases":[],"attacks":[],"minions":[],"colorFlashes":"red/orange on lava","taunts":[],"note":"Central red creature in a red lava arena (transition t033/t034 ~2841-2963s). Not identified from chat."}
+ ],
+ "drops": [],
+ "mechanics": "DOCUMENTED player-economy/social chat (public stream, party of maxed 8/8 Priest/Paladin/Warrior/Wizard): trading active — '<gpogos> BUYING LIFE WITH FAME RN FEED ME' (Life potions bought with Fame). Other chatter: 'how do i change the window size havent played in a while', class/loot banter. Title screen 'REVENGE OF THE FALLEN' confirmed. NOTE: RotMG prints dungeon names as a center-screen overlay (not in chat), and this stream's chat is social, so exact entry NAMES were not recoverable from chat crops.",
+ "uncertain": "No boss taunts/drops captured (social chat, not kill-feed). The purple/gold plus-temple and red lava boss are UNIDENTIFIED — would need manual frame-by-frame on the name-overlay at each entry timestamp (transitions/ t### frames have the timestamps). None of the 59 entries clearly matched Craig's Castle / Gate to Underworld / Tomb of Decaying Death / Broken Forest / Showcase, but the purple/gold temple warrants a closer manual look.",
+ "confidence": "MEDIUM for biome inventory (DOCUMENTED visuals); LOW for naming (no chat entry-names, no taunts/drops). High-value RAW source: 59 transition entry-points preserved in transitions/ for targeted re-analysis."
+}

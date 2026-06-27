@@ -1,0 +1,163 @@
+# Staves
+# https://revenge-of-the-fallen-rotmg.fandom.com/api.php?action=parse&page=Staves&prop=wikitext
+
+This page includes both custom staves and old staves that have been edited from how they appear on the predicting RotMG server.
+{| class="article-table"
+!Staves
+!Damage 
+!Range
+!RoF
+!Shots
+!Stats
+!Pierce
+!Armor Pierce
+!Obstacle Pierce
+!Fame Bonus
+!Tier
+!Artifact/Primal Effect
+|-
+|Staff of the vital unity
+|65-110
+|8.91
+|
+|2
+|
+|
+|
+|
+|5%
+|T13
+|
+|-
+|Staff of the Fundamental Core
+|75-115
+|8.91
+|
+|2
+|
+|
+|
+|
+|6%
+|T14
+|
+|-
+|Starlight Crook
+|80-125
+|8.91
+|
+|2
+|
+|
+|
+|
+|6%
+|GL
+|
+|-
+|Sweet Sugar Rush Staff
+|90-138
+|6
+|125%
+|
+|
+|
+|
+|
+|2%
+|Unique
+|
+|-
+|Head of the Firebreather
+|40-70
+|9
+|120%
+|4
+|
+|
+|yes
+|
+|5%
+|Artifact
+|
+|-
+|Staff of Nature
+|65-140
+|9
+|120%
+|2
+|
+|
+|
+|
+|5%
+|Artifact
+|
+|-
+|Powerful Twig
+|90-270
+|9
+|50%
+|3
+|
+|
+|
+|
+|6%
+|Heroic
+|
+|-
+|Hela's Power
+|100-360
+|7
+|45%
+|5
+|<nowiki>+80mp</nowiki>
++12wis
+|yes
+|yes
+|yes
+|7%
+|Legendary
+|Curse
+|-
+|Gravedigger's Shovel
+|100-110
+|7
+|75%
+|5
+|<nowiki>-5def</nowiki>
++4spd
+|
+|
+|yes
+|6%
+|Legendary
+|Curse
+|-
+|Staff of Unholy Sacrifice
+|150-190
+|8.05
+|75%
+|4
+|
+|yes
+|
+|
+|6%
+|Legendary
+|Last Hope
+|-
+|Anatis Staff
+|80-100
+|7.5
+|25%
+|
+|
+|
+|
+|
+|2%
+|Legendary
+|Angel's Touch
+|}

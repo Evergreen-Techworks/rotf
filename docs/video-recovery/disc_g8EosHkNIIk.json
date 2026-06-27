@@ -1,0 +1,13 @@
+{
+ "dungeon": "Long multi-dungeon stream (early X1.x, ~103 entries) — incl. Ocean Trench + Oryx + Craig",
+ "map": "DOCUMENTED biomes/entries (~103 transitions): a confirmed 'Ocean Trench' entry screen (Thessal's dungeon), orange-brick dungeons, red caverns, purple/blue dungeons, a multi-color checkered grid dungeon, grey Lost-Halls-style dungeons, sandy areas, green realm. Reached Oryx's Castle (Oryx fight).",
+ "bosses": [
+   {"name":"Oryx the Mad God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["No... not this time you pathetic creatures!"],"note":"Final-boss fight reached; Death Notifier 'killed by Oryx the Mad God'."},
+   {"name":"Craig, The Worst Nightmare (Craig's Castle)","phases":["enrage"],"attacks":[],"minions":[],"colorFlashes":"","taunts":["NOOOOOOOOOOOO (death cry)"],"note":"THIRD independent confirmation of Craig's death cry — validates implemented BehaviorDb.Craig.cs."},
+   {"name":"Thessal the Mermaid Goddess (Ocean Trench)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"'Ocean Trench' dungeon entry screen confirmed (Thessal's dungeon visited); no Thessal taunt captured in sampled chat."}
+ ],
+ "drops": ["white bag(s)"],
+ "mechanics": "DOCUMENTED: POTION-TO-STORAGE on a maxed stat — 'You're already maxed. Potion of <Stat> has been sent to your storage' (maxed pots go to storage, not wasted). Oryx fuller taunt 'No... not this time you pathetic creatures!'. Craig death cry re-confirmed (3rd source). Ocean Trench (Thessal) entered. Standard login MOTD; early X1.x build. Twitch sub-goal overlay present. ~103 dungeon entries.",
+ "uncertain": "Did not capture Thessal/Ocean-Trench taunts (chat samples missed that segment). 103 entries not individually identified. Exact early version (X1.0.1 vs X1.8.1) blurry.",
+ "confidence": "MEDIUM — Oryx fuller taunt + potion-to-storage mechanic + Craig 3rd-confirm + Ocean Trench entry DOCUMENTED; biomes documented; no new no-footage dungeon."
+}

@@ -1,0 +1,4 @@
+# Claw of the Beast
+# https://rotfserver.fandom.com/api.php?action=parse&page=Claw%20of%20the%20Beast&prop=wikitext
+
+{{ItemInfo|name = Claw of the Beast|desc = A claw, freshly plucked from the forepaw of the Necropolis' werewolf.|rarity = p|slot = dagger|tier = UT|minDmg = 80|maxDmg = 111|shots = 3|rof = 150|range2 = 5.21|fameb = 10|effects = yes|pierce = yes|primal = bleed:<br/>9% chance upon hitting an enemy to deal "130" DPS over "12" seconds.(total:1500)<br/>Flesh Wounds:<br/>on hit, you have a 6% chance to slow enemies for 2 seconds|dropsFrom = drops from the necro doggo}}

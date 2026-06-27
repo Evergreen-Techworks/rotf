@@ -1,0 +1,58 @@
+{
+ "dungeon": "GENUINE ROTF realm/event run (grass realm hub; many event-boss spawns + dungeon openings: Abyss of Demons, Woodland Labyrinth, The Crawling Depths). Chat readable. HEADLINE: an UNCUT Craig, The Worst Nightmare taunt set that CORRECTS a long-flagged build uncertainty, plus Septavius the Ghost God lines and confirmation of the ROTF Nodestone->Rune system. Realm-grind, not a single dungeon — but high taunt yield.",
+ "map": "DOCUMENTED-from-frames: the green GRASS REALM hub (open island) where event bosses spawn and players open dungeon portals; a grey-STONE dungeon interior (the chk frame) and lava/orange combat pockets seen during fights. Realm-event layout (open hub + portal-opened side dungeons), not a single fixed dungeon. No bossends -> arena geometry not isolated.",
+ "bosses": [
+  {
+   "name": "Craig, The Worst Nightmare",
+   "phases": ["grows/enrages mid-fight ('INCREASING IN SIZE'); 'NOOOO' death cry"],
+   "attacks": ["not isolated here (realm run, no bossend) -> see built Craig the Mad Intern (paperwork shotguns + intern summons)"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "HAHAHA, I AM INCREASING IN SIZE SO I CAN DESTROY YOU EVEN MORE!!!",
+    "So if you don't want to say thanks to me, I might just have to kill you...",
+    "PREPARE TO DIE!!!",
+    "NOOOOOOOOOO"
+   ],
+   "note": "DOCUMENTED-from-chat (red 'Craig, the Worst Nightmare'), UNCUT this tag. = the built 'Craig the Mad Intern' (heritage rename). *** BUILD CORRECTION ***: the built taunt 'HAHAHA! I AM INCREASING IN STRENGTH!' was flagged VERIFIED-partial with 'IN STRENGTH!' an UNCONFIRMED completion (ending cut in all prior sources). This tag shows the FULL uncut line: 'HAHAHA, I AM INCREASING IN SIZE SO I CAN DESTROY YOU EVEN MORE!!!' -> 'STRENGTH' was a WRONG guess for 'SIZE', and the separately-built 'DESTROY YOU EVEN MORE!!!' is the SAME continuous line, not a second taunt. Also confirms the flagged still-missing line 'So if you don't want to say thanks to me, I might just have to kill you...'. 'PREPARE TO DIE!!!' already built+verified. -> VERIFY LOOP should CORRECT Craig.cs accordingly."
+  },
+  {
+   "name": "Septavius the Ghost God",
+   "phases": ["summons gnomes; weakens toward death ('I am weak... I cannot stay immortal')"],
+   "attacks": ["not isolated here -> see built Septavius"],
+   "minions": ["gnomes"],
+   "colorFlashes": "",
+   "taunts": [
+    "Hahaha! How about a few gnomes?",
+    "Enjoy! You shall not survive...",
+    "I am weak... I cannot stay immortal...",
+    "I am losing strength... I am dying"
+   ],
+   "note": "DOCUMENTED-from-chat (orange 'Septavius the Ghost God'). Already built; these CORROBORATE + give a fuller death-sequence ('I am weak... I cannot stay immortal...' -> 'I am losing strength... I am dying'). Verify vs the built Septavius taunts on its next verify turn."
+  },
+  {
+   "name": "Anubis",
+   "phases": [],
+   "attacks": [],
+   "minions": ["Pillars"],
+   "colorFlashes": "",
+   "taunts": ["Pillars... please help me!"],
+   "note": "DOCUMENTED-from-chat. Corroborates the built Anubis 'Pillars... please help me!' line (3rd+ independent sighting)."
+  }
+ ],
+ "minions": ["gnomes (Septavius)", "Pillars (Anubis)"],
+ "drops": [
+  "Mini Mobility Rune (from cracking a normal nodestone)",
+  "Potion of Wisdom (from the 'old dusty bottle' loot container)",
+  "Potion of Vitality (from the 'old dusty bottle')",
+  "Shield of Ogmur (Legendary)",
+  "Special Crate items (e.g. Cheater Robe?, partial reads)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Warbringer (spawned + defeated, /25 — corroborates the just-built Warbringer as a live realm event boss)",
+  "Lord of the Lost Lands, Hermit God, The Pulse, Mysterious Card, Cookie Monster, Mad Jester, Grand Sphinx, Asgard Guardian, Pentaract Tower Ultra (realm event feed)"
+ ],
+ "mechanics": "DOCUMENTED: a ROTF realm-event run. HEADLINE = a BUILD CORRECTION for Craig: the uncut line 'HAHAHA, I AM INCREASING IN SIZE SO I CAN DESTROY YOU EVEN MORE!!!' resolves the long-flagged 'IN STRENGTH!' uncertainty (it was a misread of 'IN SIZE...' + the 'DESTROY YOU EVEN MORE' fragment is the same line) and confirms the missing line 'So if you don't want to say thanks to me, I might just have to kill you...'. Also CONFIRMS the ROTF NODESTONE->RUNE system ('cracked a normal nodestone! Obtaining a [Mini Mobility Rune]') and the 'old dusty bottle' loot-container -> stat-potion mechanic. Septavius the Ghost God + Anubis taunts corroborated. The just-built WARBRINGER appears as a live realm event boss (spawned + defeated), validating that build. Many base/event bosses in the feed.",
+ "uncertain": "Realm run -> boss ATTACK geometry not isolated (no bossends). Craig's 'NOOOOOOOOOO' death-cry exclamation length approximate. Some Special Crate item names partial. The exact HP-threshold for Craig's 'INCREASING IN SIZE' growth not measured. Septavius lines should be cross-checked vs the built Septavius before any edit.",
+ "confidence": "HIGH for the chat taunts (red/orange boss-coloured, clearly read): the UNCUT Craig line is the key result and directly CORRECTS the build (overturns the unconfirmed 'IN STRENGTH!' completion). HIGH for the Nodestone->Rune mechanic confirmation + Warbringer-as-realm-boss validation. GENUINE ROTF. Net value: a concrete Craig build correction + a new grounded Craig line + Septavius death-sequence + Anubis corroboration + custom-mechanic confirmation. Best follow-up: VERIFY LOOP should apply the Craig.cs correction (IN STRENGTH -> IN SIZE SO I CAN DESTROY YOU EVEN MORE, merge the two fragments)."
+}

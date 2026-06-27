@@ -1,0 +1,4 @@
+# Sadamune
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Sadamune&prop=wikitext
+
+asdf

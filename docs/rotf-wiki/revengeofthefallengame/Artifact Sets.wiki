@@ -1,0 +1,511 @@
+# Artifact Sets
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Artifact%20Sets&prop=wikitext
+
+Whenever you equip a complete Artifact set you increase all your stats by 5 and your hp and mp by 50. There are a total of 21 artifact sets:
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Sets</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Dragon Tamer</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = Indomptable.png
+| link = Indomptable
+| text = Indomptable
+}}
+| {{ImageBlackLarge2
+| file = HelmOfDraconicDominance.png
+| link = Helm of Draconic Dominance
+| text = Helm of Draconic Dominance
+}}
+|{{ImageBlackLarge1
+| file = ZaarvoxsHeart.png
+| link = Zaarvox’s Heart
+| text = Zaarvox’s Heart
+}}
+|{{ImageBlackLarge1
+| file = AmuletOfDrakefyre.png
+| link = Amulet of Drakefyre
+| text = Amulet of Drakefyre
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Flesh Collector</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = SymbioticRipper.png
+| link = Symbiotic Ripper
+| text = Symbiotic Ripper
+}}
+| {{ImageBlackLarge1
+| file = ParasiticConcoction.png
+| link = Parasitic Concoction
+| text = Parasitic Concoction
+}}
+|{{ImageBlackLarge1
+| file = RagsOfTheHost.png
+| link = Rags of the Host
+| text = Rags of the Host
+}}
+|{{ImageBlackLarge1
+| file = HivemindCirclet.png
+| link = Hivemind Circlet
+| text = Hivemind Circlet
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Hollow King</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = EdictumPraetoris.png
+| link = Edictum Praetoris
+| text = Edictum Praetoris
+}}
+| {{ImageBlack
+| file = MementoMori.png
+| link = Memento Mori
+| text = Memento Mori
+}}
+|{{ImageBlack
+| file = TogaPicta.png
+| link = Toga Picta
+| text = Toga Picta
+}}
+|{{ImageBlack
+| file = Interregnum.png
+| link = Interregnum
+| text = Interregnum
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Horrific Sorcerer</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = AbominationsWrath.png
+| link = Abomination’s Wrath
+| text = Abomination’s Wrath
+}}
+| {{ImageBlackLarge1
+| file = GrotesqueScepter.png
+| link = Grotesque Scepter
+| text = Grotesque Scepter
+}}
+|{{ImageBlackLarge1
+| file = GarmentOfTheBeast.png
+| link = Garment of the Beast
+| text = Garment of the Beast
+}}
+|{{ImageBlack
+| file = HorrificClaws.png
+| link = Horrific Claws
+| text = Horrific Claws
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Lost Golem</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = CarvedGolemRemains.png
+| link = Carved Golem Remains
+| text = Carved Golem Remains
+}}
+| {{ImageBlackLarge1
+| file = BrainOfTheGolems.png
+| link = Brain of the Golems
+| text = Brain of the Golems
+}}
+|{{ImageBlackLarge1
+| file = GolemGarments.png
+| link = Golem Garments
+| text = Golem Garments
+}}
+|{{ImageBlack
+| file = RustyCuffs.png
+| link = Rusty Cuffs
+| text = Rusty Cuffs
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Phylactery Mystic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = ThePhylactery.png
+| link = The Phylactery
+| text = The Phylactery
+}}
+| {{ImageBlackLarge1
+| file = SoulOfTheBearer.png
+| link = Soul of the Bearer
+| text = Soul of the Bearer
+}}
+|{{ImageBlackLarge1
+| file = TheSoullessRobe.png
+| link = The Soulless Robe
+| text = The Soulless Robe
+}}
+|{{ImageBlackLarge1
+| file = RingOfTheCovetousHeart.png
+| link = Ring of the Covetous Heart
+| text = Ring of the Covetous Heart
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Priest of Geb</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = WandOfGeb.png
+| link = Wand of Geb
+| text = Wand of Geb
+}}
+| {{ImageBlack
+| file = BookOfGeb.png
+| link = Book of Geb
+| text = Book of Geb
+}}
+|{{ImageBlack
+| file = ShendytOfGeb.png
+| link = Shendyt of Geb
+| text = Shendyt of Geb
+}}
+|{{ImageBlackLarge1
+| file = GebsRingOfWisdom.png
+| link = Geb's Ring of Wisdom
+| text = Geb's Ring of Wisdom
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Skuld 2 The ReGhostening</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = EtheriteDagger.png
+| link = Etherite Dagger
+| text = Etherite Dagger
+}}
+| {{ImageBlack
+| file = GhastlyDrape.png
+| link = Ghastly Drape
+| text = Ghastly Drape
+}}
+|{{ImageBlack
+| file = MantleOfSkuld.png
+| link = Mantle of Skuld
+| text = Mantle of Skuld
+}}
+|{{ImageBlackLarge1
+| file = SpectralRingOfHorrors.png
+| link = Spectral Ring of Horrors
+| text = Spectral Ring of Horrors
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Swarming Huntress</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = NectarCrossfire.png
+| link = Nectar Crossfire
+| text = Nectar Crossfire
+}}
+| {{ImageBlackLarge1
+| file = HoneytombSnare.png
+| link = Honeytomb Snare
+| text = Honeytomb Snare
+}}
+|{{ImageBlack
+| file = ApiaryArmor.png
+| link = Apiary Armor
+| text = Apiary Armor
+}}
+|{{ImageBlack
+| file = HoneyCirclet.png
+| link = Honey Circlet
+| text = Honey Circlet
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Swoll Paladin</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge2
+| file = PixieEnchantedSword.png
+| link = Pixie-Enchanted Sword
+| text = Pixie-Enchanted Sword
+}}
+| {{ImageBlackLarge2
+| file = SealOfTheEnchantedForest.png
+| link = Seal of the Enchanted Forest
+| text = Seal of the Enchanted Forest
+}}
+|{{ImageBlack
+| file = FairyPlate.png
+| link = Fairy Plate
+| text = Fairy Plate
+}}
+|{{ImageBlackLarge1
+| file = RingOfPureWishes.png
+| link = Ring of Pure Wishes
+| text = Ring of Pure Wishes
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Twilight Archmage</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = SentientStaff.png
+| link = Sentient Staff
+| text = Sentient Staff
+}}
+|{{ImageBlackLarge1
+| file = AncientSpellPierce.png
+| link = Ancient Spell: Pierce
+| text = Ancient Spell: Pierce
+}}
+|{{ImageBlackLarge1
+| file = TheRobeOfTwilight.png
+| link = The Robe of Twilight
+| text = The Robe of Twilight
+}}
+|{{ImageBlackLarge1
+| file = TheForgottenRing.png
+| link = The Forgotten Ring
+| text = The Forgotten Ring
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">River Priest</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = TheWingedWand.png
+| link = The Winged Wand
+| text = The Winged Wand
+}}
+| {{ImageBlackLarge2
+| file = BookOfTheRejuvenatingRiver.png
+| link = Book of the Rejuvenating River
+| text = Book of the Rejuvenating River
+}}
+|{{ImageBlack
+| file = TheRiverRobe.png
+| link = The River Robe
+| text = The River Robe
+}}
+|{{ImageBlackLarge1
+| file = WaterFromTheRiver.png
+| link = Water from the River
+| text = Water from the River
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Fire Wizard</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = HeadOfTheFirebreather.png
+| link = Head of the Firebreather
+| text = Head of the Firebreather
+}}
+|{{ImageBlackLarge1
+| file = The Searing Shower.png
+| link = The Searing Shower
+| text = The Searing Shower
+}}
+|{{ImageBlackLarge2
+| file = TheIncombustibleRobe.png
+| link = The Incombustible Robe
+| text = The Incombustible Robe
+}}
+|{{ImageBlackLarge1
+| file = FlamesInAbottle.png
+| link = Flames in a bottle
+| text = Flames in a bottle
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Nature Magician</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = StaffOfNature.png
+| link = Staff of Nature
+| text = Staff of Nature
+}}
+|{{ImageBlackLarge1
+| file = Spell Full of Nature.png
+| link = Spell Full of Nature
+| text = Spell Full of Nature
+}}
+|{{ImageBlackLarge2
+| file = RobeOfTheNatureGoddess.png
+| link = Robe of the Nature Goddess
+| text = Robe of the Nature Goddess
+}}
+|{{ImageBlackLarge2
+| file = RingOfTheNatureGoddess.png
+| link = Ring of the Nature Goddess
+| text = Ring of the Nature Goddess
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Dragon Blood Assassin</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = FirebreathersTail.png
+| link = Firebreather's Tail
+| text = Firebreather's Tail
+}}
+| {{ImageBlackLarge1
+| file = TheSearingBlood.png
+| link = The Searing Blood
+| text = The Searing Blood
+}}
+|{{ImageBlackLarge1
+| file = TheScorchedArmor.png
+| link = The Scorched Armor
+| text = The Scorched Armor
+}}
+|{{ImageBlackLarge1
+| file = EyesOfTheFirebreather.png
+| link = Eyes of the Firebreather
+| text = Eyes of the Firebreather
+}}
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Forest ranger</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = WoodenElegance.png
+| link = Wooden Elegance
+| text = Wooden Elegance
+}}
+|{{ImageBlack
+| file = TheSplitArrow.png
+| link = The Split Arrow
+| text = The Split Arrow
+}}
+|{{ImageBlackLarge1
+| file = ChampionsAttire.png
+| link = Champion's Attire
+| text = Champion's Attire
+}}
+|{{ImageBlack
+| file = PracticeTarget.png
+| link = Practice Target
+| text = Practice Target
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Shadow Thief</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = ShadowscalesHorn.png
+| link = Shadowscale's Horn
+| text = Shadowscale's Horn
+}}
+| {{ImageBlack
+| file = ShadowScales.png
+| link = Shadow Scales
+| text = Shadow Scales
+}}
+|{{ImageBlackLarge1
+| file = TheHiddenArmor.png
+| link = The Hidden Armor
+| text = The Hidden Armor
+}}
+|{{ImageBlack
+| file = WingNecklace.png
+| link = Wing Necklace
+| text = Wing Necklace
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Forest ninja</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = BrokenBranch.png
+| link = Broken Branch
+| text = Broken Branch
+}}
+| {{ImageBlackLarge1
+| file = TreesmashersTail.png
+| link = Treesmasher's Tail
+| text = Treesmasher's Tail
+}}
+|{{ImageBlackLarge1
+| file = TheRelentlessArmor.png
+| link = The Relentless Armor
+| text = The Relentless Armor
+}}
+|{{ImageBlackLarge1
+| file = SpikesOfTheTreesmasher.png
+| link = Spikes of the Treesmasher
+| text = Spikes of the Treesmasher
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Almandine Protector</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = SwordOfTheMadGod.png
+| link = Sword of the Mad God
+| text = Sword of the Mad God
+}}
+| {{ImageBlackLarge1
+| file = OnyxShieldOftheMadGod.png
+| link = Onyx Shield of the Mad God
+| text = Onyx Shield of the Mad God
+}}
+|{{ImageBlackLarge1
+| file = AlmandineArmorOfAnger.png
+| link = Almandine Armor of Anger
+| text = Almandine Armor of Anger
+}}
+|{{ImageBlackLarge1
+| file = AlmandineRingOfWrath.png
+| link = Almandine Ring of Wrath
+| text = Almandine Ring of Wrath
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Tidal Defender</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = TheSeaweedSword.png
+| link = The Seaweed Sword
+| text = The Seaweed Sword
+}}
+| {{ImageBlackLarge1
+| file = HeadOfTheRiverborn.png
+| link = Head of the Riverborn
+| text = Head of the Riverborn
+}}
+|{{ImageBlackLarge1
+| file = TheDrenchedArmor.png
+| link = The Drenched Armor
+| text = The Drenched Armor
+}}
+|{{ImageBlackLarge1
+| file = TailOfTheRiverborn.png
+| link = Tail Of The Riverborn
+| text = Tail Of The Riverborn
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Dark Swordsman</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = ShadowboneSword.png
+| link = Shadowbone Sword
+| text = Shadowbone Sword
+}}
+| {{ImageBlackLarge1
+| file = ShadowscalesSkull.png
+| link = Shadowscale's Skull
+| text = Shadowscale's Skull
+}}
+|{{ImageBlackLarge2
+| file = TheScavengersAttire.png
+| link = The Scavenger's Attire
+| text = The Scavenger's Attire
+}}
+|{{ImageBlack
+| file = Candlestick.png
+| link = Candlestick
+| text = Candlestick
+}}
+|}
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

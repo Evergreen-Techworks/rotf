@@ -1,0 +1,14 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM ~18 entries) ROTF — more D3 Spaceship dialogue + RI Yeti event boss + diverse dungeons",
+ "source": "video disc_mnxP85v4SSY (622 frames, 54 transitions = ~18 entries, 466 chat). Diverse dungeon biomes; chat captured galactic-zone Spaceship dialogue, event bosses, and stat-pot feed.",
+ "map": "DOCUMENTED biomes: green grass realm, blue ICE/WATER dungeons, grey CASTLE STONE, ORANGE/BROWN-BRICK dungeons, tan DESERT, dark PURPLE galactic STARFIELD zone (where the Spaceship dialogue plays), a brown room with a white-diamond pattern, and a RED DRAGON-like boss fight.",
+ "bosses": [
+  {"name":"RI Yeti","phases":[],"attacks":[],"minions":[],"colorFlashes":"icy","taunts":[],"note":"DOCUMENTED from feed (x2): '<Dragon>/<Chimera> RI Yeti has just spawned!'. An ICE YETI boss — likely the ICY PEAKS region boss/mascot (matches the blue horned yeti/ice-demon on the 'RotF: The Icy Peaks' title card, disc_LMJhrbhZCjg). 'RI' prefix = Royal/Icy? unclear."}
+ ],
+ "minions": [],
+ "drops": ["Silk Robe (unboxed)"],
+ "event_bosses_seen_in_global_feed": ["RI Yeti (just spawned)","Pentaract Tower Ultra"],
+ "mechanics": "DOCUMENTED: (1) D3 GALACTIC SPACESHIP dialogue continues — '<Spaceship> Systems back online.' (plays in a purple STARFIELD zone). Combined with '<Spaceship> Initiating startup sequence.' (disc_koXrDxguF7o) + Fuel extraction (disc_Kei9ksQxGl4), the spaceship has a launch dialogue arc: fuel -> 'Initiating startup sequence' -> 'Systems back online' -> arrive in the galactic/starfield zone. (2) STAT-POTS on this X3.5 build use VANILLA names with caps: 'Potion of Speed consumed. 35 left to max.' / 'Potion of Life consumed. 88 left to max.' (reconfirms build-dependent naming — NOT the fruit names). Client banner X3.5.",
+ "uncertain": "RI Yeti's attacks/HP/dungeon not isolated (only spawn announcement). The red-dragon boss not named in captured chat. 'RI' prefix meaning unconfirmed. What Fuel is extracted from still unknown.",
+ "confidence": "HIGH for: the Spaceship 'Systems back online' line (D3), the RI Yeti ice-boss event, and the vanilla stat-pot naming on X3.5. MEDIUM for RI-Yeti=Icy-Peaks-boss link; LOW for biome->dungeon mapping."
+}

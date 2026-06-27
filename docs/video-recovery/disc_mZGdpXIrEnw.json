@@ -1,0 +1,21 @@
+{
+ "dungeon": "GENUINE ROTF/RotMG multi-dungeon run (~600s, 9 entries; green/lava/vault biomes) with a KEYBOARD-CONTROLS overlay (TAB/QWER/ASDF) covering the bottom-left chat. KEY find: a PUPPET-CONTROLLER boss with NEW taunts that ENRICH the just-built The Puppet Master (0x8fde) — 'Awaken my dear puppet. Fear its blades!', 'How dare you destroy my prized puppet?', 'You shall pay for it with your life!'. Speaker NAME overlay-obscured -> attributed by the locked puppet-controller theme (flagged inference).",
+ "map": "DOCUMENTED-from-transitions+f_frames: a 9-entry multi-dungeon hop — dark SPACE/VOID, GREEN forest/grass realm, a RED/LAVA arena, white VAULT/item-grid rooms, + character-select. The puppet boss fight is in one of these arenas. No bossends -> arenas catalogued, no single room-sequence.",
+ "bosses": [
+  {
+   "name": "The Puppet Master (puppet-controller; speaker overlay-obscured -> inferred)",
+   "phases": ["summons blade PUPPETS ('Awaken my dear puppet. Fear its blades!'); enrages when a puppet is destroyed ('How dare you destroy my prized puppet?' / 'You shall pay for it with your life!')"],
+   "attacks": ["not traced (no bossends; keyboard overlay) -> summon-only mechanic documented (blade Puppet minions), bullet geometry unknown"],
+   "minions": ["Puppet (blade-wielding; feed shows '[player] ... killed by [...]'s Puppet'; 'Puppet' inventory items present)"],
+   "colorFlashes": "",
+   "taunts": ["Awaken my dear puppet. Fear its blades!", "How dare you destroy my prized puppet?", "You shall pay for it with your life!"],
+   "note": "DOCUMENTED-from-chat (puppet-controller theme), but the SPEAKER NAME is covered by the keyboard-controls overlay (bottom-left) -> attribution to THE PUPPET MASTER is INFERRED from the locked theme ('my dear puppet', 'my prized puppet', blade puppets) + consistency with the just-built Puppet Master (0x8fde, disc_IBEp1CbA00Q) and its Oryx Puppet minion (disc_LJzfb9Y4ok0). These are NEW lines (not in the built 5). FLAG DEV/VERIFY: enrich the built Puppet Master with these 3 once a clean speaker-prefix frame confirms; the summon line confirms a blade-PUPPET minion mechanic (not yet built)."
+  }
+ ],
+ "minions": ["Puppet (blade-wielding minion of the Puppet Master)"],
+ "drops": ["'Puppet'-prefixed inventory items (names not fully isolated)"],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: a PUPPET-CONTROLLER boss (inferred The Puppet Master) that SUMMONS blade PUPPETS ('Awaken my dear puppet. Fear its blades!') and ENRAGES on their death ('How dare you destroy my prized puppet?' / 'You shall pay for it with your life!'). Feed shows a player 'killed by [...]'s Puppet' (the puppet minions are lethal) + 'Puppet'-named inventory items. CONFIRMS + extends the built Puppet Master (puppet/henchmen theme): adds a SUMMON line + puppet-death enrage lines + the blade-Puppet minion mechanic. Keyboard-controls overlay covers the chat-left -> speaker names not directly readable.",
+ "uncertain": "SPEAKER NAME overlay-obscured -> attribution to 'The Puppet Master' is INFERRED (theme-locked + consistent with the built boss), NOT directly read. Taunt WORDING is from the readable (overlay-clear) right portion -> high-confidence but not prefix-confirmed. Which exact dungeon/arena (green/lava) hosts the fight is unconfirmed. No bossends -> attack geometry unknown (summon-only documented). 'Puppet' item names not isolated.",
+ "confidence": "MEDIUM-HIGH for the puppet-controller TAUNTS (3 clear new lines, theme-locked) + the blade-PUPPET minion mechanic. MEDIUM for the Puppet-Master attribution (INFERRED — speaker prefix overlay-covered; but the theme + the just-built Puppet Master make it the obvious owner). GENUINE ROTF. Net value: ENRICHES the built Puppet Master (0x8fde) with a summon line + 2 puppet-death enrage lines + confirms a blade-Puppet minion to add. Best follow-up (DEV/VERIFY): confirm the speaker prefix on a non-overlay frame, then enrich the Puppet Master + add the Puppet minion entity."
+}

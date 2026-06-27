@@ -1,0 +1,13 @@
+{
+ "dungeon": "Oryx 3 (mixed gameplay session)",
+ "map": "Mixed session: 'play' menu, green realm/godlands, gray dungeon rooms, a gold/yellow room, blue/water, purple areas, and a dark Oryx-castle-style chamber. Not a single clean O3 run.",
+ "bosses": [
+   {"name":"Septavius the Ghost God (Undead Lair boss)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Hahaha!","(threat line, cut off)"]},
+   {"name":"Megamad Oryx (Oryx 3 — already in imported data)","phases":[],"attacks":[],"minions":["Megamad Oryx Stone Guardians, Brute, TaskMaster (from imported data)"],"colorFlashes":"","taunts":[]}
+ ],
+ "minions": [],
+ "drops": ["Sword of Oryx (wiki — Oryx 3 drop)","crate items (various)"],
+ "mechanics": "Stat potions (Mana/Vitality/Speed) consumed with 'N left to max' counters; Special Crate opening; XP/loot BOOST buffs ('You have a 1.5x ... boost active' / 'no XP boost active'); Shadowscale realm event spawn; player trading (Stars currency).",
+ "uncertain": "Mostly a general session, not a dedicated O3 chamber run; Oryx-specific taunts/phases not isolated. Septavius taunt ('Hahaha!') is verbatim (belongs to Undead Lair).",
+ "confidence": "MEDIUM — Septavius taunt + the boost/potion/crate/trade mechanics DOCUMENTED; Oryx 3 boss = Megamad Oryx (in imported data); Sword of Oryx drop from wiki."
+}

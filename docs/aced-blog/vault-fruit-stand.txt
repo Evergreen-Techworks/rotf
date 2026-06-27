@@ -1,0 +1,72 @@
+entry-content">
+
+ Welcome everyone! It is me, Quaximi, here with another blog post. Today, I’m bringing you an overview of the new Vault, a rather important part of RotF’s core game, which was missing during our first phase of closed testing. 
+
+ chests, chests, chests, chests… 
+
+ Vaults are back! 
+
+ The Vault has been revamped to match the theme (and lore) of the new Nexus. In terms of function, however, it has remained mostly unchanged. As with legacy, you’ll have a limited number of storage slots available (up to 84 Vault chests, at the moment), which you’ll unlock over time. 
+
+ good loot in there 😉 
+
+ Gift chests no longer occupy a permanent space in the Vault. They are gone (reduced to atoms). Instead, whenever you get a gift — whether it’s from the market or another source — a chest will appear near the spawn of the vault. Notably, receiving gifts will no longer require you to re-join the world! 
+
+ In addition to the chests, I want to highlight two other points of interest in the new Vault: the Fruit Stand and the Practice Grounds. 
+
+ The Practice Grounds 
+
+ The Practice Grounds are essentially a small testing area where you’ll be able to quickly switch between builds, and test them without needing to continuously move between worlds. 
+
+ blooooom… 
+
+ The Practice Grounds currently includes a Practice Dummy and a Runic Orb. The Practice Dummy is meant to allow you to quickly test DPS and build efficacy, though he doesn’t display stats (yet). And the Runic Orb will provide quick access to the Rune/Skill Tree. The scope of the Practice Grounds will grow as we finish more of our planned progression systems (like the subclass system/class skill trees), but this is a fine start! 
+
+ The Fruit Stand 
+
+ If you played during our first closed testing period (or watched others play), you may have noticed that there’s a new way to max your character: stat fruit! As a result, the Potion Storage is closing down shop (since we no longer have stat potions), and we’re opening the Fruit Stand for business. 
+
+ in order: Health Strawberry, Mana Blueberry, Attack Blackberry, Defense Coconut, Speed Kiwi, Dexterity Pepper, Vitality Pomegranate, Wisdom Elderberry, Haste Orange 
+
+ The Fruit Stand is at the bottom of the map, just below the spawning area. There you’ll meet the Vaultkeeper, Cherry. Talk to her, and you can retrieve (and munch on) the fruit you’ve collected over your various adventures in the realm. 
+
+ 🙂 all of these fruits were collected in a legit manner 🙂 
+
+ Admittedly, the Fruit Stand and the Potion Storage are functionally identical, so we won’t restate what we’ve already shown with respect to function. But unlike the legacy Potion Storage, which was represented by a single sprite, the Fruit Stand fills up visually as you collect more fruit. 
+
+ some variations showing what the fruit stand could look like 
+
+ As always, everything in this post is WIP and will most likely undergo some changes, but for now that’s all we have to show. If you have any feedback, feel free to share it with us. We’re always happy to listen—and stay tuned for more updates to come! 
+
+ Thank you for reading, and as always, check the post in 10 minutes for a chance to grab a key. I will now quack off. 🙂 
+
+ Closed Testing Keys 
+
+ RCO [1] -EM [2] 7-I [3] D6- [4] RJW 
+
+ The first letter of the stat that Pomegranates grant on consumption. The first letter of the name of the Vaultkeeper NPC. The first letter of the consumables that grant stats (not potions). The first letter of the stat that Yellow Peppers grant on consumption. 
+
+ [1] 724-611 [2] -V [3] EN-YP [4] L 
+
+ The last letter of the alphabet. The first letter of the world type that holds all of the biomes in rotf. The first letter of the green colored rune type. The first letter of the stat that Elderberries grant on consumption. 
+
+ P0 [1] H-R [2] IX- [3] XTD-F [4] JN 
+
+ The letter of the vitamin that you might get from consuming a Haste Orange. The first letter of the fruit that grants speed on consumption. The first letter of the fruit that grants vitality on consumption. we’re out of ideas. it’s W 
+
+ Use at https://rotf.io/register . Good luck! 
+ Share this: Twitter Facebook Like this: Like Loading... 
+
+ Related 
+
+ Tagged aced games aced.gg animations closed testing fruit haste loot potion storage revenge of the fallen rotf rotf.io storage vault 
+
+ Published by Quaximi 
+
+ A lead designer here at ACED. :) 
+ View all posts by Quaximi 
+
+ Published 
+ March 21, 2021 March 21, 2021 
+
+</article

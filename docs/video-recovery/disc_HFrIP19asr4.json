@@ -1,0 +1,9 @@
+{
+ "dungeon": "(none — pet-yard/vault clip) — confirms Galactic Spaceship dialogue + potion-storage",
+ "map": "Green-grass yard / vault area with a brown-tiled panel showing a grid of colorful PETS (pet collection/yard UI).",
+ "bosses": [],
+ "drops": [],
+ "mechanics": "DOCUMENTED (D3-relevant): the GALACTIC SPACESHIP dialogue re-confirmed for the BASE 'Spaceship' (not only the 'Spooky Spaceship' Halloween variant) — '<Spaceship> Controller devices enabled.' (NEW line) / 'Initiating startup sequence.' / 'See you, master.' (boot + shutdown). POTION-TO-STORAGE reconfirmed: '<Server> Life potion sent to potion storage.' (maxed/excess Life pots auto-routed to potion storage). Pet-yard/collection view (grid of colorful pets).",
+ "uncertain": "No dungeon/boss/combat. The colorful grid = pets (pet yard) vs a galactic UI is slightly ambiguous; chat clearly shows the Spaceship boot/shutdown lines.",
+ "confidence": "MEDIUM — Spaceship dialogue (base ship, +'Controller devices enabled') + potion-to-storage DOCUMENTED (feeds D3); no dungeon."
+}

@@ -1,0 +1,14 @@
+{
+ "dungeon": "(VALOX multi-dungeon stream) ROTF — Pulse boss taunt (cryptic/eldritch event boss)",
+ "source": "video disc_SlVLi0h14UQ (219 frames, 0 transitions, 55 chat; VALOX channel). Diverse dungeons (dark space arenas, ice+lava arenas, sandstone, a skill-tree grid). Chat captured a Pulse boss taunt.",
+ "map": "DOCUMENTED biomes: dark SPACE arenas (bullet-hell), tan SANDSTONE, BLUE+ORANGE (ice+lava) arenas, green grass, a colorful skill-tree/candy grid.",
+ "bosses": [
+  {"name":"Pulse","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Do not answer. Your identit[y]...","...peace, you will feel pain."],"note":"DOCUMENTED VERBATIM (boss-colored chat, fragmented across lines). 'Pulse' is a recurring EVENT boss (seen spawning in disc_OpvS02UXO-I, disc_SlVLi0h14UQ) — NOW with a taunt: a cryptic/ELDRITCH, identity/mind-themed boss ('Do not answer. Your identity...', '...peace, you will feel pain.'). Reads like an SCP/anomaly entity."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Warbringer (just spawned)","Pulse (defeated)"],
+ "mechanics": "DOCUMENTED: Pulse is a cryptic/eldritch realm EVENT boss with an identity/mind-themed taunt ('Do not answer. Your identity... peace, you will feel pain.'). Diverse galactic/ice-lava dungeon biomes + a skill-tree grid UI.",
+ "uncertain": "Pulse's taunt is fragmented/truncated across lines (full wording unclear: 'Do not answer. Your identity [is...]', '[Find no?] peace, you will feel pain.'). Its attacks/HP/appearance not isolated. Other chat crop washed out.",
+ "confidence": "HIGH that Pulse is a real event boss with a cryptic identity-themed taunt (verbatim fragments). LOW for the full taunt wording + biome mapping (VALOX channel, re-confirmation-heavy otherwise)."
+}

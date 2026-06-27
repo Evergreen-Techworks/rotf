@@ -1,0 +1,53 @@
+{
+ "dungeon": "GENUINE ROTF edited compilation ('PREVIOUS VIDEO' end card, LEGENDARY overlays) of several boss fights — Marble Colossus (built; corroborated), a 'Water Elemental' event boss, base-game Geb (Tomb of the Ancients), and a NAME-ONLY 'Soul of Decaying' enemy. Chat partly readable. Mostly CORROBORATION (Marble Colossus) + one name-only new enemy worth flagging ('Soul of Decaying' — possibly Tomb-of-Decaying-Death-related, but only its combat-overlay name was captured, no taunt/clean arena).",
+ "map": "DOCUMENTED-from-bossends+frames: the MARBLE COLOSSUS lair = a grey HEXAGONAL arena with scattered pink PILLARS (blue bullet ring fills it). A 'Water Elemental' BLUE WATER arena (open water tiles). A COLOURFUL CHECKERED grid arena (green/yellow/red) where 'Soul of Decaying' is fought. A desert/sand TOMB room (Geb). Edited compilation -> arenas catalogued individually, no single layout.",
+ "bosses": [
+  {
+   "name": "Marble Colossus",
+   "phases": ["fights amid Pillars; 'slipping into the void' death line"],
+   "attacks": ["DOCUMENTED-from-bossends (corroborated 3rd+ tag): a large RADIAL RING/NOVA of evenly-spaced BLUE bullets filling the grey hexagonal arena + Pillars."],
+   "minions": ["Pillars"],
+   "colorFlashes": "blue",
+   "taunts": ["I feel myself... Slipping... Into the void... It is so[on]"],
+   "note": "DOCUMENTED-from-chat. ALREADY built/enriched. CORROBORATES the built Marble Colossus death line + blue-ring attack + grey-hex Pillar arena (now seen across 3+ tags). No new content."
+  },
+  {
+   "name": "Water Elemental",
+   "phases": ["counts down ('FIVE!'->'Three...')"],
+   "attacks": ["DOCUMENTED-from-frames: BLUE bullets in a FAN/CONE spread + radial bursts in the water arena (spread/shotgun class)."],
+   "minions": [],
+   "colorFlashes": "blue",
+   "taunts": ["FIVE!", "Three..."],
+   "note": "DOCUMENTED-from-chat (an event boss with a counting gimmick: 'FIVE!' ... 'Three...'). Likely a base/event elemental; the counting taunt is the notable bit. Verify vs base before treating as custom."
+  },
+  {
+   "name": "Soul of Decaying",
+   "phases": [],
+   "attacks": ["not isolated -> approximate; fought in a colourful CHECKERED grid arena"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-NAME-ONLY: only the COMBAT OVERLAY 'Enemy: Soul of Decaying / Damage Inflicted: %' was captured -> NO taunt, no clean attack geometry. FLAG: the name shares 'Decaying' with the flagged no-footage dungeon TOMB OF DECAYING DEATH -> 'Soul of Decaying' MAY be a Tomb-of-Decaying-Death boss (worth chasing), but this tag only gives the name + a colourful-grid arena. Not build-ready (need taunts/attack from a cleaner clip)."
+  },
+  {
+   "name": "Geb (Tomb of the Ancients)",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-name-only (combat overlay 'Enemy: Geb'). BASE-GAME Tomb of the Ancients (= built 'Tomb Defender'). No new content; corroborates the Tomb is present + the server displays it as 'Geb'."
+  }
+ ],
+ "minions": ["Pillars (Marble Colossus)"],
+ "drops": [
+  "LEGENDARY-tier loot (rarity overlays; specifics not legible — edited)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Skull Shrine (defeated, /30)",
+  "Fire Elemental (defeated, /30)"
+ ],
+ "mechanics": "DOCUMENTED: an edited boss-fight compilation. CORROBORATES the built Marble Colossus (death line 'I feel myself... Slipping... Into the void...' + blue radial-ring attack + grey-hex Pillar arena — now 3+ tags). A 'Water Elemental' event boss with a counting gimmick ('FIVE!'...'Three...') + blue fan/radial attack. Base-game Geb (= built Tomb Defender; server names it 'Geb'). KEY FLAG: a NAME-ONLY 'Soul of Decaying' enemy (combat overlay only) — the 'Decaying' name MAY tie to the flagged no-footage TOMB OF DECAYING DEATH dungeon, but only the name + a colourful-grid arena were captured (no taunt/attack) -> a lead to chase, not build-ready.",
+ "uncertain": "Edited compilation -> attacks partly approximate. 'Soul of Decaying' is NAME-ONLY (no taunt/clean attack) -> its identity (Tomb of Decaying Death boss vs other custom) is UNCONFIRMED; flagged as a lead. Water Elemental likely base/event (verify). Marble Colossus + Geb already built/base. Loot not isolated (edited).",
+ "confidence": "MEDIUM. GENUINE ROTF. Mostly CORROBORATION (Marble Colossus 3rd-tag confirm; Geb base). LOW new content: the only new element is the NAME-ONLY 'Soul of Decaying' (possibly Tomb-of-Decaying-Death-related — a lead worth a targeted follow-up, but not build-ready here). Recorded honestly: corroborations confirmed, 'Soul of Decaying' flagged as a name-only lead. Best follow-up: a single-dungeon clip of 'Soul of Decaying' to confirm if it's the Tomb of Decaying Death boss + get its taunts/attack."
+}

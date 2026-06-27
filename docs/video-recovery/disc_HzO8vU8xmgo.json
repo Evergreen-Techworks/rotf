@@ -1,0 +1,29 @@
+{
+ "dungeon": "GENUINE ROTF short EDITED clip (meme-caption overlays 'I'd love it'/'I'll take it instead, man'/'sure'/'WOW') of a single HELA fight (the built Asgard goddess). Chat readable -> a clear Hela taunt set + her aimed-line red-bullet attack. Mostly CORROBORATION of the already-built Hela, plus a few lines worth checking against the build + one cross-tag attribution fix.",
+ "map": "DOCUMENTED-from-frames: a dark PURPLE/SPACE boss ARENA (Hela's Asgard chamber / a realm-event arena) — open dark-tiled room, Hela centred, fought from range. Single-arena clip (no broader layout; no transitions). Choke: open arena, dodge the bullet stream.",
+ "bosses": [
+  {
+   "name": "Hela",
+   "phases": ["summons minions ('Destroy them, minions!' / 'Deal with the vermins.'); escalates ('try a little harder')"],
+   "attacks": ["DOCUMENTED-from-frames (bossend): fires RED bullets in an AIMED LINE / STREAM — a tight vertical column of red bullets aimed at the player (aimed/predictive line class), continuous stream; plus summon-adds. Huge HP bar (Asgard-god scaling). Maps to: aimed line (predictive) red shots + Spawn minions."],
+   "minions": ["Hela minions / 'vermins'"],
+   "colorFlashes": "",
+   "taunts": [
+    "So you are the one that has bested the Allfather himself!",
+    "Are you enjoying getting hit by my magic?",
+    "Destroy them, minions!",
+    "Whatever. It just means that I need to try a little harder.",
+    "Deal with the vermins."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Hela', clearly read). Hela is ALREADY BUILT (Asgard set, verified). CORROBORATES her built lines ('Destroy them, minions!', 'Whatever. It just means that I need to try a little harder.'). NEW/CHECK lines for enrich: 'So you are the one that has bested the Allfather himself!', 'Are you enjoying getting hit by my magic?', 'Deal with the vermins.' -> verify vs the built Hela; add any not present. *** CROSS-TAG FIX ***: 'So you are the one that has bested the Allfather himself!' was uncertainly attributed to a 'Sapdragon' in disc_g-ONuo1vwDM -> it is HELA's line (correct that attribution)."
+  }
+ ],
+ "minions": ["Hela minions ('vermins')"],
+ "drops": [
+  "Hela's Power (ability/loot drop; '[player] just got some legendary loot, [Hela's Power] with 24% damage deal!')"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: a short edited clip of a HELA fight (built Asgard goddess). VALUE = (1) CORROBORATION of the built Hela taunts; (2) NEW/check lines for an enrich pass ('So you are the one that has bested the Allfather himself!', 'Are you enjoying getting hit by my magic?', 'Deal with the vermins.'); (3) a CROSS-TAG attribution FIX — the 'bested the Allfather himself' line (uncertainly tagged 'Sapdragon' in disc_g-ONuo1vwDM) is HELA's; (4) DOCUMENTED Hela attack = aimed RED bullet LINE/stream + minion summons. The big on-screen meme captions ('I'd love it' etc.) are EDITED overlays, not chat. Damage-%-contribution loot ('Hela's Power ... 24% damage deal').",
+ "uncertain": "Short edited clip -> only Hela captured (single arena). Which of the 3 new lines are already in the built Hela not checked here (recovery loop) -> flagged for dev/verify. Attack is an aimed red LINE/stream (documented) but exact bullet count/cadence approximate. Meme captions are video edits (not taunts).",
+ "confidence": "MEDIUM-HIGH for the Hela taunts (boss-coloured, clearly read) and her aimed-line attack (DOCUMENTED-from-bossend). Net value: corroborates the built Hela + gives 3 enrich-candidate lines + FIXES the disc_g-ONuo1vwDM 'Sapdragon' misattribution (= Hela) + documents her attack. Hela is already built so LOW new-boss value, but the enrich lines + attribution fix are useful. GENUINE ROTF (built Asgard content)."
+}

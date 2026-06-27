@@ -1,0 +1,4 @@
+# Loki's Dagger
+# https://rotfserver.fandom.com/api.php?action=parse&page=Loki%27s%20Dagger&prop=wikitext
+
+{{ItemInfo|name = Loki's Dagger|desc = Taken from the false trickster, the dagger is imbued with a lethal poison.|rarity = l|slot = dagger|tier = UT|minDmg = 120|maxDmg = 200|shots = 1|rof = 120|range2 = 4.4|fameb = 7|effects = yes|pierce = yes|multihit = yes|boomerang = yes|legendary = 4|dropsFrom = drops from loki}}

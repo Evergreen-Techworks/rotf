@@ -1,0 +1,4 @@
+# Starlight Crook
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Starlight%20Crook&prop=wikitext
+
+asdf

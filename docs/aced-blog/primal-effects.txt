@@ -1,0 +1,64 @@
+entry-content">
+
+ Hello! In this devlog, we’re going to look at some early iterations of Primal Effects (and by proxy, Primal Items ). As we demonstrated with our Reworked Runes and new classes (more on that soon), we’re trying to create dynamic abilities that encourage players to lean into a gameplay fantasy. With Shatter Strike, you can become an AoE, damage dealing madman. With the Warrior’s shield (their class ability) and Mirror’s Edge, you can become a brute, face-tanking hundreds of shots while bulldozing through enemies. All of these runes and abilities were designed with the goal of enabling a gameplay fantasy. 
+
+ With Primal Items and Effects , we want to add another component that can push players even further towards their fantasy. With that in mind, I’m excited to show off four (4!) primals in this post: Bel’s Decapitator, Wall of Gore, Draupner, and the Book of Thoth. Let’s have a look! 
+
+ 1 . Bel’s Decapitator 
+
+ ​Returning from legacy, Bel’s Decapitator is still the waraxe that deals massive damage.​​‌‌​​​​​‌​​‌‌‌​​‌​​‌‌‌‌​‌‌​‌​‌​​‌‌​‌​​​​‌​‌‌‌‌‌ Its Primal Effect, however, has changed: “Necropolis Waraxe: Upon taking damage from any source, create an orbiting axe that deals damage equal to a primary shot (25% chance). Each axe can proc on-hit effects, such as Shatter Strike.” 
+
+ Here’s a small preview image. You can click the image (it’s a link) to see the ability in action! 
+
+ the axes move with you, so good positioning can net you tons of damage. click here (or on the image) to see the gif. 
+
+ We’re still experimenting, but since each projectile can proc on-hit effects, we think it could be pretty strong. 
+
+ 2. Wall of Gore 
+
+ Another returnee! In legacy, Wall of Gore was fairly useless. That changes now. Wall of Gore is the first item to use the new Shielding system. In addition to generating a ton of Defense while channeling, here is Wall of Gore’s Primal Effect: “Flesh Buffer: While channeling, build up a shield of up to 35% Maximum Health. The shield is lost immediately when the channel is canceled.” 
+
+ The image below shows a fully charged shield. Click on the image to see it in action : 
+
+ oh you meant like a real shield ( click image to see gif ) 
+
+ Admittedly, it might get a bit confusing to have both Shields (the Warrior ability) and shields (the HP buffer)… We might have to work on the terminology a bit. 
+
+ 3. Draupner 
+
+ Draupner is a ring that drops from Asgard. Equippable by Mages, and with stats that are only slightly above average, Draupner’s magic lies in its primal effect. “Ring of Odin: Upon casting your secondary, summon a circle of nine Draupners. After a short delay, each Draupner will fire at its nearest target, dealing damage based on Wisdom and Mana (20% chance on ability use).” 
+
+ draupner sonic speed ? 
+
+ Pretty cool, right? 
+
+ 4. Book of Thoth 
+
+ Another newbie! The Book of Thoth drops from the Gate to the Underworld. Its Primal Effect makes it a useful defensive tool, and explains why the item is a shield: “Egyptian Knowledge: Upon casting your secondary (or starting shield channel, for Warriors), summon two books. These books orbit your player, blocking/consuming any projectiles they contact. Books expire after 2.0 seconds, detonating into a flurry of projectiles, based on how many projectiles were consumed.” 
+
+ Here’s a preview: 
+
+ ignore the green detonation projectiles. they’re placeholder 😉 
+
+ We’re really excited to show more Primal Effects (and eventually, show the new Legendary Effects), but we think this is enough for today! There’s still plenty more to do—in pretty much every category—but we’re definitely ramping up towards a CT2. Keep the feedback coming! 
+
+ Also, with the reveal of these four items, we’re also going to give out FOUR Closed Testing keys! We’re doing something a little bit crazy this time: Skilly did a little self-imposed 24h gamejam. Some doodling, coding, and ( cough ) voice acting later, and he had created a platformer with four levels, and four keys to earn. 
+
+ Here’s the link: https://skilly.itch.io/ultimate-changus . Beat any of the levels to earn a key! 
+
+ If you manage to earn a key, use it at https://rotf.io/register . Good luck! 
+ Share this: Twitter Facebook Like this: Like Loading... 
+
+ Related 
+
+ Tagged aced games aced.gg closed testing closed testing key primal primal items revenge of the fallen rotf rotf.io 
+
+ Published by Miniguy 
+
+ I’m one of the lead developers at ACED. We’re currently working on porting RotF to Unity! 
+ View all posts by Miniguy 
+
+ Published 
+ May 2, 2021 May 2, 2021 
+
+</article

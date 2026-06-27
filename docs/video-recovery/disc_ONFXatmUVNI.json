@@ -1,0 +1,23 @@
+{
+ "dungeon": "GENUINE ROTF/RotMG single-dungeon clip (~200s, creator 'RuinedBow' video w/ an intro card 'Wow it's been a while since my last video...'). A LAGGY stream (chat is heavy LAG-complaint player banter + death notifiers). One boss line captured: 'Asylum Guard: Ark! aark!..' (a squawk). Green/desert realm boss fight. LOW-MEDIUM yield.",
+ "map": "DOCUMENTED-from-transitions+bossends: a GREEN grass REALM (the boss fight, scattered white bullets) + a tan DESERT realm + dark SPACE/VOID (bossend b002_50s spans these). Realm-style open layout; single dungeon. No tight room geometry.",
+ "bosses": [
+  {
+   "name": "Asylum Guard",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames but APPROXIMATE: scattered WHITE bullets across the green realm (b002_50s area) -> spread/scattered, no clean single geometric pattern isolated."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["Ark! aark!.."],
+   "note": "DOCUMENTED-from-chat (boss-coloured '<Asylum Guard>' prefix, read in chat_00014 via grayscale-pull). 'Ark! aark!..' is a crow/bird SQUAWK (barely a taunt). Single grayscale read -> name MEDIUM confidence. BASE-vs-ROTF-CUSTOM UNCERTAIN: 'Asylum Guard' is not a standard base-game RotMG boss -> possibly ROTF-CUSTOM (an 'Asylum' dungeon guard) — verify before building. Attack = scattered white bullets (green realm; approximate)."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "(a 'Corrupt[ed]...' loot/enemy label seen in-frame; not isolated)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED (limited — laggy RuinedBow video): one boss 'Asylum Guard' with a squawk line 'Ark! aark!..' (chat_00014) in a green realm w/ scattered white bullets. Chat is dominated by player LAG-complaints ('BIG LAG', 'better vps when', 'GOODEST VPS') + death notifiers (players slain) -> NOT boss content. Creator intro card. No clean attack geometry (scattered).",
+ "uncertain": "'Asylum Guard' name = single grayscale read (MEDIUM confidence); base-vs-custom UNCONFIRMED (possibly custom; verify). 'Ark! aark!..' is a squawk, barely a taunt. Attack approximate (scattered white bullets, no clean pattern). Heavy LAG-complaint player chat (not boss taunts). 'Corrupt[ed]' label not isolated.",
+ "confidence": "LOW-MEDIUM. GENUINE ROTF/RotMG (RuinedBow creator video). One boss capture: 'Asylum Guard' + squawk 'Ark! aark!..' (medium-confidence name, single grayscale read) + a scattered-bullet green-realm attack. Base-vs-custom flagged. Recorded honestly: name medium-confidence, squawk-line, attack approximate, player LAG chat excluded. Best follow-up: a clean single-boss clip to confirm 'Asylum Guard' name + a real taunt + bullet geometry."
+}

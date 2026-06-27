@@ -1,0 +1,4 @@
+# Lucky Djinn
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Lucky%20Djinn&prop=wikitext
+
+asdf

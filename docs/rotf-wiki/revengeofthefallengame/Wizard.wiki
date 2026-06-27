@@ -1,0 +1,4 @@
+# Wizard
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Wizard&prop=wikitext
+
+asdf

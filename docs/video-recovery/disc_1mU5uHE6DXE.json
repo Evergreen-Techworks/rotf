@@ -1,0 +1,93 @@
+{
+ "dungeon": "GENUINE ROTF edited HIGHLIGHTS MONTAGE (Sept 2017; has PREVIOUS/RANDOM/SUBSCRIBE end-card overlays) crossing many dungeons. High taunt yield: named bosses The Puppet Master, The Passenger, The Seamonger, '..ichi the Fallen' (a Temple boss), Avatar of the Forgotten King. Biomes/arenas: stone-tiled vault/Temple rooms, a lava/desert island, a large circular cyan ice/water boss arena, a magenta/void area.",
+ "map": "DOCUMENTED-from-minimaps+frames (multi-dungeon montage, no single dungeon followed end-to-end): (1) small ENCLOSED STONE-TILED rooms — vault/Temple dungeons, boxy grid rooms with choke-point doorways; (2) a LAVA/DESERT ISLAND landmass ringed by blue water (orange tiled combat ground); (3) a large CIRCULAR CYAN/BLUE boss ARENA (open ring, black surround) where a dense-bullet ice/water boss is fought; (4) a MAGENTA/VOID nebula area (small player marker, purple field). Room-by-room layout not traceable (fast montage cuts).",
+ "bosses": [
+  {
+   "name": "The Puppet Master",
+   "phases": [
+    "taunts through the fight; death line on kill"
+   ],
+   "attacks": [
+    "DOCUMENTED-partial: theatrical/puppet boss; precise geometry not isolatable in the montage (likely summon-only + aimed given 'come/hide' theme) - RECONSTRUCT as summon + aimed line"
+   ],
+   "minions": [
+    "(implied 'puppets')"
+   ],
+   "colorFlashes": "",
+   "taunts": [
+    "Find me if you can h[ide]",
+    "Lucky guess here, b[ut...]",
+    "[...it] is time that you die!",
+    "NO!!! This cannot [be!]",
+    "ENCORE, HERO!"
+   ],
+   "note": "DOCUMENTED-from-chat (some lines cut off by the narrow chat crop -> [brackets] are reconstructed completions). Genuinely ROTF-custom puppet/theatrical boss ('ENCORE, HERO!'). Strong build/enrich candidate."
+  },
+  {
+   "name": "(..)ichi the Fallen",
+   "phases": [],
+   "attacks": [
+    "not isolatable (montage)"
+   ],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "You don't lack [courage/...] ... within this Temple. Let me se[e...]"
+   ],
+   "note": "DOCUMENTED-from-chat. Boss name left-truncated by chat crop: ends '-ichi the Fallen' (e.g. Daichi/Malichi?). A TEMPLE dungeon boss. 'the Fallen' fits the ROTF (Revenge of the Fallen) theme. Name uncertain."
+  },
+  {
+   "name": "The Beekeeper",
+   "phases": [],
+   "attacks": [
+    "summon-only (implied by 'come forth my ...')"
+   ],
+   "minions": [
+    "(summoned, name unread)"
+   ],
+   "colorFlashes": "",
+   "taunts": [
+    "Enough! Come forth my insect children, and make them beg for death!",
+    "I am the creator of a perfect insect race! You WILL kneel before me RIGHT NOW!"
+   ],
+   "note": "DOCUMENTED-partial-from-chat. Summoner-style ROTF boss. [DEV-LOOP: 'The Passenger' was a mis-read of 'The Beekeeper' (frame-read f_00040 + death-feed). Insect/swarm-summoner. Taunts fully read. Built as 0x8f16.]"
+  },
+  {
+   "name": "The Seamonger",
+   "phases": [],
+   "attacks": [
+    "not isolatable (montage); likely the dense cyan circular-arena nova below"
+   ],
+   "minions": [],
+   "colorFlashes": "cyan/blue (if the circular ice/water arena is his)",
+   "taunts": [
+    "I am the creator of a r[ealm/...]"
+   ],
+   "note": "DOCUMENTED-partial-from-chat. Sea/'creator of a realm' themed ROTF boss; tentatively tied to the circular cyan water arena."
+  },
+  {
+   "name": "Avatar of the Forgotten King",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "EYE-iee yo[u...]",
+    "You sho[w...]"
+   ],
+   "note": "DOCUMENTED-partial-from-chat. CAUTION: 'Avatar of the Forgotten King' is the BASE-RotMG Shatters final boss — verify against base data before building (likely enrich base, not new). The 'EYE-iee' line may be a ROTF-custom variant."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [
+  "Lil Feratu (vampire-pun boss; 'Valoks died at level 20, killed by Lil Feratu' - Sept 3 2017)",
+  "Marble Colossus ('ZipLun died at level 20, killed by Marble Colossus' - already built)",
+  "Septavius ('CobalTrick died at level 20, killed by Septavius' - already built)",
+  "Brutal[?] (a 'Brutal...' boss in several death lines - name truncated)",
+  "Oryx the Mad God ('Your futile efforts...' - base game)"
+ ],
+ "mechanics": "DOCUMENTED: Sept-2017 ROTF highlights montage. Attack geometries (DOCUMENTED-from-bossends, attribution to named bosses APPROXIMATE due to montage editing): (a) a large CIRCULAR CYAN/BLUE ice/water arena with a DENSE SCATTERED MULTICOLOR RADIAL NOVA (many simultaneous pink/blue/green bullets filling the ring) -> radial ring/nova, high count; (b) a STONE-TEMPLE arena with DIAGONAL SWEEPING bullet lines crossing the floor -> wave/sweeping; (c) a LAVA/DESERT arena with scattered AIMED shots -> aimed/predictive; (d) magenta GRID/WALL rows of bullets seen in the wider montage -> wall/grid. Event feed shows Lil Feratu, Marble Colossus, Septavius as active bosses. NOTE: edited montage (PREVIOUS/RANDOM/SUBSCRIBE overlays) -> bossends/transitions fire on editing cuts as well as real loads (known montage caveat).",
+ "uncertain": "Several taunts cut off by the narrow chat crop (bracketed completions are reconstructed). '..ichi the Fallen' boss name left-truncated. 'Brutal[?]' event boss name truncated. Attack-pattern -> named-boss attribution is approximate (montage, not one continuous fight). Avatar of the Forgotten King may be base-game (Shatters) not ROTF-custom.",
+ "confidence": "MEDIUM. GENUINE ROTF, high named-boss yield (The Puppet Master strongest, with a full taunt set incl. 'ENCORE, HERO!'). Taunts MEDIUM (some partial), map MEDIUM (multi-dungeon biome+arena catalog), attacks MEDIUM (geometries clearly visible but cross-attributed across a montage). The Puppet Master / The Passenger / The Seamonger / '..ichi the Fallen' are new ROTF-custom build/enrich candidates."
+}

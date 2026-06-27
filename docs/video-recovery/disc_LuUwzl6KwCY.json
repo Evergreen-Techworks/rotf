@@ -1,0 +1,15 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM, player Syogeo) ROTF — Crystal Prisoner Clone taunt + class/death-screen + Pirate Cave",
+ "source": "video disc_LuUwzl6KwCY (232 frames, 3 transitions, 58 chat). Opens on ROTF title; shows death screens + several biomes. Chat captured a boss taunt + event feed.",
+ "map": "DOCUMENTED biomes: orange/lava-brick dungeon, green grass realm, a 'Pirate' entry (Pirate Cave), dark space arenas with diamond/crystal projectiles (a crystal/space boss). Death screens shown for the player.",
+ "bosses": [
+  {"name":"Crystal Prisoner Clone","phases":[],"attacks":[],"minions":[],"colorFlashes":"crystal/purple","taunts":["I am everywhere and nowhere!"],"note":"DOCUMENTED VERBATIM (boss-colored chat, repeated). A CLONE-CONFUSION mechanic — the Crystal Prisoner spawns multiple CLONES all taunting 'I am everywhere and nowhere!' (players must find/kill the real one among decoys). Dark space-y arena with diamond/crystal projectiles."},
+  {"name":"Oryx the Mad God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You are food for my minions!"],"note":"DOCUMENTED from startup chat (re-confirmed)."}
+ ],
+ "minions": [],
+ "drops": ["Stem of the brain (player trade item — 'B>Stem of the brain')"],
+ "event_bosses_seen_in_global_feed": ["Riverborn (just spawned)"],
+ "mechanics": "DOCUMENTED: (1) Crystal Prisoner CLONE mechanic ('I am everywhere and nowhere!' — decoy clones, find the real). (2) CLASSES confirmed present: death screens read 'Syogeo, Level 20 Mystic' and 'Syogeo, Level 20 Priest' (Mystic + Priest classes), 'killed on March 4, 2019' (server active 2019). (3) 'Pirate' dungeon entry = Pirate Cave. (4) Client X3.0; MOTD 'Welcome to Realm of the Mad God'; WASDQE controls. (5) 'Legends' leaderboard + a stats/graphs panel seen.",
+ "uncertain": "Crystal Prisoner Clone's parent dungeon (Crystal Cavern?) not entered/named here. Boss attacks/HP/drops not isolated. Death-screen killer names not fully legible. 'Stem of the brain' is a trade mention (stats unknown).",
+ "confidence": "HIGH for the Crystal Prisoner Clone taunt (verbatim) + the Mystic/Priest class death screens + Riverborn event + client X3.0. LOW for dungeon mapping and item stats."
+}

@@ -1,0 +1,5 @@
+# Wand Full of Mana
+# https://rotfserver.fandom.com/api.php?action=parse&page=Wand%20Full%20of%20Mana&prop=wikitext
+
+{{ItemInfo|name = Wand Full of Mana|desc = Composed of the arcane essence that allows arcanic beings to exist.|rarity = h|slot = wand|tier = UT|minDmg = 25|maxDmg = 50|shots = 5|rof = 145|range2 = 7|fameb = 8|effects = yes|passthrough = yes|bonuses = {{Stat|wis|-8}}{{Stat|hp|-75}}{{Stat|mp|200}} 
+|dropsFrom = drops from arcanica in Galaxies}}

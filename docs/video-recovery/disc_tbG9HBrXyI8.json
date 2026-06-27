@@ -1,0 +1,28 @@
+{
+ "dungeon": "GENUINE ROTF multi-dungeon run (~152s, 4 entries, creator 'RuinedBow'). KEY find: a NEW boss 'Strange Priest' with a FULL 4-line verbatim taunt set (recovered via wide f_00106 crop) + a self-aggrandizing/immunity-fails arc. Also a blue water-pool arena boss + green realm + a Legendary unbox. Strange Priest fought in a grey-grid arena with diagonal bullet streaks.",
+ "map": "DOCUMENTED-from-transitions+bossends: a 4-entry hop — open GREEN grass realm (w/ blue water), a circular BLUE WATER-POOL arena (b003 top-right, a water/ocean boss), a grey/tan CHECKERED GRID arena (the Strange Priest fight, f_00106 — diagonal bullet lanes cross it), and a RED/LAVA arena. No single contiguous layout (multi-dungeon).",
+ "bosses": [
+  {
+   "name": "Strange Priest",
+   "phases": ["confident open ('Let's fight and see who have more Power') -> underestimates player -> protection/immunity FAILS, panics ('Priest! Help me!' / 'UH?! WHAT IS HAPPENING?!')"],
+   "attacks": ["DOCUMENTED-from-frames (f_00106): diagonal LANES/STREAKS of bullets crossing the grey-grid arena -> wave/wall-style diagonal bullet lines (approximate; grid arena)."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "Well... i think i substestiateted you.",
+    "Let's fight and see who have more Power",
+    "How!? Priest! Help me!",
+    "UH?! WHAT IS HAPPENING?! I'M THE BEST PRIEST IN THE WORLD!!"
+   ],
+   "note": "DOCUMENTED-from-chat VERBATIM (boss-coloured '<Strange Priest>' prefix, wide f_00106 re-crop gives the FULL lines; the narrow chat crop had cut lines 1-2). NEW boss. A self-styled 'BEST PRIEST IN THE WORLD' who underestimates the player then PANICS when overpowered ('Priest! Help me!' / 'WHAT IS HAPPENING?!') -> reads like an IMMUNITY/PROTECTION gimmick that fails. base-vs-custom: 'Strange Priest' is NOT a base-game name -> ROTF-CUSTOM. LIKELY THE SAME AS / related to the queued 'boss-strange-magician' (immunity gimmick) -> reconcile names before building (the boss self-IDs as PRIEST here). BUILDABLE (4 full verbatim taunts + clear gimmick). NOTE: line 1 'substestiateted' is the on-screen (mis)spelling of 'underestimated' -> transcribed AS SEEN; line 2 'who have' is the in-game grammar."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "RuinedBow has looted a Legendary [item] (a Legendary-tier unbox/drop shown)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: NEW boss 'Strange Priest' — a self-aggrandizing priest ('I'M THE BEST PRIEST IN THE WORLD!!') that opens confident, underestimates the player ('Well... i think i substestiateted you.'), challenges ('Let's fight and see who have more Power'), then PANICS when overpowered ('How!? Priest! Help me!' / 'UH?! WHAT IS HAPPENING?!') -> a likely IMMUNITY/PROTECTION-that-fails gimmick. Combat overlay shows 'Damage Inflicted: (15%)'. Legendary-tier loot unbox. Grey-grid arena with diagonal bullet lanes.",
+ "uncertain": "Strange Priest line 1 has an on-screen GARBLED/typo word ('substestiateted' = 'underestimated') -> transcribed as seen, flagged; lines 2-4 are clean full verbatim. base-vs-custom: ROTF-custom (not base); POSSIBLY the same boss as the dev-queue 'boss-strange-magician' (Priest vs Magician name mismatch) -> reconcile before building. Attack approximate (diagonal lanes, grid arena; no clean count). The blue water-pool arena boss (b003) was NOT named/tauntED here (separate, unidentified). High chat red-density was partly the grid floor.",
+ "confidence": "MEDIUM-HIGH (Strange Priest) / LOW (water-pool boss). GENUINE ROTF. Strong NEW find: boss 'Strange Priest' with a FULL 4-line verbatim taunt set + a clear self-aggrandizing/immunity-fails gimmick -> BUILDABLE (reconcile vs queued boss-strange-magician first; flag line-1 typo). Recorded honestly: line-1 garble flagged, attack approximate, water-pool boss unidentified. Best follow-up: confirm whether 'Strange Priest' == 'Strange Magician' + the immunity mechanic + a clean attack read."
+}

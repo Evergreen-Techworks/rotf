@@ -1,0 +1,20 @@
+[Unit]
+# Ordinary Client / ROTF — world/game server (raw TCP :2050 + Flash policy :843).
+Description=ROTF World Server (.NET 8)
+After=network.target redis-server.service rotf-appserver.service
+Requires=redis-server.service
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/opt/rotf/worldserver
+# published with: dotnet publish server/wServer/wServer.csproj -c Release -o /opt/rotf/worldserver
+ExecStart=/usr/bin/dotnet /opt/rotf/worldserver/wServer.dll
+Restart=always
+RestartSec=5
+Environment=DOTNET_CLI_TELEMETRY_OPTOUT=1
+# Flash socket-policy server needs to bind privileged port 843:
+AmbientCapabilities=CAP_NET_BIND_SERVICE
+
+[Install]
+WantedBy=multi-user.target

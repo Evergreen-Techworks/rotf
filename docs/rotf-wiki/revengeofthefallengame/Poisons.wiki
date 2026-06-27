@@ -1,0 +1,114 @@
+# Poisons
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Poisons&prop=wikitext
+
+The poison is the ability of the assassin. It lands a explosion that causes damage over time to the enemies in the area.
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = Soulfester.png
+| link = Soulfester
+| text = Soulfester
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = PlaguePoison.png
+| link = Plague Poison
+| text = Plague Poison
+}}
+| {{ImageBlack
+| file = HelasEssence.png
+| link = Hela's Essence
+| text = Hela's Essence
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = MurkyToxin.png
+| link = Murky Toxin
+| text = Murky Toxin
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = ParasiticConcoction.png
+| link = Parasitic Concoction
+| text = Parasitic Concoction
+}}
+| {{ImageBlackLarge1
+| file = TheSearingBlood.png
+| link = The Searing Blood
+| text = The Searing Blood
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Unique</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = SpitOfATroll.png
+| link = Spit of a Troll
+| text = Spit of a Troll
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = FlaskOfStardust.png
+| link = Flask of Stardust
+| text = Flask of Stardust
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = NightwingVenom.png
+| link = Nightwing Venom
+| text = Nightwing Venom
+}}
+| {{ImageBlackLarge1
+| file = BaneserpentPoison.png
+| link = Baneserpent Poison
+| text = Baneserpent Poison
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = CentipedePoison.png
+| link = Centipede Poison
+| text = Centipede Poison
+}}
+| {{ImageBlack
+| file = SpiderVenom.png
+| link = Spider Venom
+| text = Spider Venom
+}}
+| {{ImageBlackLarge1
+| file = PitViperPoison.png
+| link = Pit Viper Poison
+| text = Pit Viper Poison
+}}
+| {{ImageBlack
+| file = StingrayPoison.png
+| link = Stingray Poison
+| text = Stingray Poison
+}}
+| {{ImageBlack
+| file = FelwaspToxin.png
+| link = Felwasp Toxin
+| text = Felwasp Toxin
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

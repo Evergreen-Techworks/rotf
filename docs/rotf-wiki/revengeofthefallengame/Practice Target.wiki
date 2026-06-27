@@ -1,0 +1,4 @@
+# Practice Target
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Practice%20Target&prop=wikitext
+
+asdf

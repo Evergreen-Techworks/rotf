@@ -1,0 +1,156 @@
+# Items
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Items&prop=wikitext
+
+One of the main appeals of ROTF is improving your gear as you progress. Each item is there to help the player progress through the game in a balanced way so he ends up feeling powerful after going through the effort of getting that strong items. All items have a rarity/speciality. If you wear a complete set of artifact items (not any set works, only specific sets like the Geb's priest set) all your stats get +5, except HP and MP that get +50. Primal and legendary items have special passive abilities that go from giving you boosts when you have them equipped to triggering a life-saving heal in a dangerous situation. Learn more about [https://revengeofthefallengame.fandom.com/wiki/Artifact_Sets Artifact Sets] and [https://revengeofthefallengame.fandom.com/wiki/Item_Effects Item Effects] clicking in the words.
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Items</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Weapons</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = Bows.png
+| link = Bows
+| text = Bows
+}}
+|{{ImageBlack
+| file = Daggers.png
+| link = Daggers
+| text = Daggers
+}}
+|{{ImageBlack
+| file = Staves.png
+| link = Staves
+| text = Staves
+}}
+|{{ImageBlack
+| file = Wands.png
+| link = Wands
+| text = Wands
+}}
+|{{ImageBlack
+| file = Swords.png
+| link = Swords
+| text = Swords
+}}
+| {{ImageBlack
+| file = Katanas.png
+| link = Katanas
+| text = Katanas
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Abilities</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlack
+| file = Spells.png
+| link = Spells
+| text = Spells
+}}
+|{{ImageBlack
+| file = Quivers.png
+| link = Quivers
+| text = Quivers
+}}
+|{{ImageBlack
+| file = Shields.png
+| link = Shields
+| text = Shields
+}}
+| {{ImageBlack
+| file = Seals.png
+| link = Seals
+| text = Seals
+}}
+|{{ImageBlack
+| file = Helmets.png
+| link = Helmets
+| text = Helmets
+}}
+|{{ImageBlack
+| file = Prisms.png
+| link = Prisms
+| text = Prisms
+}}
+|{{ImageBlack
+| file = Tomes.png
+| link = Tomes
+| text = Tomes
+}}
+|-
+|{{ImageBlack
+| file = Scepters.png
+| link = Scepters
+| text = Scepters
+}}
+|{{ImageBlack
+| file = Traps.png
+| link = Traps
+| text = Traps
+}}
+|{{ImageBlack
+| file = Orbs.png
+| link = Orbs
+| text = Orbs
+}}
+|{{ImageBlack
+| file = Skulls.png
+| link = Skulls
+| text = Skulls
+}}
+|{{ImageBlack
+| file = Poisons.png
+| link = Poisons
+| text = Poisons
+}}
+|{{ImageBlack
+| file = Cloaks.png
+| link = Cloaks
+| text = Cloaks
+}}
+|{{ImageBlack
+| file = Stars.png
+| link = Stars
+| text = Stars
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Armors</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlack
+| file = HeavyArmors.png
+| link = Heavy Armors
+| text = Heavy Armors
+}}
+|{{ImageBlack
+| file = LeatherArmors.png
+| link = Leather Armors
+| text = Leather Armors
+}}
+|{{ImageBlack
+| file = Robes.png
+| link = Robes
+| text = Robes
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Rings</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = Rings.png
+| link = Rings
+| text = Rings
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">
+Consumables
+</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlack
+| file = Consumables.png
+| link = Consumables
+| text = Consumables
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

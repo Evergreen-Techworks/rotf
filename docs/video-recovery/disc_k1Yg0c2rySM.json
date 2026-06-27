@@ -1,0 +1,23 @@
+{
+ "dungeon": "GENUINE ROTF/RotMG multi-dungeon run (8 entries, ~378s) across green realm / desert / brown cave-tomb / Shatters-style checkered-grid / lava / vault biomes. Many boss climaxes (78 bossends / 8 groups) but NO boss NAMES captured (chat faint over checkered floors). LOW-MEDIUM yield: dungeon/biome set + scattered-bullet attack patterns, bosses unidentified.",
+ "map": "DOCUMENTED-from-transitions+bossends: 8-entry multi-dungeon hop — GREEN grass realm (brown pillars/enemies arranged in a grid), tan/brown DESERT + a brown CAVE/TOMB, a grey/red Shatters-style CHECKERED-GRID arena, a RED LAVA arena, white VAULT (item-grid, 'Items 0/8' slots), + character-select. No single room-sequence (multi-dungeon).",
+ "bosses": [
+  {
+   "name": "(unidentified multi-dungeon bosses)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames but APPROXIMATE: scattered yellow/orange bullets across green/tan arenas + grid-arranged brown minions/pillars (b003_47s green-grid arena; b007_276s tan arena); a blue/purple checkered arena with red enemies (b006_235s). Class: scattered/spread + grid-arranged minions. NO clean single geometric pattern confidently isolated."],
+   "minions": ["grid-arranged brown enemies/pillars (green-arena boss)"],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "8 boss climaxes across the run but NO boss NAME captured (chat is faint over the checkered/grey floors; no boss-prefix isolated) -> bosses left UNIDENTIFIED (no guessing). Attacks loosely characterised (scattered/spread + grid minions), flagged approximate. A possible diamond/X spread at thumbnail scale (b007) did NOT hold up on zoom (scattered) -> NOT asserted."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "'Lovely Hearts' (item/accessory seen in the panel)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED (limited): a multi-dungeon run with 8 boss climaxes across green/desert/tomb/checkered-grid/lava/vault biomes. Boss attacks = scattered/spread bullets + grid-arranged minions/pillars (frames; approximate). Chat is FAINT over the arena floors -> only fragments readable ('are weak.. ass things..', 'slowly dying') with NO clear speaker -> NOT attributed to any boss (possible player chat). 'Lovely Hearts' item present. No boss names/taunts cleanly captured.",
+ "uncertain": "NO boss NAMES or taunts cleanly captured (faint chat over checkered floors) -> all bosses UNIDENTIFIED (not guessed). The faint fragments 'are weak.. ass things..' / 'slowly dying' have NO clear speaker -> UNATTRIBUTED (possibly player chat). Attack geometry approximate (scattered/spread; the b007 'diamond' didn't hold up on zoom). Multi-dungeon -> no single layout.",
+ "confidence": "LOW-MEDIUM. GENUINE ROTF/RotMG multi-dungeon run. Concrete: the biome/dungeon set (green/desert/tomb/checkered-grid/lava/vault) + scattered-bullet attack class across 8 climaxes. NO boss name/taunt cleanly captured -> bosses recorded as unidentified, faint chat fragments flagged unattributed (no fabrication). Best follow-up: a non-edited single-boss clip (clean chat) for names + taunts + bullet geometry."
+}

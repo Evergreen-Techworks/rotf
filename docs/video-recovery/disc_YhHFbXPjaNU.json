@@ -1,0 +1,31 @@
+{
+ "dungeon": "GENUINE ROTF UNDEAD LAIR run (version banner 'X1.7.0 Connected!'; player VoltiPlay, ROTF owner; ~80s). Boss = SEPTAVIUS THE GHOST GOD (already BUILT). Value: CORROBORATION of built Septavius taunts (verbatim) + DOCUMENTED Undead Lair map layout + the lucky-box/key LOOTBOX system + X1.7.0 ROTF version confirm.",
+ "map": "DOCUMENTED-from-frames+minimaps: the UNDEAD LAIR — a maze of grey/white CHECKERED-tile CORRIDORS with yellow/gold accent tiles, winding to a CENTRAL RED/MAROON boss CHAMBER (cross/plus-shaped) where Septavius is fought. Choke-point corridors approach the central chamber. Compact single-dungeon layout (not multi-biome).",
+ "bosses": [
+  {
+   "name": "Septavius the Ghost God",
+   "phases": ["DOCUMENTED-from-chat: weakening end-phase ('I am weak... I cannot stay immortal forever!') + a wave/summon phase ('Enough! You shall not survive another wave of my deadly attacks!')"],
+   "attacks": ["DOCUMENTED-from-frames (b001 t2s-t66s, sampled): SPARSE white ghost bullets (scattered/aimed) + heavy MINION-SUMMON (Lair Ghost minions) — NOT a dense geometric pattern; summon-and-scatter. Matches the built behavior (grenade toss + minion waves)."],
+   "minions": ["Lair Ghost Archer/Knight/Mage/Rogue/Paladin/Warrior (built); Ghost Mage of Septavius"],
+   "colorFlashes": "",
+   "taunts": [
+    "Enough! You shall not survive another wave of my deadly attacks!",
+    "I am weak... I cannot stay immortal forever!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix 'Septavius the Ghost God'). ALREADY BUILT (BehaviorDb.UndeadLair.cs:16). CORROBORATION: 'Enough! You shall...' = built 'Enough! You shall not survive another wave of my deadly attacks!' (verbatim, full); 'I am weak... I am weak...' (my on-screen read) = built 'I am weak... I cannot stay immortal forever!' (the built full line is correct; the on-screen showed the 'I am weak...' opening). Both confirm the build. No new taunt; no correction needed."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "lucky box / lucky key (LOOTBOX: 'You have opened a lucky box! Obtaining...'; 'u d12 lucky key and 1 lucky box')",
+  "crate + receipt loot ('You have opened a crate! Obtaining a [Spin?]...'; 'You have identified the receipt!')",
+  "Loot Notifier 'VoltiPlay just unboxed a [...]'"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Uvuvwevwevwe has been defeated (announcer Minotaur; built ROTF boss)",
+  "A Firebreather has just spawned (announcer Blob; base/known)"
+ ],
+ "mechanics": "DOCUMENTED ROTF SYSTEMS: (1) LUCKY-BOX / LUCKY-KEY LOOTBOX — 'lucky box' opened via 'lucky key' ('u d12 lucky key and 1 lucky box'; 'You have opened a lucky box! Obtaining...'). (2) CRATE + RECEIPT two-step loot ('opened a crate' + 'identified the receipt'). (3) a 'Loot Notifier' + multi-persona event ANNOUNCERS (Death Notifier with 0/8 counter, Minotaur, Blob). (4) the 0/8 dungeon-challenge counter in death lines. (5) X1.7.0 ROTF version banner. Boss: Septavius summon-and-wave (built).",
+ "uncertain": "Septavius taunts are CORROBORATION of the already-built boss (no new content; the built full lines are correct). Attacks DOCUMENTED-from-frames but SPARSE (Septavius is summon-heavy; the b001 frames show scattered white bullets + minions, no dense geometry) -> classified summon/scatter, consistent with the build. The dungeon is the Undead Lair (Septavius's lair) — NOT the no-footage 'Gate to the Underworld' (distinct). Chat is event-feed + lootbox heavy; the only boss-prefix lines are the 2 Septavius taunts. X1.7.0 confirms ROTF.",
+ "confidence": "MEDIUM (corroboration). GENUINE ROTF (VoltiPlay, X1.7.0). Best value: CORROBORATES built Septavius the Ghost God (2 taunts verbatim — confirms the build is accurate) + DOCUMENTS the Undead Lair map (checkered-corridor maze + central red cross chamber) + the lucky-box/key LOOTBOX + crate/receipt loot systems + event announcers. No new buildable boss/taunt (Septavius already built; Uvuvwuwuwe/Firebreather are built/base). Recorded honestly: built-boss corroboration, attacks DOCUMENTED-but-sparse, Undead-Lair NOT conflated with Gate-to-the-Underworld, no fabrication. No follow-up needed (boss already built)."
+}

@@ -1,0 +1,18 @@
+{
+ "dungeon": "GENUINE ROTF run — a PURPLE-TILED VAULT dungeon + a RED concentric-ring boss arena (2 fights). NO new boss taunts captured (chat = event feed + system messages on a hard-to-read purple background). Main value = EVENT-FEED CORROBORATION of built bosses (Uvuvwuwuwe, Treesmasher) + map/attack data.",
+ "map": "DOCUMENTED-from-frames: a PURPLE/MAGENTA BRICK-TILED VAULT dungeon — structured rooms with chests + a boss room, a blue/cyan circular pool (b002); and a RED/ORANGE CONCENTRIC-RING BOSS ARENA (nested red rings, bullets — b003, the recurring red-chamber arena family). Two distinct fight areas; per-dungeon room sequence not traced.",
+ "bosses": [
+  {"name":"(purple-vault boss — unnamed)","phases":[],"attacks":["DOCUMENTED-from-frames (approx): sparse bullets in a purple-tiled vault room"],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-frames. No name (no boss taunt readable on the purple background). Purple-vault dungeon (b002)."},
+  {"name":"(red concentric-ring arena boss — unnamed)","phases":[],"attacks":["DOCUMENTED-from-frames: bullets within a RED CONCENTRIC-RING arena (radial/geometric in nested rings)"],"minions":[],"colorFlashes":"red","taunts":[],"note":"DOCUMENTED-from-frames. No name. Red concentric-ring arena (b003) — same arena family as other recovered red-chamber bosses."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [
+  "Uvuvwuwuwe ('Chimera: The Uvuvuvwuwuwe has been defeated! (4/25)') — CORROBORATES the built Uvuvwuwuwe realm boss",
+  "Treesmasher ('Chimera: Treesmasher has just spawned!') — CORROBORATES the built/verified Treesmasher",
+  "Ghost Ship (Golem: defeated), Lord of the Lost Lands (Golem: defeated), Pentaract Tower Ultra (Golem: spawned) — base/event bosses"
+ ],
+ "mechanics": "DOCUMENTED: a ROTF run (purple vault + red concentric arena). EVENT-FEED CORROBORATION (high value): 'Chimera: The Uvuvwuwuwe has been defeated!' + 'Chimera: Treesmasher has just spawned!' confirm BOTH built bosses are real realm-event bosses (grounds the Uvuvwuwuwe 0x8f0f + Treesmasher builds). Multi-persona announcers (Golem, Chimera) + /25 counter. An uncertain Oryx line 'Can I... keep... her there... alive...' (cut; possibly ROTF-custom, NOT confirmed). ATTACKS: 2 unnamed fights — purple vault (sparse) + red concentric arena (radial/geometric), DOCUMENTED-from-frames approx.",
+ "uncertain": "No new boss names/taunts (chat is event-feed + system on a low-contrast purple background). Both fight bosses unnamed. Oryx 'Can I... keep... her there... alive...' line cut/uncertain (not committed). Attack geometry approximate.",
+ "confidence": "LOW for new bosses/taunts. MEDIUM-HIGH for CORROBORATION — Uvuvwuwuwe + Treesmasher confirmed as real realm-event bosses (grounds two builds). MEDIUM for map (purple vault + red concentric arena) + attacks (approx). GENUINE ROTF. Not a source of new buildable taunts; corroboration + biome/attack data."
+}

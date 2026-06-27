@@ -1,0 +1,58 @@
+# =============================================================================
+#  Ordinary Client / ROTF — .gitignore
+#  NOTE: git does not support trailing/inline comments; keep comments on their
+#  own lines so patterns match correctly.
+# =============================================================================
+
+# --- Huge research intermediates (NOT committed; reproducible from the pipeline) ---
+# 53 GB of extracted video frames. Re-derive from scripts/video/queue.txt + the
+# scripts/video/*.sh pipeline. The *analysis* output (docs/video-recovery/*.json)
+# IS committed — that's the recovered specs; only the raw frames are excluded.
+docs/video-recovery/frames/
+
+# Source gameplay footage used only as recovery input (large + third-party).
+videos/
+
+# --- .NET server build outputs ---
+server/*/bin/
+server/*/obj/
+**/bin/Debug/
+**/bin/Release/
+server/**/logs/
+
+# --- Flash client build ---
+# client/.buildsdk/ is the downloaded Apache Flex SDK (~120 MB) — reproducible.
+client/bin-debug/
+client/bin-release/
+client/.buildsdk/
+
+# --- Backups / scratch cruft ---
+# Covers dev_queue.json.bak, queue.txt.bak, *.netfx.bak, sln backups, etc.
+*.bak
+*.orig
+*.tmp
+
+# --- runtime / logs ---
+*.log
+dump.rdb
+appendonly.aof
+
+# --- web launcher ---
+node_modules/
+.next/
+.env
+.env.local
+.env.*.local
+
+# --- local Claude Code / agent state (per-developer, not shared) ---
+# MORNING_TODO.md is a personal working note — kept locally, not published.
+.claude/settings.local.json
+.claude/*.lock
+MORNING_TODO.md
+
+# --- os / editor ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

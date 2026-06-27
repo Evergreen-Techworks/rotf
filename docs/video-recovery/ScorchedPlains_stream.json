@@ -1,0 +1,13 @@
+{
+ "dungeon": "Scorched Plains",
+ "map": "This 2h stream was mostly general/GALACTIC farming (brown/orange arenas + a red/lava room), not a dedicated Scorched Plains dive. Scorched Plains = fire/lava biome (per wiki + the lava room seen).",
+ "bosses": [
+   {"name":"The Firebreather (Scorched Plains boss)","phases":[],"attacks":["fire/lava themed"],"minions":[],"colorFlashes":"","taunts":[]}
+ ],
+ "minions": [],
+ "drops": ["Firebreather's Tail (wiki)","Head of the Firebreather (wiki)","The Searing Blood (wiki)","Flameblast Staff (wiki — 2nd boss)","Blazetalon (wiki)"],
+ "mechanics": "",
+ "systems_confirmed_from_chat": "GALACTIC tier-4 'BPriest' (Bulwark-of-the-Surgeon Priest) meta in live use ('LF GL 4 BPRIEST') — matches the wiki strategy. Special Crate unboxing. Items mentioned: Cold Sword, Void Dagger, Unholy Sacred (wand?).",
+ "uncertain": "Stream didn't do a dedicated Scorched Plains run; Firebreather defeat confirmed but no Scorched map/taunts isolated. Item names partial.",
+ "confidence": "MEDIUM — Firebreather (Scorched boss) confirmed defeated; GL4 BPriest meta confirmed; Scorched drops/2nd-boss (Blazetalon/Flameblast) from wiki. No dedicated Scorched dive in this stream."
+}

@@ -1,0 +1,4 @@
+# Zucc
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Zucc&prop=wikitext
+
+asdf

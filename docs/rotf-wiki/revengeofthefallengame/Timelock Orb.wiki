@@ -1,0 +1,4 @@
+# Timelock Orb
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Timelock%20Orb&prop=wikitext
+
+asdf

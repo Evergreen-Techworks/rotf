@@ -1,0 +1,16 @@
+# Wand of Retribution
+# https://rotfserver.fandom.com/api.php?action=parse&page=Wand%20of%20Retribution&prop=wikitext
+
+{{ItemInfo|name = Wand of Retribution
+|desc = A golden wand of breathtaking power, created by elemental forces from the realms of ice and flame to unleash revenge on their enemies.
+|slot = wand
+|tier = T14
+|minDmg = 120
+|maxDmg = 160
+|shots = 1
+|range = yes
+|projSpeed = 10
+|lifetime = 800
+|pierce = Shots hit multiple targets
+|dropsFrom = drops randomly from bosses in the Necropolis
+}}

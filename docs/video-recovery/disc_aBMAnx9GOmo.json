@@ -1,0 +1,15 @@
+{
+ "dungeon": "ROTF NEXUS clip (~39s, player 'hawapk', facecam + 'Subscribe my friend... in comment' promo). NOT a dungeon/boss fight — it's the Nexus hub (vault chests + fountain). Confirmed ROTF (not official DECA, despite a 'www.realmofthemadgod.com' Flash-client title) by the event feed naming BUILT ROTF-custom bosses (Shadowscale, Warbringer). LOW yield: event-feed corroboration only, no boss fought.",
+ "map": "DOCUMENTED-from-f_: the NEXUS hub — a tan/sandy floor with rows of VAULT CHESTS + a central FOUNTAIN (top), player spawn area. Not a dungeon; no boss arena. (Standard RotMG Nexus layout.)",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [
+  "A Shadowscale has spawned/defeated (BUILT ROTF boss -> confirms ROTF server)",
+  "Warbringer has spawned (BUILT ROTF boss)",
+  "Pentaract Tower Ultra (ROTF epic-event variant)"
+ ],
+ "mechanics": "NONE new. ROTF Nexus hub clip: vault chests + fountain; a global event feed corroborating BUILT ROTF bosses (Shadowscale, Warbringer, Pentaract Tower Ultra) -> confirms this is the ROTF server (not official DECA). Creator promo (subscribe/comment) + facecam. No boss fought, no dungeon, no new content.",
+ "uncertain": "The Flash-client title 'www.realmofthemadgod.com' initially suggested official DECA, BUT the event feed names ROTF-CUSTOM bosses (Shadowscale/Warbringer) -> it IS the ROTF server (the title is the client framing). It's the NEXUS (no dungeon/boss fight). Chat is small over the sandy floor; the readable lines are event-feed + promo. No boss taunt (none fought).",
+ "confidence": "HIGH that this is a ROTF NEXUS clip (not a dungeon) with NO boss fight -> NO new content (bosses=[]). Event-feed corroborates built ROTF bosses (Shadowscale/Warbringer/Pentaract Tower Ultra) + confirms the ROTF server. Recorded honestly: Nexus hub, event-feed only, no fabrication. No build/enrich content. (Note: 'realmofthemadgod.com' client title is NOT a DECA exclusion here — the ROTF-custom event bosses confirm ROTF.)"
+}

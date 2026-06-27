@@ -1,0 +1,12 @@
+{
+ "dungeon": "Hunt (General 1h stream — 57 area transitions analyzed)",
+ "map": "Mostly REALM/GODLANDS farming: recurring SANDY DESERT expanses + ORANGE/LAVA rooms, with green grass (realm/Nexus), a few PURPLE cosmic/Galactic glimpses, and water/forest. The 57 loading-screen transitions are largely Nexus<->realm<->godlands moves, not the rare dungeons.",
+ "bosses": [],
+ "minions": [],
+ "drops": ["Bow of the Lightning God (UT bow — item tooltip seen: Tier UT, multiple targets, FameBonus 6%, Soulbound; matches a wiki page)"],
+ "mechanics": "",
+ "biomes_identified": ["sandy desert (dominant)","orange/lava rooms","green realm/godlands","purple cosmic/Galactic (a few)","water/forest"],
+ "no_footage_dungeons_found": "None confirmed by name in this stream — desert biome is present (possible Gate-to-the-Underworld relevance) but no dungeon-name banner captured; no castle interior (Craig's Castle) seen.",
+ "uncertain": "Dungeon-name banners not legible at thumbnail scale; player (RuinedBow) was mostly maxing/farming, so few true dungeon dives. Chat = idle banter.",
+ "confidence": "MEDIUM — biomes documented + 1 item name; the transition-detection method validated (57 entries auto-found), but this stream had little rare-dungeon content."
+}

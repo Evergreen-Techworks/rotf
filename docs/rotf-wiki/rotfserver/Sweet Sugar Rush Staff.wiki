@@ -1,0 +1,4 @@
+# Sweet Sugar Rush Staff
+# https://rotfserver.fandom.com/api.php?action=parse&page=Sweet%20Sugar%20Rush%20Staff&prop=wikitext
+
+{{ItemInfo|name = Sweet Sugar Rush Staff|desc = A yummy staff that casts Chocolate Projectiles. Thanks to :pepus|rarity = u|slot = staff|tier = UT|minDmg = 95|maxDmg = 100|shots = 1|rof = 120|range2 = 6|fameb = 2|effects = yes|multihit = yes|boomerang = yes|dropsFrom = drops from bosses in Candy land}}

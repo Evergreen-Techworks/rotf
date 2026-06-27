@@ -1,0 +1,272 @@
+# Leather Armors
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Leather%20Armors&prop=wikitext
+
+It's the armor of medium range classes (archer, huntress, rogue, trickster, assassin and ninja). It focuses on average defense and offensive stats. 
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = BonemailOfTheFallen.png
+| link = Bonemail of the Fallen
+| text = Bonemail of the Fallen
+}}
+| {{ImageBlack
+| file = LycaonsHide.png
+| link = Lycaon's Hide
+| text = Lycaon's Hide
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlack
+| file = LokisRaiment.png
+| link = Loki's Raiment
+| text = Loki's Raiment
+}}
+|{{ImageBlack
+| file = CarriersSuit.png
+| link = Carrier's Suit
+| text = Carrier's Suit
+}}
+|{{ImageBlackLarge1
+| file = MalevolentArmor.png
+| link = Malevolent Armor
+| text = Malevolent Armor
+}}
+|{{ImageBlackLarge1
+| file = HarlequinArmor.png
+| link = Harlequin Armor
+| text = Harlequin Armor
+}}
+|{{ImageBlackLarge2
+| file = RedBeehemothArmor.png
+| link = Red Beehemoth Armor
+| text = Red Beehemoth Armor
+}}
+|{{ImageBlack
+| file = ArmorOfNil.png
+| link = Armor of Nil
+| text = Armor of Nil
+}}
+|{{ImageBlackLarge1
+| file = CheaterLightArmor.png
+| link = Cheater Light Armor
+| text = Cheater Light Armor
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = DestructorArmor.png
+| link = Destructor Armor
+| text = Destructor Armor
+}}
+|{{ImageBlackLarge2
+| file = LeatherArmorOfTheAsgardGuardian.png
+| link = Leather Armor of the Asgard Guardian
+| text = Leather Armor of the Asgard Guardian
+}}
+|{{ImageBlackLarge1
+| file = ArmorOfTheDepths.png
+| link = Armor of the Depths
+| text = Armor of the Depths
+}}
+|{{ImageBlackLarge1
+| file = LightningGodArmor.png
+| link = Lightning God Armor
+| text = Lightning God Armor
+}}
+|{{ImageBlack
+| file = AcidArmor.png
+| link = Acid Armor
+| text = Acid Armor
+}}
+|{{ImageBlackLarge2
+| file = WoodenArmorOfTheAppleTree.png
+| link = Wooden Armor of the Apple Tree
+| text = Wooden Armor of the Apple Tree
+}}
+|-
+|{{ImageBlackLarge1
+| file = SpectralClothArmor.png
+| link = Spectral Cloth Armor
+| text = Spectral Cloth Armor
+}}
+|{{ImageBlackLarge1
+| file = LeafDragonHideArmor.png
+| link = Leaf Dragon Hide Armor
+| text = Leaf Dragon Hide Armor
+}}
+|{{ImageBlackLarge2
+| file = BlueBeehemothArmor.png
+| link = Blue Beehemoth Armor
+| text = Blue Beehemoth Armor
+}}
+|{{ImageBlackLarge1
+| file = CoralSilkArmor.png
+| link = Coral Silk Armor
+| text = Coral Silk Armor
+}}
+|{{ImageBlackLarge1
+| file = FrostDrakeHideArmor.png
+| link = Frost Drake Hide Armor
+| text = Frost Drake Hide Armor
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = TheScorchedArmor.png
+| link = The Scorched Armor
+| text = The Scorched Armor
+}}
+|{{ImageBlackLarge1
+| file = ChampionsAttire.png
+| link = Champion's Attire
+| text = Champion's Attire
+}}
+|{{ImageBlackLarge1
+| file = TheHiddenArmor.png
+| link = The Hidden Armor
+| text = The Hidden Armor
+}}
+|{{ImageBlackLarge1
+| file = TheRelentlessArmor.png
+| link = The Relentless Armor
+| text = The Relentless Armor
+}}
+|-
+|{{ImageBlack
+| file = MantleOfSkuld.png
+| link = Mantle of Skuld
+| text = Mantle of Skuld
+}}
+|{{ImageBlack
+| file = ApiaryArmor.png
+| link = Apiary Armor
+| text = Apiary Armor
+}}
+|{{ImageBlackLarge1
+| file = GolemGarments.png
+| link = Golem Garments
+| text = Golem Garments
+}}
+|{{ImageBlackLarge1
+| file = RagsOfTheHost.png
+| link = Rags of the Host
+| text = Rags of the Host
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Unique</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = SnakeskinArmor.png
+| link = Snakeskin Armor
+| text = Snakeskin Armor
+}}
+|{{ImageBlackLarge2
+| file = YellowBeehemothArmor.png
+| link = Yellow Beehemoth Armor
+| text = Yellow Beehemoth Armor
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = CosmicDragonhide.png
+| link = Cosmic Dragonhide
+| text = Cosmic Dragonhide
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = HippogriffHideArmor.png
+| link = Hippogriff Hide Armor
+| text = Hippogriff Hide Armor
+}}
+|{{ImageBlackLarge1
+| file = GriffonHideArmor.png
+| link = Griffon Hide Armor
+| text = Griffon Hide Armor
+}}
+|{{ImageBlackLarge1
+| file = HydraSkinArmor.png
+| link = Hydra Skin Armor
+| text = Hydra Skin Armor
+}}
+|{{ImageBlackLarge1
+| file = WyrmhideArmor.png
+| link = Wyrmhide Armor
+| text = Wyrmhide Armor
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlack
+| file = WolfskinArmor.png
+| link = Wolfskin Armor
+| text = Wolfskin Armor
+}}
+|{{ImageBlack
+| file = LeatherArmor.png
+| link = Leather Armor
+| text = Leather Armor
+}}
+|{{ImageBlackLarge1
+| file = BasiliskHideArmor.png
+| link = Basilisk Hide Armor
+| text = Basilisk Hide Armor
+}}
+|{{ImageBlackLarge1
+| file = MinotaurHideArmor.png
+| link = Minotaur Hide Armor
+| text = Minotaur Hide Armor
+}}
+|{{ImageBlack
+| file = BearskinArmor.png
+| link = Bearskin Armor
+| text = Bearskin Armor
+}}
+|{{ImageBlackLarge1
+| file = ChimeraHideArmor.png
+| link = Chimera Hide Armor
+| text = Chimera Hide Armor
+}}
+|-
+|{{ImageBlackLarge1
+| file = WyvernSkinArmor.png
+| link = Wyvern Skin Armor
+| text = Wyvern Skin Armor
+}}
+|{{ImageBlackLarge1
+| file = StuddedLeatherArmor.png
+| link = Studded Leather Armor
+| text = Studded Leather Armor
+}}
+|{{ImageBlackLarge1
+| file = DrakeHideArmor.png
+| link = Drake Hide Armor
+| text = Drake Hide Armor
+}}
+|{{ImageBlackLarge1
+| file = RocLeatherArmor.png
+| link = Roc Leather Armor
+| text = Roc Leather Armor
+}}
+|{{ImageBlackLarge1
+| file = LeviathanArmor.png
+| link = Leviathan Armor
+| text = Leviathan Armor
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

@@ -1,0 +1,4 @@
+# Ray Katana
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Ray%20Katana&prop=wikitext
+
+asdf

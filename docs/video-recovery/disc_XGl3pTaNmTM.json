@@ -1,0 +1,28 @@
+{
+ "dungeon": "ROTF realm + multi-dungeon run (172 frames) — Craig + God of Reptilians taunts CONFIRMED, The Zuck (Starforce), Suspicious Looking Dragon (new), /25 event feed, potion-overflow-to-vault. GENUINE ROTF.",
+ "source": "video disc_XGl3pTaNmTM (172 f_, 43 chat, 21 minimap, 1 transition at 0s). Intro text references making a Necro '8/8 ... to Star Force'. Biomes on contact sheet: GREY STONE LABYRINTH (Starforce/Shatters-like), ORANGE VOLCANIC CRATER arena (green center), desert/sandstone, purple dungeons, green forest. Heavy chat event-feed + verbatim boss taunts.",
+ "bosses": [
+  {"name":"Craig, The Worst Nightmare","phases":["anger escalation"],"attacks":[],"minions":[],"colorFlashes":"","taunts":["I'M STARTING TO GET ANGRY!!!","HAHAHA, I AM INCREASING [IN STRENGTH]!","DESTROY YOU EVEN MORE!!!","NOOOOOOOOOOO!!!"],"note":"DOCUMENTED-from-chat. CONFIRMS the full built Craig taunt set verbatim (BehaviorDb.Craig.cs) across multiple repeats."},
+  {"name":"God of Reptilians","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Let's get a little bit more serious...","Prepare to meet your purpose, DOOM...","Don't push your luck... 'adventurer'"],"note":"DOCUMENTED-from-chat. CONFIRMS built taunts (BehaviorDb.OCBosses.cs). NOTE the 3rd line here is the 'adventurer' variant; the built version ends 'on DEATH!!!' — both real. Spawns as a realm event ('A God of Reptilians has just spawned!')."},
+  {"name":"The Zuck","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'Starforce - The Zuck has been defeated!' -> The Zuck is a STARFORCE-zone boss (links the ledger's 'Starforce Zone' partial + 'The Zuck' TODO). Meme boss (Zuckerberg)."},
+  {"name":"Suspicious Looking Dragon","phases":[],"attacks":["earthquake/ground theme"],"minions":[],"colorFlashes":"","taunts":["...vibrations from deep down below..."],"note":"DOCUMENTED-from-chat (NEW boss): 'The Suspicious Looking Dragon has been defeated' + the 'vibrations from deep down below...' line. A dragon/earthquake-themed boss."},
+  {"name":"Lucky Lint God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'A Lucky Lint God has just spawned!' / 'The Lucky Lint God has been defeated! (1/2?)'. This is the full name of the 'Lucky God' seen earlier (disc_wsRSijbExRI) — a meme luck boss."},
+  {"name":"Anubis","phases":[],"attacks":[],"minions":["Pillars"],"colorFlashes":"","taunts":["Pillars... please help me!"],"note":"DOCUMENTED-from-chat: re-confirms the built Anubis taunt (Anubi's Lair)."}
+ ],
+ "minions": [],
+ "drops": ["Fire Sword (a UT 'fire sword' sold in chat for ~300 fame; flavor 'with this you are invincible...'; not confirmed stats)"],
+ "event_bosses_seen_in_global_feed": [
+  "The Cube God has been defeated! (3/25)",
+  "The Shadowscale has been defeated! (9/25, then 10/25)",
+  "The Asgard Guardian has been defeated! (2/25)",
+  "The Ghost Ship has been defeated! (17/25)",
+  "The Skull Shrine has been defeated! (22/25)",
+  "A God of Reptilians has just spawned!",
+  "A Lucky Lint God has just spawned! / defeated (1/2?)",
+  "Starforce - The Zuck has been defeated!",
+  "The Suspicious Looking Dragon has been defeated"
+ ],
+ "mechanics": "DOCUMENTED: (1) EVENT-COUNTER denominator VARIES by realm/event — this stream uses (N/25) (Cube God 3/25, Shadowscale 9-10/25, Asgard Guardian 2/25, Ghost Ship 17/25, Skull Shrine 22/25), whereas disc_wsRSijbExRI used /30. So the realm-event tracker is per-realm-configurable, not a fixed /30. (2) POTION OVERFLOW -> VAULT: once a stat is maxed (8/8), further stat potions auto-route to storage — verbatim 'You're already maxed. Potion of Life has been sent to [vault]' + same for 'Potion of Mana'. Adds to the stat-pot cap system. (3) STARFORCE zone has a boss 'The Zuck'. (4) '8/8' stat-maxing culture ('are you 0/8 shaming', 'shame we have a bunch of 0/8s').",
+ "uncertain": "Suspicious Looking Dragon taunt ('vibrations from deep down below...') read from the wider montage, medium confidence. Some counter values partial (Lucky Lint God '1/2?'). The grey-labyrinth biome = Starforce vs Shatters not confirmed by an entry name (only 1 transition, at 0s). Fire sword stats not captured.",
+ "confidence": "HIGH for the verbatim chat: Craig + God of Reptilians taunts (both CONFIRM built content), 'Starforce - The Zuck', Lucky Lint God, Anubis re-confirm, the /25 counter, and the potion-overflow-to-vault lines. MEDIUM for the Suspicious Looking Dragon. GENUINE ROTF."
+}

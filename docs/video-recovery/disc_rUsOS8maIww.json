@@ -1,0 +1,39 @@
+{
+ "dungeon": "GENUINE ROTF ~78-MINUTE MARATHON grind/farm stream (812 f_, 1219 chat, 43 dungeon entries, 43 bossend groups; subscriber-goal overlay; non-facecam, readable chat). SAMPLED (not exhaustively processed) per the keep-work-small rule: ~15 chat frames across the run + several bossends. Chat is EVENT-FEED + subscriber-goal + lootbox heavy; recurring built/base bosses; NO new boss-prefix taunt surfaced in the sample.",
+ "map": "DOCUMENTED-from-frames (multi-dungeon marathon; 43 entries over ~78 min): a long hop through GREEN grass realms, RED/LAVA arenas (Abyss of Demons), brown DIRT, dark SPACE, grey CHECKERED, white/ICE, and sandy biomes. No single contiguous layout (marathon farm). MOTD 'Welcome to Realm of the Mad God!'.",
+ "bosses": [
+  {
+   "name": "Cracked Core",
+   "phases": [],
+   "attacks": ["not cleanly traced this sample (bossends span realm transitions, crowd-obscured)"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-feed (Starforce: 'A Cracked Core has just spawned!' / 'has been defeated'; repeated). ALREADY BUILT (OCBosses.cs glitch boss). Recurring fought/farmed boss this marathon -> corroboration. No new taunt captured in the sample (feed lines only)."
+  },
+  {
+   "name": "Archdemon Malphas",
+   "phases": [],
+   "attacks": ["not isolated (multi-dungeon)"],
+   "minions": ["demons/minions"],
+   "colorFlashes": "",
+   "taunts": [
+    "My minions are failing me! I will..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix 'Archdemon Malphas', Abyss). BASE-GAME -> CANONICAL/no-build, corroboration ('My minions are failing me!' matches prior disc_61_b9zF-2_E; tail-cut)."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Special Crate (lootbox, 'You have opened a Special Crate, obtaining a [...]')",
+  "maxed potions auto-routed ('You're already maxed. Potion of Wisdom has been sent...')"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Cracked Core (spawned/defeated, Starforce; built) — corroboration",
+  "Archdemon Malphas + Leviathan (death-cause; base/Abyss)",
+  "/8 death-counter lines (Death Notifier)"
+ ],
+ "mechanics": "DOCUMENTED ROTF SYSTEMS (corroboration): /8 dungeon-challenge counter (death lines), Special Crate LOOTBOX, MAXED-POTION auto-routing, multi-persona announcers (Starforce/Death Notifier), subscriber-goal stream overlay. Recurring bosses = built Cracked Core (glitch) + base Archdemon Malphas (Abyss) + Oryx. A 78-min grind/farm; ROTF-confirmed (built Cracked Core + announcer systems; MOTD generic).",
+ "uncertain": "HUGE tag (78 min / 43 fights / 1219 chat) -> SAMPLED ONLY (~15 chat frames + a few bossends), NOT exhaustive: 'no new boss taunt' = NONE FOUND IN SAMPLE, not a definitive absence (a deeper pass over all 43 bossends could surface more). Sampled chat is event-feed + subscriber-goal + lootbox heavy; recurring bosses are built (Cracked Core) / base (Malphas, Oryx) -> corroboration. Attacks crowd-obscured (bossends span realm transitions). ROTF-confirmed (Cracked Core built; not TFR/Valor — no gems banner).",
+ "confidence": "LOW (new content, sampled) / corroboration. GENUINE ROTF 78-min marathon. Sample found only corroboration: built Cracked Core (farmed) + base Archdemon Malphas ('My minions are failing me!') + ROTF systems (/8, Special Crate, maxed-pot, announcers). NO new boss/taunt surfaced in the sample. Recorded honestly with an explicit SAMPLING caveat (not exhaustive; 43 fights), base-vs-built flagged, attacks not fabricated, ROTF-confirmed. Best follow-up: if higher-value, a dedicated deep pass over this tag's 43 bossends/chat for any buried boss taunts."
+}

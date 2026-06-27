@@ -1,0 +1,12 @@
+{
+    "id": 0,
+    "name": "Illusion",
+    "sbName": "Illusion",
+    "difficulty": 3,
+    "background": 0,
+    "blocking": 0,
+    "restrictTp": false,
+    "showDisplays": true,
+    "persist": false,
+    "portals": [ 33280 ]
+}

@@ -1,0 +1,19 @@
+# How To Play
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=How%20To%20Play&prop=wikitext
+
+How to play? 
+
+Revenge of the Fallen is a game developed in flash player, so to play it, you will first need to download Flash Player
+
+Before playing, please read our rules over in the wiki or in the discord to prevent getting punished. ==> [https://revengeofthefallengame.fandom.com/wiki/Rules Rules] <==
+
+'''Don't have Flash Projector? Download it here!''' http://www.mediafire.com/file/61yyz8mjn63l3z1/flashplayer_18_sa.exe/file
+
+To learn how to use Flash Projector, <u>follow this link</u>: https://gyazo.com/c7302ef62c46fee689fa8f4aa3a9496e
+
+<em>You can also play on our Webclient, where you also find the lastest Flash Projector link: https://rotf.io/webclient.html</em>
+
+'''Trouble connecting? Try these!''' 
+* Go to Control Panel (Can be accessed by Windows key + R and typing in Control Panel>Flashplayer Settings>Advanced>Trusted Locations> https://rotf.io/ <- Paste the link in.
+* Open port 2050 if its not already open Disable your Firewall.<code>.</code> Download the latest version OR a different version of Flash Projector. Try using a VPN (Virtual Private Network)
+* Keep in mind that downloading the Client, will prevent you from joining, you need to follow the first link intructions.

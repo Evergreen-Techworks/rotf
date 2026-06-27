@@ -1,0 +1,4 @@
+# Epic Abyss
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Epic%20Abyss&prop=wikitext
+
+#REDIRECT [[Malphas's Hideout]]

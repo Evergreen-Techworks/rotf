@@ -1,0 +1,14 @@
+{
+ "dungeon": "(CREATOR FAREWELL/GIVEAWAY VIDEO over lava-dungeon footage) ROTF — minimal content; chat watermark-obscured",
+ "source": "video disc_vDLDRAS0kqE (71 frames, 6 transitions, 18 chat). A content creator's 'taking a break from YouTube' farewell + giveaway video, recorded over RED LAVA dungeon footage. Chat is heavily obscured by the creator's own big 'rgh ill' annotation watermark.",
+ "map": "DOCUMENTED: a RED LAVA dungeon biome (background). Overlays: break-announcement text + a giveaway with 100k/300k/500k subscriber-reach milestones + 'Thanks for watching' outro + a Discord promo ('DISCORD for WW AND GLITCH-THROUGH').",
+ "bosses": [
+  {"name":"(obscured boss line)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["...CAME TO PARTY AND SUMMON M[E]","Let's see how you perform against..."],"note":"PARTIAL/uncertain — chat is obscured by a large pink 'rgh ill' video watermark. A boss taunt fragment '...CAME TO PARTY AND SUMMON ME' + a 'Let's see how you perform against...' line (cf. Riverborn's 'Let's see how well you play') are partially visible; boss name not legible."}
+ ],
+ "minions": [],
+ "drops": ["Magnificent Green Mower Shuriken (a Ninja shuriken weapon, 'Magnificent' prefix — partially read)"],
+ "event_bosses_seen_in_global_feed": ["Asgard Guardian (defeated)"],
+ "mechanics": "DOCUMENTED (low fidelity — watermark-obscured): a Ninja SHURIKEN weapon 'Magnificent Green Mower Shuriken'; a boss taunt fragment ('...CAME TO PARTY AND SUMMON ME'); Asgard Guardian event; a creator break-announcement + giveaway (100k/300k/500k sub milestones) + Discord ('WW AND GLITCH-THROUGH' = walkthroughs/glitches). Red lava biome.",
+ "uncertain": "Chat heavily obscured by the creator's 'rgh ill' watermark -> most lines unreadable, boss name not captured. 'Magnificent Green Mower Shuriken' read partially. This is primarily a farewell/giveaway video, not gameplay recovery.",
+ "confidence": "LOW — farewell/giveaway video with watermark-obscured chat. HIGH only for: it being a break announcement + the 'Magnificent Green Mower Shuriken' item name (partial) + Asgard Guardian event."
+}

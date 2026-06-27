@@ -1,0 +1,28 @@
+# The Searing Blood
+# https://rotfserver.fandom.com/api.php?action=parse&page=The%20Searing%20Blood&prop=wikitext
+
+{{ItemInfo
+| name = The Searing Blood
+| desc = Collected from the veins of the fallen Firebreather, the blood's fiery structure may have its uses.
+| slot = poison
+| tier = ST
+
+| totalDamage = 1300
+| impactDamage = 450
+| radius = 5.6
+| cost = 130
+| feedp = 400
+| fameb = 5
+
+| effects = yes
+| poison = 850
+| poisonDuration = 4
+
+| lootbag = white
+| dropsFrom = can be found in White Bags dropped by: [[Firebreather]].
+}}
+
+<noinclude>
+{{NavPoisons}}
+[[Category:Poisons]]
+</noinclude>

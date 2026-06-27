@@ -1,0 +1,44 @@
+{
+ "dungeon": "GENUINE ROTF multi-dungeon run (~610s, 6 entries). Corroboration-heavy: BASE-GAME bosses only — Archdemon Malphas (Abyss of Demons) + Dr Terrible & Horrific Creation (Mad Lab). No NEW ROTF-custom boss isolated.",
+ "map": "DOCUMENTED-from-transitions+bossends: a 6-entry hop — RED/LAVA arena (Abyss of Demons), grey/tan CHECKERED grid arenas (Mad Lab-style), tan SANDY grids, dark SPACE/void, and an open GREEN grass realm (b006_459s). No single contiguous layout (multi-dungeon).",
+ "bosses": [
+  {
+   "name": "Archdemon Malphas",
+   "phases": [],
+   "attacks": ["not isolated this tag (multi-dungeon); base Abyss demon-bullet spread + minion swarm"],
+   "minions": ["demons / 'protectors'"],
+   "colorFlashes": "",
+   "taunts": [
+    "Kill my protectors, before you can...",
+    "You will regret your decision.. DIE!",
+    "My minions will slay you!",
+    "My minions are failing me! I will..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Archdemon Malphas', grayscale-pull). BASE-GAME Abyss boss -> CANONICAL/no-build, corroboration (matches disc_PE04BhHHyBk + disc_uFUNEp1GwPM; 'Kill my protectors, before you can...' right-cut, base)."
+  },
+  {
+   "name": "Dr Terrible",
+   "phases": [],
+   "attacks": ["not isolated"],
+   "minions": ["Horrific Creation"],
+   "colorFlashes": "",
+   "taunts": ["Great Scott! I must..."],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Dr Terrible'; right-cut). BASE-GAME Mad Lab boss -> CANONICAL/no-build, corroboration ('Great Scott!' is the canonical Dr Terrible line)."
+  },
+  {
+   "name": "Horrific Creation",
+   "phases": [],
+   "attacks": ["not isolated"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["Me can do this...", "You stay still!"],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Horrific Creation'). BASE-GAME Mad Lab mini-boss (Dr Terrible's creation) -> CANONICAL/no-build, corroboration ('Me can do this'/'You stay still!' are canonical broken-English Horrific Creation lines)."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED but ALL BASE-GAME (no-build/corroboration): Abyss of Demons (Archdemon Malphas) + Mad Lab (Dr Terrible summons Horrific Creation). All taunts are canonical base-game lines. No new ROTF mechanic; no clean attack geometry isolated (multi-dungeon).",
+ "uncertain": "No NEW/ROTF-custom boss (all = base Malphas + base Mad Lab Dr Terrible/Horrific Creation). Several lines right-cut (Malphas 'Kill my protectors...', Dr Terrible 'Great Scott! I must...') -> base-game, not built/guessed. Attacks not traced (multi-dungeon). High chat red-density was the Abyss lava/grid floor.",
+ "confidence": "MEDIUM (corroboration) / NONE (new). GENUINE ROTF multi-dungeon run, but corroboration-only: base Archdemon Malphas (Abyss) + base Dr Terrible & Horrific Creation (Mad Lab). No new buildable content. Recorded honestly (all base-game/no-build). No follow-up needed."
+}

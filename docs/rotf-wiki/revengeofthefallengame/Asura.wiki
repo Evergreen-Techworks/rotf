@@ -1,0 +1,4 @@
+# Asura
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Asura&prop=wikitext
+
+asdf

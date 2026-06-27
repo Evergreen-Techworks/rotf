@@ -1,0 +1,15 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM) ROTF — Cookie Monster + God of Luck taunts + event feed",
+ "source": "video disc_OROH0lDrGTg (857 frames, 3 transitions, 214 chat). Diverse brown-brick + grey-stone dungeons + a gold arena. Chat captured two boss taunts + the event/death feed.",
+ "map": "DOCUMENTED biomes: brown-BRICK dungeons, grey CASTLE-STONE rooms/corridors, dark space arenas (white bullet-hell), green grass realm, blue ICE, brown/tan cliffs, and a GOLD-floor arena with a colorful grid + orange portal (a special boss/reward room).",
+ "bosses": [
+  {"name":"Cookie Monster","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Candy... Candy..."],"note":"DOCUMENTED VERBATIM (boss-colored chat). The meme cookie boss (confirmed spawnable in disc_irmU-KsS6vY) — NOW with a taunt: a candy-craving 'Candy... Candy...'. Event feed: '<Pirate> The Cookie Monster has been defeated'."},
+  {"name":"God of Luck","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You can use your Luck..."],"note":"DOCUMENTED VERBATIM (boss-colored chat, truncated). A LUCK-themed boss — ties to the 'Lucky <God>' variant family (Lucky Djinn/Ent God) and a 'Luck' stat/mechanic. 'You can use your Luck...' hints players spend/use Luck during the fight."}
+ ],
+ "minions": [],
+ "drops": ["Bunny Helm (traded)"],
+ "event_bosses_seen_in_global_feed": ["The Zucc (defeated — meme boss)","Cookie Monster (defeated)","Mad Jester (defeated)"],
+ "mechanics": "DOCUMENTED: (1) Cookie Monster is a real meme boss WITH a taunt ('Candy... Candy...'). (2) God of Luck boss + a 'Luck' mechanic ('You can use your Luck...') — connects to the 'Lucky' variant bosses (Lucky Djinn/Ent God) and a possible Luck stat/resource. (3) Meme event boss 'The Zucc' (Zuckerberg meme). (4) Priest items + Bunny Helm in the trade economy.",
+ "uncertain": "God of Luck taunt truncated ('You can use your Luck [to ...]'). Cookie Monster / God of Luck attacks/HP/dungeons not isolated. Gold-arena boss not named. Whether 'Luck' is a formal stat unconfirmed.",
+ "confidence": "HIGH for the Cookie Monster ('Candy... Candy...') + God of Luck ('You can use your Luck...') taunts + The Zucc meme event. MEDIUM for the Luck-mechanic inference; LOW for dungeon mapping."
+}

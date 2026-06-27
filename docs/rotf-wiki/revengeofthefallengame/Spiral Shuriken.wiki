@@ -1,0 +1,4 @@
+# Spiral Shuriken
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Spiral%20Shuriken&prop=wikitext
+
+asdf

@@ -1,0 +1,24 @@
+{
+ "dungeon": "GENUINE ROTF multi-dungeon run (~230s, 4 entries, narrow 450px capture, players jexhee/voltriPlay). KEY find: a NEW boss 'Masha, the God of War' (2 partial taunts). Mostly player banter otherwise ('this is where crown of ra drops' = base ToTA reference, not a boss). Biomes: green realm / purple grid / lava / dark arena.",
+ "map": "DOCUMENTED-from-transitions: a 4-entry hop — open GREEN grass REALM (t001, 'dungeons' overlay), a PURPLE/magenta GRID arena (t002), a RED/LAVA arena (t003), and a DARK arena with grey/green structures (t004; the Masha fight area). No bossends -> no single layout traced; multi-dungeon.",
+ "bosses": [
+  {
+   "name": "Masha, the God of War",
+   "phases": [],
+   "attacks": ["not isolated (no bossends; narrow 450px capture) -> unknown"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "How did you get...",
+    "Stupid mortals..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Masha, the God of War:' prefix, frame-read chat_00033 grayscale-pull). NEW boss. Both lines TAIL-CUT by the narrow 450px capture: 'How did you get...' (likely '...here?' / '...this far?') + 'Stupid mort[als]...' -> kept readable parts, tails NOT guessed. base-vs-custom: 'Masha' is NOT a base-game RotMG name -> ROTF-CUSTOM war-god boss. NOT built (no .cs/.xml), not in other specs -> genuinely NEW lead. BUILDABLE once the cut tails are recovered (war-god theme; 'Stupid mortals' menace). NOTE: I earlier misread the title as 'Masha, the End of war' -> on re-read it's consistently 'the God of War'."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED (limited — narrow capture, no bossends): NEW boss 'Masha, the God of War' (war-god; condescends to 'mortals'). A possible 3rd boss-coloured line 'everything is departing...' appears with no clear prefix -> UNATTRIBUTED (could be Masha or another boss). Player chat references 'Crown of Ra' (base-game Tomb of the Ancients drop, not a ROTF boss). No clean attack/loot captured.",
+ "uncertain": "Masha's 2 taunts are TAIL-CUT (narrow 450px capture cuts them; tails NOT guessed) -> PARTIAL. The 'everything is departing...' line is unattributed (no prefix). Attack pattern NOT captured (no bossends; capture too narrow for a wide re-crop). base-vs-custom: ROTF-custom (Masha not base). 'Crown of Ra' = player chat (base ToTA), not a boss here. Title self-corrected: 'God of War' (not 'End of war').",
+ "confidence": "MEDIUM (Masha name+theme) / LOW (full taunts). GENUINE ROTF. NEW boss lead 'Masha, the God of War' (war-god, ROTF-custom, NOT built) with 2 PARTIAL tail-cut taunts ('How did you get...' / 'Stupid mortals...'). Recorded honestly: tails cut (not guessed), attack uncaptured, 3rd line unattributed, title self-corrected. BUILDABLE once a wider/cleaner clip gives the full taunts + attack. Best follow-up: a clean Masha fight (the narrow 450px capture here cuts the lines)."
+}

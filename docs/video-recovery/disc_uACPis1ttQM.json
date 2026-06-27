@@ -1,0 +1,12 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM, VoltiPlay) ROTF — size-change chaos mechanic + /trade system",
+ "source": "video disc_uACPis1ttQM (357 frames, 9 transitions, 89 chat). Diverse dungeons (lava-brick heavy). Chat captured a size-change effect + trade system + event feed (no boss taunts).",
+ "map": "DOCUMENTED biomes: grey stone/maze, orange/yellow DESERT, brown brick, green grass, brown dirt cave, dark space, blue water dungeon, RED LAVA brick (recurring), tan sandstone temple, white tile.",
+ "bosses": [],
+ "minions": [],
+ "drops": ["alchemy potion (#blessed)"],
+ "event_bosses_seen_in_global_feed": ["Shadowscale (defeated)"],
+ "mechanics": "DOCUMENTED: (1) SIZE-CHANGE CHAOS effect — '[Server] Your size has been changed to 1000!' then '...to 50!' — a boss/event randomly resizes players (1000% huge -> 50% tiny); players react ('cant see', 'STOP'). Likely the 'Transmutation' event boss (seen in earlier feeds) or a meme effect. (2) TRADE system — 'Selam wants to trade with you. Type /trade' (a /trade request/command). (3) Item 'alchemy potion' with a '#blessed' tag. Event: Shadowscale defeated.",
+ "uncertain": "The size-change source not pinned (boss vs event vs command) — 'Transmutation' is the likely culprit. No boss taunts captured. Dungeon names not printed. '#blessed' item tag meaning unclear.",
+ "confidence": "HIGH for the SIZE-CHANGE chaos mechanic ('Your size has been changed to N!') + the /trade request system. MEDIUM for attributing size-change to Transmutation; no boss taunts this run."
+}

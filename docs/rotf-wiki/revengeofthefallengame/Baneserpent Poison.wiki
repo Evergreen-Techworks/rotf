@@ -1,0 +1,4 @@
+# Baneserpent Poison
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Baneserpent%20Poison&prop=wikitext
+
+asdf

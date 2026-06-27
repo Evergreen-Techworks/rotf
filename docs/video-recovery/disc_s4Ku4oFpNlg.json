@@ -1,0 +1,15 @@
+{
+ "dungeon": "NON-ROTF / DIFFERENT private server (mis-pull) — this is the 'VALOR' RotMG private server, NOT ROTF (Revenge of the Fallen). The video opens on a Discord screenshot of the 'Valor' server (#general, owner 'Krok', its own dev/mod roles) with a 'Discord's Link in description / Server's Link in Comment' promo, then Valor gameplay. Its custom bosses (Terradius/Larry Gigsman/Rock Construct/Stone of Blood) do NOT match the ROTF roster -> recorded as a non-target exclusion; NO ROTF content to build.",
+ "map": "N/A for ROTF — Valor-server gameplay only: purple/dark GRID bullet arenas, a RED/LAVA arena, and tan SANDY arenas (typical RotMG-private-server biomes). Not a ROTF dungeon; no ROTF layout to record.",
+ "bosses": [],
+ "minions": [],
+ "drops": [
+  "(VALOR-server, not ROTF) 'Ascended Lootbox Notifier - You have received ...' — Valor's lootbox tier"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "(VALOR-server bosses, NOT ROTF) Larry Gigsman, the Superhuman; Rock Construct ('We are impervious to no...'); Hand of Terradius ('It..is...over'); Terradius (deity w/ 'heralds'); Stone of Blood; Oryx the Mad God ('Wretched mongrels!' / 'My 5 Liches will feast...')"
+ ],
+ "mechanics": "NONE for ROTF. Observed VALOR-server content (NOT ROTF, NOT buildable here): custom bosses 'Larry Gigsman, the Superhuman', 'Rock Construct', 'Hand of Terradius' + a 'Terradius' deity with 'heralds', 'Stone of Blood'; an 'Ascended Lootbox' tier; a custom Oryx variant ('My 5 Liches will feast...'). The base Oryx line 'Wretched mongrels!' is canonical (any RotMG server). This is a different private server (Valor) -> all of its custom bosses belong to Valor, importing them would be lifting another server's content.",
+ "uncertain": "Classification is clear: the Discord is explicitly the 'Valor' server (own owner/roles), and the bosses (Terradius/Larry Gigsman the Superhuman/Rock Construct/Stone of Blood) are NOT in ROTF's roster (Ortar/Craig/Marble Colossus/Asgard/galactic etc.) -> this is a DIFFERENT private server, a non-target mis-pull. The Valor boss lines are partial/right-cut but enough to ID the server as non-ROTF. (If 'Valor' were ever confirmed an alias of ROTF, revisit — but no shared bosses/branding seen.)",
+ "confidence": "HIGH that this is a NON-ROTF mis-pull (the 'Valor' RotMG private server, with its own Discord + custom bosses Terradius/Larry Gigsman/Rock Construct). NO ROTF boss/dungeon/taunt content to recover (bosses=[]). Recorded honestly as a different-server exclusion (matches the recurring non-target mis-pull pattern: official-DECA, Faer, etc.). Recommend a discovery-side filter to drop non-ROTF private-server (Valor) videos. No follow-up for ROTF."
+}

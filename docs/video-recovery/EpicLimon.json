@@ -1,0 +1,17 @@
+{
+ "dungeon": "Limon's Lair (Epic Limon clip)",
+ "map": "VIDEO: Limon the Sprite God fought in a SQUARE arena of multi-colored 'Sprite World' tiles (purple/green/gray/yellow checkered grid). Single-room boss arena.",
+ "bosses": [{
+   "name":"Limon the Sprite God (Epic)",
+   "phases":[],
+   "attacks":["red radial bullet bursts / expanding red explosions across the arena (x2-speed footage)"],
+   "minions":["Limon Elements / Native Sprites (per game data; not clearly shown in this short clip)"],
+   "colorFlashes":"",
+   "taunts":[]
+ }],
+ "minions":["Native Fire/Ice/Magic/Nature/Darkness Sprite","Limon Element 1-4"],
+ "drops":["Wand of the Rising Star (wiki)","Dagger of the Endless Void (wiki)","Fang of Frost (wiki)"],
+ "mechanics":"Player used a Priest + Runes (creator note 'Runes in description').",
+ "uncertain":"Chat crop region captured mostly the bright tile floor, not legible text → no taunts/drop lines read. 87-frame x2-speed clip. Attack shape (red radial) is clear; exact counts/timings not.",
+ "confidence":"MEDIUM — arena aesthetic (Sprite-World rainbow tiles) + red radial attack DOCUMENTED from video; drops cross-referenced from wiki; Limon already in-game (vanilla SpriteWorld boss)."
+}

@@ -1,0 +1,14 @@
+{
+ "dungeon": "(MASSIVE MULTI-DUNGEON STREAM ~108 entries) ROTF — Arcanica mana-boss taunts + FUEL-extraction (galactic) mechanic + party system",
+ "source": "video disc_Kei9ksQxGl4 (1937 frames, 324 transitions = ~108 dungeon entries, 2905 chat). Far too many entries to name individually; chat yielded a named boss's taunts + key SYSTEM mechanics.",
+ "map": "DOCUMENTED biomes across ~108 entries: a colorful green/purple/yellow tiled grid (pet-yard/special zone), grey CASTLE STONE rooms (Oryx-castle-style), RED/MAGENTA galactic-style arenas, ORANGE/LAVA fire arenas, BLUE ICE/WATER arenas (white snowflake/diamond projectile trails), orange-brick rooms. Combat-heavy.",
+ "bosses": [
+  {"name":"Arcanica","phases":[],"attacks":[],"minions":[],"colorFlashes":"red/magenta","taunts":["Arcanica wants mana","Arcanica sees mana source","Why... Arcanica needs mana"],"note":"DOCUMENTED VERBATIM (boss-colored chat). A MANA-CRAVING boss that speaks in THIRD PERSON ('Arcanica wants mana...'). Seen in a red/magenta arena. (NB: an 'ARCANICA' name also appeared as a successor-project teaser in disc_FIGk6e_z-zU — here it is unambiguously an in-game boss.)"}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Mad Jester (defeated)","Riverborn (just spawned)"],
+ "mechanics": "MAJOR SYSTEM RECOVERY:\n- FUEL EXTRACTION (Galactic Zones / spaceship, Phase D3): '[Server] You have extracted [59] Fuel from the[...]' — confirms FUEL is a resource you EXTRACT IN QUANTITIES (e.g. 59 at once) from something (asteroid/node/enemy) to power the spaceship. This is the first footage-confirmation of the D3 fuel loop (previously only dev-blog/art-blocked).\n- PARTY SYSTEM: 'You've invited 1 member(s) of your party', '<player> has accepted your request' (invite + accept party flow).\n- Event-boss feed continues (Mad Jester, Riverborn) with random-enemy narrators (Unicorn/Dragon).",
+ "uncertain": "What Fuel is extracted FROM (asteroid/node/enemy) not captured — only the '[59] Fuel' extraction line. Arcanica's attacks/HP/drops/phases not isolated (only taunts). ~108 entries not individually named. Whether the blue-ice and red-galactic arenas are distinct dungeons or galactic zones unconfirmed.",
+ "confidence": "HIGH for the Arcanica mana-taunts (verbatim) + the FUEL-extraction line + the party-invite system. MEDIUM for the event spawns; LOW for biome->dungeon mapping and Fuel source."
+}

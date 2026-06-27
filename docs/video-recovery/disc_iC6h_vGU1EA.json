@@ -1,0 +1,12 @@
+{
+ "dungeon": "(PROMO/SHOWCASE TRAILER — not gameplay) feature trailer for the 'mulekabam239' ROTF private-server fork",
+ "source": "video disc_iC6h_vGU1EA. This is an advertisement/feature-showcase trailer (text overlays + scripted shop demo), NOT dungeon gameplay. Ends on a call-to-action card: 'And much more.' / 'mulekabam239.github.io/client.swf' / 'mulekabam239.github.io'.",
+ "map": "N/A (trailer). Biomes flashed: green grass (pet demo), orange/lava dungeon interior, purple zone, dark areas, plus UI screens (vault/inventory, a shop/market panel).",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "mechanics": "DOCUMENTED feature claims from the trailer's text overlays + scripted demo (this is ANOTHER ROTF fork's marketing, useful as a feature checklist / source lead — NOT our content):\n- 'Fully working pets and pet stones' (pet system + pet-fusing stones).\n- 'Dungeons' (orange/lava dungeon shown).\n- A working SHOP/MARKET: chat spam 'Purchase Successful!' with item-pickup flavor ('You have gained a Tomb of the Ancients', 'Greater Potion', 'Oh my god, what is this!! Ring of Exaltation', '[?] Backpack obtained').\n- 'And much more.'",
+ "source_lead": "mulekabam239.github.io and mulekabam239.github.io/client.swf — a separate ROTF/RotMG private-server FORK with a downloadable client.swf. POTENTIAL DATA/ASSET SOURCE (like the rotf.io Wayback rip): its client.swf may embed objects/items/sprites worth diffing against our data. NOT fetched here (cron = no downloads). Flag for a future research pass.",
+ "uncertain": "No bosses/taunts/maps to recover — it's a trailer. The shop items shown (Tomb of the Ancients, Greater Potion, Ring of Exaltation, Backpack) look mostly vanilla-RotMG, demoed in this fork's shop. Whether mulekabam239's fork == our ROTF lineage or a different RotMG fork is unconfirmed.",
+ "confidence": "HIGH that this is a promo trailer (not gameplay) and for the source URL; the feature claims (pets/pet-stones/shop/backpacks) are documented from overlays but are ANOTHER fork's features, not necessarily our ROTF's."
+}

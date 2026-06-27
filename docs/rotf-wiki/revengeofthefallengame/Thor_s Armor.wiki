@@ -1,0 +1,4 @@
+# Thor's Armor
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Thor%27s%20Armor&prop=wikitext
+
+asdf

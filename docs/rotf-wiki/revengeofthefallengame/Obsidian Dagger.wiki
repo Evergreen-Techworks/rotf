@@ -1,0 +1,4 @@
+# Obsidian Dagger
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Obsidian%20Dagger&prop=wikitext
+
+asdf

@@ -1,0 +1,16 @@
+{
+ "dungeon": "EventBosses ('EVENT BOSSES HURT' — realm/godlands event-boss montage)",
+ "map": "Open REALM/Godlands across biomes (brown dungeon rooms, green grass, red swarm arenas, snowy/space, desert). Event bosses spawn in the realm; not a single dungeon.",
+ "bosses": [
+   {"name":"Realm Giant","phases":[],"attacks":["killed multiple 8/8 players ('killed by Realm Giant')"],"minions":[],"colorFlashes":"","taunts":[]},
+   {"name":"The Firebreather (Scorched Plains)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]},
+   {"name":"God of Reptilians","phases":[],"attacks":["killed a player"],"minions":[],"colorFlashes":"","taunts":[]},
+   {"name":"Grave boss (Gravedigger-type)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Let's give little movement going. Get a move on and you'll find our graves even FASTER"]}
+ ],
+ "minions": [],
+ "drops": ["From Special Crates (chat): Onion Bow, Tesellaton, Soul of the Bearer, Snake Skin Shield, Lethargic Sentinel"],
+ "mechanics": "Boss-themed ANNOUNCER channels seen: [Lost Notifier], [Death Notifier], [Sphinx], [Hydra], [Djinn], [Wyrm], [Giant]. 'Special Crate' unboxing grants items (incl. legendaries). 8/8 players being killed by event bosses.",
+ "event_bosses_seen": ["Realm Giant (spawned/killed players/defeated)","The Firebreather (defeated)","God of Reptilians","Fossilized Vein","Mysterious Cord (spawned)","The Cursed Lich (defeated)","The Cracked Monster (defeated)","The Lonely Ent God (defeated)","Warbringer"],
+ "uncertain": "Some names partial (480p): 'Tesellaton'/'Marbringer'(Warbringer?) approximate. One grave-boss taunt captured; others not.",
+ "confidence": "HIGH for the event-boss roster + Special-Crate item names (verbatim from chat). Feeds Realm Giant (Phase D7) + Epic/Event enemies (D1)."
+}

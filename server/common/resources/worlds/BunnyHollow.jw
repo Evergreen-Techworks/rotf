@@ -1,0 +1,14 @@
+{
+  "id": 0,
+  "name": "Bunny Hollow",
+  "sbName": "Bunny Hollow",
+  "difficulty": 4,
+  "background": 0,
+  "blocking": 0,
+  "restrictTp": false,
+  "showDisplays": true,
+  "persist": false,
+  "portals": [
+    33289
+  ]
+}

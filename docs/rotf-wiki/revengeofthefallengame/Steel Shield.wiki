@@ -1,0 +1,4 @@
+# Steel Shield
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Steel%20Shield&prop=wikitext
+
+asdf

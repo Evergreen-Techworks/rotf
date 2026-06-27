@@ -1,0 +1,4 @@
+# Deadwater Docks
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Deadwater%20Docks&prop=wikitext
+
+asdf

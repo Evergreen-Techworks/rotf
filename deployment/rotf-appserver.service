@@ -1,0 +1,19 @@
+[Unit]
+# Ordinary Client / ROTF — account/app server (HTTP). Mirrors egtw's systemd pattern.
+Description=ROTF App Server (.NET 8)
+After=network.target redis-server.service
+Requires=redis-server.service
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/opt/rotf/appserver
+# published with: dotnet publish server/server.csproj -c Release -o /opt/rotf/appserver
+ExecStart=/usr/bin/dotnet /opt/rotf/appserver/server.dll
+Restart=always
+RestartSec=5
+Environment=DOTNET_CLI_TELEMETRY_OPTOUT=1
+# server.json should bind 127.0.0.1:8080; nginx terminates :80/:443 in front of it.
+
+[Install]
+WantedBy=multi-user.target

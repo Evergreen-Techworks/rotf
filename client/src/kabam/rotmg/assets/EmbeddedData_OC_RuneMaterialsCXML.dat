@@ -1,0 +1,53 @@
+<Objects>
+  <!-- Ordinary Client - ROTF rune MATERIALS (Phase D2), matching the recovered Auction-House catalog.
+       SYMBOLS (consumed x10 via /bless to grant the matching rune) + NODESTONES (Small/Big x normal/Starforce,
+       the skill-tree material). Plain inventory items (placeholder gem sprites). Type ids 0x8fc0-0x8fc7. -->
+  <Object type="0x8fc0" id="Arcane Symbol">
+    <Class>Equipment</Class><Item/>
+    <Texture><File>lofiObj6</File><Index>0x11</Index></Texture>
+    <SlotType>20</SlotType>
+    <Description>Arcane Symbol (blue). Consume 10 to bless the Arcane rune slot.</Description>
+  </Object>
+  <Object type="0x8fc1" id="Chrysalis Symbol">
+    <Class>Equipment</Class><Item/>
+    <Texture><File>lofiObj6</File><Index>0x12</Index></Texture>
+    <SlotType>20</SlotType>
+    <Description>Chrysalis Symbol (green). Consume 10 to bless the Chrysalis rune slot.</Description>
+  </Object>
+  <Object type="0x8fc2" id="Impact Symbol">
+    <Class>Equipment</Class><Item/>
+    <Texture><File>lofiObj6</File><Index>0x13</Index></Texture>
+    <SlotType>20</SlotType>
+    <Description>Impact Symbol (orange). Consume 10 to bless the Impact rune slot.</Description>
+  </Object>
+  <Object type="0x8fc3" id="Adaptive Symbol">
+    <Class>Equipment</Class><Item/>
+    <Texture><File>lofiObj6</File><Index>0x14</Index></Texture>
+    <SlotType>20</SlotType>
+    <Description>Adaptive Symbol (clear). Consume 10 to bless the Adaptive rune slot.</Description>
+  </Object>
+  <Object type="0x8fc4" id="Small Nodestone">
+    <Class>Equipment</Class><Item/>
+    <Texture><File>lofiObj6</File><Index>0x15</Index></Texture>
+    <SlotType>20</SlotType>
+    <Description>Small Nodestone - skill-tree material.</Description>
+  </Object>
+  <Object type="0x8fc5" id="Big Nodestone">
+    <Class>Equipment</Class><Item/>
+    <Texture><File>lofiObj6</File><Index>0x16</Index></Texture>
+    <SlotType>20</SlotType>
+    <Description>Big Nodestone - skill-tree material.</Description>
+  </Object>
+  <Object type="0x8fc6" id="Starforce Small Nodestone">
+    <Class>Equipment</Class><Item/>
+    <Texture><File>lofiObj6</File><Index>0x17</Index></Texture>
+    <SlotType>20</SlotType>
+    <Description>Starforce Small Nodestone - premium skill-tree material.</Description>
+  </Object>
+  <Object type="0x8fc7" id="Starforce Big Nodestone">
+    <Class>Equipment</Class><Item/>
+    <Texture><File>lofiObj6</File><Index>0x18</Index></Texture>
+    <SlotType>20</SlotType>
+    <Description>Starforce Big Nodestone - premium skill-tree material.</Description>
+  </Object>
+</Objects>

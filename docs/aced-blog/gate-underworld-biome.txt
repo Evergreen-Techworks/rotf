@@ -1,0 +1,49 @@
+entry-content">
+
+ Hi all, thanks for stopping in for another one of our weekly blog posts. For this weeks post, it will be I, patpot, taking you through some of the Gate to the Underworld biome—one component of a hard biome/dungeon pair that will be available in closed testing for ro2f. 
+
+ Some of you might recognize the name of the biome if you watched our Q&A from a couple of months back. During the Q&A, I mentioned GTU in particular, as it’s going to be the biggest dungeon we have brought to this game so far. Plus, the biome holds some pretty nifty enemies. 
+
+ The narrative for the Gate to the Underworld will become clear when you play it firsthand (biome lord dialogue has been removed from the video—no spoilers, sorry to the three players interested in lore). But without saying too much, the GTU area is themed around ancient Egyptian mythology. You’ll battle mythical creatures from one of Egypt’s great deserts (the biome), and face even more treacherous encounters within the Underworld (the dungeon). 
+
+ Finally, you might notice increased contrast between projectiles (the foreground) and tiles/environment (the background). We recently re-implemented projectile lighting , and while we think this choice will allow us to make a better looking game, we’re still tweaking the values to make it look nice. So for all of the projectiles that burn your eyes: we’re fixing them! 
+
+ With all of that said, preview time! Don’t step too close: this sarcophagus offers you a brief trip out of your dimension, and into his (far spikier) dimension. 
+
+ A bouncy mummy, a winged griffin who has forgotten how to fly, and a very energetic looking sphinx. 
+
+ And lastly, the high priestess. I wouldn’t let her near anybody low on health. 
+
+ Now we move onto the biome lord himself, the Cursed Pharaoh! 
+
+ I hope you enjoyed seeing this preview of the Gate to the Underworld. Thanks for reading, as always—and enjoy the pot of gold at the end of the rainbow. 
+
+ Closed Testing key will be added to this post within 10 minutes of its publication. Hit those F5 buttons! 
+
+ Closed Testing key: 
+
+ YQ [1] O- [2] 3GL- [3] LAQ-B [4] G4 
+
+ [1] The first letter of both of the new class special abilities showcased last week for Mages and Summoners. 
+
+ [2] Rare drops in legacy rotf were accompanied by a loot popup. If the popup was purple, what was the first letter of rare drop type? 
+
+ [3] Skilled players should be rewarded, one rune made sure that anybody able to dodge gained an increase damage output. What was the first letter of the name of this rune? 
+
+ [4] In the old galaxy system, how many tiers of galaxies were there? 
+
+ Use at https://rotf.io/register . Good luck! 
+ Share this: Twitter Facebook Like this: Like Loading... 
+
+ Related 
+
+ Tagged aced aced.gg closed testing cursed pharaoh gate to the underworld gtu key revenge of the fallen rotf rotf.io 
+
+ Published by patpot 
+
+ View all posts by patpot 
+
+ Published 
+ January 2, 2021 January 2, 2021 
+
+</article

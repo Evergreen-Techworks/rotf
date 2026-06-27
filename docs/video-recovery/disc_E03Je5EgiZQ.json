@@ -1,0 +1,77 @@
+{
+ "dungeon": "GENUINE ROTF realm-grind / edited compilation ('RuinedBow' PPE — repeated class death screens Level 20 Sorcerer/Archer/Warrior, 'key got stuck :(' death excuse, 'PREVIOUS VIDEO' end cards). Chat readable (no facecam over gameplay). HEADLINE: a rich Marble Colossus taunt set (Latin-flavoured incantations) + its radial-ring attack + the purple-Pillar arena. Plus event-boss flavour (Wind Elemental, The Forgotten King, Mushroom) and a Stheno the Snake Queen sighting (corroborates the just-enriched Stheno).",
+ "map": "DOCUMENTED-from-minimaps+frames: a mostly OPEN REALM grind (grey/tan minimap, scattered yellow enemy dots) feeding into dungeon arenas. KEY arena = the MARBLE COLOSSUS lair: a dark OVAL/round room with FOUR purple DIAMOND 'Pillar' structures arranged in a square around the central spawn (the destructible Pillars), open floor between them, player fights from centre. A second structured multi-room dungeon (grey block rooms, a marked top room) also traversed. Realm islands are the outer hub.",
+ "bosses": [
+  {
+   "name": "Marble Colossus",
+   "phases": ["fights amid 4 Pillars ('Enough Pillars, serve your purpose' = Pillar summon/command); a 'slipping into the void' near-death/finale line as it dies"],
+   "attacks": ["DOCUMENTED-from-frames: a LARGE RADIAL RING/NOVA of evenly-spaced BLUE/PURPLE bullets (big expanding circle filling the arena) as the signature; plus an ORANGE radial NOVA/STARBURST burst (dense many-count star) in a later/enrage beat; SUMMONS Pillars (the 4 purple structures) that must be cleared. Reconstruct as: radial ring (high count, blue) + orange radial nova on enrage + Pillar summon-adds."],
+   "minions": ["Pillars (4 purple destructible structures around the arena)"],
+   "colorFlashes": "blue/purple + orange (enrage)",
+   "taunts": [
+    "I feel myself... Slipping... Into the void... It is so[on]",
+    "PESTIS! The darkness consumes!!",
+    "Enough Pillars, serve your purpose",
+    "Perish, blights upon this realm!",
+    "SANGUIS...! CAIRO! Feel it rend from your bo[dy]"
+   ],
+   "note": "DOCUMENTED-from-chat (orange boss-coloured 'Marble Colossus', lines repeated across the fight). Marble Colossus is ALREADY built/enriched in our tree -> these are ENRICHMENT candidates; 'I feel myself... Slipping... Into the void...' and 'PESTIS! The darkness consumes!!' and 'Enough Pillars, serve your purpose' and 'Perish, blights upon this realm!' are clear. 'SANGUIS...! CAIRO! Feel it rend from your bo[dy]' is a CAPS Latin-flavoured incantation, partially uncertain (exact caps words + tail cut) -> mark reconstructed. Verify against the existing Marble Colossus behavior before adding (add only lines not already present)."
+  },
+  {
+   "name": "Stheno the Snake Queen",
+   "phases": [],
+   "attacks": ["not separately isolated here (combat overlay only: 'Enemy: Stheno the Snake Queen / Damage Inflicted: 42%')"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-sighting only (HP/damage overlay). No new taunt line captured this tag, but CORROBORATES Stheno the Snake Queen as a live ROTF realm boss (consistent with the disc_Yx0kTFEixbA taunts just enriched into base Stheno)."
+  },
+  {
+   "name": "Wind Elemental",
+   "phases": [],
+   "attacks": ["tornado/wind theme (not geometrically isolated -> approximate)"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["Tornadoes! Help me!"],
+   "note": "DOCUMENTED-from-chat (realm event boss; 'Wind Elemental spawned in Realm!' + /30 event counter). Realm-event flavour, lower build priority."
+  },
+  {
+   "name": "The Forgotten King",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["The Forgotten King spawned in Realm! Destroying me will [...]", "YOU PLACE [...] WHEN YOU HAVE [...]"],
+   "note": "DOCUMENTED-from-chat (scrolling boss line, right-edge cut). Realm event boss; lines fragmentary -> stems only."
+  },
+  {
+   "name": "Mushroom",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["Well, you're getting so far, did you think it was true wh[...]", "No! You can't get me!"],
+   "note": "DOCUMENTED-from-chat (realm event boss 'Mushroom spawned in Realm!' + /30 counter). Taunty event mini-boss; lines partially cut."
+  }
+ ],
+ "minions": ["Pillars (Marble Colossus)"],
+ "drops": [
+  "Legendary Staff of Unholy [Sacrifice?] (RuinedBow loot)",
+  "Legendary Quiver of [...] (RuinedBow loot)",
+  "Legendary Talisman of [...] (RuinedBow loot)",
+  "Legendary Breastplate of [...] (RuinedBow loot)",
+  "Legendary Skull of [...] (RuinedBow loot)",
+  "Legendary Wind [...] (from Wind Elemental)",
+  "Special Dust (obtained by using a Magic Dust)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Lucky Djinn (defeated, /30 counter; dropped a Legendary Talisman)",
+  "Cube God (/30 counter)",
+  "Lord of the Lost Lands (spawned in Realm)",
+  "Earth Elemental (/3000 counter)",
+  "Ogre"
+ ],
+ "mechanics": "DOCUMENTED: a 'RuinedBow' PPE realm-grind compilation. HEADLINE recovery = Marble Colossus's taunt set (Latin-flavoured incantations: 'PESTIS! The darkness consumes!!', 'SANGUIS...! CAIRO! Feel it rend from your body', the Pillar command 'Enough Pillars, serve your purpose', 'Perish, blights upon this realm!', and the death line 'I feel myself... Slipping... Into the void...') + its DOCUMENTED radial blue-ring / orange-nova attack + the 4-purple-Pillar arena. Stheno the Snake Queen sighted (overlay) corroborating the just-built Stheno enrichment. Realm event bosses (Wind Elemental 'Tornadoes! Help me!', The Forgotten King, Mushroom) add flavour. Heavy Legendary-loot feed + Magic Dust -> Special Dust crafting note.",
+ "uncertain": "Marble Colossus is the only fully boss-attributable taunt source; the 'SANGUIS...! CAIRO!' caps incantation is partially uncertain (exact caps words + right-edge tail cut) -> reconstructed. Attacks attributed to Marble Colossus from the blue-ring frames are DOCUMENTED but the orange-nova phase could be a different overlapping realm boss in a compilation -> attribution MEDIUM. Event-boss lines (Forgotten King, Mushroom) are right-edge cut stems. Stheno gives no new line here (overlay only). Dungeon names not banner-confirmed (realm grind).",
+ "confidence": "MEDIUM-HIGH for the Marble Colossus clear taunt lines + the blue radial-ring attack + the purple-Pillar arena (all DOCUMENTED-from-frames/chat, repeated). MEDIUM for the 'SANGUIS...! CAIRO!' caps line (reconstructed) and the orange-nova attribution. GENUINE ROTF. Net value: ENRICHMENT lines for the already-built Marble Colossus (verify-then-add) + a documented attack/arena for it + corroboration of Stheno + realm-event flavour. Best follow-up: a single Lair-of-the-Marble-Colossus clip to complete the 'SANGUIS! CAIRO!' line and isolate the orange-nova phase."
+}

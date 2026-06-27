@@ -1,0 +1,4 @@
+# Epic Undead Lair
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Epic%20Undead%20Lair&prop=wikitext
+
+#REDIRECT [[Cavern of Septavius]]

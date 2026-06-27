@@ -1,0 +1,27 @@
+{
+ "dungeon": "GENUINE ROTF FACECAM stream (~500s+, 644 f_, 7 dungeon entries) featuring GALACTIC ZONES + shop/vault + event dungeons. The facecam sits in the bottom-left and COVERS the chat box for much of the run (esp. the galactic segment), so readable boss content is limited: the only legible boss lines are BASE-GAME Oryx the Mad God (corroboration). An 'Event hosting dungeons: Mad Labs, Parasite Chambers' announcer line + a Quest/Fame reward are visible. NO ROTF-custom boss recovered here (galactic-segment chat = facecam-covered).",
+ "map": "DOCUMENTED-from-transitions+f_: a multi-segment FACECAM run — sandy GRID arenas + grey SHOP/VAULT grid menus (t001-t003), a RED/dark dungeon, and dark GALACTIC SPACE/VOID zones (purple/blue starfields, the later t005-t007 entries ~408-498s). Layout is obscured by the facecam + frequent menu screens; no clean single dungeon room-sequence (multi-dungeon + galactic + shop).",
+ "bosses": [
+  {
+   "name": "Oryx the Mad God",
+   "phases": [],
+   "attacks": ["not isolated (facecam stream, no bossends)"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "Gaze at my power, for it shall be your last sight!",
+    "Oryx will show no mercy for such insolence toward his grandeur.",
+    "You cannot escape from my control!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Oryx the Mad God', grayscale-pull). BASE-GAME RotMG Oryx (O3-style dialogue) -> CANONICAL/no-build, corroboration only. These are the only cleanly legible boss lines (the facecam covers the chat elsewhere)."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [
+  "Event hosting dungeons: Mad Labs, Parasite Chambers (base-game dungeons being event-hosted)"
+ ],
+ "mechanics": "DOCUMENTED (limited by facecam): (1) an EVENT-HOSTING announcer line — 'Event hosting dungeons: Mad Labs, Parasite Chambers' (names the currently-hosted dungeons; Mad Lab + Parasite Chambers are BASE-game dungeons). (2) a QUEST/FAME reward — 'Quests Completed; cleared: 20 ... earn 2000 Fame' (clear-count quest paying Fame). (3) GALACTIC ZONES visited (space/void starfields) -> D3 visual corroboration, but no galactic boss/fuel/spaceship line is legible (facecam covers the chat in that segment). (4) shop/vault grid menus. Base Oryx dialogue is the only readable boss content.",
+ "uncertain": "Facecam COVERS the chat box for most of the run -> the galactic-segment boss/mechanic chat is UNREADABLE (no galactic boss recovered). Readable boss lines = BASE-game Oryx (corroboration/no-build). 'Mad Labs'/'Parasite Chambers' are base-game dungeons (event-hosted), not ROTF-custom. No attack geometry (no bossends; facecam). The '2000 Fame' quest figure read off a small reward popup. No ROTF-custom boss/taunt isolated this tag.",
+ "confidence": "LOW-MEDIUM. GENUINE ROTF facecam stream w/ galactic zones, but LOW recoverable yield: only base-game Oryx taunts (corroboration/no-build) + an event-host announcer (base dungeons Mad Labs/Parasite Chambers) + a clear-20 -> 2000 Fame quest + galactic-zone visuals. Recorded honestly: facecam covers the chat (galactic boss content unreadable), bosses = Oryx base only, no attacks/layout isolated. Best follow-up: a NON-facecam galactic clip for the galactic boss/fuel/spaceship lines."
+}

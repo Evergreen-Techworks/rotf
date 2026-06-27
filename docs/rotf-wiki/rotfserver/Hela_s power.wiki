@@ -1,0 +1,4 @@
+# Hela's power
+# https://rotfserver.fandom.com/api.php?action=parse&page=Hela%27s%20power&prop=wikitext
+
+{{ItemInfo|name = Hela's power|desc = A magical staff, containing the remains of power Hela once held|rarity = l|slot = staff|tier = UT|minDmg = 100|maxDmg = 325|shots = 5|rof = 45|range2 = 7|fameb = 7|effects = yes|pierce = yes|multihit = yes|passthrough = yes|bonuses = {{Stat|hp|80}}{{Stat|wis|4}}|legendary = 2|dropsFrom = drops from Hela}}

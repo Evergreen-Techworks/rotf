@@ -1,0 +1,519 @@
+<Objects>
+  <!-- Ordinary Client - recovered ROTF bosses (Phase C). RECONSTRUCTED from video (verbatim taunts
+       in BehaviorDb.OCBosses.cs). Stats designed; SPRITES are PLACEHOLDERS (chars16x16dEncounters2);
+       projectiles reuse existing descriptors so they render. Type ids 0x8fd0-0x8fd5 (free). -->
+  <!-- Suspicious Looking Dragon — well-attested recurring ROTF event boss (10+ specs name it; appears in event feeds
+       'The suspicious-looking Dragon defeated'). Earth/tremor theme. Taunt 2x-corroborated readable fragment
+       (disc_p-f3qDjrVDY + disc_XGl3pTaNmTM). Uses GAP id 0x8f14 (the 0x8fd0-0x8fff block is full). Attack RECONSTRUCTED. -->
+  <!-- Urios, God of Elements — ROTF elemental boss in 'the RUINS' (galactic/ruins zone). Source disc_VZDxttR2LMk; both
+       taunts FRAME-READ during the Legon-the-Weather-God verify (shrine_a.png f_~280-300). The SHRINE-empower phase that
+       was MIS-attributed to the Weather God (and removed in verify) genuinely belongs HERE. Gap id 0x8f15. Attack RECONSTRUCTED. -->
+  <!-- The Beekeeper — ROTF insect/swarm-summoner boss. Source disc_1mU5uHE6DXE (highlights montage; boss-coloured +
+       death-feed "killed by The Beekeeper"). NAME CORRECTED from the queue's mis-read "The Passenger" -> frame-read f_00040
+       shows "<The Beekeeper>" + insect taunts. Gap id 0x8f16. Summons "insect children" (minions flagged, not built). Attack RECONSTRUCTED. -->
+  <!-- Putin — ROTF custom MEME boss (red-arena), part of the heritage-meme roster (Mewtwo / Cookie Monster / The Zuck /
+       Legendary Dragon Kakashi / Uvuvwuwuwe — all built). Source disc_hGSSP2J3gcQ (boss-coloured 'Putin', CLEAN complete
+       taunt). Gap id 0x8f17. Attack RECONSTRUCTED. -->
+  <Object type="0x8f17" id="Putin">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>42</Index></AnimatedTexture>
+    <MaxHitPoints>110000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Demon Blade</ObjectId><Speed>95</Speed><Damage>110</Damage><Size>140</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Grey Missile</ObjectId><Speed>105</Speed><Damage>115</Damage><Size>130</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8f18" id="Wind Elemental">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>43</Index></AnimatedTexture>
+    <MaxHitPoints>100000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>100</Speed><Damage>105</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Grey Missile</ObjectId><Speed>110</Speed><Damage>110</Damage><Size>120</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8f1c" id="Hades">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>47</Index></AnimatedTexture>
+    <MaxHitPoints>120000</MaxHitPoints><Defense>42</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>170</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Demon Blade</ObjectId><Speed>100</Speed><Damage>120</Damage><Size>140</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Thunder Swirl</ObjectId><Speed>110</Speed><Damage>115</Damage><Size>130</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8f1b" id="Asylum Guard">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>46</Index></AnimatedTexture>
+    <MaxHitPoints>95000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>150</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Grey Missile</ObjectId><Speed>95</Speed><Damage>100</Damage><Size>120</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Thunder Swirl</ObjectId><Speed>105</Speed><Damage>105</Damage><Size>110</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8f1a" id="Bloodsworn Knight">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>45</Index></AnimatedTexture>
+    <MaxHitPoints>115000</MaxHitPoints><Defense>42</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Demon Blade</ObjectId><Speed>100</Speed><Damage>115</Damage><Size>140</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Grey Missile</ObjectId><Speed>110</Speed><Damage>115</Damage><Size>120</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8f19" id="Wizzard Clone">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>44</Index></AnimatedTexture>
+    <MaxHitPoints>95000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>150</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>95</Speed><Damage>100</Damage><Size>120</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Grey Missile</ObjectId><Speed>105</Speed><Damage>105</Damage><Size>110</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8f16" id="The Beekeeper">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>41</Index></AnimatedTexture>
+    <MaxHitPoints>115000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Grey Missile</ObjectId><Speed>90</Speed><Damage>105</Damage><Size>120</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Demon Blade</ObjectId><Speed>105</Speed><Damage>115</Damage><Size>140</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8f15" id="Urios, God of Elements">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>40</Index></AnimatedTexture>
+    <MaxHitPoints>120000</MaxHitPoints><Defense>42</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>170</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>95</Speed><Damage>115</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Demon Blade</ObjectId><Speed>105</Speed><Damage>120</Damage><Size>140</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8f14" id="Suspicious Looking Dragon">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>39</Index></AnimatedTexture>
+    <MaxHitPoints>120000</MaxHitPoints><Defense>42</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>170</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Grey Missile</ObjectId><Speed>95</Speed><Damage>115</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Demon Blade</ObjectId><Speed>105</Speed><Damage>120</Damage><Size>140</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8fd0" id="Ortar">
+    <Group>Ordinary Client</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>0</Index></AnimatedTexture>
+    <MaxHitPoints>90000</MaxHitPoints>
+    <Defense>40</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <Level>20</Level>
+    <Size>150</Size>
+    <XpMult>0.2</XpMult>
+    <Projectile id="0">
+      <ObjectId>Trident</ObjectId>
+      <Speed>80</Speed>
+      <Damage>100</Damage>
+      <Size>110</Size>
+      <LifetimeMS>1600</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x8fd1" id="Cracked Core">
+    <Group>Ordinary Client</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>1</Index></AnimatedTexture>
+    <MaxHitPoints>120000</MaxHitPoints>
+    <Defense>55</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <Level>20</Level>
+    <Size>140</Size>
+    <XpMult>0.22</XpMult>
+    <Projectile id="0">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>90</Speed>
+      <Damage>120</Damage>
+      <Size>120</Size>
+      <LifetimeMS>1500</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x8fd2" id="God of Reptilians">
+    <Group>Ordinary Client</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>10</Index></AnimatedTexture>
+    <MaxHitPoints>100000</MaxHitPoints>
+    <Defense>50</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <Level>20</Level>
+    <Size>150</Size>
+    <XpMult>0.2</XpMult>
+    <Projectile id="0">
+      <ObjectId>Demon Blade</ObjectId>
+      <Speed>80</Speed>
+      <Damage>110</Damage>
+      <Size>110</Size>
+      <LifetimeMS>1600</LifetimeMS>
+    </Projectile>
+  </Object>
+  <!-- 0x8fd3 "Dwarf King" REMOVED: the base game already defines "Dwarf King" (MidCXML 0x61f);
+       this duplicate was unreachable (id shadowed) and caused a boot-time duplicate-key crash.
+       The ROTF Dwarf King is the base mini-boss; recovered taunts live in BehaviorDb.Midland.cs. -->
+  <Object type="0x8fd4" id="Twilight Archmage">
+    <Group>Ordinary Client</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>12</Index></AnimatedTexture>
+    <MaxHitPoints>95000</MaxHitPoints>
+    <Defense>50</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <Level>20</Level>
+    <Size>140</Size>
+    <XpMult>0.2</XpMult>
+    <Projectile id="0">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>85</Speed>
+      <Damage>115</Damage>
+      <Size>110</Size>
+      <LifetimeMS>1600</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x8fd5" id="Epic Ghost of Skuld">
+    <Group>Ordinary Client</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>13</Index></AnimatedTexture>
+    <MaxHitPoints>130000</MaxHitPoints>
+    <Defense>55</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <Level>20</Level>
+    <Size>150</Size>
+    <XpMult>0.25</XpMult>
+    <Projectile id="0">
+      <ObjectId>Trident</ObjectId>
+      <Speed>85</Speed>
+      <Damage>125</Damage>
+      <Size>110</Size>
+      <LifetimeMS>1600</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x8fd6" id="Stonetaker">
+    <Group>Ordinary Client</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>7</Index></AnimatedTexture>
+    <MaxHitPoints>110000</MaxHitPoints>
+    <Defense>52</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <Level>20</Level>
+    <Size>150</Size>
+    <XpMult>0.22</XpMult>
+    <Projectile id="0">
+      <ObjectId>Trident</ObjectId>
+      <Speed>80</Speed>
+      <Damage>110</Damage>
+      <Size>130</Size>
+      <LifetimeMS>1500</LifetimeMS>
+    </Projectile>
+  </Object>
+
+  <!-- ===== Backlog batch (2026-06-04): 11 recovered realm/meme bosses, ids 0x8f02-0x8f0c. Taunts VERBATIM from recovery; stats/sprites/projectiles reconstructed (placeholder chars16x16dEncounters2). ===== -->
+  <Object type="0x8f02" id="Marble Colossus">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>0</Index></AnimatedTexture>
+    <MaxHitPoints>150000</MaxHitPoints><Defense>70</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>180</Size><XpMult>0.25</XpMult>
+    <Projectile id="0"><ObjectId>Trident</ObjectId><Speed>80</Speed><Damage>130</Damage><Size>140</Size><LifetimeMS>1600</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Demon Blade</ObjectId><Speed>100</Speed><Damage>110</Damage><Size>120</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8f03" id="Lycaon">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>1</Index></AnimatedTexture>
+    <MaxHitPoints>90000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>150</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Demon Blade</ObjectId><Speed>110</Speed><Damage>115</Damage><Size>110</Size><LifetimeMS>1100</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8f04" id="Arcanica">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>2</Index></AnimatedTexture>
+    <MaxHitPoints>95000</MaxHitPoints><Defense>45</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>150</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>90</Speed><Damage>95</Damage><Size>110</Size><LifetimeMS>1500</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8f05" id="Cookie Monster">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>3</Index></AnimatedTexture>
+    <MaxHitPoints>80000</MaxHitPoints><Defense>35</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>150</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Trident</ObjectId><Speed>85</Speed><Damage>100</Damage><Size>120</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8f06" id="Carrot God">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>4</Index></AnimatedTexture>
+    <MaxHitPoints>85000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>150</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>90</Speed><Damage>105</Damage><Size>110</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8f07" id="Mewtwo">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>5</Index></AnimatedTexture>
+    <MaxHitPoints>110000</MaxHitPoints><Defense>50</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.25</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>100</Speed><Damage>120</Damage><Size>120</Size><LifetimeMS>1500</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8f08" id="God of Luck">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>6</Index></AnimatedTexture>
+    <MaxHitPoints>90000</MaxHitPoints><Defense>45</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>150</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Grey Missile</ObjectId><Speed>100</Speed><Damage>100</Damage><Size>110</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8f09" id="Giant Oryx Chicken">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>7</Index></AnimatedTexture>
+    <MaxHitPoints>120000</MaxHitPoints><Defense>50</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>170</Size><XpMult>0.25</XpMult>
+    <Projectile id="0"><ObjectId>Trident</ObjectId><Speed>85</Speed><Damage>110</Damage><Size>120</Size><LifetimeMS>1500</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8f0a" id="The Mysterious Card">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>8</Index></AnimatedTexture>
+    <MaxHitPoints>85000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>150</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Demon Blade</ObjectId><Speed>95</Speed><Damage>105</Damage><Size>110</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8f0b" id="MH Wave Controller">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>9</Index></AnimatedTexture>
+    <MaxHitPoints>100000</MaxHitPoints><Defense>45</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.22</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>90</Speed><Damage>100</Damage><Size>110</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8f0c" id="Creepy Talking Jack-O-Lantern">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>10</Index></AnimatedTexture>
+    <MaxHitPoints>70000</MaxHitPoints><Defense>35</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>150</Size><XpMult>0.18</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>85</Speed><Damage>90</Damage><Size>110</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8f0f" id="Uvuvwuwuwe">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>6</Index></AnimatedTexture>
+    <MaxHitPoints>90000</MaxHitPoints><Defense>30</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>150</Size><XpMult>0.18</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>85</Speed><Damage>90</Damage><Size>110</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8fd7" id="Smiling Dragon">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>8</Index></AnimatedTexture>
+    <MaxHitPoints>110000</MaxHitPoints><Defense>35</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>90</Speed><Damage>110</Damage><Size>120</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8fda" id="Warbringer">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>9</Index></AnimatedTexture>
+    <MaxHitPoints>115000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>170</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>100</Speed><Damage>120</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8fdb" id="Shade of Novus">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>10</Index></AnimatedTexture>
+    <MaxHitPoints>110000</MaxHitPoints><Defense>35</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Demon Blade</ObjectId><Speed>100</Speed><Damage>115</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8fdc" id="Pulse">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>11</Index></AnimatedTexture>
+    <MaxHitPoints>105000</MaxHitPoints><Defense>30</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>150</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Grey Missile</ObjectId><Speed>100</Speed><Damage>110</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8fdd" id="Skeletal Monstrosity">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>12</Index></AnimatedTexture>
+    <MaxHitPoints>110000</MaxHitPoints><Defense>35</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>170</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Demon Blade</ObjectId><Speed>90</Speed><Damage>115</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8fde" id="The Puppet Master">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>14</Index></AnimatedTexture>
+    <MaxHitPoints>115000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>90</Speed><Damage>110</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Demon Blade</ObjectId><Speed>100</Speed><Damage>125</Damage><Size>140</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8fdf" id="God of Amber Stones">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>15</Index></AnimatedTexture>
+    <MaxHitPoints>100000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Grey Missile</ObjectId><Speed>90</Speed><Damage>105</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8fd3" id="Queen of Hearts">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>16</Index></AnimatedTexture>
+    <MaxHitPoints>110000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>90</Speed><Damage>110</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8fe6" id="Jon Bilgewater the Pirate King">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>17</Index></AnimatedTexture>
+    <MaxHitPoints>120000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Grey Missile</ObjectId><Speed>90</Speed><Damage>115</Damage><Size>130</Size><LifetimeMS>1500</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Demon Blade</ObjectId><Speed>110</Speed><Damage>130</Damage><Size>140</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8fe7" id="Kestora the Lava God">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>18</Index></AnimatedTexture>
+    <MaxHitPoints>110000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Demon Blade</ObjectId><Speed>95</Speed><Damage>115</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Grey Missile</ObjectId><Speed>100</Speed><Damage>120</Damage><Size>130</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8fe8" id="Strange Magician">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>19</Index></AnimatedTexture>
+    <MaxHitPoints>110000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>90</Speed><Damage>110</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Grey Missile</ObjectId><Speed>100</Speed><Damage>120</Damage><Size>130</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8fea" id="Mad Jester">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>21</Index></AnimatedTexture>
+    <MaxHitPoints>110000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>95</Speed><Damage>115</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Demon Blade</ObjectId><Speed>100</Speed><Damage>120</Damage><Size>130</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8fe9" id="Strange Priest">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>20</Index></AnimatedTexture>
+    <MaxHitPoints>110000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>90</Speed><Damage>110</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Grey Missile</ObjectId><Speed>100</Speed><Damage>120</Damage><Size>130</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8fec" id="Mushroom">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>23</Index></AnimatedTexture>
+    <MaxHitPoints>95000</MaxHitPoints><Defense>30</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>140</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>90</Speed><Damage>95</Damage><Size>120</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Grey Missile</ObjectId><Speed>100</Speed><Damage>105</Damage><Size>120</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8ff5" id="Ruins of the Mad God Core">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>28</Index></AnimatedTexture>
+    <MaxHitPoints>120000</MaxHitPoints><Defense>45</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>170</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Grey Missile</ObjectId><Speed>105</Speed><Damage>120</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Thunder Swirl</ObjectId><Speed>100</Speed><Damage>125</Damage><Size>140</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8ff4" id="Helios">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>27</Index></AnimatedTexture>
+    <MaxHitPoints>115000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>165</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>100</Speed><Damage>120</Damage><Size>140</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Demon Blade</ObjectId><Speed>105</Speed><Damage>125</Damage><Size>130</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8fef" id="Time Lord">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>26</Index></AnimatedTexture>
+    <MaxHitPoints>110000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>100</Speed><Damage>115</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Grey Missile</ObjectId><Speed>105</Speed><Damage>120</Damage><Size>130</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8fee" id="The Magical lord of sky">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>25</Index></AnimatedTexture>
+    <MaxHitPoints>115000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>165</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>100</Speed><Damage>115</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Grey Missile</ObjectId><Speed>105</Speed><Damage>120</Damage><Size>130</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8fed" id="Bedlam - God of Chaos">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>24</Index></AnimatedTexture>
+    <MaxHitPoints>120000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>170</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Demon Blade</ObjectId><Speed>100</Speed><Damage>120</Damage><Size>140</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Thunder Swirl</ObjectId><Speed>95</Speed><Damage>115</Damage><Size>130</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <Object type="0x8feb" id="Nikad the Defiler">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>22</Index></AnimatedTexture>
+    <MaxHitPoints>115000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Demon Blade</ObjectId><Speed>95</Speed><Damage>115</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Grey Missile</ObjectId><Speed>100</Speed><Damage>120</Damage><Size>130</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <!-- Oryx Puppet — a puppet HENCHMAN summoned by The Puppet Master (0x8fde) that impersonates Oryx. NOT a realm boss.
+       HP=75000 is GROUNDED: the boss self-announces "I still have 75000 hitpoints!" (disc_LJzfb9Y4ok0). -->
+  <Object type="0x8ff6" id="Oryx Puppet">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>29</Index></AnimatedTexture>
+    <MaxHitPoints>75000</MaxHitPoints><Defense>25</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>150</Size><XpMult>0.1</XpMult>
+    <Projectile id="0"><ObjectId>Grey Missile</ObjectId><Speed>90</Speed><Damage>100</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Demon Blade</ObjectId><Speed>100</Speed><Damage>115</Damage><Size>140</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <!-- Marble Defender — ROTF MARBLE GUARDIAN/PROTECTOR realm boss (blue armored golem, grey marble arena). Source
+       disc_wsuYBdiueK0 (boss-prefix, grayscale-pull). DISTINCT from the built Marble Colossus (0x8f02). All 4 taunts
+       are tail-CUT partials (crowd-obscured) -> flagged for a verify-loop wide-re-crop pass. NOT a base-game entity. -->
+  <Object type="0x8ff7" id="Marble Defender">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>30</Index></AnimatedTexture>
+    <MaxHitPoints>115000</MaxHitPoints><Defense>45</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>165</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Grey Missile</ObjectId><Speed>90</Speed><Damage>110</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Demon Blade</ObjectId><Speed>100</Speed><Damage>120</Damage><Size>140</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <!-- The Weather God — ROTF storm/elements god in a moated palace. Sources disc_VZDxttR2LMk (boss-coloured, clear)
+       + disc__k2I-JV1ztQ ("[?]egan the Weather God", name first-letter cut). SHRINE-power empower phase mid-fight.
+       Loot lead: 'Ring of the Storm Gods' + 'Ancient Fire Crystal'. Thunder Swirl projectile = storm theme. -->
+  <Object type="0x8ff8" id="Legon the Weather God">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>31</Index></AnimatedTexture>
+    <MaxHitPoints>115000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>95</Speed><Damage>115</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Grey Missile</ObjectId><Speed>105</Speed><Damage>120</Damage><Size>130</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <!-- Euryale the Snake Goddess — ROTF Gorgon-sister boss (Euryale = 3rd Gorgon w/ base Stheno + Medusa; NO base
+       'Euryale' exists). Sources disc__oNRwi83bLU + disc_VZDxttR2LMk (boss-coloured, both taunts right-CUT partials
+       -> flagged for verify wide-re-crop). Snake/serpent theme. Attack RECONSTRUCTED. -->
+  <Object type="0x8ff9" id="Euryale the Snake Goddess">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>32</Index></AnimatedTexture>
+    <MaxHitPoints>110000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Grey Missile</ObjectId><Speed>95</Speed><Damage>110</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Demon Blade</ObjectId><Speed>105</Speed><Damage>120</Damage><Size>140</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <!-- Legendary Dragon Kakashi — ROTF custom MEME boss (lava arena), part of the established meme-boss roster
+       (Mewtwo / Cookie Monster / Uvuvwuwuwe / The Zuck — all built). Source disc_SWYl0ULzh4s (GENUINE ROTF, creator
+       RuinedBow; boss-coloured prefix, 2 clean VERBATIM taunts frame-read b008_128s_008). Attack RECONSTRUCTED. -->
+  <Object type="0x8ffa" id="Legendary Dragon Kakashi">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>33</Index></AnimatedTexture>
+    <MaxHitPoints>110000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>165</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Demon Blade</ObjectId><Speed>95</Speed><Damage>115</Damage><Size>140</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Grey Missile</ObjectId><Speed>105</Speed><Damage>120</Damage><Size>130</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <!-- Masha, the God of War — ROTF custom war-god boss (Masha = NOT a base-game name). Source disc_tET7e3TRTc8
+       (GENUINE ROTF, boss-coloured 'Masha, the God of War:'). Full lines frame-read from f_00132 (narrow 450px capture,
+       but full-frame shows beyond the chat-crop). References lore 'Asclepius'. Attack RECONSTRUCTED. -->
+  <Object type="0x8ffb" id="Masha, the God of War">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>34</Index></AnimatedTexture>
+    <MaxHitPoints>115000</MaxHitPoints><Defense>42</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>165</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Demon Blade</ObjectId><Speed>95</Speed><Damage>115</Damage><Size>140</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Thunder Swirl</ObjectId><Speed>105</Speed><Damage>120</Damage><Size>130</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <!-- Resthla, The Twisted Mermaid — ROTF custom boss in a small watery cavern (family/sibling-bitterness theme).
+       Source disc_VZDxttR2LMk (GENUINE ROTF, boss-coloured prefix). NAME CORRECTED from the queue's mis-read "The
+       Twisted Memory" -> dev frame-read f_00023-25 shows "<Resthla, The Twisted Mermaid>". Loot lead: 'Piece of the
+       Realm'. Attack RECONSTRUCTED. -->
+  <Object type="0x8ffc" id="Resthla, The Twisted Mermaid">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>35</Index></AnimatedTexture>
+    <MaxHitPoints>110000</MaxHitPoints><Defense>40</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>160</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Grey Missile</ObjectId><Speed>95</Speed><Damage>110</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Thunder Swirl</ObjectId><Speed>105</Speed><Damage>120</Damage><Size>130</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <!-- Ascended Septavius the Ghost Goddess — ROTF ASCENDED/gender-flipped custom variant of the base 'Septavius the
+       Ghost God' (Undead Lair). Source disc_VZDxttR2LMk (GENUINE ROTF, boss-coloured). NAME CORRECTED from the queue's
+       mis-read 'Sepiseus' -> 'Septavius' (the base name + a clear prior frame-read confirm it). Both taunts are right-CUT
+       partials in this dense compilation -> flagged for verify wide-re-crop. 'Ascended' = epic tier. Attack RECONSTRUCTED. -->
+  <Object type="0x8ffd" id="Ascended Septavius the Ghost Goddess">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>36</Index></AnimatedTexture>
+    <MaxHitPoints>120000</MaxHitPoints><Defense>42</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>165</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Thunder Swirl</ObjectId><Speed>95</Speed><Damage>115</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Demon Blade</ObjectId><Speed>105</Speed><Damage>120</Damage><Size>140</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <!-- Infused Elven King — ROTF custom boss, green Elven forest ('Infused' = empowered/epic variant). Source
+       disc_iBUg7V_Eq0A (GENUINE ROTF, boss-coloured, verbatim taunt; death-feed names an 'Elven Captain' lieutenant).
+       Distinct from base 'Night Elf King' (0x64f) -> no collision. Attack RECONSTRUCTED. -->
+  <Object type="0x8ffe" id="Infused Elven King">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>37</Index></AnimatedTexture>
+    <MaxHitPoints>115000</MaxHitPoints><Defense>42</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>165</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Grey Missile</ObjectId><Speed>95</Speed><Damage>115</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Demon Blade</ObjectId><Speed>105</Speed><Damage>120</Damage><Size>140</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+  <!-- White Dragon Lord — ROTF elemental DRAGON LORD (ice/air), part of the built roster (Firebreather=fire 0x8f80,
+       Riverborn=water 0x8f90). Source disc_iIkWGzE1404 (GENUINE ROTF, boss-coloured VERBATIM taunt). Distinct from the
+       base White Dragon family (Whelp/Juvenile/Adult). Attack RECONSTRUCTED. NOTE: 0x8fff is the LAST free id in the
+       0x8f__ range — future OC bosses must use a gap id (0x8f14-0x8f1f etc.) or a new range. -->
+  <Object type="0x8fff" id="White Dragon Lord">
+    <Group>Ordinary Client</Group><Enemy/><Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>38</Index></AnimatedTexture>
+    <MaxHitPoints>120000</MaxHitPoints><Defense>42</Defense><God/><StasisImmune/><Quest/><Level>20</Level><Size>170</Size><XpMult>0.2</XpMult>
+    <Projectile id="0"><ObjectId>Grey Missile</ObjectId><Speed>95</Speed><Damage>115</Damage><Size>130</Size><LifetimeMS>1400</LifetimeMS></Projectile>
+    <Projectile id="1"><ObjectId>Thunder Swirl</ObjectId><Speed>105</Speed><Damage>120</Damage><Size>130</Size><LifetimeMS>1300</LifetimeMS></Projectile>
+  </Object>
+</Objects>

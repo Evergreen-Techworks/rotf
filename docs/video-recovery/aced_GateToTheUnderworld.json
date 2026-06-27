@@ -1,0 +1,14 @@
+{
+ "dungeon": "Gate to the Underworld (Hard-rank dungeon)",
+ "source": "aced.gg dev blog 2021-04-01 (Ra fight, patpot) + 2021-04-11 (Sia & Hu) + 2021-01-02 (biome) — DOCUMENTED, no live footage",
+ "map": "RotF's interpretation of the EGYPTIAN AFTERLIFE (the Duat). Travel by the 'Duat boat' from the SUN DOCKS through the dungeon. Lore: help OSIRIS save the Duat from falling into chaos. Battle mini-bosses and Gods.",
+ "bosses": [
+   {"name":"Ra, the Sun God","phases":["P1: manic bullet-hell — DESTROY Ra's STAVES first (staves have health-scaling; skipping them makes later phases much harder)","P2: 'channels the power of the sun'","P3 (when overwhelmed): 'calls upon the sky'"],"attacks":["manic radial bullet hell","Sun Disk attack (telegraphed, rewards precise dodging — not high-threat)","Sun Lasers","summons/empowers via the sun"],"minions":["Ra's Staves (destructible, health-scaled)"],"colorFlashes":"sun/fire gold-orange","taunts":[]},
+   {"name":"Sia and Hu (Eternal Companions)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"A paired mini-boss/god encounter (separate 2021-04-11 post — detail in docs/aced-blog/gate-underworld-sia-hu.txt)."},
+   {"name":"Osiris","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"Quest-giver/god NPC whose plan to save the Duat drives the dungeon."}
+ ],
+ "drops": [],
+ "mechanics": "DOCUMENTED (dev blog): Gate to the Underworld is a HARD-rank Egyptian-afterlife dungeon. Ra fight = staves-first bullet-hell (destroy staves or health-scaling makes phases brutal), then sun-channel + sky phases, with Sun Disk + Sun Laser attacks. RotF REWORKED THE HITBOX SYSTEM to bullet-hell-style (tighter, smoother dodging) — relevant engine note. After Ra, the Duat boat continues past the Sun Docks to Sia & Hu and beyond. Legacy ROTF detail mentioned: the 'Icy Peaks' realm area was guarded by an Aztec-themed creature.",
+ "uncertain": "Exact bullet patterns/timings, drops, taunts, and full boss list (beyond Ra/Sia&Hu/Osiris) not fully specified. See docs/aced-blog/gate-underworld-*.txt for raw text. No video footage exists (verified).",
+ "confidence": "MEDIUM-HIGH for theme + Ra phase structure + mechanics (DOCUMENTED from dev blog); LOW for exact patterns/drops. Reconstruction-grade."
+}

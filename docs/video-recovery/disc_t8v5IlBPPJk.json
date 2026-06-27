@@ -1,0 +1,14 @@
+{
+ "dungeon": "Anubi's Lair (Egyptian tomb) — ROTF; Anubis boss + Pillars mechanic recovered",
+ "source": "video disc_t8v5IlBPPJk (600 frames, 36 transitions, 150 chat; client X1.0). Lava dungeons + a GOLD SANDSTONE TEMPLE (Anubis's domain) + snow. Chat captured Anubis boss taunts.",
+ "map": "DOCUMENTED biomes: orange/red LAVA-brick dungeons, a GOLD/SANDSTONE TEMPLE with brown-brick frames + gold diamond-tiled floor (Anubis's lair / Egyptian tomb), white snow, a purple/gold castle arena.",
+ "bosses": [
+  {"name":"Anubis","phases":["weakening/death","calls Pillars"],"attacks":[],"minions":["Pillars"],"colorFlashes":"gold","taunts":["I am losing strength... I am slowly dying...","Pillars... please help me!"],"note":"DOCUMENTED VERBATIM (boss-colored chat). ANUBIS — the Egyptian death-god boss of ANUBI'S LAIR (a ROTF dungeon on the build TODO). Relies on 'PILLARS' (destructible pillar minions it summons / calls for help — parallels Ra's Staves in Gate to the Underworld). Death/weakening lines suggest a phase where it loses strength as its Pillars fall. Gold sandstone temple arena."}
+ ],
+ "minions": ["Pillars (Anubis's summoned/defending pillars)"],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Pentaract Tower Ultra (defeated)","Uvuvwevwevwe (just spawned)","Shadowscale (defeated 15/25)"],
+ "mechanics": "DOCUMENTED: ANUBI'S LAIR boss = ANUBIS, with a PILLARS mechanic — 'Pillars... please help me!' (Anubis summons/relies on Pillars; 'I am losing strength... I am slowly dying...' implies it weakens as Pillars are destroyed). This MIRRORS the Gate-to-the-Underworld Ra fight (destroy Ra's Staves first) — so Anubi's Lair can be BUILT on the same pattern: Anubis invulnerable/weakening until its Pillars fall. Gold sandstone Egyptian temple biome. Client X1.0.",
+ "uncertain": "Anubis's exact phase structure inferred from the two taunts (weaken + call Pillars). HP/attacks/drops not isolated. Whether 'Pillars' are destructible like Ra's Staves is inferred (strong parallel). Dungeon name 'Anubi's Lair' assumed from the Anubis boss + Egyptian biome.",
+ "confidence": "HIGH for the Anubis taunts (verbatim) + the Pillars mechanic + the gold-sandstone Egyptian biome. Anubi's Lair is now BUILDABLE (Anubis + destructible Pillars, on the Gate-to-the-Underworld/Ra pattern). MEDIUM for exact phases/drops."
+}

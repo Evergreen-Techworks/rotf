@@ -1,0 +1,23 @@
+# Katanas
+# https://rotfserver.fandom.com/api.php?action=parse&page=Katanas&prop=wikitext
+
+'''Katanas''' are used by the [[Ninja]] and possibly upcoming samurai class
+==Production {{PAGENAME}}==
+'''''For production {{PAGENAME}} please follow this '''''[https://www.realmeye.com/wiki/Katanas link]
+
+==Custom {{PAGENAME}}==
+{|
+| {{ItemDisplay|Himura's Katana|u}}
+| {{ItemDisplay|Molten Katana|h}}
+| {{ItemDisplay|Acid Katana|h}}
+| {{ItemDisplay|Doom Katana|h}}
+| {{ItemDisplay|Broken Branch|a}}
+| {{ItemDisplay|Windcutter|l}}
+| {{ItemDisplay|Blazetalon|l}}
+| {{ItemDisplay|Stem of the Brain|l}}
+| {{ItemDisplay|Asura|l}}
+|}
+===Starforce {{PAGENAME}}===
+{|
+| {{ItemDisplay|Stardust Cutter|g}}
+|}

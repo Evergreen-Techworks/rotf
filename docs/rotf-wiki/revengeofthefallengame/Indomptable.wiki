@@ -1,0 +1,4 @@
+# Indomptable
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Indomptable&prop=wikitext
+
+asdf

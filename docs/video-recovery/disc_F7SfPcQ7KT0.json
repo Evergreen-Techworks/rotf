@@ -1,0 +1,23 @@
+{
+ "dungeon": "GENUINE ROTF FACECAM stream (webcam + 'SUBSCRIBE / LEAVE A LIKE' overlay covers the bottom-left CHAT box -> taunts UNREADABLE). A long multi-dungeon session (12 transitions) heavy on WHITE/GREY TREASURE-VAULT dungeons (rooms packed with chests) plus space/void, lava, brown dungeon, and grass realm. LOW yield: chat blocked -> no boss names/taunts; map/biome catalog + a couple of attack glimpses only (recurring facecam-channel limitation, cf. disc_CSdIVnAEOrI / disc_CnZQkLsjBVI).",
+ "map": "DOCUMENTED-from-minimaps+f_frames (facecam-limited): a hub-and-spoke marathon. KEY layouts read off readable minimaps: (1) a large WHITE/GREY structured ARENA with BLUE WATER pools + GREEN grass patches (open arena, water/grass features); (2) a dark CAVERN/oval boss ARENA with a red/orange centre; (3) GREY MULTI-ROOM dungeons connected by corridors (room-and-corridor layout); (4) WHITE/GREY TREASURE-VAULT rooms = boxy rooms packed with grids of brown CHESTS, linked by tiled corridors; (5) open dark realm sections with scattered enemy dots; (6) an ORANGE/RED LAVA flow area; (7) green GRASS REALM. No single continuous sequence (marathon).",
+ "bosses": [
+  {
+   "name": "(unnamed space/void boss — chat blocked)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames: in a dark SPACE/VOID arena, a boss fires a RADIAL NOVA / ring of WHITE bullets (an expanding circular burst); also white diamond/star scatter bullets seen in a grey arena. Reconstruct as a radial ring/nova (white). Boss identity NOT readable (facecam covers chat)."],
+   "minions": [],
+   "colorFlashes": "white",
+   "taunts": [],
+   "note": "DOCUMENTED-attack-only: the chat box is facecam-covered so NO boss name/taunt is recoverable. The white radial-nova attack is the only clean geometry captured. Not attributable to a named boss."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "treasure-vault chests (grids of loot containers; specific loot not legible — facecam)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED-limited (facecam): a ROTF run heavy on WHITE/GREY TREASURE-VAULT dungeons (chest-grid rooms) + space/void, lava, brown dungeon and grass realm. The bottom-left chat box is fully covered by the webcam + 'SUBSCRIBE' overlay -> NO taunts / event feed / boss names confirmable. Map read off readable minimaps (white water/grass arena, dark cavern arena, grey multi-room dungeons, treasure vaults) and f_ overview frames. One clean attack captured: a WHITE RADIAL NOVA from an unnamed space/void boss. Recurring low-yield facecam-channel pattern. No priority no-footage dungeon (Craig's Castle / Gate to the Underworld / Tomb of Decaying Death / Broken Forest / The Showcase) identified.",
+ "uncertain": "Facecam blocks the chat box -> NO boss names/taunts/loot/event-feed recoverable. Attack geometry only partially captured (white radial nova; other fights not isolated, no bossends). Treasure-vault dungeons not name-identified. The white water/grass arena and dark cavern arena are layout-only (no boss tied to them here). Biome catalog is the ceiling for this tag.",
+ "confidence": "LOW. GENUINE ROTF but a facecam treasure-vault marathon -> map/biome catalog + one attack glimpse (white radial nova) only; NO taunts/boss-names recoverable. Recorded to mark the tag analyzed, catalog the treasure-vault + arena layouts, and flag the recurring low-yield facecam-channel pattern. Not a source of new named-boss content. Best follow-up: a non-facecam clip of the same vault/space dungeons to recover boss names + taunts."
+}

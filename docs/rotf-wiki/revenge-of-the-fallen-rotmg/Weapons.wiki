@@ -1,0 +1,4 @@
+# Weapons
+# https://revenge-of-the-fallen-rotmg.fandom.com/api.php?action=parse&page=Weapons&prop=wikitext
+
+#REDIRECT [[Daggers]]

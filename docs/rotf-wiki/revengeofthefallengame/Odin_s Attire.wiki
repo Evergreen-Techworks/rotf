@@ -1,0 +1,4 @@
+# Odin's Attire
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Odin%27s%20Attire&prop=wikitext
+
+asdf

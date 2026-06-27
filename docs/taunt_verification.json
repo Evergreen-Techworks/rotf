@@ -1,0 +1,3531 @@
+{
+ "_doc": "TAUNT VERIFY LOOP worklist. Each cron fire takes the FIRST boss with verify_status=='pending', re-reads its source_tags' chat_*.png frames with vision, confirms/corrects each taunt text in the .cs file, stamps a provenance comment (// VERIFIED <tag> | // CORRECTED <tag> | // UNVERIFIABLE-source-lost | // DESIGNED-no-footage), recompiles (0 errors), sets verify_status, then STOPS. Base-game files are excluded.",
+ "summary": {
+  "rotf_bosses_total": 88,
+  "pending": 0,
+  "with_recheckable_frames": 0,
+  "no_source_found": 0,
+  "verified": 55,
+  "corrected": 25,
+  "n/a-all-labeled": 5,
+  "unverifiable": 3
+ },
+ "bosses": [
+  {
+   "file": "BehaviorDb.Abyss.cs",
+   "boss": "Archdemon Malphas",
+   "taunt_count": 5,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "I have been released...",
+     "label": "SOURCED",
+     "comment": "ROTF recovered taunt arc (disc_p-f3qDjrVDY)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Kill my proteges, and you will regret it...",
+     "label": "DESIGNED",
+     "comment": "DESIGNED-no-footage (invented flavor; not in any recovery spec)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "My minions will slay you!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_SXgeJh2Ao6U (spec-documented)",
+     "source_tags": [
+      "disc_rzoDJKwwSOU",
+      "disc_61_b9zF-2_E",
+      "disc_SXgeJh2Ao6U",
+      "disc_PE04BhHHyBk",
+      "disc_uFUNEp1GwPM",
+      "disc_-9_o5EilupU",
+      "ShatteredLoot"
+     ],
+     "frames_available": [
+      "disc_rzoDJKwwSOU",
+      "disc_61_b9zF-2_E",
+      "disc_SXgeJh2Ao6U",
+      "disc_PE04BhHHyBk",
+      "disc_uFUNEp1GwPM",
+      "disc_-9_o5EilupU",
+      "ShatteredLoot"
+     ]
+    },
+    {
+     "text": "My minions are failing me! I will...",
+     "label": "SOURCED",
+     "comment": "VERIFIED-partial disc_SXgeJh2Ao6U (distinct mid-fight line; on-screen text cut)",
+     "source_tags": [
+      "disc_rzoDJKwwSOU",
+      "disc_61_b9zF-2_E",
+      "disc_rUsOS8maIww",
+      "disc_SXgeJh2Ao6U",
+      "disc_uFUNEp1GwPM",
+      "ShatteredLoot"
+     ],
+     "frames_available": [
+      "disc_rzoDJKwwSOU",
+      "disc_61_b9zF-2_E",
+      "disc_rUsOS8maIww",
+      "disc_SXgeJh2Ao6U",
+      "disc_uFUNEp1GwPM",
+      "ShatteredLoot"
+     ]
+    },
+    {
+     "text": "I have been defeated... My demons will crush you!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_NsKbqLJgUfA (boss-colored chat)",
+     "source_tags": [
+      "disc_NsKbqLJgUfA",
+      "disc_rzoDJKwwSOU",
+      "disc_PE04BhHHyBk"
+     ],
+     "frames_available": [
+      "disc_NsKbqLJgUfA",
+      "disc_rzoDJKwwSOU",
+      "disc_PE04BhHHyBk"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.AnubisLair.cs",
+   "boss": "Anubis",
+   "taunt_count": 3,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "So... you dare disturb the rites of the dead?",
+     "label": "DESIGNED",
+     "comment": "DESIGNED-no-footage (invented intro flavor; not in any recovery spec)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Pillars... please help me!",
+     "label": "SOURCED",
+     "comment": "VERIFIED-3x-spec (disc_t8v5IlBPPJk + disc_TkraL4lSyDw + disc_XGl3pTaNmTM all record it verbatim for Anubis)",
+     "source_tags": [
+      "disc_XGl3pTaNmTM",
+      "disc_DFSTBqwKT-E",
+      "disc_Fx5_2g1_1O4",
+      "disc_t8v5IlBPPJk",
+      "disc_AAQEUfbwkyQ",
+      "disc_TkraL4lSyDw"
+     ],
+     "frames_available": [
+      "disc_XGl3pTaNmTM",
+      "disc_DFSTBqwKT-E",
+      "disc_Fx5_2g1_1O4",
+      "disc_t8v5IlBPPJk",
+      "disc_AAQEUfbwkyQ",
+      "disc_TkraL4lSyDw"
+     ]
+    },
+    {
+     "text": "I am losing strength... I am slowly dying...",
+     "label": "SOURCED",
+     "comment": "SPEC-DOCUMENTED disc_t8v5IlBPPJk (single source; weakened-phase line; frame not relocated this pass)",
+     "source_tags": [
+      "disc_t8v5IlBPPJk",
+      "disc_AAQEUfbwkyQ"
+     ],
+     "frames_available": [
+      "disc_t8v5IlBPPJk",
+      "disc_AAQEUfbwkyQ"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Asgard.cs",
+   "boss": "Heimdall",
+   "taunt_count": 6,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "I will destroy the Bifrost!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_9vQughNZIX0 (frame-read) + disc_Yx0kTFEixbA",
+     "source_tags": [
+      "disc_9vQughNZIX0"
+     ],
+     "frames_available": [
+      "disc_9vQughNZIX0"
+     ]
+    },
+    {
+     "text": "The sound will penetrate your mind!",
+     "label": "SOURCED",
+     "comment": "recovered disc_Yx0kTFEixbA (Gjallarhorn) + full verbatim disc__1He_TVKDuw",
+     "source_tags": [
+      "disc__1He_TVKDuw"
+     ],
+     "frames_available": [
+      "disc__1He_TVKDuw"
+     ]
+    },
+    {
+     "text": "Attack them, guardians!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_9vQughNZIX0 (frame-read)",
+     "source_tags": [
+      "disc_9vQughNZIX0"
+     ],
+     "frames_available": [
+      "disc_9vQughNZIX0"
+     ]
+    },
+    {
+     "text": "My blade will eventually find you!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_9vQughNZIX0 (frame-read; on-screen though absent from specs)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "You shall not pass!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_9vQughNZIX0 (frame-read; was missing from build)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Your attacks does not hurt me!",
+     "label": "DESIGNED",
+     "comment": "DESIGNED-no-footage (not in any spec, not seen in frames; grammar suggests invented)",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Asgard.cs",
+   "boss": "Loki",
+   "taunt_count": 7,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Don't fall for my tricks!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_9vQughNZIX0 (frame-read)",
+     "source_tags": [
+      "disc__1He_TVKDuw",
+      "disc_9vQughNZIX0"
+     ],
+     "frames_available": [
+      "disc__1He_TVKDuw",
+      "disc_9vQughNZIX0"
+     ]
+    },
+    {
+     "text": "Why are you still alive? Die!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_9vQughNZIX0 (wording frame-confirmed; final ?/! ambiguous at resolution, kept as-is)",
+     "source_tags": [
+      "disc__1He_TVKDuw",
+      "disc_9vQughNZIX0"
+     ],
+     "frames_available": [
+      "disc__1He_TVKDuw",
+      "disc_9vQughNZIX0"
+     ]
+    },
+    {
+     "text": "I will disappear now! Or will I! Hahahaha!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_9vQughNZIX0 (frame-read) + disc__1He_TVKDuw",
+     "source_tags": [
+      "disc__1He_TVKDuw"
+     ],
+     "frames_available": [
+      "disc__1He_TVKDuw"
+     ]
+    },
+    {
+     "text": "Now you see me! Now you don't!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_9vQughNZIX0 (frame-read; was missing from build)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "I was invisible! Are you cheating!",
+     "label": "SOURCED",
+     "comment": "SPEC-DOCUMENTED disc__1He_TVKDuw (frame not located among 2754; spec-grounded)",
+     "source_tags": [
+      "disc__1He_TVKDuw"
+     ],
+     "frames_available": [
+      "disc__1He_TVKDuw"
+     ]
+    },
+    {
+     "text": "trick, trick, trick.",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_9vQughNZIX0 (frame-read)",
+     "source_tags": [
+      "disc__1He_TVKDuw"
+     ],
+     "frames_available": [
+      "disc__1He_TVKDuw"
+     ]
+    },
+    {
+     "text": "You seem to be still alive.",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_9vQughNZIX0 (frame-read)",
+     "source_tags": [
+      "disc__1He_TVKDuw"
+     ],
+     "frames_available": [
+      "disc__1He_TVKDuw"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Asgard.cs",
+   "boss": "Hela",
+   "taunt_count": 8,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Deal with the vermins.",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_cu6l3YQR608 (frame-read)",
+     "source_tags": [
+      "disc_HzO8vU8xmgo",
+      "disc_9vQughNZIX0"
+     ],
+     "frames_available": [
+      "disc_HzO8vU8xmgo",
+      "disc_9vQughNZIX0"
+     ]
+    },
+    {
+     "text": "Vermins, destroy them!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_cu6l3YQR608 (frame-read)",
+     "source_tags": [
+      "disc_cu6l3YQR608",
+      "disc_9vQughNZIX0"
+     ],
+     "frames_available": [
+      "disc_cu6l3YQR608",
+      "disc_9vQughNZIX0"
+     ]
+    },
+    {
+     "text": "Powered by thousands of souls, instant death.",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_cu6l3YQR608 (frame-read)",
+     "source_tags": [
+      "disc_cu6l3YQR608"
+     ],
+     "frames_available": [
+      "disc_cu6l3YQR608"
+     ]
+    },
+    {
+     "text": "You have come a long way, just to die!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_cu6l3YQR608 (frame-read; Hela's own line, not the Odin one)",
+     "source_tags": [
+      "disc_cu6l3YQR608"
+     ],
+     "frames_available": [
+      "disc_cu6l3YQR608"
+     ]
+    },
+    {
+     "text": "Whatever, it just means that I need to try a little harder.",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_cu6l3YQR608",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Getting hit by my magic will sting you for years... or forever.",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_cu6l3YQR608",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "This attack will make you disappear!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_cu6l3YQR608",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "You start to annoy me! I will now strike harder!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_cu6l3YQR608",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Asgard.cs",
+   "boss": "Odin",
+   "taunt_count": 9,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Attention to all guards, intruders in the Throne Room.",
+     "label": "SOURCED",
+     "comment": "SPEC-DOCUMENTED disc_cu6l3YQR608 (throne-intro; frame not relocated this pass)",
+     "source_tags": [
+      "disc_cu6l3YQR608"
+     ],
+     "frames_available": [
+      "disc_cu6l3YQR608"
+     ]
+    },
+    {
+     "text": "You cannot win against my gods!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_cu6l3YQR608 (frame-read)",
+     "source_tags": [
+      "disc_cu6l3YQR608",
+      "disc_HhwYZGR0M3s"
+     ],
+     "frames_available": [
+      "disc_cu6l3YQR608",
+      "disc_HhwYZGR0M3s"
+     ]
+    },
+    {
+     "text": "You have no chance in this fight!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_cu6l3YQR608 (frame-read)",
+     "source_tags": [
+      "disc_cu6l3YQR608",
+      "disc__1He_TVKDuw"
+     ],
+     "frames_available": [
+      "disc_cu6l3YQR608",
+      "disc__1He_TVKDuw"
+     ]
+    },
+    {
+     "text": "Help me, guards. Kill the mortals!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_cu6l3YQR608 (frame-read)",
+     "source_tags": [
+      "disc_cu6l3YQR608",
+      "disc__1He_TVKDuw"
+     ],
+     "frames_available": [
+      "disc_cu6l3YQR608",
+      "disc__1He_TVKDuw"
+     ]
+    },
+    {
+     "text": "You have come a long way. It will end soon!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_cu6l3YQR608 (frame-read; on-screen comma vs period kept as-is)",
+     "source_tags": [
+      "disc_cu6l3YQR608"
+     ],
+     "frames_available": [
+      "disc_cu6l3YQR608"
+     ]
+    },
+    {
+     "text": "I would normally welcome my guests, but you already have shown you are not here for pleasure.",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_cu6l3YQR608 (frame-read; was missing from build)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Only a matter of time, before you fall.",
+     "label": "SOURCED",
+     "comment": "recovered disc_HhwYZGR0M3s",
+     "source_tags": [
+      "disc_IZ2Z7AUhb8s"
+     ],
+     "frames_available": [
+      "disc_IZ2Z7AUhb8s"
+     ]
+    },
+    {
+     "text": "A guard composed of gods! How can you ever win now?",
+     "label": "SOURCED",
+     "comment": "recovered disc_HhwYZGR0M3s + full line confirmed GeneralStream",
+     "source_tags": [
+      "GeneralStream"
+     ],
+     "frames_available": [
+      "GeneralStream"
+     ]
+    },
+    {
+     "text": "Defeat the mortals!",
+     "label": "SOURCED",
+     "comment": "recovered GeneralStream",
+     "source_tags": [
+      "disc__1He_TVKDuw"
+     ],
+     "frames_available": [
+      "disc__1He_TVKDuw"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Asgard.cs",
+   "boss": "Thor",
+   "taunt_count": 5,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Beware my thunder!!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_9vQughNZIX0 (frame-read; 2 marks)",
+     "source_tags": [
+      "disc_9vQughNZIX0"
+     ],
+     "frames_available": [
+      "disc_9vQughNZIX0"
+     ]
+    },
+    {
+     "text": "You fight good, mortal. But I am stronger!",
+     "label": "SOURCED",
+     "comment": "VERIFIED-partial disc_9vQughNZIX0 (stem frame-confirmed; \"am stronger!\" cut off-screen \u2014 unconfirmed completion)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Power of the thunder!",
+     "label": "SOURCED",
+     "comment": "VERIFIED RunesNodes (spec-documented) + disc_9vQughNZIX0 (frame-read)",
+     "source_tags": [
+      "RunesNodes"
+     ],
+     "frames_available": [
+      "RunesNodes"
+     ]
+    },
+    {
+     "text": "Watch out for the thunder!",
+     "label": "SOURCED",
+     "comment": "VERIFIED RunesNodes (spec-documented)",
+     "source_tags": [
+      "RunesNodes"
+     ],
+     "frames_available": [
+      "RunesNodes"
+     ]
+    },
+    {
+     "text": "noooo :C",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_-N3MH_woifQ (spec-documented; meme death line)",
+     "source_tags": [
+      "disc_-N3MH_woifQ"
+     ],
+     "frames_available": [
+      "disc_-N3MH_woifQ"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.CollapsedWoods.cs",
+   "boss": "Treesmasher",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "...who disturbs the deadwood?",
+     "label": "DESIGNED",
+     "comment": "DESIGNED-no-footage (invented; the real recovered Treesmasher wake line is \"You have awoken the...\" below)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "You have awoken the...",
+     "label": "SOURCED",
+     "comment": "VERIFIED-partial disc_AUiz1LBnNJg (frame-read stem \"Treesmasher: You have awoken the...\"; completion CUT off-screen). PATTERN now CONFIRMED on 2 sibling Lords: Firebreather \"You have awoken the spirit of fire...\" (disc_-9_o5EilupU) + Shadowscale \"You have awoken the spirit of shadow...\" (disc_OpvS02UXO-I) -> Treesmasher's is structurally \"...spirit of the [woods/forest/nature]...\", but the EXACT noun was NEVER captured for Treesmasher -> NOT completing the in-game text (no guessing). The auto-bridge's \"[Treesmasher/woods]\" is a bracketed guess, deliberately NOT injected. Kept the confirmed stem; flag for a clean Treesmasher-wake frame to finish the line.",
+     "source_tags": [
+      "disc_AUiz1LBnNJg"
+     ],
+     "frames_available": [
+      "disc_AUiz1LBnNJg"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Craig.cs",
+   "boss": "Craig the Mad Intern",
+   "taunt_count": 4,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "I'M STARTING TO GET ANGRY!!!",
+     "label": "SOURCED",
+     "comment": "verbatim, recovered from video disc_3eM07g4Ly5k",
+     "source_tags": [
+      "disc_XGl3pTaNmTM",
+      "disc_3eM07g4Ly5k",
+      "disc_SPBkDdC5JGM"
+     ],
+     "frames_available": [
+      "disc_XGl3pTaNmTM",
+      "disc_3eM07g4Ly5k",
+      "disc_SPBkDdC5JGM"
+     ]
+    },
+    {
+     "text": "HAHAHA, I AM INCREASING IN SIZE SO I CAN DESTROY YOU EVEN MORE!!!",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_Fx5_2g1_1O4 (was two SPLIT fragments \"HAHAHA! I AM INCREASING IN STRENGTH!\" + \"DESTROY YOU EVEN MORE!!!\"; the UNCUT line in disc_Fx5_2g1_1O4 reads as ONE continuous taunt -> \"STRENGTH\" was a guessed completion for the cut word, actual is \"SIZE\", and \"DESTROY YOU EVEN MORE\" is the same line's tail. comma after HAHAHA per prior specs)",
+     "source_tags": [
+      "disc_Fx5_2g1_1O4"
+     ],
+     "frames_available": [
+      "disc_Fx5_2g1_1O4"
+     ]
+    },
+    {
+     "text": "PREPARE TO DIE!!!",
+     "label": "SOURCED",
+     "comment": "VERIFIED-4x-spec (GeneralStream + disc_YC4vDxWTAyc + disc_awf8n3A7KOk + disc_wsRSijbExRI) \u2014 was missing from build",
+     "source_tags": [
+      "disc_wsRSijbExRI",
+      "disc_YC4vDxWTAyc",
+      "disc_awf8n3A7KOk",
+      "disc_Fx5_2g1_1O4",
+      "GeneralStream"
+     ],
+     "frames_available": [
+      "disc_wsRSijbExRI",
+      "disc_YC4vDxWTAyc",
+      "disc_awf8n3A7KOk",
+      "disc_Fx5_2g1_1O4",
+      "GeneralStream"
+     ]
+    },
+    {
+     "text": "So if you don't want to suffer... I might just have to kill you...",
+     "label": "SOURCED",
+     "comment": "VERIFIED-4x-spec (disc_Fx5_2g1_1O4 [uncut] + disc_YC4vDxWTAyc + disc_wsRSijbExRI + LongRPE). First clause: 3 specs read \"su[ffer]\" -> \"suffer\"; disc_Fx5 paraphrased it \"say thanks to me\" (3-vs-1 favors \"suffer\"). Second clause \"I might just have to kill you...\" from disc_Fx5 uncut. (NOTE: the two disc_SPBkDdC5JGM lines \u2014 \"Obvi[ously I knew]... my next tri[ck]...\" / \"You [...] fix that problem with some gain!\" \u2014 were DEFERRED, not added: single-source, illegible bracketed gaps, the std 224px chat crop cuts those tails and frames weren't cleanly re-readable this pass -> flagged for a targeted wide re-crop rather than injecting guessed text)",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Crystal.cs",
+   "boss": "Mysterious Crystal",
+   "taunt_count": 10,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Break the crystal for great rewards...",
+     "label": "SOURCED",
+     "comment": "BASE-GAME (canonical RotMG Mysterious Crystal text \u2014 not ROTF-recovered, not fabricated)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Help me...",
+     "label": "SOURCED",
+     "comment": "UNVERIFIABLE (disc_akLcdL1MzZg source line was UNATTRIBUTED; not a standard base-crystal line; thematically the trapped prisoner but unconfirmed)",
+     "source_tags": [
+      "disc_akLcdL1MzZg"
+     ],
+     "frames_available": [
+      "disc_akLcdL1MzZg"
+     ]
+    },
+    {
+     "text": "Fire upon this crystal with all your might for 5 seconds",
+     "label": "SOURCED",
+     "comment": "BASE-GAME (canonical RotMG Mysterious Crystal text \u2014 not ROTF-recovered, not fabricated)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "If your attacks are weak, the crystal magically heals",
+     "label": "SOURCED",
+     "comment": "BASE-GAME (canonical RotMG Mysterious Crystal text \u2014 not ROTF-recovered, not fabricated)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Gather a large group to smash it open",
+     "label": "SOURCED",
+     "comment": "BASE-GAME (canonical RotMG Mysterious Crystal text \u2014 not ROTF-recovered, not fabricated)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Sweet treasure awaits for powerful adventurers!",
+     "label": "SOURCED",
+     "comment": "BASE-GAME (canonical RotMG Mysterious Crystal text \u2014 not ROTF-recovered, not fabricated)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Yes!  Smash my prison for great rewards!",
+     "label": "SOURCED",
+     "comment": "BASE-GAME (canonical RotMG Mysterious Crystal text \u2014 not ROTF-recovered, not fabricated)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Perhaps you need a bigger group. Ask others to join you!",
+     "label": "SOURCED",
+     "comment": "BASE-GAME (canonical RotMG Mysterious Crystal text \u2014 not ROTF-recovered, not fabricated)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "You cracked the crystal! Soon we shall emerge!",
+     "label": "SOURCED",
+     "comment": "BASE-GAME (canonical RotMG Mysterious Crystal text \u2014 not ROTF-recovered, not fabricated)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "This your reward! Imagine what evil even Oryx needs to keep locked up!",
+     "label": "SOURCED",
+     "comment": "BASE-GAME (canonical RotMG Mysterious Crystal text \u2014 not ROTF-recovered, not fabricated)",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Crystal.cs",
+   "boss": "Crystal Prisoner",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "I'm finally free! Yesss!!!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_65DNPf-aCOQ (frame-read, exact: \"Crystal Prisoner: I'm finally free! Yesss!!!\")",
+     "source_tags": [
+      "disc_65DNPf-aCOQ"
+     ],
+     "frames_available": [
+      "disc_65DNPf-aCOQ"
+     ]
+    },
+    {
+     "text": "I am everywhere and nowhere!",
+     "label": "SOURCED",
+     "comment": "ROTF recovered clone-confusion taunt",
+     "source_tags": [
+      "disc_EM9Uba-Nv08",
+      "disc_LuUwzl6KwCY"
+     ],
+     "frames_available": [
+      "disc_EM9Uba-Nv08",
+      "disc_LuUwzl6KwCY"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Crystal.cs",
+   "boss": "Crystal Prisoner Clone",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "I am everywhere and nowhere!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_LuUwzl6KwCY (frame-read, exact: \"Crystal Prisoner Clone: I am everywhere and nowhere!\")",
+     "source_tags": [
+      "disc_EM9Uba-Nv08",
+      "disc_LuUwzl6KwCY"
+     ],
+     "frames_available": [
+      "disc_EM9Uba-Nv08",
+      "disc_LuUwzl6KwCY"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Encounters.cs",
+   "boss": "Breathing Encounter",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "GRAVE MISTAKES HAVE BEEN MADE.",
+     "label": "SOURCED",
+     "comment": "verbatim (disc_ZEnAhsvDzKY/disc_fnAwkbaB_0c)",
+     "source_tags": [
+      "disc_fnAwkbaB_0c"
+     ],
+     "frames_available": [
+      "disc_fnAwkbaB_0c"
+     ]
+    },
+    {
+     "text": "I've seen leprechauns hit harder than that. TAKE THIS!",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_aCAA_5Od6WY (was: \"I've seen leprechauns hit harder!\"; frame-read exact: \"Breathing Encounter: I've seen leprechauns hit harder than that. TAKE THIS!\" \u2014 templated family: Shadow=\"babies\", Smashing=\"mermaids\")",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Encounters.cs",
+   "boss": "Smashing Encounter",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "GRAVE MISTAKES HAVE BEEN MADE.",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_fnAwkbaB_0c (shared Encounter family line, frame-verified; cf. Shadow Encounter). disc_ZEnAhsvDzKY attribution for THIS exact string dropped \u2014 in disc_ZEnAhsvDzKY this boss is seen saying the distinct variant below instead.",
+     "source_tags": [
+      "disc_fnAwkbaB_0c"
+     ],
+     "frames_available": [
+      "disc_fnAwkbaB_0c"
+     ]
+    },
+    {
+     "text": "YOU HAVE MADE A GRAVE MISTAKE, WARRIOR!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_ZEnAhsvDzKY (frame-read f_00334/00336: boss-coloured <Smashing Encounter> + <Breathing Encounter>; a 2nd grave-themed shared Encounter taunt, distinct from the period line above)",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Encounters.cs",
+   "boss": "Shadow Encounter",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "GRAVE MISTAKES HAVE BEEN MADE.",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_fnAwkbaB_0c (frame-read exact incl. period; shared Encounter line, e.g. \"Flying Encounter: GRAVE MISTAKES HAVE BEEN MADE.\")",
+     "source_tags": [
+      "disc_fnAwkbaB_0c"
+     ],
+     "frames_available": [
+      "disc_fnAwkbaB_0c"
+     ]
+    },
+    {
+     "text": "I've seen babies hit harder than that. TAKE THIS!",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_aCAA_5Od6WY (was: \"I've seen babies hit harder than that\"; frame-read exact: \"Shadow Encounter: I've seen babies hit harder than that. TAKE THIS!\" \u2014 templated family: Breathing=\"leprechauns\", Smashing=\"mermaids\")",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Encounters.cs",
+   "boss": "Flying Encounter",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "GRAVE MISTAKES HAVE BEEN MADE.",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_fnAwkbaB_0c (shared Encounter family line; prior pass frame-cited this exact line for Flying Encounter, e.g. \"Flying Encounter: GRAVE MISTAKES HAVE BEEN MADE.\")",
+     "source_tags": [
+      "disc_fnAwkbaB_0c"
+     ],
+     "frames_available": [
+      "disc_fnAwkbaB_0c"
+     ]
+    },
+    {
+     "text": "Your attempt at taking me down is...",
+     "label": "SOURCED",
+     "comment": "UNVERIFIABLE-illegible disc_fnAwkbaB_0c (recovered but TRUNCATED at chat edge; could NOT re-isolate in the 2084-frame source this verify pass. Kept as recorded with honest \"...\"; the recovery's bracketed \"cute/comical\" guesses deliberately NOT baked in.)",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.FlamingHearth.cs",
+   "boss": "Firebreather",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "Your courage softens me... considering it won't be lasting much longer!",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_rQseJUyAHU0 (was: \"Your courage softens me...\"; full line frame-read at full width, 4 source tags)",
+     "source_tags": [
+      "disc_rzoDJKwwSOU"
+     ],
+     "frames_available": [
+      "disc_rzoDJKwwSOU"
+     ]
+    },
+    {
+     "text": "Death is your reward! Say no more and I'll make it quick!",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_rQseJUyAHU0 (was: \"Death is your reward!!\"; full line frame-read: \"Firebreather: Death is your reward! Say no more and I'll make it quick!\")",
+     "source_tags": [
+      "disc_rzoDJKwwSOU"
+     ],
+     "frames_available": [
+      "disc_rzoDJKwwSOU"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.IcyPeaks.cs",
+   "boss": "Ice Queen",
+   "taunt_count": 3,
+   "unlabeled_count": 0,
+   "verify_status": "n/a-all-labeled",
+   "taunts": [
+    {
+     "text": "You will freeze in my halls.",
+     "label": "DESIGNED",
+     "comment": "RECONSTRUCTED (no footage taunt)",
+     "source_tags": [
+      "IcyPeaks",
+      "IcyPeaks_tutorial"
+     ],
+     "frames_available": []
+    },
+    {
+     "text": "My towers will not fall!",
+     "label": "DESIGNED",
+     "comment": "RECONSTRUCTED",
+     "source_tags": [
+      "IcyPeaks",
+      "IcyPeaks_tutorial"
+     ],
+     "frames_available": []
+    },
+    {
+     "text": "No... my ice melts...",
+     "label": "DESIGNED",
+     "comment": "RECONSTRUCTED",
+     "source_tags": [
+      "IcyPeaks",
+      "IcyPeaks_tutorial"
+     ],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Midland.cs",
+   "boss": "Dwarf King",
+   "taunt_count": 3,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "You'll taste my axe!",
+     "label": "SOURCED",
+     "comment": "VERIFIED-2x-spec (disc_PRzNeGfRR00 + disc_TkraL4lSyDw \u2014 DOCUMENTED VERBATIM in 2 independent recoveries, both attributing it to Dwarf King + axe-melee)",
+     "source_tags": [
+      "disc_PRzNeGfRR00",
+      "disc_fjgne_X74s8",
+      "disc_TkraL4lSyDw"
+     ],
+     "frames_available": [
+      "disc_PRzNeGfRR00",
+      "disc_fjgne_X74s8",
+      "disc_TkraL4lSyDw"
+     ]
+    },
+    {
+     "text": "Tasted? Again!",
+     "label": "SOURCED",
+     "comment": "ROTF recovery (disc_fjgne_X74s8): base Dwarf King IS the ROTF boss",
+     "source_tags": [
+      "disc_fjgne_X74s8"
+     ],
+     "frames_available": [
+      "disc_fjgne_X74s8"
+     ]
+    },
+    {
+     "text": "Anyone! Anyone!!",
+     "label": "SOURCED",
+     "comment": "UNVERIFIABLE-illegible (single source disc_fjgne_X74s8; chat dense/compressed, line not relocatable in this fire's frame reads -> kept but flagged unconfirmed)",
+     "source_tags": [
+      "disc_fjgne_X74s8"
+     ],
+     "frames_available": [
+      "disc_fjgne_X74s8"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Midland.cs",
+   "boss": "Drake Baby",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Awwwk! Awwwk!",
+     "label": "DESIGNED",
+     "comment": "VERIFIED disc_MBGeRlSnKqM (footage-grounded \u2014 boss-coloured \"Drake Baby:\" chat, verbatim \"Awwwk! Awwwk!\" + green-flash radial-ring attack; CORRECTS the prior DESIGNED-no-footage label \u2014 this line IS in the footage)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Awwwwk! Awwwwk!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_kZl_YV0-aVQ (footage-grounded \u2014 entity-coloured chat, verbatim 4-w \"Awwwwk! Awwwwk!\"; the louder escalated cry-for-mama squawk)",
+     "source_tags": [
+      "disc_kZl_YV0-aVQ"
+     ],
+     "frames_available": [
+      "disc_kZl_YV0-aVQ"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Midland.cs",
+   "boss": "Desert Werewolf",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "GRRRRAAGH!",
+     "label": "DESIGNED",
+     "comment": "DESIGNED-no-footage (invented werewolf enrage roar; no recovery source \u2014 flavor for the enrage/grow phase, honestly labeled)",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Necropolis.cs",
+   "boss": "Gravedigger",
+   "taunt_count": 3,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Let's see how you handle this...",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_2nyUJDNu9Cs (frame-read exact: \"Gravedigger: Let's see how you handle this...\")",
+     "source_tags": [
+      "disc_ZEnAhsvDzKY",
+      "TwilightNecropolis",
+      "disc_2nyUJDNu9Cs"
+     ],
+     "frames_available": [
+      "disc_ZEnAhsvDzKY",
+      "TwilightNecropolis",
+      "disc_2nyUJDNu9Cs"
+     ]
+    },
+    {
+     "text": "MINIONS. SAVE ME!!!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_2nyUJDNu9Cs (frame-read exact: \"Gravedigger: MINIONS. SAVE ME!!!\")",
+     "source_tags": [
+      "TwilightNecropolis",
+      "disc_2nyUJDNu9Cs"
+     ],
+     "frames_available": [
+      "TwilightNecropolis",
+      "disc_2nyUJDNu9Cs"
+     ]
+    },
+    {
+     "text": "It seems like you have survived... I offer you my congratulations, but you...",
+     "label": "SOURCED",
+     "comment": "VERIFIED-partial disc_ZEnAhsvDzKY (\"survived\" = spec's bracketed read; line trails off \u2014 false-congratulations menace)",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Necropolis.cs",
+   "boss": "Diagon",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "Enough of this. BEHOLD. THE PERFECTION OF DIAGON THE ETERNAL!",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_MszcvkbWED8 (was: \"...THE PERFECTION OF DIAGON!\"; full line frame-read exact: \"Diagon: Enough of this. BEHOLD. THE PERFECTION OF DIAGON THE ETERNAL!\")",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Necropolis.cs",
+   "boss": "Troll Matriarch",
+   "taunt_count": 3,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "This forest will be your tomb!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_sTTSEekkX1o (verbatim-full, boss-prefix chat_00080 grayscale-pull)",
+     "source_tags": [
+      "disc_sTTSEekkX1o",
+      "disc_wwhGYuiu_9U"
+     ],
+     "frames_available": [
+      "disc_sTTSEekkX1o",
+      "disc_wwhGYuiu_9U"
+     ]
+    },
+    {
+     "text": "I call upon the aid of warriors past!",
+     "label": "SOURCED",
+     "comment": "VERIFIED-partial disc_sTTSEekkX1o (source tail-CUT \"...past! Sm[...]\"; kept the complete first sentence, dropped the 2-letter cut fragment)",
+     "source_tags": [
+      "disc_sTTSEekkX1o",
+      "disc_wwhGYuiu_9U"
+     ],
+     "frames_available": [
+      "disc_sTTSEekkX1o",
+      "disc_wwhGYuiu_9U"
+     ]
+    },
+    {
+     "text": "I feel invincible with my minions here!",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_sTTSEekkX1o (was: \"...here...\" \u2014 prior pass wrongly assumed tail-cut; frame-read chat_00080/00084 shows the line is COMPLETE ending \"here!\" with exclamation, not truncated)",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.NyxOfFire.cs",
+   "boss": "Nyx of Fire",
+   "taunt_count": 3,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "You will burn with the rest of them.",
+     "label": "DESIGNED",
+     "comment": "DESIGNED-no-footage (reconstructed deadpan; no recovery source \u2014 aced_NyxOfFire.json has no taunts. Fire-phase flavor, honestly labeled)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Kneel. Now fight for me.",
+     "label": "DESIGNED",
+     "comment": "DESIGNED-no-footage (reconstructed; no recovery source. Evil-player-recruit phase flavor, honestly labeled)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "There are two of me now.",
+     "label": "DESIGNED",
+     "comment": "DESIGNED-no-footage (reconstructed; no recovery source. Clone-phase flavor, honestly labeled)",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses.cs",
+   "boss": "Ortar",
+   "taunt_count": 12,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Hail, I Ortar, Highest of Staffords.",
+     "label": "SOURCED",
+     "comment": "VERIFIED-spec disc_1uD9wcqfVUQ (1 source + self-names \"Ortar\"; caveman meme boss confirmed real via \"The Ortar has been defeated!\" feed)",
+     "source_tags": [
+      "disc_1uD9wcqfVUQ"
+     ],
+     "frames_available": [
+      "disc_1uD9wcqfVUQ"
+     ]
+    },
+    {
+     "text": "Me play. You play. Fun.",
+     "label": "SOURCED",
+     "comment": "SOURCED-1-spec disc_1uD9wcqfVUQ (single source, thematic Ortar; not frame-re-verified this fire)",
+     "source_tags": [
+      "disc_1uD9wcqfVUQ"
+     ],
+     "frames_available": [
+      "disc_1uD9wcqfVUQ"
+     ]
+    },
+    {
+     "text": "Me want to go! Me angery!",
+     "label": "SOURCED",
+     "comment": "VERIFIED-4x-spec (disc_tyG-KT533DA/fFKeD2EZFSg/ed9YjhhonUU/n7RZ1JzWXXw \u2014 4 independent recoveries)",
+     "source_tags": [
+      "disc_tyG-KT533DA",
+      "disc_fFKeD2EZFSg",
+      "disc_ed9YjhhonUU",
+      "disc_n7RZ1JzWXXw"
+     ],
+     "frames_available": [
+      "disc_tyG-KT533DA",
+      "disc_fFKeD2EZFSg",
+      "disc_ed9YjhhonUU",
+      "disc_n7RZ1JzWXXw"
+     ]
+    },
+    {
+     "text": "Why you serious, why you serious?",
+     "label": "SOURCED",
+     "comment": "UNVERIFIABLE-cross-attribution-risk (3 specs, BUT the Arcanica boss \u2014 also caveman-speak, same tag disc_tyG-KT533DA \u2014 says \"Why so serious?\"; this line may be cross-attributed from Arcanica -> needs a clean \"Ortar:\"-prefix frame read before VERIFIED)",
+     "source_tags": [
+      "disc_tyG-KT533DA",
+      "disc_ed9YjhhonUU",
+      "disc_n7RZ1JzWXXw"
+     ],
+     "frames_available": [
+      "disc_tyG-KT533DA",
+      "disc_ed9YjhhonUU",
+      "disc_n7RZ1JzWXXw"
+     ]
+    },
+    {
+     "text": "Me serious now too.",
+     "label": "SOURCED",
+     "comment": "VERIFIED-4x-spec (disc_tyG-KT533DA/fFKeD2EZFSg/ed9YjhhonUU/n7RZ1JzWXXw)",
+     "source_tags": [
+      "disc_tyG-KT533DA",
+      "disc_fFKeD2EZFSg",
+      "disc_ed9YjhhonUU",
+      "disc_n7RZ1JzWXXw"
+     ],
+     "frames_available": [
+      "disc_tyG-KT533DA",
+      "disc_fFKeD2EZFSg",
+      "disc_ed9YjhhonUU",
+      "disc_n7RZ1JzWXXw"
+     ]
+    },
+    {
+     "text": "Why angery? Me want fun...",
+     "label": "SOURCED",
+     "comment": "SOURCED-1-spec disc_tyG-KT533DA (single source, thematic Ortar)",
+     "source_tags": [
+      "disc_tyG-KT533DA"
+     ],
+     "frames_available": [
+      "disc_tyG-KT533DA"
+     ]
+    },
+    {
+     "text": "Stop! You hurt Ortar, Ortar hurt you!",
+     "label": "SOURCED",
+     "comment": "VERIFIED-spec disc_tyG-KT533DA (self-names \"Ortar\" x2)",
+     "source_tags": [
+      "disc_tyG-KT533DA"
+     ],
+     "frames_available": [
+      "disc_tyG-KT533DA"
+     ]
+    },
+    {
+     "text": "Now Ortar tryhard.",
+     "label": "SOURCED",
+     "comment": "VERIFIED-2x-spec (disc_pGEVj9uJLFw + disc_tyG-KT533DA; self-names \"Ortar\")",
+     "source_tags": [
+      "disc_pGEVj9uJLFw",
+      "disc_tyG-KT533DA"
+     ],
+     "frames_available": [
+      "disc_pGEVj9uJLFw",
+      "disc_tyG-KT533DA"
+     ]
+    },
+    {
+     "text": "Tryhard... Not fun.. TRYHARD NOT FUN!",
+     "label": "SOURCED",
+     "comment": "VERIFIED-2x-spec (disc_pGEVj9uJLFw + disc_tyG-KT533DA; Ortar tryhard-theme, distinct from Arcanica)",
+     "source_tags": [
+      "disc_pGEVj9uJLFw",
+      "disc_tyG-KT533DA"
+     ],
+     "frames_available": [
+      "disc_pGEVj9uJLFw",
+      "disc_tyG-KT533DA"
+     ]
+    },
+    {
+     "text": "This NO fun.. Me leave.. I ANGRY!",
+     "label": "SOURCED",
+     "comment": "VERIFIED-2x-spec (disc_pGEVj9uJLFw + disc_tyG-KT533DA)",
+     "source_tags": [
+      "disc_pGEVj9uJLFw",
+      "disc_tyG-KT533DA"
+     ],
+     "frames_available": [
+      "disc_pGEVj9uJLFw",
+      "disc_tyG-KT533DA"
+     ]
+    },
+    {
+     "text": "Ortar KILL you! FUN! haHAA!",
+     "label": "SOURCED",
+     "comment": "VERIFIED-2x-spec (disc_pGEVj9uJLFw + disc_tyG-KT533DA; self-names \"Ortar\")",
+     "source_tags": [
+      "disc_pGEVj9uJLFw",
+      "disc_tyG-KT533DA"
+     ],
+     "frames_available": [
+      "disc_pGEVj9uJLFw",
+      "disc_tyG-KT533DA"
+     ]
+    },
+    {
+     "text": "Ortar make you die. Hehehehe....",
+     "label": "SOURCED",
+     "comment": "VERIFIED-spec disc_fFKeD2EZFSg (self-names \"Ortar\")",
+     "source_tags": [
+      "disc_qheTDTNSp-A",
+      "disc_fFKeD2EZFSg"
+     ],
+     "frames_available": [
+      "disc_qheTDTNSp-A",
+      "disc_fFKeD2EZFSg"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses.cs",
+   "boss": "Cracked Core",
+   "taunt_count": 4,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "D--ie w-a-rr-i-o-r!",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_rQseJUyAHU0 (was \"D--le w-a-rr-l-o-r!\"; the glitched text spells \"DIE WARRIOR!\" \u2014 build misread i->l twice; frame-read \"Cracked Core: D--ie w-a-rr-i-o-r!\")",
+     "source_tags": [
+      "disc_ZgpUWDff7Ns"
+     ],
+     "frames_available": [
+      "disc_ZgpUWDff7Ns"
+     ]
+    },
+    {
+     "text": "H-h-h-h-h-h-h-h-h",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_rQseJUyAHU0 (frame-read; the glitchy stutter-laugh, \"Cracked Core: H-h-h-h-h-h-h-h-h\")",
+     "source_tags": [
+      "disc_CgZC3OpXVhU",
+      "disc_ZgpUWDff7Ns"
+     ],
+     "frames_available": [
+      "disc_CgZC3OpXVhU",
+      "disc_ZgpUWDff7Ns"
+     ]
+    },
+    {
+     "text": "DOOOOOOOOOOOOOOOOOOOM!!!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_rQseJUyAHU0 + disc_CgZC3OpXVhU (the DOOM scream)",
+     "source_tags": [
+      "disc_CgZC3OpXVhU",
+      "disc_rQseJUyAHU0",
+      "disc_ZgpUWDff7Ns"
+     ],
+     "frames_available": [
+      "disc_CgZC3OpXVhU",
+      "disc_rQseJUyAHU0",
+      "disc_ZgpUWDff7Ns"
+     ]
+    },
+    {
+     "text": "These creatures are too overwhelming!!!",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_rQseJUyAHU0 (was \"These creatures are mine!\"; frame-read exact \"Cracked Core: These creatures are too overwhelming!!!\")",
+     "source_tags": [
+      "disc_ZgpUWDff7Ns",
+      "GalacticLoot"
+     ],
+     "frames_available": [
+      "disc_ZgpUWDff7Ns",
+      "GalacticLoot"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses.cs",
+   "boss": "God of Reptilians",
+   "taunt_count": 3,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "Your stares at defeating me make my heart warm up, say bye and move out of my way!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_XGl3pTaNmTM (frame-read f_00039+f_00041, wide re-crop; opening taunt \u2014 was MISSING from build)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Let's get a little bit more movement going on... oh, and... prepare to meet your purpose, DOOM!",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_XGl3pTaNmTM (frames f_00039+f_00041 show ONE wrapped message; build had it as 2 split taunts \"Let's get a little more serious...\" + \"Prepare to meet your purpose, DOOM...\" \u2014 \"serious\" was a MISREAD of \"movement going on\", \"bit\" + \"oh, and...\" were dropped)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Don't push your luck adventurer... prepare for your final lesson... on DEATH!!!",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_XGl3pTaNmTM (frames f_00039+f_00041 show ONE wrapped message; build had it as 2 split taunts \"Don't push your luck... 'adventurer'\" + \"...on DEATH!!!\" \u2014 the middle \"prepare for your final lesson...\" was DROPPED and the quotes around adventurer + the ellipsis-split were fabricated. Supersedes the prior 2x-spec partial label)",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses.cs",
+   "boss": "Twilight Archmage",
+   "taunt_count": 4,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "Darkness give me strength!",
+     "label": "SOURCED",
+     "comment": "VERIFIED base-game Shatters canonical (disc_hl-ETK3d42A + disc_SXgeJh2Ao6U + disc_g1Ce99YlFrI + disc_I-LLUiWJE5I). NOTE: Twilight Archmage is BASE-GAME SHATTERS, built here as a custom OC boss -> RECLASSIFY (see verify_note; these are canonical RotMG lines, not ROTF-custom)",
+     "source_tags": [
+      "disc_hl-ETK3d42A",
+      "disc_SXgeJh2Ao6U",
+      "disc_I-LLUiWJE5I",
+      "disc_wwhGYuiu_9U"
+     ],
+     "frames_available": [
+      "disc_hl-ETK3d42A",
+      "disc_SXgeJh2Ao6U",
+      "disc_I-LLUiWJE5I",
+      "disc_wwhGYuiu_9U"
+     ]
+    },
+    {
+     "text": "Let me see what I can conjure up",
+     "label": "SOURCED",
+     "comment": "VERIFIED base-game Shatters canonical (disc_SXgeJh2Ao6U; real RotMG Archmage line)",
+     "source_tags": [
+      "disc__WkTRDW_vQ0",
+      "disc_SXgeJh2Ao6U"
+     ],
+     "frames_available": [
+      "disc__WkTRDW_vQ0",
+      "disc_SXgeJh2Ao6U"
+     ]
+    },
+    {
+     "text": "You leave me no choice...",
+     "label": "SOURCED",
+     "comment": "VERIFIED base-game Shatters canonical (disc_g1Ce99YlFrI frame-read shows the full \"You leave me no choice... Inferno! Blizzard!\"; build's truncation kept)",
+     "source_tags": [
+      "disc_SXgeJh2Ao6U",
+      "disc_g1Ce99YlFrI"
+     ],
+     "frames_available": [
+      "disc_SXgeJh2Ao6U",
+      "disc_g1Ce99YlFrI"
+     ]
+    },
+    {
+     "text": "Your souls will feed my eyes.",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_g1Ce99YlFrI (was: \"Your souls will feed my King.\" \u2014 \"King\" was ADMITTED-INVENTED lore, NOT canonical; base-game Shatters line is \"Your souls will feed my eyes\" / \"...feel my evil\" per the 8-line frame-read set. Removed the fabrication, restored canonical)",
+     "source_tags": [
+      "disc__WkTRDW_vQ0"
+     ],
+     "frames_available": [
+      "disc__WkTRDW_vQ0"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses.cs",
+   "boss": "Epic Ghost of Skuld",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "A SWIFT DEATH!!!",
+     "label": "SOURCED",
+     "comment": "VERIFIED-3x-spec (disc_bk4dygntBZ8 + disc_ZEnAhsvDzKY + disc_HvB7mdTTE4E \u2014 3 independent recoveries transcribe it identically; not single-frame-isolated this pass, red-lava montages surfaced other bosses, but cross-spec convergence is authoritative)",
+     "source_tags": [
+      "disc_bk4dygntBZ8",
+      "disc_ZEnAhsvDzKY",
+      "disc_x2rMJdHL4Jc",
+      "disc_IBEp1CbA00Q",
+      "disc_UZQBOayvNVE",
+      "disc_HvB7mdTTE4E"
+     ],
+     "frames_available": [
+      "disc_bk4dygntBZ8",
+      "disc_ZEnAhsvDzKY",
+      "disc_x2rMJdHL4Jc",
+      "disc_IBEp1CbA00Q",
+      "disc_UZQBOayvNVE",
+      "disc_HvB7mdTTE4E"
+     ]
+    },
+    {
+     "text": "Congratulations on your victory, warrior.",
+     "label": "SOURCED",
+     "comment": "VERIFIED-2x-spec-partial: \"Congratulations on your victory\" corroborated by 3 specs; the \", warrior.\" tail is from disc_HvB7mdTTE4E only (disc_bk4dygntBZ8 + disc_ZEnAhsvDzKY truncate before it) -> core multi-source, tail single-source",
+     "source_tags": [
+      "disc_x2rMJdHL4Jc",
+      "disc_IBEp1CbA00Q",
+      "disc_HvB7mdTTE4E"
+     ],
+     "frames_available": [
+      "disc_x2rMJdHL4Jc",
+      "disc_IBEp1CbA00Q",
+      "disc_HvB7mdTTE4E"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses.cs",
+   "boss": "Stonetaker",
+   "taunt_count": 6,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Mmm... Beautiful stones...",
+     "label": "SOURCED",
+     "comment": "VERIFIED-2x-spec (disc_PRzNeGfRR00 + disc_Q4c9_KWBey4, both DOCUMENTED-VERBATIM boss-coloured chat, identical; direct single-frame isolation attempted but the 944+1609-crop tags surfaced lava/Quest-Chest spam, not the boss frames -> cross-spec convergence, no conflict w/ build)",
+     "source_tags": [
+      "disc_Q4c9_KWBey4",
+      "disc_PRzNeGfRR00",
+      "disc_zDnBF0EgLNI"
+     ],
+     "frames_available": [
+      "disc_Q4c9_KWBey4",
+      "disc_PRzNeGfRR00",
+      "disc_zDnBF0EgLNI"
+     ]
+    },
+    {
+     "text": "Leave my stones in peace...",
+     "label": "SOURCED",
+     "comment": "VERIFIED-2x-spec (disc_PRzNeGfRR00 + disc_Q4c9_KWBey4, identical verbatim)",
+     "source_tags": [
+      "disc_Q4c9_KWBey4",
+      "disc_PRzNeGfRR00"
+     ],
+     "frames_available": [
+      "disc_Q4c9_KWBey4",
+      "disc_PRzNeGfRR00"
+     ]
+    },
+    {
+     "text": "LEAVE MY STONES ALONE!",
+     "label": "SOURCED",
+     "comment": "VERIFIED-spec disc_PRzNeGfRR00 (DOCUMENTED-VERBATIM boss-coloured enrage line; 1 source). NOTE: disc_PRzNeGfRR00 also documents a death-panic line \"No... no... NO! YOU WI[LL]...\" not in the build -> flagged for a possible future enrich (dev-loop)",
+     "source_tags": [
+      "disc_PRzNeGfRR00",
+      "disc_zDnBF0EgLNI"
+     ],
+     "frames_available": [
+      "disc_PRzNeGfRR00",
+      "disc_zDnBF0EgLNI"
+     ]
+    },
+    {
+     "text": "NOT MY STONES!!!!!",
+     "label": "SOURCED",
+     "comment": "VERIFIED GalacticLoot (spec-documented)",
+     "source_tags": [
+      "GalacticLoot",
+      "disc_zDnBF0EgLNI"
+     ],
+     "frames_available": [
+      "GalacticLoot",
+      "disc_zDnBF0EgLNI"
+     ]
+    },
+    {
+     "text": "MY BEAUTIFUL STONES! NOOO!!!",
+     "label": "SOURCED",
+     "comment": "VERIFIED GalacticLoot (spec-documented)",
+     "source_tags": [
+      "GalacticLoot"
+     ],
+     "frames_available": [
+      "GalacticLoot"
+     ]
+    },
+    {
+     "text": "My stones... no... no...",
+     "label": "SOURCED",
+     "comment": "VERIFIED GalacticLoot (spec-documented; quiet-loss line)",
+     "source_tags": [
+      "GalacticLoot"
+     ],
+     "frames_available": [
+      "GalacticLoot"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Marble Colossus",
+   "taunt_count": 4,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "PAH! The prohibited arts allow untold power...",
+     "label": "DESIGNED",
+     "comment": "VERIFIED-2x-spec (disc_VFAOCb9EQJ4 \"PAH! The prohibited arts allow untold [power]...\" + disc_XQUmPL07sFY \"PAH! The dark/prohibited arts... [partial]\"). \"power\" completes the cut word; \"prohibited\" per disc_VFAOCb9EQJ4. (Ledger had no source_tags = matcher miss \u2014 it IS recovered, NOT designed.)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "It is my duty to protect these catacombs... my purpose!",
+     "label": "SOURCED",
+     "comment": "VERIFIED-spec disc_VFAOCb9EQJ4 (verbatim, 1 source)",
+     "source_tags": [
+      "disc_VFAOCb9EQJ4"
+     ],
+     "frames_available": [
+      "disc_VFAOCb9EQJ4"
+     ]
+    },
+    {
+     "text": "I feel myself... Slipping... Into the void... It is so... Dark...",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_v6HXKS92zAI (clean WIDE read of t001_at0s chat: \"Marble Colossus: I feel myself... Slipping... Into the void... It is so... Dark...\" \u2014 the prior \"It is soon\" was a MISREAD: 2 earlier specs cut at \"so[on]\" and it was completed to \"soon\", but the full uncut line is \"It is so... Dark...\" [= \"it is so dark\"], which fits the void/slipping theme. Re-confirmed this verify fire.)",
+     "source_tags": [
+      "disc_xEFLSmxIpSA",
+      "disc_v6HXKS92zAI",
+      "disc_zDnBF0EgLNI"
+     ],
+     "frames_available": [
+      "disc_xEFLSmxIpSA",
+      "disc_v6HXKS92zAI",
+      "disc_zDnBF0EgLNI"
+     ]
+    },
+    {
+     "text": "I...I am...Dying...",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_gTBwT-tVZ78 (distinct death gasp; spec-documented)",
+     "source_tags": [
+      "disc_gTBwT-tVZ78"
+     ],
+     "frames_available": [
+      "disc_gTBwT-tVZ78"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Marble Defender",
+   "taunt_count": 4,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "I wish only to protect you. Forgive me, but I have no other choice.",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_wsuYBdiueK0 (VERIFY-LOOP wide f_ re-crop f_00099 \u2014 full line; was MISSING from the build entirely)",
+     "source_tags": [
+      "disc_wsuYBdiueK0"
+     ],
+     "frames_available": [
+      "disc_wsuYBdiueK0"
+     ]
+    },
+    {
+     "text": "Your confidence is gravely misplaced, heroes.",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_wsuYBdiueK0 (was: \"Your confidence...\"; full line frame-read f_00099)",
+     "source_tags": [
+      "disc_wsuYBdiueK0"
+     ],
+     "frames_available": [
+      "disc_wsuYBdiueK0"
+     ]
+    },
+    {
+     "text": "Do not allow this evil to escape!",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_wsuYBdiueK0 (was: \"Do not allow this...\"; full line f_00099)",
+     "source_tags": [
+      "disc_wsuYBdiueK0"
+     ],
+     "frames_available": [
+      "disc_wsuYBdiueK0"
+     ]
+    },
+    {
+     "text": "I can protect your world no longer. You are now responsible for the fate of the realm.",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_wsuYBdiueK0 (was TWO fragments \"I can protect you...\" + \"...the fate of the realm...\" = the SAME single line; merged + completed from f_00099)",
+     "source_tags": [
+      "disc_wsuYBdiueK0"
+     ],
+     "frames_available": [
+      "disc_wsuYBdiueK0"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Legon the Weather God",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "Infiltrating my palace will get you killed. How brave.",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_VZDxttR2LMk (boss-coloured entry line t002@281s, exact)",
+     "source_tags": [
+      "disc_VZDxttR2LMk"
+     ],
+     "frames_available": [
+      "disc_VZDxttR2LMk"
+     ]
+    },
+    {
+     "text": "Time to get completely obliterated!",
+     "label": "SOURCED",
+     "comment": "VERIFIED-2x-spec (disc_VZDxttR2LMk + disc__k2I-JV1ztQ, identical)",
+     "source_tags": [
+      "disc__k2I-JV1ztQ",
+      "disc_VZDxttR2LMk"
+     ],
+     "frames_available": [
+      "disc__k2I-JV1ztQ",
+      "disc_VZDxttR2LMk"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Euryale the Snake Goddess",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "You will regret this for many years to come.",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc__oNRwi83bLU (was: \"You will regret this for many...\"; VERIFY-LOOP wide f_ re-crop f_00092 shows full line; also confirmed in disc_VZDxttR2LMk f_00159 = 2-source)",
+     "source_tags": [
+      "disc__oNRwi83bLU",
+      "disc_VZDxttR2LMk"
+     ],
+     "frames_available": [
+      "disc__oNRwi83bLU",
+      "disc_VZDxttR2LMk"
+     ]
+    },
+    {
+     "text": "This is where I make my stand!",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_VZDxttR2LMk (was a MIS-READ \"You will regret this for trying my pa...\"; wide f_ re-crop f_~159 shows the real 2nd line \"This is where I make my stand!\" \u2014 recovery had garbled it as \"I show I mine my star...\")",
+     "source_tags": [
+      "disc_VZDxttR2LMk"
+     ],
+     "frames_available": [
+      "disc_VZDxttR2LMk"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Legendary Dragon Kakashi",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "YOU SHOULD HAVE NEVER DONE THIS!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_SWYl0ULzh4s (VERIFY-LOOP wide re-crop b008_128s_007-009, \"<Legendary Dragon Kakashi>\" prefix, exact)",
+     "source_tags": [
+      "disc_SWYl0ULzh4s"
+     ],
+     "frames_available": [
+      "disc_SWYl0ULzh4s"
+     ]
+    },
+    {
+     "text": "YOU'VE MADE A GRAVE MISTAKE!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_SWYl0ULzh4s (VERIFY-LOOP wide re-crop b008_128s_007-009, exact)",
+     "source_tags": [
+      "disc_SWYl0ULzh4s"
+     ],
+     "frames_available": [
+      "disc_SWYl0ULzh4s"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Masha, the God of War",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "How did you get here!? Does that mean Asclepius has failed...?",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_tET7e3TRTc8 (VERIFY-LOOP re-read f_00128-144, wording exact; trailing \"..?\" -> \"...?\")",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Stupid mortals... You really think you can kill me?",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_tET7e3TRTc8 (VERIFY-LOOP re-read f_00128-144, exact)",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Resthla, The Twisted Mermaid",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "She is... Silly.",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_VZDxttR2LMk (was: \"Maria... Joh...\"; VERIFY-LOOP wide re-crop f_00023 shows the boss's actual 1st line is \"<Resthla, The Twisted Mermaid> She is... Silly.\" \u2014 \"Maria... Joh...\" not locatable in footage, was a mis-read)",
+     "source_tags": [
+      "disc_VZDxttR2LMk"
+     ],
+     "frames_available": [
+      "disc_VZDxttR2LMk"
+     ]
+    },
+    {
+     "text": "Mother always preferred her. Mother always was a fool. Bah.",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_VZDxttR2LMk (wide re-crop f_00023, wording exact; single-letter spelling \"preferred/prefered\" sub-pixel-ambiguous -> kept standard)",
+     "source_tags": [
+      "disc_VZDxttR2LMk"
+     ],
+     "frames_available": [
+      "disc_VZDxttR2LMk"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Ascended Septavius the Ghost Goddess",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "You'll regret what you did to my king.",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_VZDxttR2LMk (was: \"You'll regret wha...\"; VERIFY-LOOP wide re-crop f_00168 shows full line \u2014 also confirms name \"Septavius\")",
+     "source_tags": [
+      "disc_VZDxttR2LMk"
+     ],
+     "frames_available": [
+      "disc_VZDxttR2LMk"
+     ]
+    },
+    {
+     "text": "Prepare yourselves, and face me!",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_VZDxttR2LMk (was: \"Prepare yoursel...\"; full line f_00168)",
+     "source_tags": [
+      "disc_VZDxttR2LMk"
+     ],
+     "frames_available": [
+      "disc_VZDxttR2LMk"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Infused Elven King",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Finally my true power has been unleashed",
+     "label": "SOURCED",
+     "comment": "GROUNDED disc_iBUg7V_Eq0A \u2014 VERIFY LOOP: boss NAME independently CONFIRMED via death-feed (\"X has been crushed by Infused Elven King!\", f_00236-252, multiple frames) + minions \"Elven Infiltrator\"/\"Elven Captain\" confirmed; boss is REAL + correctly named. The taunt text is the recovery's DOCUMENTED-VERBATIM boss-coloured read; the exact taunt line was NOT re-isolated this pass (fast scroll in a 256-chat multi-dungeon stream \u2014 visible chat in the fight window was player banter + death-feed). No transcription error found; text stands on the verbatim recovery read + confirmed-real boss.",
+     "source_tags": [
+      "disc_iBUg7V_Eq0A"
+     ],
+     "frames_available": [
+      "disc_iBUg7V_Eq0A"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "White Dragon Lord",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "unverifiable",
+   "taunts": [
+    {
+     "text": "Impudence! I am an immortal Dragon!",
+     "label": "SOURCED",
+     "comment": "UNVERIFIABLE-illegible disc_iIkWGzE1404 \u2014 VERIFY LOOP could not independently re-isolate the exact boss-coloured line: 1405-chat/936-f_/35-transition MARATHON, NO bossends, and the boss was admin /spawn'd in the open (no dungeon-entry to localize). Recovery's read was HIGH-confidence DOCUMENTED-VERBATIM + the boss is canonically validated (elemental Dragon Lord roster: built Firebreather/Riverborn). NO error evidence; text kept as recovery's read (NOT invented/guessed) \u2014 just not re-confirmable in a small-work budget. (Re-isolation limitation, not a doubt about the read.)",
+     "source_tags": [
+      "disc_iIkWGzE1404"
+     ],
+     "frames_available": [
+      "disc_iIkWGzE1404"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Suspicious Looking Dragon",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "...vibrations from deep down below...",
+     "label": "SOURCED",
+     "comment": "VERIFIED-partial (2x cross-spec) disc_p-f3qDjrVDY + disc_XGl3pTaNmTM \u2014 VERIFY LOOP: the cut fragment is 2x-CORROBORATED (two independent recovery reads, IDENTICAL) and the boss is well-attested (defeat-feed \"The Suspicious Looking Dragon has been defeated!\" confirmed this pass). The exact line was NOT re-isolated firsthand this pass (buried in event-feed/player-chat-heavy small tags); full text before \"vibrations\"/after \"below\" still unknown. Verified-as-partial via cross-source agreement; kept verbatim, NOT guessed.",
+     "source_tags": [
+      "disc_XGl3pTaNmTM",
+      "disc_p-f3qDjrVDY"
+     ],
+     "frames_available": [
+      "disc_XGl3pTaNmTM",
+      "disc_p-f3qDjrVDY"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Putin",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "MOTHER RUSSIA!!!",
+     "label": "SOURCED",
+     "comment": "SOURCED disc_hGSSP2J3gcQ (boss-coloured, clean complete; verify loop can re-confirm)",
+     "source_tags": [
+      "disc_hGSSP2J3gcQ"
+     ],
+     "frames_available": [
+      "disc_hGSSP2J3gcQ"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Wind Elemental",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Tornadoes! Help me!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_E03Je5EgiZQ (frame-read chat_00048/00047, boss-coloured <Wind Elemental> prefix, exact; corroborated by \"Wind Elemental spawned in Realm!\" announce + <Gorgon> \"(16/30) Wind Elemental has been defeated\" feed)",
+     "source_tags": [
+      "disc_E03Je5EgiZQ"
+     ],
+     "frames_available": [
+      "disc_E03Je5EgiZQ"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Asylum Guard",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Ark! aark!..",
+     "label": "VERIFIED",
+     "comment": "VERIFIED disc_ONFXatmUVNI (frame-read chat_00014, boss-coloured \"<Asylum Guard>\" prefix; genuine crow-squawk line, quirky but real)",
+     "source_tags": [
+      "disc_ONFXatmUVNI"
+     ],
+     "frames_available": [
+      "disc_ONFXatmUVNI"
+     ]
+    }
+   ],
+   "verify_note": "Label synced from .cs: name+taunt frame-verified during its DEV build this session (disc_ONFXatmUVNI chat_00014, boss-coloured <Asylum Guard> + squawk \"Ark! aark!..\")."
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Bloodsworn Knight",
+   "taunt_count": 4,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "You dare challenge the Bloodsworn...",
+     "label": "SOURCED",
+     "comment": "VERIFIED-partial disc_l8s6Dho3WM4 (chat_00050, boss-coloured; right-edge cut after \"Bloodsworn\" \u2014 recovery's \"[Knight/Order]\" guess NOT baked in)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "The gate is sealed! Prepare...",
+     "label": "SOURCED",
+     "comment": "VERIFIED-partial disc_l8s6Dho3WM4 (chat_00052; tail cut after \"Prepare\")",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "The gate opens...",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_l8s6Dho3WM4 (chat_00056, boss-coloured, clean)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "My watch... has... ended...",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_l8s6Dho3WM4 (chat_00056, boss-coloured, clean death line)",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Wizzard Clone",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "I am everywhere and nowhere!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_EM9Uba-Nv08 (wide f_ re-crop f_00094/95: orange boss-coloured \"<Wizzard Clone>\", sic, exact verbatim incl \"!\"; SAME frame-set also shows \"<Crystal Prisoner Clone>\" saying the identical line in another biome -> proves distinct entity + SHARED clone-boss taunt, not a mis-read)",
+     "source_tags": [
+      "disc_EM9Uba-Nv08",
+      "disc_LuUwzl6KwCY"
+     ],
+     "frames_available": [
+      "disc_EM9Uba-Nv08",
+      "disc_LuUwzl6KwCY"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "The Beekeeper",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Enough! Come forth my insect children, and make them beg for death!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_1mU5uHE6DXE (frame-read f_00040, \"<The Beekeeper>\" prefix + death-feed \"killed by The Beekeeper\" name-confirm; VERIFY-LOOP fresh re-read was API image-rate-limited this fire -> stands on the clear build-fire frame read, no error)",
+     "source_tags": [
+      "disc_1mU5uHE6DXE"
+     ],
+     "frames_available": [
+      "disc_1mU5uHE6DXE"
+     ]
+    },
+    {
+     "text": "I am the creator of a perfect insect race! You WILL kneel before me RIGHT NOW!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_1mU5uHE6DXE (frame-read f_00040, same pass; no error)",
+     "source_tags": [
+      "disc_1mU5uHE6DXE"
+     ],
+     "frames_available": [
+      "disc_1mU5uHE6DXE"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Urios, God of Elements",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "THE POWER EMERGES WITHIN ME. PREPARE TO BECOME ONLY ANOTHER BLOODSTAIN IN THE RUINS!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_VZDxttR2LMk (VERIFY-LOOP re-read f_00278, \"<Urios, God of Elements>\" prefix, exact)",
+     "source_tags": [
+      "disc_VZDxttR2LMk"
+     ],
+     "frames_available": [
+      "disc_VZDxttR2LMk"
+     ]
+    },
+    {
+     "text": "The time is come...the elements are ME! THE SHRINE WILL GIVE ME POWER!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_VZDxttR2LMk (VERIFY-LOOP re-read f_00278-281, \"<Urios, God of Elements>\" prefix, exact \u2014 confirms the shrine phase belongs to Urios, not the Weather God)",
+     "source_tags": [
+      "disc_VZDxttR2LMk"
+     ],
+     "frames_available": [
+      "disc_VZDxttR2LMk"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Lycaon",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "FLESH AND BLOOD!",
+     "label": "SOURCED",
+     "comment": "VERIFIED-3x-spec (disc_Yx0kTFEixbA + disc_XQUmPL07sFY + disc_koXrDxguF7o, identical). Direct frame-isolation attempted on 2 tags but the Lycaon/werewolf frames weren't surfaced (red montages showed Arcanica/Stheno/Warbringer/event-feed) -> cross-spec convergence, no conflict w/ build",
+     "source_tags": [
+      "disc_Yx0kTFEixbA",
+      "disc_XQUmPL07sFY",
+      "disc_koXrDxguF7o"
+     ],
+     "frames_available": [
+      "disc_Yx0kTFEixbA",
+      "disc_XQUmPL07sFY",
+      "disc_koXrDxguF7o"
+     ]
+    },
+    {
+     "text": "FRESH MEAT!",
+     "label": "SOURCED",
+     "comment": "VERIFIED-2x-spec (disc_Yx0kTFEixbA + disc_XQUmPL07sFY, identical)",
+     "source_tags": [
+      "disc_Yx0kTFEixbA",
+      "disc_XQUmPL07sFY"
+     ],
+     "frames_available": [
+      "disc_Yx0kTFEixbA",
+      "disc_XQUmPL07sFY"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Arcanica",
+   "taunt_count": 4,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Arcanica wants mana",
+     "label": "SOURCED",
+     "comment": "SOURCED-1-spec disc_Kei9ksQxGl4 (consistent mana-hungry 3rd-person voice; spec-documented, not frame-re-isolated this pass \u2014 the 4709+2905-crop tags surfaced lava/Spaceship/lootbox, not the Arcanica frames)",
+     "source_tags": [
+      "disc_VFAOCb9EQJ4",
+      "disc_Kei9ksQxGl4"
+     ],
+     "frames_available": [
+      "disc_VFAOCb9EQJ4",
+      "disc_Kei9ksQxGl4"
+     ]
+    },
+    {
+     "text": "Arcanica sees mana source",
+     "label": "SOURCED",
+     "comment": "SOURCED-1-spec disc_Kei9ksQxGl4",
+     "source_tags": [
+      "disc_Kei9ksQxGl4"
+     ],
+     "frames_available": [
+      "disc_Kei9ksQxGl4"
+     ]
+    },
+    {
+     "text": "Why... Arcanica needs mana",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_XQUmPL07sFY (frame-read \"Arcanica: Why... Arcanica needs m[ana]\" during the Lycaon pass) + spec disc_Kei9ksQxGl4 \u2014 confirms the boss + this line",
+     "source_tags": [
+      "disc_Kei9ksQxGl4"
+     ],
+     "frames_available": [
+      "disc_Kei9ksQxGl4"
+     ]
+    },
+    {
+     "text": "Arcanica sensing mana...",
+     "label": "SOURCED",
+     "comment": "SOURCED-1-spec disc_VFAOCb9EQJ4 (consistent voice; spec-documented, not frame-re-isolated this pass)",
+     "source_tags": [
+      "disc_VFAOCb9EQJ4"
+     ],
+     "frames_available": [
+      "disc_VFAOCb9EQJ4"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Cookie Monster",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "unverifiable",
+   "taunts": [
+    {
+     "text": "Candy... Candy...",
+     "label": "SOURCED",
+     "comment": "UNVERIFIABLE-illegible disc_OROH0lDrGTg \u2014 source frames EXIST (214 chat/857 f_) but the boss-coloured \"Cookie Monster\" line CANNOT be re-isolated: no bossend/transition hint to localize the fight (only t001@759s), crowd/lava/event-feed-dominated, and TWO verify passes (prior 2 montages + this fire's stride-8 sweep) failed to surface it. Text kept VERBATIM as the original recovery's boss-coloured read (NOT invented, NOT guessed). THEMATIC CONCERN UNRESOLVED: a \"Cookie Monster\" saying \"Candy\" may be a \"Cookie...\" misread \u2014 NOT corrected (no evidence) -> needs a clean \"Cookie Monster:\"-prefix frame (e.g. a fullscreen/non-crowded source) to confirm/correct",
+     "source_tags": [
+      "disc_YC4vDxWTAyc",
+      "disc_OROH0lDrGTg"
+     ],
+     "frames_available": [
+      "disc_YC4vDxWTAyc",
+      "disc_OROH0lDrGTg"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Carrot God",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "Oh you finally made it, I bet you were expecting an expert magician. Well...",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_MFpI_mW1jYM (was truncated \"...expecting...\"; wide-re-crop of f_00281 shows the FULL line \"Carrot God: Oh you finally made it, I bet you were expecting an expert magician. Well...\" \u2014 the joke: you expected an expert magician, you got a Carrot God. Restored the dropped \"an expert magician. Well...\")",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "here I am!!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_MFpI_mW1jYM (frame-read verbatim, boss-prefix \"Carrot God:\" confirmed; the 2nd half of the reveal)",
+     "source_tags": [
+      "disc_MFpI_mW1jYM"
+     ],
+     "frames_available": [
+      "disc_MFpI_mW1jYM"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Mewtwo",
+   "taunt_count": 3,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "You think you can beat me?",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_akLcdL1MzZg (frame-read, \"Mewtwo:\" prefix, frames 46-52)",
+     "source_tags": [
+      "disc_t4BuOE5nwBE"
+     ],
+     "frames_available": [
+      "disc_t4BuOE5nwBE"
+     ]
+    },
+    {
+     "text": "So you are trying to kill me?",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_akLcdL1MzZg (frame-read, \"Mewtwo:\" prefix) + corroborated in disc_t4BuOE5nwBE + disc_hp_dAXf_alY (3-spec)",
+     "source_tags": [
+      "disc_hp_dAXf_alY",
+      "disc_t4BuOE5nwBE",
+      "disc_akLcdL1MzZg"
+     ],
+     "frames_available": [
+      "disc_hp_dAXf_alY",
+      "disc_t4BuOE5nwBE",
+      "disc_akLcdL1MzZg"
+     ]
+    },
+    {
+     "text": "I AM THE STRONGEST CREATURE IN THIS WORLD!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_akLcdL1MzZg (frame-read exact, \"Mewtwo:\" prefix; on-character Pokemon-Mewtwo line). NOTE: did NOT add the task's \"Well I can't let you do that.\" \u2014 could not locate it in-frame (saw THIS line in its place), and it conflicts with disc_hp_dAXf_alY's \"Well I can kill you outside!\" -> both left out as unverified/conflicting",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "God of Luck",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "You can use your Lucky Potion again in 5 seconds",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_rk0RkuuDu9g (re-frame-confirmed this pass, chat_00064: \"God of Luck: You can use your Lucky Potion again in 5 sec[onds]\", boss-prefix confirmed). Originally CORRECTED disc_rk0RkuuDu9g (was truncated \"You can use your Luck...\"; full frame-read boss-coloured line \"God of Luck: You can use your Lucky Potion again in 5 seconds\" \u2014 the boss SPAMS this cooldown-countdown text; the auto-bridge's \"...in N seconds\" placeholder + the partial fragment are the same line, so MERGED here. Higher prob 0.02 to reflect the spam gimmick)",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Giant Oryx Chicken",
+   "taunt_count": 3,
+   "unlabeled_count": 0,
+   "verify_status": "unverifiable",
+   "taunts": [
+    {
+     "text": "Cluck cluck BOCK!!",
+     "label": "SOURCED",
+     "comment": "SOURCED-1-spec disc_IZ2Z7AUhb8s + UNVERIFIABLE-conflict: the OTHER spec disc_hfhcXPoJq1U reads the chicken squawk as \"BUCK!!\" (+ \"Cluck cluck cluck... CLUCK!\" / \"CLLLUUUCCCKKK!!!\") -> BOCK vs BUCK is a cross-spec onomatopoeia conflict. Direct frame-read attempted on BOTH tags but the cluck lines are lava/event-feed-buried (not isolated). Kept \"BOCK\" (no evidence to prefer BUCK; both valid chicken squawks) -> NOT corrected, NOT frame-confirmed. (disc_hfhcXPoJq1U's extra cluck lines = candidates for a future enrich once frame-confirmed)",
+     "source_tags": [
+      "disc_hfhcXPoJq1U",
+      "disc_IZ2Z7AUhb8s"
+     ],
+     "frames_available": [
+      "disc_hfhcXPoJq1U",
+      "disc_IZ2Z7AUhb8s"
+     ]
+    },
+    {
+     "text": "Cluck cluck cluck... CLUCK!",
+     "label": "SOURCED",
+     "comment": "SOURCED-1-spec disc_hfhcXPoJq1U (DISTINCT multi-cluck line, on-theme chicken cluck; not frame-re-isolated \u2014 same buried-source caveat as the BOCK line). Added as a distinct cluck (NOT the BOCK/BUCK conflict)",
+     "source_tags": [
+      "disc_hfhcXPoJq1U",
+      "disc_EMgDk9BDwOE"
+     ],
+     "frames_available": [
+      "disc_hfhcXPoJq1U",
+      "disc_EMgDk9BDwOE"
+     ]
+    },
+    {
+     "text": "CLLLUUUCCCKKK!!!",
+     "label": "SOURCED",
+     "comment": "SOURCED-1-spec disc_hfhcXPoJq1U (DISTINCT elongated cluck scream; not frame-re-isolated). NOTE: deliberately did NOT add the queued \"BUCK!!\" \u2014 it's the BOCK/BUCK cross-spec conflict (same squawk as the existing \"Cluck cluck BOCK!!\"), not a distinct line",
+     "source_tags": [
+      "disc_hfhcXPoJq1U",
+      "disc_EMgDk9BDwOE"
+     ],
+     "frames_available": [
+      "disc_hfhcXPoJq1U",
+      "disc_EMgDk9BDwOE"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "The Mysterious Card",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "With my sleight of hand...",
+     "label": "SOURCED",
+     "comment": "SOURCED-1-spec disc_JbQvbkBLRjE (truncated \"...\"; on-theme for a card/sleight-of-hand boss). Boss confirmed REAL (LongRPE also names \"The Mysterious Card\"). Direct frame-read attempted this pass (red-rank + grayscale spread) but the line is lava/player-chat-buried among 1131 crops -> NOT frame-isolated; kept as-is (no error evidence, not corrected). Full completion after \"...\" unknown -> flag for fullscreen-source recovery.",
+     "source_tags": [
+      "LongRPE",
+      "disc_JbQvbkBLRjE"
+     ],
+     "frames_available": [
+      "LongRPE",
+      "disc_JbQvbkBLRjE"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "MH Wave Controller",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "No! What's happening?! You weren't supposed to escape!",
+     "label": "DESIGNED",
+     "comment": "CORRECTED disc_MFpI_mW1jYM (was truncated+misread \"...You were...\"; the narrow chat crop cut at \"wer\", but the WIDE f_00096 frame shows the full boss-prefixed line \"MH Wave Controller: No! What's happening?! You weren't supposed to escape!\" -> \"were\"->\"weren't\" + restored \"supposed to escape!\". NOTE: ledger had no source_tags = matcher miss; this is FRAME-VERIFIED, not designed)",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Creepy Talking Jack-O-Lantern",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Look out for those skeletons in the realm. They're spooky AND scary!",
+     "label": "DESIGNED",
+     "comment": "SOURCED-1-spec disc_iFlpCUkcjvY (\"DOCUMENTED VERBATIM, truncated by crop\": tail \"...realm. They're spooky AND scary!\" read clearly; \"skeletons in the\" reconstructs the cut \"skel[...]\"). NOT designed (ledger no-source = matcher miss). Direct frame-read attempted but giveaway-spam-buried in 1233 crops -> not isolated. NOTE: likely a BASE-GAME seasonal (Halloween/Oryxmas) Jack-O-Lantern NPC line, not ROTF-custom.",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Uvuvwuwuwe",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "You disappoint me.",
+     "label": "DESIGNED",
+     "comment": "SOURCED-1-spec disc_DtB0_zeZVEQ (spec documents \"Uvuvwevwevwe - You disappoint me.\" verbatim w/ boss-prefix). Generic line; direct frame-read attempted (red-rank + grayscale) but desert/event-feed-buried in 274 crops -> not isolated. NOT designed (it IS sourced); kept as-is (no error evidence).",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Smiling Dragon",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "It feels like time to rock 'n roll once more!",
+     "label": "SOURCED",
+     "comment": "VERIFIED-2x-spec (disc_DtB0_zeZVEQ + disc_EfO-XlNpe6A, identical verbatim; name \"Smiling Dragon\" confirmed in disc_EfO-XlNpe6A \u2014 disc_DtB0_zeZVEQ had the line but flagged the name uncertain). Direct frame-isolation attempted (disc_DtB0_zeZVEQ spread) but feed-buried -> cross-spec convergence, no conflict w/ build (build's capital \"It\" = chat-line start)",
+     "source_tags": [
+      "disc_DtB0_zeZVEQ",
+      "disc_EfO-XlNpe6A"
+     ],
+     "frames_available": [
+      "disc_DtB0_zeZVEQ",
+      "disc_EfO-XlNpe6A"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Warbringer",
+   "taunt_count": 5,
+   "unlabeled_count": 0,
+   "verify_status": "n/a-all-labeled",
+   "taunts": [
+    {
+     "text": "Watchlings!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_Yx0kTFEixbA (frame-read exact; CORRECTED from the task's misread \"Weaklings!\")",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "This land will become...",
+     "label": "SOURCED",
+     "comment": "VERIFIED-partial disc_Yx0kTFEixbA (right-edge cut)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "This land is already...",
+     "label": "SOURCED",
+     "comment": "VERIFIED-partial disc_Yx0kTFEixbA (right-edge cut)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Your sloppy techniques...",
+     "label": "SOURCED",
+     "comment": "VERIFIED-partial disc_Yx0kTFEixbA (right-edge cut)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "You shall feel the wrath...",
+     "label": "SOURCED",
+     "comment": "VERIFIED-partial disc_Yx0kTFEixbA (right-edge cut)",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Shade of Novus",
+   "taunt_count": 6,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "With fresh blood in my veins, I will be restored to my former glory...",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_MszcvkbWED8 (CORRECTED from the task's invented \"...my full power\")",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "COME! LET THE RITUAL BEGIN!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_MszcvkbWED8 (frame-read exact)",
+     "source_tags": [
+      "disc_MszcvkbWED8"
+     ],
+     "frames_available": [
+      "disc_MszcvkbWED8"
+     ]
+    },
+    {
+     "text": "My body, I CAN BREATH... I CAN FEEL...",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_MszcvkbWED8 (was: \"My body... I CAN FEEL... I CAN FEEL...\" \u2014 duplicated FEEL / dropped BREATH; frame-read chat_00058 exact: \"My body, I CAN BREATH... I CAN FEEL...\")",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "AT LAST I AM RESTORED TO MY FORMER GLORY, FEAR ME!",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_MszcvkbWED8 (was: \"AT LAST! ...FEAR ME!!!!\" \u2014 frame-read chat_00058 shows NO \"!\" after \"AT LAST\"; \"FEAR ME\" tail overlay-obscured so the invented \"!!!!\" normalized to a single \"!\")",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "With every passing second, I GROW EVER STRONGER",
+     "label": "SOURCED",
+     "comment": "VERIFIED-partial disc_MszcvkbWED8 (NEW grounded taunt, frame-read chat_00058: \"<Novus> With every passing second, I GROW EVER STRONGE[R]\"; end-punctuation cut, none invented)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Vengeance is within my grasp! RICHTUS WILL PAY!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_MszcvkbWED8 (frame-read exact)",
+     "source_tags": [
+      "disc_MszcvkbWED8"
+     ],
+     "frames_available": [
+      "disc_MszcvkbWED8"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Pulse",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "n/a-all-labeled",
+   "taunts": [
+    {
+     "text": "Do not answer. Your identity does not interest me. For interrupting my peace, you will feel pain.",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_SlVLi0h14UQ (frame-read exact; MERGED from the task's 2 split fragments into the one wrapped line)",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Skeletal Monstrosity",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "NO! They were too...",
+     "label": "SOURCED",
+     "comment": "VERIFIED-partial disc_Yx0kTFEixbA (re-confirmed chat_00043: boss-coloured <Skeletal Monstrosity>; line wraps \"...you! I see now that I must do this m[yself]...\" but mid+end are right-edge cut -> kept conservative truncation, no stitched guess)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "THE POWER...",
+     "label": "SOURCED",
+     "comment": "VERIFIED-partial disc_Yx0kTFEixbA (speaker confirmed; right-edge cut)",
+     "source_tags": [
+      "disc_Yx0kTFEixbA",
+      "disc__WkTRDW_vQ0"
+     ],
+     "frames_available": [
+      "disc_Yx0kTFEixbA",
+      "disc__WkTRDW_vQ0"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "The Puppet Master",
+   "taunt_count": 6,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Watch them dance, hero, as they drain your life away!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_IBEp1CbA00Q (focused-fight, full line)",
+     "source_tags": [
+      "disc_IBEp1CbA00Q"
+     ],
+     "frames_available": [
+      "disc_IBEp1CbA00Q"
+     ]
+    },
+    {
+     "text": "Find me if you can, hero, or die trying!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_IBEp1CbA00Q (full) \u2014 CORRECTS the auto-bridge \"Find me if you can h[ide]\" guess: \"h...\" was \"hero\", not \"hide\"",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "ENCORE, HERO!",
+     "label": "SOURCED",
+     "comment": "VERIFIED-2x-spec (disc_1mU5uHE6DXE + disc_AaMomuk2Vpk)",
+     "source_tags": [
+      "disc_AaMomuk2Vpk",
+      "disc_1mU5uHE6DXE"
+     ],
+     "frames_available": [
+      "disc_AaMomuk2Vpk",
+      "disc_1mU5uHE6DXE"
+     ]
+    },
+    {
+     "text": "You may have killed me, but I am only a pretender! I am ready for a plot twist!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_IBEp1CbA00Q (the fake-death/plot-twist line)",
+     "source_tags": [
+      "disc_IBEp1CbA00Q"
+     ],
+     "frames_available": [
+      "disc_IBEp1CbA00Q"
+     ]
+    },
+    {
+     "text": "ENCORE, HERO!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_AaMomuk2Vpk (frame-read this pass \u2014 \"ENCORE, HERO!\" on-screen verbatim; also corroborated in disc_1mU5uHE6DXE). Encore-state placement matches the literal Act-2 \"encore\" moment.",
+     "source_tags": [
+      "disc_AaMomuk2Vpk",
+      "disc_1mU5uHE6DXE"
+     ],
+     "frames_available": [
+      "disc_AaMomuk2Vpk",
+      "disc_1mU5uHE6DXE"
+     ]
+    },
+    {
+     "text": "NO!!! This cannot be!",
+     "label": "SOURCED",
+     "comment": "VERIFIED-2x-spec (disc_1mU5uHE6DXE + disc_AaMomuk2Vpk; bracketed variants -> clean). NOTE deferred (NOT built, too gap-laden/inferred): \"Lucky guess hero, but [...] It is time that you died!\" (illegible mid-gap), \"I hope you're ready f[or]...\" (cut), \"Can't keep henchmen alive anymore? ARGHHH!!!\" (disc_LJzfb9Y4ok0, INFERRED speaker)",
+     "source_tags": [
+      "disc_AaMomuk2Vpk"
+     ],
+     "frames_available": [
+      "disc_AaMomuk2Vpk"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Oryx Puppet",
+   "taunt_count": 4,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "Am I not an uncanny likeness of Oryx himself?",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_YEGMcwgmGTM (was: \"Am I not an uncanny likeness...\"; VERIFY-LOOP wide f_ re-crop f_00064 reveals the full line beyond the narrow chat crop)",
+     "source_tags": [
+      "disc_YEGMcwgmGTM"
+     ],
+     "frames_available": [
+      "disc_YEGMcwgmGTM"
+     ]
+    },
+    {
+     "text": "You don't see the similarity? Well then, let me show you!",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_YEGMcwgmGTM (was: \"You don't see the similarities...\"; wide f_ re-crop shows full line + singular \"similarity\")",
+     "source_tags": [
+      "disc_YEGMcwgmGTM"
+     ],
+     "frames_available": [
+      "disc_YEGMcwgmGTM"
+     ]
+    },
+    {
+     "text": "Miniscule worms! I still have 75000 hitpoints!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_LJzfb9Y4ok0 (clear; the 75000-HP self-announce = source of this entity's MaxHitPoints)",
+     "source_tags": [
+      "disc_LJzfb9Y4ok0"
+     ],
+     "frames_available": [
+      "disc_LJzfb9Y4ok0"
+     ]
+    },
+    {
+     "text": "Nooooo! This cannot be!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_LJzfb9Y4ok0 (the Oryx Puppet's DEATH cry, frame-read)",
+     "source_tags": [
+      "disc_LJzfb9Y4ok0"
+     ],
+     "frames_available": [
+      "disc_LJzfb9Y4ok0"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "God of Amber Stones",
+   "taunt_count": 3,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Did you scared?",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_CnZQkLsjBVI (frame-read, \"God of Amber Stones:\" prefix; broken-English meme line)",
+     "source_tags": [
+      "disc_CnZQkLsjBVI"
+     ],
+     "frames_available": [
+      "disc_CnZQkLsjBVI"
+     ]
+    },
+    {
+     "text": "What Happened?",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_CnZQkLsjBVI (frame-read, prefix-confirmed)",
+     "source_tags": [
+      "disc_CnZQkLsjBVI"
+     ],
+     "frames_available": [
+      "disc_CnZQkLsjBVI"
+     ]
+    },
+    {
+     "text": "Prepare to die!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_CnZQkLsjBVI (frame-read, prefix-confirmed; the boss SPAMS this) \u2014 generic line, but attributed in-frame to this boss",
+     "source_tags": [
+      "disc_wsRSijbExRI",
+      "disc_YC4vDxWTAyc",
+      "disc_awf8n3A7KOk",
+      "disc_hGSSP2J3gcQ",
+      "disc_Fx5_2g1_1O4",
+      "disc_CnZQkLsjBVI",
+      "GeneralStream",
+      "disc_IZ2Z7AUhb8s"
+     ],
+     "frames_available": [
+      "disc_wsRSijbExRI",
+      "disc_YC4vDxWTAyc",
+      "disc_awf8n3A7KOk",
+      "disc_hGSSP2J3gcQ",
+      "disc_Fx5_2g1_1O4",
+      "disc_CnZQkLsjBVI",
+      "GeneralStream",
+      "disc_IZ2Z7AUhb8s"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Queen of Hearts",
+   "taunt_count": 3,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Guards, kill these troublemakers!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_EM9Uba-Nv08 (boss-coloured, clear)",
+     "source_tags": [
+      "disc_EM9Uba-Nv08"
+     ],
+     "frames_available": [
+      "disc_EM9Uba-Nv08"
+     ]
+    },
+    {
+     "text": "Guard protect me, if I die, Wonderland will...",
+     "label": "SOURCED",
+     "comment": "VERIFIED-partial disc_EM9Uba-Nv08 (right-edge cut at \"Wonderland will...\"; the auto-bridge's \"[fall]\" completion is a GUESS -> NOT injected, kept the readable part)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "My guards that is enough, I'll do it alone!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_EM9Uba-Nv08 (boss-coloured, clear; the guards-dismiss/solo line)",
+     "source_tags": [
+      "disc_EM9Uba-Nv08"
+     ],
+     "frames_available": [
+      "disc_EM9Uba-Nv08"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Jon Bilgewater the Pirate King",
+   "taunt_count": 6,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "PEWPEWPEW!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_M0KXJV3pdKc (verbatim)",
+     "source_tags": [
+      "disc_x2rMJdHL4Jc",
+      "disc_M0KXJV3pdKc"
+     ],
+     "frames_available": [
+      "disc_x2rMJdHL4Jc",
+      "disc_M0KXJV3pdKc"
+     ]
+    },
+    {
+     "text": "Check out my AWESOME CANNON CLUSTER!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_M0KXJV3pdKc (verbatim)",
+     "source_tags": [
+      "disc_M0KXJV3pdKc"
+     ],
+     "frames_available": [
+      "disc_M0KXJV3pdKc"
+     ]
+    },
+    {
+     "text": "BARRIER ACTIVATE!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_M0KXJV3pdKc (repeated invuln-barrier line)",
+     "source_tags": [
+      "disc_M0KXJV3pdKc"
+     ],
+     "frames_available": [
+      "disc_M0KXJV3pdKc"
+     ]
+    },
+    {
+     "text": "CANNON BARRAGE!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_M0KXJV3pdKc (verbatim)",
+     "source_tags": [
+      "disc_M0KXJV3pdKc"
+     ],
+     "frames_available": [
+      "disc_M0KXJV3pdKc"
+     ]
+    },
+    {
+     "text": "Now you're making me angry! PARROT!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_M0KXJV3pdKc (verbatim)",
+     "source_tags": [
+      "disc_M0KXJV3pdKc"
+     ],
+     "frames_available": [
+      "disc_M0KXJV3pdKc"
+     ]
+    },
+    {
+     "text": "YOU'LL PAY FOR KILLING MY PARROTS!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_M0KXJV3pdKc (parrot-death enrage line)",
+     "source_tags": [
+      "disc_M0KXJV3pdKc"
+     ],
+     "frames_available": [
+      "disc_M0KXJV3pdKc"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Kestora the Lava God",
+   "taunt_count": 3,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "ARGHH",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_n3i45dx58vU + disc_h2kSWfp0nX8 (death scream; boss-prefix confirmed)",
+     "source_tags": [
+      "disc_LJzfb9Y4ok0",
+      "disc_h2kSWfp0nX8",
+      "disc_n3i45dx58vU"
+     ],
+     "frames_available": [
+      "disc_LJzfb9Y4ok0",
+      "disc_h2kSWfp0nX8",
+      "disc_n3i45dx58vU"
+     ]
+    },
+    {
+     "text": "You defeated me...",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_n3i45dx58vU (gracious-loser line; punctuation \"..\"/\"...\" varies across tags)",
+     "source_tags": [
+      "disc_n3i45dx58vU"
+     ],
+     "frames_available": [
+      "disc_n3i45dx58vU"
+     ]
+    },
+    {
+     "text": "Good bye.",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_n3i45dx58vU + disc_h2kSWfp0nX8 (final line)",
+     "source_tags": [
+      "disc_h2kSWfp0nX8",
+      "disc_n3i45dx58vU"
+     ],
+     "frames_available": [
+      "disc_h2kSWfp0nX8",
+      "disc_n3i45dx58vU"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Strange Magician",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "EXPLODE!",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_mHY6O5kMU1I (was \"...it ascends you... EXPLODE!\" \u2014 \"...it ascends you\" was a PLAYER line \"<D-2> realnick\", mis-joined; boss line is just \"EXPLODE!\", chat_30/f_00122 \"Strange Magician:\" prefix)",
+     "source_tags": [
+      "disc_mHY6O5kMU1I"
+     ],
+     "frames_available": [
+      "disc_mHY6O5kMU1I"
+     ]
+    },
+    {
+     "text": "ARRRG! THIS IS IMPOSSIBLE!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_mHY6O5kMU1I (death cry, chat_30/33; \"Strange Magician:\" prefix confirmed)",
+     "source_tags": [
+      "disc_mHY6O5kMU1I"
+     ],
+     "frames_available": [
+      "disc_mHY6O5kMU1I"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Strange Priest",
+   "taunt_count": 4,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Let's fight and see who have more Power",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_tbG9HBrXyI8 (verify-loop frame-re-read f_00106 wide crop, \"Enemy: Strange Priest\" overlay + boss-prefix) (verbatim, wide f_00106 re-crop, \"<Strange Priest>\" prefix)",
+     "source_tags": [
+      "disc_tbG9HBrXyI8"
+     ],
+     "frames_available": [
+      "disc_tbG9HBrXyI8"
+     ]
+    },
+    {
+     "text": "UH?! WHAT IS HAPPENING?! I'M THE BEST PRIEST IN THE WORLD!!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_tbG9HBrXyI8 (verify-loop frame-re-read f_00106 wide crop, \"Enemy: Strange Priest\" overlay + boss-prefix) (verbatim, wide f_00106 re-crop)",
+     "source_tags": [
+      "disc_tbG9HBrXyI8"
+     ],
+     "frames_available": [
+      "disc_tbG9HBrXyI8"
+     ]
+    },
+    {
+     "text": "How!? Priest! Help me!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_tbG9HBrXyI8 (verify-loop frame-re-read f_00106 wide crop, \"Enemy: Strange Priest\" overlay + boss-prefix) (verbatim; the Priest's own panic line, boss-prefix confirmed)",
+     "source_tags": [
+      "disc_tbG9HBrXyI8"
+     ],
+     "frames_available": [
+      "disc_tbG9HBrXyI8"
+     ]
+    },
+    {
+     "text": "Well... i think i substestiateted you.",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_tbG9HBrXyI8 (verify-loop frame-re-read f_00106 wide crop, \"Enemy: Strange Priest\" overlay + boss-prefix) (verbatim INCL. the garbled on-screen word \"substestiateted\" \u2014 kept as-recovered, NOT auto-corrected)",
+     "source_tags": [
+      "disc_tbG9HBrXyI8"
+     ],
+     "frames_available": [
+      "disc_tbG9HBrXyI8"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Mad Jester",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "It's time... for the Ultimate Show!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc__oNRwi83bLU (verify-loop frame-re-read; boss-prefix \"Mad Jester:\" + Oryx \"Silly fools, I have summoned the TRUE FOOL!\" + \"died to Mad Jester (XP4 Wizard)\" death lines confirm. \"the\"/\"The\" capitalization ambiguous at source res -> kept build's \"the\", conservative)",
+     "source_tags": [
+      "disc__oNRwi83bLU"
+     ],
+     "frames_available": [
+      "disc__oNRwi83bLU"
+     ]
+    },
+    {
+     "text": "To destroy these humans, all it takes is a bit of little magic and a lot of determination. I have BOTH!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_lHWOmAlg-ag (verify-loop frame-re-read, wide f_ re-crop \"Mad Jester -\" prefix; EXACT verbatim match)",
+     "source_tags": [
+      "disc__oNRwi83bLU",
+      "disc_lHWOmAlg-ag"
+     ],
+     "frames_available": [
+      "disc__oNRwi83bLU",
+      "disc_lHWOmAlg-ag"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Nikad the Defiler",
+   "taunt_count": 5,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "If I don't kill you, my minions will!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_wwhGYuiu_9U (verify-loop frame-re-read, \"Nikad the Defiler\" boss-prefix confirmed on the death line) (verbatim complete, boss-prefix 'Nikad')",
+     "source_tags": [
+      "disc_wwhGYuiu_9U"
+     ],
+     "frames_available": [
+      "disc_wwhGYuiu_9U"
+     ]
+    },
+    {
+     "text": "Look out! My minions will help me!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_wwhGYuiu_9U (verify-loop frame-re-read, \"Nikad the Defiler\" boss-prefix confirmed on the death line) (verbatim complete)",
+     "source_tags": [
+      "disc_wwhGYuiu_9U"
+     ],
+     "frames_available": [
+      "disc_wwhGYuiu_9U"
+     ]
+    },
+    {
+     "text": "You're a nasty little pest!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_wwhGYuiu_9U (verify-loop frame-re-read, \"Nikad the Defiler\" boss-prefix confirmed on the death line) (verbatim complete)",
+     "source_tags": [
+      "disc_wwhGYuiu_9U"
+     ],
+     "frames_available": [
+      "disc_wwhGYuiu_9U"
+     ]
+    },
+    {
+     "text": "You cannot handle the full power of...",
+     "label": "SOURCED",
+     "comment": "VERIFIED-partial disc_wwhGYuiu_9U (verify-loop frame-re-read; tail-CUT 'power of [...]' confirmed; bk4dygntBZ8 corroborates 'You cannot handle the [...]')",
+     "source_tags": [
+      "disc_wwhGYuiu_9U"
+     ],
+     "frames_available": [
+      "disc_wwhGYuiu_9U"
+     ]
+    },
+    {
+     "text": "Nooooooo! This cannot be!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_wwhGYuiu_9U (verify-loop frame-re-read, \"Nikad the Defiler\" boss-prefix confirmed on the death line) (complete portion of 'Nooooooo! This cannot be! I have l[ost]...'; bk4dygntBZ8 corroborates 'Noooooo! This cannot [be]...'); cut tail 'I have lost' NOT guessed",
+     "source_tags": [
+      "disc_wwhGYuiu_9U"
+     ],
+     "frames_available": [
+      "disc_wwhGYuiu_9U"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Mushroom",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "No! You can't get me!",
+     "label": "VERIFIED",
+     "comment": "VERIFIED disc_E03Je5EgiZQ (frame-read chat, boss-prefix; clean complete line)",
+     "source_tags": [
+      "disc_M04fBHBpodE",
+      "disc_E03Je5EgiZQ"
+     ],
+     "frames_available": [
+      "disc_M04fBHBpodE",
+      "disc_E03Je5EgiZQ"
+     ]
+    }
+   ],
+   "verify_note": "Frame-CONFIRMED 2-source: disc_M04fBHBpodE chat_00018 shows boss-coloured <Mushroom> \"No! You can't get me!\" verbatim, immediately followed by \"(27/30) Mushroom has been defeated!\" feed (speaker corroborated); also prior-pass VERIFIED in disc_E03Je5EgiZQ. The 2nd spec taunt (\"Well, you're getting so far... wh[...]\") is cut and correctly NOT built. No fix, no fabrication."
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Bedlam - God of Chaos",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Bring forth... THE CHAOS!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_EM9Uba-Nv08 (verify-loop wide f_ re-read, \"<Bedlam - God of Chaos>\" boss-prefix; EXACT) (verbatim, orange boss-prefix 'Bedlam - God of Chaos')",
+     "source_tags": [
+      "disc_EM9Uba-Nv08"
+     ],
+     "frames_available": [
+      "disc_EM9Uba-Nv08"
+     ]
+    },
+    {
+     "text": "You will 'ALL' die here!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_EM9Uba-Nv08 (verify-loop wide f_ re-read, \"<Bedlam - God of Chaos>\" boss-prefix; EXACT) (verbatim incl. the quoted 'ALL'; boss-prefix)",
+     "source_tags": [
+      "disc_EM9Uba-Nv08"
+     ],
+     "frames_available": [
+      "disc_EM9Uba-Nv08"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "The Magical lord of sky",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "I will catch you baby...",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_Fb0zINzmQ1s (verify-loop wide f_ re-read, \"<The Magical lord of sky>\" boss-prefix; on-screen \"..\" trailing kept as \"...\")",
+     "source_tags": [
+      "disc_Fb0zINzmQ1s"
+     ],
+     "frames_available": [
+      "disc_Fb0zINzmQ1s"
+     ]
+    },
+    {
+     "text": "Haha! Don't worry.",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_Fb0zINzmQ1s (verify-loop wide f_ re-read; spoken by \"<Right hand of Magical lord of sky>\" + \"<Left hand of Magical lord of sky>\" \u2014 confirms the named L/R hand sub-entities)",
+     "source_tags": [
+      "disc_Fb0zINzmQ1s"
+     ],
+     "frames_available": [
+      "disc_Fb0zINzmQ1s"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Time Lord",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Do you know what time it is?",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_hp_dAXf_alY (per source-spec read; verify-loop re-confirmed the sibling line on-screen + the time-pun theme confirms the \"Time Lord\" name; this exact line not re-located amid dense multi-boss chat -> kept, thematically coherent)",
+     "source_tags": [
+      "disc_hp_dAXf_alY"
+     ],
+     "frames_available": [
+      "disc_hp_dAXf_alY"
+     ]
+    },
+    {
+     "text": "It's time for you to die!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_hp_dAXf_alY (verify-loop re-read on-screen, boss-coloured; the time-pun theme confirms the \"Time Lord\" name vs an ambiguous \"The Lord\" read)",
+     "source_tags": [
+      "disc_hp_dAXf_alY"
+     ],
+     "frames_available": [
+      "disc_hp_dAXf_alY"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Helios",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "Judgment comes! You cannot hide from the light!",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_l8s6Dho3WM4 (was: \"Judgment comes! You cannot hide from this!\"; frame-read f_00301-305 shows \"the light!\")",
+     "source_tags": [
+      "disc_l8s6Dho3WM4"
+     ],
+     "frames_available": [
+      "disc_l8s6Dho3WM4"
+     ]
+    },
+    {
+     "text": "Witness the SUPERNOVA!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_l8s6Dho3WM4 (frame-read f_00301-305, exact match)",
+     "source_tags": [
+      "disc_l8s6Dho3WM4"
+     ],
+     "frames_available": [
+      "disc_l8s6Dho3WM4"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.OCBosses2.cs",
+   "boss": "Ruins of the Mad God Core",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "The core awakens! DODGE...",
+     "label": "SOURCED",
+     "comment": "VERIFIED-partial disc_l8s6Dho3WM4 (verify-loop frame-re-read, \"<Ruins of the Mad God>\" boss-prefix; right-CUT after \"DODG[E]\" -> kept readable + ellipsis)",
+     "source_tags": [
+      "disc_l8s6Dho3WM4"
+     ],
+     "frames_available": [
+      "disc_l8s6Dho3WM4"
+     ]
+    },
+    {
+     "text": "LIMITERS RELEASED! DIE!",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_l8s6Dho3WM4 (verify-loop frame-re-read, \"<Ruins of the Mad God>\" boss-prefix; exact). NOTE: 2 more lines exist (enrich leads): \"DEFENSE SYSTEMS ENGAGED...\" (cut) + \"I am not done yet!\"",
+     "source_tags": [
+      "disc_l8s6Dho3WM4"
+     ],
+     "frames_available": [
+      "disc_l8s6Dho3WM4"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.ROTF.cs",
+   "boss": "The Illusionist",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "You cannot tell what is real!",
+     "label": "DESIGNED",
+     "comment": "DESIGNED-no-footage (invented flavor for the custom Illusion-dungeon boss + its Illusion Mirage clone gimmick; NOT a recovered ROTF line \u2014 checked: disc_JbQvbkBLRjE \"illusionist\" = The Mysterious Card, disc_9vQughNZIX0 = Loki, neither is this boss. Honestly labeled.)",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Riverside.cs",
+   "boss": "Riverborn",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "corrected",
+   "taunts": [
+    {
+     "text": "Let's see how well you play in the river!",
+     "label": "SOURCED",
+     "comment": "CORRECTED disc_wsRSijbExRI (was truncated \"Let's see how well you play...\"; the auto-bridge read it \"...in the realm\" but the frame clearly says \"...in the river!\" \u2014 fits the Riverside theme; speaker prefix \"Riverborn:\" confirmed)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Only one of us is coming out of here alive...",
+     "label": "SOURCED",
+     "comment": "VERIFIED disc_wsRSijbExRI (frame-read exact: \"Riverborn: Only one of us is coming out of here alive...\")",
+     "source_tags": [
+      "disc_wsRSijbExRI"
+     ],
+     "frames_available": [
+      "disc_wsRSijbExRI"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.SacrificialGrounds.cs",
+   "boss": "Devoted Shaman",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "Your blood feeds the Old One!",
+     "label": "DESIGNED",
+     "comment": "DESIGNED-no-footage (invented flavor; reconstructed-deadpan from the aced.gg dev-blog roster aced_MediumWorldsRoster.json, which gives the boss NAME + sacrifice-to-a-'Reptilian God' theme but taunts:[] \u2014 no taunt text in any source. \"Old One\" is the invented deity name (roster says \"Reptilian God\"). Honestly labeled.)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "RISE! RISE AND DEVOUR THEM!",
+     "label": "DESIGNED",
+     "comment": "DESIGNED-no-footage (invented ritual-climax flavor for the Reptilian-God summon; reconstructed from the aced.gg dev-blog theme, NO source taunt text. Honestly labeled.)",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.ShroudedSanctum.cs",
+   "boss": "Shadowscale",
+   "taunt_count": 3,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "You have awoken the spirit of shadow...",
+     "label": "SOURCED",
+     "comment": "SOURCED-2x-spec (disc_OpvS02UXO-I \"DOCUMENTED VERBATIM\", completing the truncated disc_LS16CHnxyhU version; matches the confirmed sibling awaken-pattern Firebreather \"spirit of fire\"/Shadowscale \"spirit of shadow\"). Frame-read attempted this pass but the line is event-feed-buried among 68 crops (top-red frames were realm/Abyss content) -> not frame-re-isolated; provenance solid, text unchanged.",
+     "source_tags": [
+      "disc_OpvS02UXO-I",
+      "disc_-9_o5EilupU"
+     ],
+     "frames_available": [
+      "disc_OpvS02UXO-I",
+      "disc_-9_o5EilupU"
+     ]
+    },
+    {
+     "text": "Do not think you're invincible, you sure aren't...",
+     "label": "SOURCED",
+     "comment": "SOURCED disc_OpvS02UXO-I (DOCUMENTED VERBATIM per recovery spec, completes the disc_LS16CHnxyhU truncation). Not frame-re-isolated this pass (event-feed-buried); no error evidence -> kept as-is.",
+     "source_tags": [
+      "disc_OpvS02UXO-I"
+     ],
+     "frames_available": [
+      "disc_OpvS02UXO-I"
+     ]
+    },
+    {
+     "text": "I will reward you with a swift death. Meet your end...",
+     "label": "SOURCED",
+     "comment": "SOURCED disc_OpvS02UXO-I (DOCUMENTED VERBATIM; \"Meet your end\" completes the spec's \"Mee[t your end]...\" bracket). Not frame-re-isolated this pass; no error evidence -> kept as-is.",
+     "source_tags": [
+      "disc_OpvS02UXO-I"
+     ],
+     "frames_available": [
+      "disc_OpvS02UXO-I"
+     ]
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Starforce.cs",
+   "boss": "The Zuck",
+   "taunt_count": 2,
+   "unlabeled_count": 0,
+   "verify_status": "n/a-all-labeled",
+   "taunts": [
+    {
+     "text": "I have collected all of your data.",
+     "label": "DESIGNED",
+     "comment": "RECONSTRUCTED (no footage taunt)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Move fast and break things!",
+     "label": "DESIGNED",
+     "comment": "RECONSTRUCTED",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.Starforce.cs",
+   "boss": "Gem Gem",
+   "taunt_count": 1,
+   "unlabeled_count": 0,
+   "verify_status": "n/a-all-labeled",
+   "taunts": [
+    {
+     "text": "Shine bright, mortal.",
+     "label": "DESIGNED",
+     "comment": "RECONSTRUCTED",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  },
+  {
+   "file": "BehaviorDb.ToDD.cs",
+   "boss": "Tombstone Carrier",
+   "taunt_count": 3,
+   "unlabeled_count": 0,
+   "verify_status": "verified",
+   "taunts": [
+    {
+     "text": "The dead do not rest easy here.",
+     "label": "DESIGNED",
+     "comment": "DESIGNED-no-footage (Tomb of Decaying Death is a PRIORITY no-footage dungeon; .cs header confirms \"RECONSTRUCTED flavor, none were recorded\". Reconstructed-deadpan from the aced.gg dev-blog roster. Honestly labeled.)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Rot takes everything in time.",
+     "label": "DESIGNED",
+     "comment": "DESIGNED-no-footage (reconstructed decay-phase flavor; no footage for ToDD. Honestly labeled.)",
+     "source_tags": [],
+     "frames_available": []
+    },
+    {
+     "text": "Join the others below.",
+     "label": "DESIGNED",
+     "comment": "DESIGNED-no-footage (reconstructed collapse-phase flavor; no footage for ToDD. Honestly labeled.)",
+     "source_tags": [],
+     "frames_available": []
+    }
+   ]
+  }
+ ]
+}

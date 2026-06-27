@@ -1,0 +1,14 @@
+{
+ "dungeon": "(LAVA/FIRE ABYSS DUNGEON run) ROTF — Archdemon Malphas's domain; recovered his fuller taunt set",
+ "source": "video disc_N75-ghu4wmo (359 frames, 0 transitions, 90 chat). A focused run through a LAVA/FIRE brick dungeon (orange/red lava-brick rooms, white bullet-hell); minimap shows a red/orange branching dungeon. Boss = Archdemon Malphas (taunts captured). 0 transitions = single continuous dungeon, name not printed.",
+ "map": "DOCUMENTED: a LAVA/FIRE 'abyss'-style dungeon — orange/red lava-brick rooms + black-checkered floors, branching layout (per minimap). Grey-stone entrance at the start. Heavy white-bullet patterns (rings, diamonds).",
+ "bosses": [
+  {"name":"Archdemon Malphas","phases":["intro/awaken","minion-summon","death"],"attacks":[],"minions":["(commands a minion army)"],"colorFlashes":"fire orange/red","taunts":["My minions will sla[y you]...","I have been defeated..."],"note":"DOCUMENTED VERBATIM (boss-colored chat). Malphas is the BOSS of this lava/fire abyss dungeon. Combined with disc_LS16CHnxyhU, his full taunt set: 'Kill my prote[ges]...' + 'I have been [released]...' (intro/awaken), 'You will regret...', 'My minions will slay you...' / 'My minions are...' (mid/summon), 'I have been defeated...' (ON-DEATH). A demon minion-commander (Malphas = an Ars Goetia demon)."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Lucky Ent God (just spawned — 'Lucky' variant family, cf. Lucky Djinn)","Uvuvwevwevwe (just spawned — meme boss)"],
+ "mechanics": "DOCUMENTED: (1) Archdemon Malphas confirmed as a real fire/abyss DUNGEON BOSS with a multi-line taunt arc (intro -> minion-summon -> death). (2) 'Lucky <God>' VARIANT family — 'A Lucky Ent God has just spawned!' (Lucky variants = likely better-loot versions; cf. Lucky Djinn). (3) POTION INVENTORY flavor: 'You feel as if your potion inventory got heavier' (suggests a dedicated potion-storage/inventory that fills as you collect stat pots).",
+ "uncertain": "The lava dungeon's NAME not printed (0 transitions; could be Abyss of Demons reskin or a ROTF demon dungeon). Malphas's attacks/HP/drops not isolated. Some taunt lines still truncated at the chat-box edge (e.g. 'My minions will sla[y you/slaughter you]').",
+ "confidence": "HIGH for Archdemon Malphas as the boss + his taunt arc (verbatim across 2 videos) + the lava/fire biome + the Lucky-variant + potion-inventory lines. LOW for the dungeon's exact name and drops."
+}

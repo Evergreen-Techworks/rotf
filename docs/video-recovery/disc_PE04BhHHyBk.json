@@ -1,0 +1,32 @@
+{
+ "dungeon": "GENUINE ROTF/RotMG multi-dungeon run (~317s, 6 transitions / 6 bossend groups). Heavy player-party chat (Brutus/Boltic/Doomered/UnDeOnTrOl + death notifiers + loot-boost). ONE boss cleanly named+tauntED: 'Archdemon Malphas' (Abyss of Demons) with 4 VERBATIM taunts — these are BASE-GAME canonical lines (corroboration, not ROTF-custom). The notable NEW lead is a post-Abyss portal labelled 'Malphas' Hide[out]' (non-standard name -> likely ROTF-CUSTOM dungeon; flagged).",
+ "map": "DOCUMENTED-from-minimaps+transitions: ABYSS-STYLE chambered dungeon — square/rectangular rooms connected by short corridors with a central boss arena (minimaps show dark square chambers w/ player dots; lava/red walls + orange floor in transitions t001_at36s / t003_at196s / t005_at304s = the Abyss of Demons). Interleaved with OPEN GREEN grass realm (b002_38s, trees/HP-hearts; minimap cross/castle layout) and DARK VOID/SPACE arenas (t002_at52s / t004_at284s) and a PINK/PURPLE realm (t006_at317s). Multi-dungeon hop -> no single contiguous room-sequence.",
+ "bosses": [
+  {
+   "name": "Archdemon Malphas",
+   "phases": ["spawns/commands minion demons ('My minions will slay you!')", "minions falling -> boss joins the attack ('My minions are failing me! I will help them slay you!')", "death cry threatens a follow-up ('I have been defeated... My demons will crush you!')"],
+   "attacks": ["NOT cleanly isolated from this tag's bossends (multi-dungeon; the b00x windows captured realm/transition scenes, not the Abyss arena) -> approximate: scattered demon-bullet spread + minion (demon) swarm, base-game Abyss pattern. Marked reconstructed-from-base, NOT frame-traced here."],
+   "minions": ["demons (Abyss minions — 'My minions will slay you!')"],
+   "colorFlashes": "",
+   "taunts": [
+    "You will regret your decision.. DIE!",
+    "My minions will slay you!",
+    "My minions are failing me! I will help them slay you!",
+    "I have been defeated... My demons will crush you!"
+   ],
+   "note": "DOCUMENTED-from-chat VERBATIM (boss-coloured '<Archdemon Malphas>', read via grayscale-pull + wide f_ re-crop f_00026/f_00036; lines confirmed repeating across the fight window chat_00005-00030). BASE-GAME RotMG Abyss-of-Demons boss -> CANONICAL flavour, NOT ROTF-custom (do NOT build; corroboration only). 'Abyss of Demons opened by Kads' realm event seen in same chat."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Malphas' Hide[out] -- a portal w/ an 'Enter' button shown in the bottom-right portal UI (name cut at 'Malphas' Hide'); NON-STANDARD base portal name -> likely a ROTF-CUSTOM post-Abyss dungeon. FLAGGED lead (need footage INSIDE it).",
+  "Potion of Defense consumed. 6 left to max.",
+  "Potion of Attack (tooltip seen — 'Permanently increases attack power by 1')"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Abyss of Demons opened by Kads"
+ ],
+ "mechanics": "DOCUMENTED: (1) base-game Abyss-of-Demons run -> 'Archdemon Malphas' with 4 VERBATIM canonical taunts (corroboration). (2) NEW LEAD: a 'Malphas' Hide[out]' PORTAL (Enter button, bottom-right UI) appears post-Abyss -> non-standard name, likely a ROTF-CUSTOM dungeon (flagged, not built). (3) stat-pot economy seen (Potion of Defense consumed w/ a '6 left to max' cap; Potion of Attack tooltip). (4) realm 'opened by' events + loot-boost + player death-notifiers. Multi-dungeon (Abyss / green realm / void-space / pink realm). Malphas attack NOT frame-isolated here (approximate/base).",
+ "uncertain": "Malphas = BASE-GAME (no-build; corroboration only). The 'Malphas' Hide[out]' portal name is CUT at 'Malphas' Hide' -> reading 'Hideout' is inferred from the Enter-portal UI; could instead be the 'Malphas' Hide' armor drop label. base-vs-custom of that portal UNCONFIRMED (likely custom; needs inside footage). Malphas attack geometry NOT isolated from these bossends (multi-dungeon) -> approximate/base, NOT frame-traced. Most other chat = player banter / death notifiers (excluded).",
+ "confidence": "MEDIUM. GENUINE ROTF/RotMG. Solid: 4 VERBATIM Archdemon Malphas taunts (base-game canonical -> corroboration, no-build) + an Abyss-style chambered-room layout. NEW: a 'Malphas' Hide[out]' Enter-portal lead (likely a ROTF-CUSTOM post-Abyss dungeon — FLAGGED for follow-up). Recorded honestly: Malphas=base/no-build, portal name cut+inferred, attacks NOT frame-isolated (approximate). Best follow-up: footage INSIDE 'Malphas' Hideout' for its own boss/taunts/layout."
+}

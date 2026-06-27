@@ -1,0 +1,29 @@
+{
+ "dungeon": "BASE-GAME SHATTERS run (~730s+, large multi-room group run on a lava/crystal Shatters floor). ALL recovered boss content is base-game RotMG Shatters: The Forgotten King (full taunt set), Royal Guardian (mini-boss, death-notifiers), and Helpless Souls (the freed-soul minions). NO ROTF-custom boss/dungeon content — corroboration only. (Likely ROTF running the base Shatters; shop/vault grid menus appear between segments.)",
+ "map": "DOCUMENTED-from-frames+transitions: the SHATTERS layout — a dark lava/crystal multi-room dungeon (orange-checkered lava floor dominates the play area) culminating in the Forgotten King arena; the Helpless Souls / Royal Guardian rooms precede it. Interspersed grey SHOP/VAULT grid menus (between-run). Standard Shatters geometry (winding crystal corridors -> boss arena), not a ROTF-custom layout.",
+ "bosses": [
+  {
+   "name": "The Forgotten King",
+   "phases": [],
+   "attacks": ["not isolated (no bossends; lava-floor bullet spam, base Shatters pattern)"],
+   "minions": ["Royal Guardian", "Helpless Souls"],
+   "colorFlashes": "",
+   "taunts": [
+    "So. You are still here. Adorable.",
+    "You would challenge me? I am the...",
+    "Drown, and be swallowed by those...",
+    "YOU TEST THE PATIENCE OF A GOD...",
+    "DIE! DIE! DIE!!!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'The Forgotten King', grayscale-pull over the lava floor; some right-edge cut). BASE-GAME RotMG Shatters final boss -> CANONICAL/no-build (cf. prior boss-the-forgotten-king NO-BUILD). Corroboration only. (An early uncertain 'The Cursed Crown' read was a likely MISREAD of 'The Forgotten King' on the busy lava floor -> NOT claimed.)"
+  }
+ ],
+ "minions": ["Royal Guardian (Shatters mini-boss; death-notifier 'killed by Royal Guardian')", "Helpless Souls (base Shatters souls: 'Helpless Souls - SAVE US!!!' / 'MY SOUL... IT BURNNNNSsssss!')"],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [
+  "(base-game Shatters death-notifiers) <player> died at level 20, killed by Royal Guardian"
+ ],
+ "mechanics": "DOCUMENTED but BASE-GAME (RotMG Shatters — NOT ROTF-custom, no-build): The Forgotten King taunt sequence ('So. You are still here. Adorable.' -> 'You would challenge me? I am the...' -> 'Drown, and be swallowed by those...' -> 'YOU TEST THE PATIENCE OF A GOD...' -> 'DIE! DIE! DIE!!!'); Helpless Souls minions ('SAVE US!!!'); Royal Guardian mini-boss. Lava-checkered Shatters floor + shop/vault grid menus between runs. No ROTF-specific mechanic isolated.",
+ "uncertain": "Whether this is ROTF-running-Shatters vs official DECA — either way the boss content is BASE-game Shatters (no-build/corroboration). 'The Cursed Crown' (seen in an early low-confidence read) is likely a MISREAD of 'The Forgotten King' -> NOT claimed. Forgotten King lines are partly right-edge cut. High chat red-density (0.85-0.95) was the LAVA FLOOR, not text-count. No attack geometry (no bossends). No ROTF-custom boss/taunt present.",
+ "confidence": "HIGH that this is a BASE-GAME SHATTERS run with NO ROTF-custom content (Forgotten King + Royal Guardian + Helpless Souls, all canonical). Recorded honestly as corroboration/no-build; the Forgotten King full taunt sequence is logged as base-game reference. Retracted a likely 'Cursed Crown' misread. No build/enrich content. No follow-up needed for ROTF (base Shatters)."
+}

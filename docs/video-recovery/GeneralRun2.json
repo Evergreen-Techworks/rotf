@@ -1,0 +1,20 @@
+{
+ "dungeon": "ROTF-family run (593 frames, X1.7.5, ~44 entries) — links Cracked Core to the STARFORCE zone; Smashing Encounter + God of Reptilians; DeathShop sell UI. GENUINE ROTF (greeting left unbranded as 'Realm of the Mad God').",
+ "source": "video GeneralRun2 (593 f_, 445 chat, 222 minimap, 44 entries). Private-server run, version 'X1.7.5' (ROTF-family — same X1.x line as the v1.3 ROTF tags), purple-portal login + a 'legends servers' menu + a 'DeathShop/SELL' UI (currency 1182). Greeting reads 'Welcome to Realm of the Mad God! <Oryx the Mad God> You are food for my minions!' (vanilla text, NOT rebranded) BUT the bosses are ROTF-specific (Cracked Core, God of Reptilians, the Encounters) -> this is a ROTF / ROTF-fork server. Death-heavy run (many 'Connection failed! Retrying...' + nexus/play returns). Dungeons sampled: white-tiled rooms (recurring), sandstone, grey stone, green realm.",
+ "bosses": [
+  {"name":"Cracked Core","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'Starforce - The Cracked Core has been defeated!'. KEY LINK — the built Cracked Core OCBoss (0x8fd1, glitch taunts 'D--le w-a-rr-l-o-r!'/'DOOOM!!!') is a STARFORCE-ZONE boss. Joins The Zuck + Gem Gem as Starforce bosses (its corrupted/tech theme fits Starforce)."},
+  {"name":"Smashing Encounter","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["GRAVE MISTAKES HAVE BEEN MADE"],"note":"DOCUMENTED-from-chat. VARIANT of the built Encounter taunt — the Smashing Encounter (0x8f11) uses 'GRAVE MISTAKES HAVE BEEN MADE' (vs Breathing's 'YOU HAVE MADE A GRAVE MISTAKE'). Worth adding as the Smashing-specific line."},
+  {"name":"God of Reptilians","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'Selfox - A God of Reptilians has just spawned!'. Built boss, live realm event."},
+  {"name":"Flying Encounter","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: a player 'killed by Flying'. The Flying Encounter (0x8f13) live in the realm."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [
+  "Starforce - The Cracked Core has been defeated!",
+  "A God of Reptilians has just spawned!",
+  "(player killed by Flying)"
+ ],
+ "mechanics": "DOCUMENTED: (1) STARFORCE zone has Cracked Core as a boss (3rd confirmed Starforce boss: The Zuck, Gem Gem, Cracked Core) — Cracked Core's glitch/corruption theme fits a tech 'Starforce' zone. (2) DEATHSHOP / SELL UI — a shop screen where you sell items for currency (1182 shown) — a sell/economy feature. (3) 'legends servers' multi-server menu (server selection). (4) Server version 'X1.7.5'; greeting is the unbranded vanilla 'Realm of the Mad God' text. (5) Smashing Encounter has its own taunt variant ('GRAVE MISTAKES HAVE BEEN MADE'). (6) Server was unstable (repeated 'Connection failed! Retrying...').",
+ "uncertain": "Greeting is vanilla 'Realm of the Mad God' (unbranded) so server identity rests on the ROTF-specific bosses (Cracked Core/God of Reptilians/Encounters) — strongly ROTF-family but the exact server (ROTF vs a ROTF fork on the same codebase) is unconfirmed. Dungeon entry names not legible (44 entries, mostly white-tiled). DeathShop currency type (gold/fame/special) unknown.",
+ "confidence": "HIGH for the verbatim chat: Cracked Core in Starforce, Smashing Encounter 'GRAVE MISTAKES HAVE BEEN MADE', God of Reptilians spawn — all ROTF content. MEDIUM on server identity (unbranded greeting) + DeathShop details. Standout: Cracked Core -> Starforce zone link."
+}

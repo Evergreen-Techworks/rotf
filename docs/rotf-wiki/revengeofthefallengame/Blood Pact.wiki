@@ -1,0 +1,4 @@
+# Blood Pact
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Blood%20Pact&prop=wikitext
+
+makes ur spacebar item cost hp instead of mana. Easy win

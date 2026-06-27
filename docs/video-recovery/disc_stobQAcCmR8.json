@@ -1,0 +1,12 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM, VolttPlay) ROTF — diverse biomes + event/loot feed; low novelty",
+ "source": "video disc_stobQAcCmR8 (383 frames, 0 transitions, 96 chat; VolttPlay). Chat = event/loot feed + player chatter (no boss taunts captured).",
+ "map": "DOCUMENTED biomes: tan/SANDSTONE tiled rooms, brown DIRT cave, purple zone, distinctive WHITE/GREY TILED rooms with yellow accents (possible 'Gelatinous Palace'-style tile palace — unconfirmed), RED LAVA brick, blue water/ice.",
+ "bosses": [],
+ "minions": [],
+ "drops": ["Light Armor (unboxed)"],
+ "event_bosses_seen_in_global_feed": ["Pentaract Tower Ultra (defeated)","Hermit God (just spawned)","Uvuvwevwevwe (just spawned)"],
+ "mechanics": "DOCUMENTED: event/loot feed only (Pentaract Tower Ultra, Hermit God, Uvuvwevwevwe; 'Light Armor' unboxed). A distinctive WHITE/GREY TILED palace biome appears (could be 'Gelatinous Palace' — a dev-blog dungeon still unbuilt — but no boss/name captured to confirm). No boss taunts this run.",
+ "uncertain": "No boss taunts (chat = feed + chatter). The white-tile palace biome is unidentified (Gelatinous Palace candidate, unconfirmed). 0 transitions -> no dungeon names.",
+ "confidence": "LOW novelty — event/loot feed + biome documentation only; no boss/taunt captured. The white-tile palace is a weak Gelatinous-Palace lead (unconfirmed)."
+}

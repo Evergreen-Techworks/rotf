@@ -1,0 +1,24 @@
+{
+ "dungeon": "ROTF realm/dungeon run (197 frames, 3 entries) — Craig + Realm Giant + Riverborn + /30 event feed + stat-pot caps. GENUINE ROTF footage.",
+ "source": "video disc_wsRSijbExRI (197 f_, 49 chat, 25 minimap, 3 transitions). 3 dungeon entries (biomes: brown dungeon, blue/teal water cove, tan/sandstone dungeon); contact sheet also shows a GOLD CROSS-PATTERN brick arena, sandstone rooms, purple dungeon, snow area, orange boss arenas. Heavy global event-feed + verbatim boss taunts in chat.",
+ "bosses": [
+  {"name":"Craig, The Worst Nightmare","phases":["fight->rage/death"],"attacks":["(not isolated in a clean fight frame this run)"],"minions":[],"colorFlashes":"","taunts":["PREPARE TO DIE!!!","NOOOOOOOOOOOOOO!!!","So if you don't want to su[ffer]... just have to kill you... [TRUNCATED at chat edge]"],"note":"DOCUMENTED-from-chat. 'Craig, The Worst Nightmare' is the Craig title/variant (see prior disc_SPBkDdC5JGM). Extends the existing Craig taunt set."},
+  {"name":"Realm Giant","phases":["sequential TURRET activation"],"attacks":["TURRET-SUMMON mechanic: activates turrets one at a time, each announced"],"minions":["Turret 1","Turret 2","Turret 3 (summoned/activated sequentially)"],"colorFlashes":"","taunts":["Turret 1 Active!","Activating turret 2...","Turret 2 Active!","Activating turret 3...","Turret 3 Active!"],"note":"DOCUMENTED-from-chat. NEW mechanic: Realm Giant summons/activates 3 turrets in sequence (build as Spawn + announce, like a wave/turret commander). Realm event boss (/N counter)."},
+  {"name":"Riverborn","phases":[],"attacks":["(realm boss; not isolated here)"],"minions":[],"colorFlashes":"","taunts":["Let's see how well you play in the realm","Only one of us is coming out of here alive..."],"note":"DOCUMENTED-from-chat. EXTENDS the known Riverborn taunt ('Let's see how well you play...') with the full realm-form line + a NEW 'Only one of us...' line. Riverborn is a built dungeon boss + realm event boss."},
+  {"name":"Lord of the Lost Lands","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["NOOOOO!!!"],"note":"DOCUMENTED-from-chat: defeat feed 'The Lord of [the] Lost Lands has been defeated' + death cry. Boss name new to the ledger."},
+  {"name":"Davy Jones","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Avast, ye filthy mongrel!"],"note":"DOCUMENTED-from-chat. Pirate boss (likely base/pirate-cave family); verify base-game collision before any build."},
+  {"name":"Oryx the Mad God (read garbled 'Orya the Mad Late')","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["No... not this time..."],"note":"DOCUMENTED-from-chat, low-confidence read. Likely the base Oryx — do NOT rebuild."}
+ ],
+ "minions": ["Realm Giant Turret x3 (sequentially activated)"],
+ "drops": ["(stat potions consumed in-run — see mechanics; no boss item-drop lines legible)"],
+ "event_bosses_seen_in_global_feed": [
+  "The Riverborn has been defeated! (1/30)",
+  "The Mad Jester has been defeated! (4/30)",
+  "The Realm Giant has been defeated! (5/2?)",
+  "The Lucky God has been defeated! (3/2?)",
+  "The Lord of the Lost Lands has been defeated"
+ ],
+ "mechanics": "DOCUMENTED: (1) /30 EVENT-COUNTER feed confirmed across many realm bosses (Riverborn 1/30, Mad Jester 4/30, Realm Giant 5/2?, Lucky God 3/2?) — global announcer 'The <Boss> has been defeated! (N/30)'. (2) STAT-POTION CAP system (the ROTF fruit/stat-pot feature) — verbatim consume lines each show a per-stat remaining-to-cap counter: 'Potion of Attack consumed. 22 left to max.', 'Potion of Defense consumed. 19 left to max.', 'Potion of Dexterity consumed. 17 left to max.', 'Potion of Life consumed. 18 left to max.'. (3) Realm Giant TURRET mechanic (sequential turret summon/activation). (4) Dungeon name seen: 'Haunted Attic'. (5) 'max level' achievement notifications spam the feed.",
+ "uncertain": "Event-counter denominators partly illegible ('5/2?', '3/2?' — could be /22 or /25, not all /30). Craig's middle taunt truncated at chat edge. 'Orya the Mad Late' read = likely Oryx (low confidence). On-screen boss attack geometry not isolated in clean fight frames this run (chat-feed-heavy).",
+ "confidence": "HIGH for the verbatim chat taunts/feed (Craig 'PREPARE TO DIE!!!'/'NOOOO!!!', Realm Giant turret lines, Riverborn 'Only one of us...', the /30 counter, the stat-pot cap lines). MEDIUM for counter denominators + Craig partial. This is GENUINE ROTF (Craig/Riverborn/Realm Giant/30-counter are ROTF-specific)."
+}

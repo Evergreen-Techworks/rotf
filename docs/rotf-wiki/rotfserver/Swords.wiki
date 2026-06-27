@@ -1,0 +1,33 @@
+# Swords
+# https://rotfserver.fandom.com/api.php?action=parse&page=Swords&prop=wikitext
+
+'''Swords''' are used by [[Warrior]]s, [[Paladin]]s and [[Knight]]s.
+
+==Production {{PAGENAME}}==
+'''''For production {{PAGENAME}} please follow this [https://www.realmeye.com/wiki/swords link].'''''
+
+==Custom {{PAGENAME}}==
+{|
+| {{ItemDisplay|Dreadstump's Rapier|u}}
+| {{ItemDisplay|Fang of Frost|u}}
+| {{ItemDisplay|Sword of the Aquatic God|u}}
+| {{ItemDisplay|Sword of the Demon Lord|u}}
+| {{ItemDisplay|Sword of the Fallen|h}}
+| {{ItemDisplay|Blade of the Fallen Sky|h}}
+| {{ItemDisplay|The Seaweed Sword|a}}
+| {{ItemDisplay|Shadowbone Sword|a}}
+| {{ItemDisplay|Shattered War Axe|l}}
+|-
+| {{ItemDisplay|Omega Ancient Sword|l}}
+| {{ItemDisplay|Rotting Arm|l}}
+| {{ItemDisplay|Throwing Spear|l}}
+| {{ItemDisplay|Enchanted Uru Sword|l}}
+| {{ItemDisplay|Gungnir|l}}
+| {{ItemDisplay|Sword of Oryx|l}}
+| {{ItemDisplay|Bel's Decapitator|p}}
+| {{ItemDisplay|Thusala's Slasher|p}}
+|}
+===Starforce {{PAGENAME}}===
+{|
+| {{ItemDisplay|Starbuster Blade|g}}
+|}

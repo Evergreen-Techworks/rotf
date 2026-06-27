@@ -1,0 +1,48 @@
+entry-content">
+
+ It’s Saturday, and you know what that means: it’s time for another devlog! I’ve been looking forward to this one, since I think exemplifies our “core design” principles for dungeons and fights in rotf2. The video preview is a bit long, but I really hope you watch it in full—the playthrough is a bit insane. 
+
+ Take a look: 
+
+ these are only the first two bosses… 
+
+ Like with our post about Nyx, the Molten Mistress, I’ll highlight a few areas from the dungeon that we’re particularly excited about. 
+
+ Here’s a shot from the Bifrost. Worthiness seems to be a rather prominent theme throughout Asgardian lore, so players need to pass through the Bifrost to continue the dungeon. 
+
+ just dodge lol 
+
+ Players that fail to reach the end of the Bifrost to help defeat Heimdallr will be beamed all the way back to the Observatory. They will be unable to complete the rest of the dungeon. 
+
+ i didn’t make it to heimdallr. i wasn’t worthy. 
+
+ But that’s a bit further ahead. The dungeon begins in a spiraling mountain. We’re still mastering the use of verticality in rotf2, so if you see any oddities, let us know! That said, this climb at the entrance of the dungeon is one of the many benefits that the new engine affords us. Quaximi is smurfing on art, as always. 
+
+ the second ring of the mountain. 
+
+ There’s a lot of other juice here that you might notice see when you watch the video (screen shake, anyone?), and we’ll continue to look for ways we can add flavor to our worlds. This dungeon includes work from practically everyone on the team, and I think it shows! 
+
+ This post will be updated with a CT key within 10 mins of its publication. You know what to do: refresh, refresh, refresh! 
+
+ Closed testing key : 
+
+ [1] LQU-F [2] J6-C [3] N6-OO [4] K 
+
+ [1] The number of realms in Yggdrasil, not including Asgard. [2] The first letter of the name of Thor’s brother, the god of mischief. [3] The first letter of the home of the frost giants. [4] The first letter of the source of the mythology that inspired this dungeon. 
+
+ The start of closed testing is coming up soon. Are y’all excited? https://rotf.io/register 
+ Share this: Twitter Facebook Like this: Like Loading... 
+
+ Related 
+
+ Tagged aced games aced.gg asgard bifrost closed dungeon heimdallr key revenge of the fallen rotf rotf.io testing thor 
+
+ Published by Miniguy 
+
+ I’m one of the lead developers at ACED. We’re currently working on porting RotF to Unity! 
+ View all posts by Miniguy 
+
+ Published 
+ January 31, 2021 January 31, 2021 
+
+</article

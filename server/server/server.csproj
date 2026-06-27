@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>server</RootNamespace>
+    <AssemblyName>server</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="server.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\common\common.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Anna (the original net40 embedded HTTP server) is replaced by Http/AnnaShim.cs,
+         a tiny HttpListener-based reimplementation of the exact Anna API the server uses.
+         Anna's runtime dependency on System.ServiceModel/UriTemplate doesn't exist on
+         .NET 8, and Anna was itself only a thin HttpListener wrapper. System.Reactive
+         (modern) provides the Observable/Subject/Subscribe the server + shim rely on. -->
+    <PackageReference Include="System.Reactive" Version="6.0.1" />
+    <PackageReference Include="NLog" Version="4.6.6" />
+    <PackageReference Include="Pipelines.Sockets.Unofficial" Version="2.0.22" />
+    <PackageReference Include="StackExchange.Redis" Version="2.0.601" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,4 @@
+# Infiltrator
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Infiltrator&prop=wikitext
+
+Top sub class for maxing evasion. Gives a huge survivability boost against enemies spamming high damage piercing shots. Used mainly on Rogue and Ninja.

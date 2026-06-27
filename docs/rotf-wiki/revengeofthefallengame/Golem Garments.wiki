@@ -1,0 +1,4 @@
+# Golem Garments
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Golem%20Garments&prop=wikitext
+
+asdf

@@ -1,0 +1,22 @@
+{
+ "dungeon": "GENUINE ROTF edited HIGHLIGHTS MONTAGE (~20 dungeon entries; PREVIOUS/RANDOM end-card + 'IF YOU [...]' giveaway overlays). Chat readable. Build-relevant value = CORROBORATION of built bosses (Archdemon Malphas, Firebreather) + a new Firebreather 'spirit of fire' line; rest is multi-persona event feed (base/event bosses). Attacks not cleanly attributable (montage).",
+ "map": "DOCUMENTED-from-transitions (montage, many dungeons flashed): orange/red LAVA dungeons, a colourful CANDY/CHECKER-tiled dungeon, brown/olive winding MAZE dungeons, grey STONE chambers with diagonal walls, red/crimson arenas, a red concentric organic arena. Fast-cut highlights — no single dungeon's room sequence traceable.",
+ "bosses": [
+  {"name":"Archdemon Malphas","phases":[],"attacks":[],"minions":["(Protectors/Missiles per built behavior)"],"colorFlashes":"","taunts":["My minions [will slay you] (partial)","I have been [defeated]... (partial)"],"note":"DOCUMENTED-from-chat (partial). CORROBORATES the built/verified Malphas lines (My minions will slay you! / I have been defeated...). No change needed."},
+  {"name":"Firebreather","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You have awoken the spirit of fire..."],"note":"DOCUMENTED-from-chat. 'You have awoken the spirit of fire...' is a NEW Firebreather line (parallels Shadowscale's 'You have awoken the spirit of shadow...'). Firebreather defeated in feed (Goblin: 'The Firebreather has been defeated! (24/25)'). Build/enrich candidate — but see UNCERTAIN below before committing."},
+  {"name":"(Firebreather OR Gravedigger — UNCERTAIN attribution)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Death is your reward! Say no more and FINISH...","Your courage softens me... I could grant you a..."],"note":"UNCERTAIN: these two lines appeared in red boss-chat near Firebreather lines, BUT they are ALREADY built on the GRAVEDIGGER (Necropolis) and the memory flags 'Your courage softens me' / 'Death is your reward' as POSSIBLY-SHARED between Firebreather and Gravedigger. A high-res re-read of the candidate frame did NOT cleanly confirm the speaker (it showed a Pentaract event line). So do NOT re-attribute these to Firebreather on this evidence — they may belong to Gravedigger (already built). Needs a clean single-fight Firebreather video to resolve."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [
+  "Skull Shrine (Hydra announcer)",
+  "Hermit God (Medusa announcer)",
+  "Pentaract Tower Ultra (defeated)",
+  "Mad Jester (Harpy: 'defeated! (4/25)')",
+  "Shadowscale (Harpy: 'has just spawned')",
+  "Treesmasher (defeated)"
+ ],
+ "mechanics": "DOCUMENTED: edited ROTF highlights montage. CORROBORATION value — Archdemon Malphas + Firebreather taunts seen match/extend the build. NEW: Firebreather 'You have awoken the spirit of fire...' (awaken line, parallels Shadowscale). MULTI-PERSONA ANNOUNCER system corroborated again: Hydra, Medusa, Gorgon, Harpy, Goblin, Golem personas announce realm-event spawns/defeats with /25 counters (e.g. 'Goblin: The Firebreather has been defeated! (24/25)'). ATTACKS: bossends are a montage mix across many bosses -> NOT confidently attributable, left blank rather than guessed. IMPORTANT honesty flag: two 'Death is your reward / courage softens me' lines near Firebreather are LIKELY the already-built Gravedigger's (shared-line ambiguity) — NOT re-attributed.",
+ "uncertain": "Edited montage (overlays fire blackdetect on cuts). Malphas/Firebreather taunts partial. The 'Death is your reward! Say no more and FINISH...' + 'Your courage softens me... I could grant you a...' lines are AMBIGUOUS between Firebreather and the already-built Gravedigger — explicitly NOT committed to Firebreather. Attack patterns not attributable. Event bosses are base/event.",
+ "confidence": "MEDIUM. GENUINE ROTF. Solid Malphas corroboration + 1 new clean Firebreather line ('spirit of fire'). Announcer/counter system corroborated (6 personas, /25). LOW new-build value otherwise (montage; event bosses base; the Gravedigger/Firebreather shared lines deliberately left unresolved to avoid mis-attribution). Best follow-up: a single-dungeon Firebreather (Flaming Hearth) video to confirm its full taunt set vs Gravedigger overlap."
+}

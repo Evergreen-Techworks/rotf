@@ -1,0 +1,4 @@
+# Acid Katana
+# https://rotfserver.fandom.com/api.php?action=parse&page=Acid%20Katana&prop=wikitext
+
+{{ItemInfo|name = Acid Katana|desc = This Katana melts almost anything it touches instantly|rarity = h|slot = katana|tier = UT|minDmg = 100|maxDmg = 135|shots = 1|rof = 160|range2 = 4.8|fameb = 5|dropsFrom = no idea}}

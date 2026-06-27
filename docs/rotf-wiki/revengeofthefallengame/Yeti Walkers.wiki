@@ -1,0 +1,4 @@
+# Yeti Walkers
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Yeti%20Walkers&prop=wikitext
+
+asdf

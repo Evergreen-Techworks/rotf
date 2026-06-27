@@ -1,0 +1,27 @@
+{
+ "dungeon": "GENUINE ROTF/RotMG EDITED single-dungeon highlight clip (~172s, ends on a 'thanks for watching' outro card). One dungeon fight in a grey/stone + checkered-grid arena, with event-feed loot. LOW clean yield: the chat is dark/fragmentary (event-feed + an unattributed 'No! You can't get me!!' line) and NO clear single boss NAME was captured. One ATTACK pattern documented from the bossend frames.",
+ "map": "DOCUMENTED-from-transitions+bossends: entry into a grey/STONE dungeon room (labyrinth/vault-style tiling), and the climax fought in a grey/PINK CHECKERED-GRID arena (Shatters-style square-tile floor). The bossend group spans a few biomes (brown/green/blue/grey) = an EDITED highlight cut, so a single room-sequence isn't traceable. The '2nd entry' (172s) is the video OUTRO ('thanks for watching'), NOT a dungeon.",
+ "bosses": [
+  {
+   "name": "(unidentified checkered-grid-arena boss)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (bossend b002_21s): an ARC/RADIAL RING of evenly-spaced bullets sweeping across the grey/pink checkered-grid arena (radial ring/nova, or a sweeping wave). Count not cleanly countable; pattern = ring/arc."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-frames: a boss in a Shatters-style checkered-grid arena with a radial-ring/arc bullet attack. NAME NOT captured (chat dark/fragmentary, no clear boss-coloured prefix) -> NOT guessed. A chat fragment 'No! You can't get me!!' appears but has NO clear speaker -> NOT attributed to this boss. Recorded as unidentified rather than fabricating a name."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Legendary-tier loot (RuinedBow / Mortunious / Glory each 'has looted a Leg[endary]')",
+  "a 'Revenge'-prefixed item ([Air] has looted a Revenge[...])"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Mushroom has been defeated! (27/30)",
+  "Fire Elemental (defeated; AAAARRRGH death scream)"
+ ],
+ "mechanics": "DOCUMENTED (limited — edited highlight): a single-dungeon fight in a checkered-grid arena with a radial-ring/arc bullet attack. Event-feed shows base/event bosses (Mushroom 27/30, Fire Elemental) + a /30 event counter + LEGENDARY-tier loot drops (RuinedBow/Mortunious/Glory). Chat is dark/fragmentary -> the only boss-ish line 'No! You can't get me!!' is UNATTRIBUTED (no clear speaker). Edited clip ends on a 'thanks for watching' outro.",
+ "uncertain": "NO clean boss NAME captured (chat dark + edited) -> the checkered-grid boss is UNIDENTIFIED (deliberately not guessed). 'No! You can't get me!!' = unattributed fragment. Attack = ring/arc but exact count/CW-CCW not readable. Mushroom + Fire Elemental are base/event (feed only). Edited highlight -> single room-sequence not traceable.",
+ "confidence": "LOW-MEDIUM. GENUINE ROTF/RotMG but an EDITED highlight with low clean yield: 1 DOCUMENTED attack (radial-ring/arc in a checkered-grid arena) but NO boss name/taunt cleanly captured (recorded as unidentified, no fabrication). Event-feed = base/event bosses + legendary loot. Recorded honestly: unattributed fragments flagged, boss left unnamed. Best follow-up: a non-edited single-boss clip of the checkered-grid arena for the name + taunt."
+}

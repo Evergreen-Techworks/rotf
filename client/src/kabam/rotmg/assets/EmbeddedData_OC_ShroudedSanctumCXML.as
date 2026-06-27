@@ -1,0 +1,10 @@
+package kabam.rotmg.assets {
+import mx.core.*;
+
+[Embed(source="EmbeddedData_OC_ShroudedSanctumCXML.dat", mimeType="application/octet-stream")]
+public class EmbeddedData_OC_ShroudedSanctumCXML extends ByteArrayAsset {
+   public function EmbeddedData_OC_ShroudedSanctumCXML() {
+      super();
+   }
+}
+}

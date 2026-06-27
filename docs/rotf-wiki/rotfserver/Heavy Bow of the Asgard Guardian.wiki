@@ -1,0 +1,28 @@
+# Heavy Bow of the Asgard Guardian
+# https://rotfserver.fandom.com/api.php?action=parse&page=Heavy%20Bow%20of%20the%20Asgard%20Guardian&prop=wikitext
+
+{{ItemInfo
+| name = Heavy Bow of the Asgard Guardian
+| slot = bow
+| tier = UT
+| rarity = h
+| desc = This bow has harvested souls of many dark elves in its lifetime.
+
+| rof = 11
+| range = yes
+| projSpeed = 10
+| lifetime = 900
+| minDmg = 1350
+| maxDmg = 1650
+| fameb = 5
+| feedp = 1000
+
+| effects = yes
+| multihit = yes
+
+| lootbag = white
+|dropsFrom = is a white bag drop from the Asgard Guardian in the realm.}}
+<noinclude>
+{{NavBows}}
+</noinclude><noinclude>
+[[Category:Bows]]</noinclude>

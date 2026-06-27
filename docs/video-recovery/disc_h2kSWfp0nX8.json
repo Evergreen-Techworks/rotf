@@ -1,0 +1,40 @@
+{
+ "dungeon": "GENUINE target-server run (TFR v1.7.6 — VoltiPlay the OWNER playing/trading; same server lineage as 'Elemental Realms'). A multi-dungeon session (blue-tile dungeon, brown/tan dungeon, grey-stone rooms, and a LAVA arena) ending on a death screen ('VoltiPlay, Level 20 Archer, killed on April 16, 2018 by Megamoth Larva'). HEADLINE: a NEW LAVA-GOD boss ('Kestora the Lava God', spelling uncertain) with a defeat-taunt sequence + a lava arena. Chat is partly trade/owner-banter heavy.",
+ "map": "DOCUMENTED-from-transitions+bossends: a hop across (1) a BLUE/GREY checkered-tile dungeon (boxy rooms); (2) a BROWN/TAN tiled dungeon; (3) grey-STONE rooms; (4) the LAVA-GOD arena — an ORANGE/RED LAVA floor with DIAGONAL lava channels and a brown/stone central structure, fought from the open lava floor. Standard room-and-corridor dungeons; the lava arena is the notable one (Kestora the Lava God).",
+ "bosses": [
+  {
+   "name": "Kestora the Lava God",
+   "phases": ["defeat sequence: 'ARGHH' -> 'You defeated me..' -> 'Good bye.' on death"],
+   "attacks": ["DOCUMENTED-from-frames (bossends, approx): in the lava arena the boss fires SCATTERED ORANGE/YELLOW (fire) bullets — aimed/spread fire bullets across the lava floor; clean count/geometry not isolated (busy + diagonal-lava arena). Reconstruct as orange fire spread/aimed shots. Fire/lava theme."],
+   "minions": [],
+   "colorFlashes": "orange/red (fire)",
+   "taunts": [
+    "ARGHH",
+    "You defeated me..",
+    "Good bye."
+   ],
+   "note": "DOCUMENTED-from-chat (red boss-coloured, lava arena). NAME read as 'Kestora the Lava God' at high zoom but the first word is partly ambiguous (could be 'Kestrovahn'/'Kestora the' — flagged uncertain). The captured taunts are the DEATH/DEFEAT sequence ('ARGHH'/'You defeated me..'/'Good bye.') — a full fight taunt set would need an earlier-fight capture. NEW custom lava-god boss candidate (owner-played -> high confidence it exists). Verify the exact name + get fight taunts before building."
+  },
+  {
+   "name": "Megamoth Larva",
+   "phases": [],
+   "attacks": ["killed a level-20 player -> hits hard; geometry not captured"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-death-screen ('killed by Megamoth Larva'). An enemy/mini-boss (moth larva); no taunt/attack captured. Recorded as a named threat."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Greater Potion of Wisdom / Defense / Vitality / Life (consumed)",
+  "(trade-heavy chat; specific drops not isolated)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Undead Lair (opened by Hehe)",
+  "Abyss of Demons (opened by VoltiPlay)"
+ ],
+ "mechanics": "DOCUMENTED: an owner (VoltiPlay) multi-dungeon run on TFR v1.7.6 (= the Elemental-Realms/ROTF target server, owner-confirmed). HEADLINE = a NEW LAVA-GOD boss 'Kestora the Lava God' (spelling uncertain) fought in an orange/red LAVA arena (diagonal lava channels), with a DEFEAT taunt sequence ('ARGHH' -> 'You defeated me..' -> 'Good bye.') and a scattered ORANGE FIRE-bullet attack (DOCUMENTED-approx). A 'Megamoth Larva' enemy killed VoltiPlay (death screen, April 16 2018). Heavy trade/owner banter. Other dungeons (blue-tile / brown / grey-stone) are standard.",
+ "uncertain": "Kestora the Lava God's exact NAME spelling is uncertain (first word partly illegible — 'Kestora the' vs 'Kestrovahn' Lava God). Only the DEATH/DEFEAT taunts captured (no mid-fight taunts). Attack geometry approximate (busy lava arena, no isolated clean ring). 'Megamoth Larva' is name-only (death feed). Specific drops lost in trade banter. Dungeon names (blue/brown/stone) not banner-confirmed.",
+ "confidence": "MEDIUM-HIGH that 'Kestora the Lava God' is a real custom boss (owner-played, boss-coloured chat, lava arena) — a NEW build candidate — but MEDIUM on its exact NAME (spelling uncertain) and the taunts captured are only the defeat sequence. GENUINE ROTF (TFR/VoltiPlay, 2018). Net value: a new lava-god boss candidate + arena + fire attack + a 'Megamoth Larva' enemy name. Best follow-up: an earlier-fight clip of the lava arena to confirm the name spelling + capture the full fight taunts."
+}

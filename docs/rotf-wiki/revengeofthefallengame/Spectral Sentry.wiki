@@ -1,0 +1,4 @@
+# Spectral Sentry
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Spectral%20Sentry&prop=wikitext
+
+asdf

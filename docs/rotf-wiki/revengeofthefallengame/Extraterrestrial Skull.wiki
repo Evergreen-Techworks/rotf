@@ -1,0 +1,4 @@
+# Extraterrestrial Skull
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Extraterrestrial%20Skull&prop=wikitext
+
+asdf

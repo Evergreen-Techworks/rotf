@@ -1,0 +1,11 @@
+{
+ "dungeon": "The Ghost Ship (boss fight)",
+ "map": "DOCUMENTED from video: a single dark NAVY/midnight-ocean boss arena (deep blue-black floor, faint ghostly ship hull visible at the edges). Open arena fight.",
+ "bosses": [
+   {"name":"The Ghost Ship","phases":["sustained bullet-hell + telegraphed ground strikes"],"attacks":["TELEGRAPHED red-SQUARE ground AoE markers (danger tiles light up red before a strike — likely cannon/broadside fire)","orange/red HEXAGONAL bullet BURSTS radiating outward","spreads of orange bullets"],"minions":[],"colorFlashes":"orange/red projectiles + red ground-square telegraphs on a navy floor","taunts":[]}
+ ],
+ "drops": ["WHITE BAG confirmed (huge chat hype: 'WHITE BAG','OMG WHITE','I CANT BELIEVE IT')","a RING (players: 'i got some ring','i dont have the ring lmao')","possibly a 'prism' item (player said 'prism')"],
+ "mechanics": "DOCUMENTED: 'The Ghost Ship' is a ROTF boss (ocean/pirate/night theme) — announced defeated '<Goblin> The Ghost Ship has been defeated'. Signature mechanic = TELEGRAPHED RED-SQUARE GROUND AoE (tiles flash red, then a strike) combined with orange hexagonal radial bullet bursts. Drops WHITE BAGS (very rare reaction from a full group) including at least a RING. Damage-% loot system visible ('with 24%').",
+ "uncertain": "Boss taunt NOT captured (chat dominated by player white-bag hype). Exact white-bag item names not legible (players only say 'ring'/'white'/'prism'). Source dungeon for The Ghost Ship not identified (ocean/pirate-themed dungeon likely).",
+ "confidence": "MEDIUM-HIGH for attack pattern (red-square ground AoE + orange hex bursts, DOCUMENTED visually) and white-bag/ring drop; LOW for exact drop names; no taunt."
+}

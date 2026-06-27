@@ -1,0 +1,30 @@
+# Destructor Cloak
+# https://rotfserver.fandom.com/api.php?action=parse&page=Destructor%20Cloak&prop=wikitext
+
+{{ItemInfo
+| name = Destructor Cloak
+| desc = There is only 1 copy of this cloak... And you o... Well, there might be 2.
+| slot = cloak
+| tier = UT
+| rarity = h
+
+| cost = 125
+| cooldown = 8.5
+| feedp = 500
+| fameb = 6
+
+| bonuses = {{Stat|def|2}} {{Stat|vit|2}}
+
+| effects = yes
+| invisible = 6
+| berserk = 2
+| damaging = 2
+
+| lootbag = white
+| dropsFrom = can be found in a White Bag dropped in: Abyss of Demons.
+}}
+
+<noinclude>
+{{NavCloaks}}
+[[Category:Cloaks]]
+</noinclude>

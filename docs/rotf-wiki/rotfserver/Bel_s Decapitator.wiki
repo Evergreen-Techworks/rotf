@@ -1,0 +1,4 @@
+# Bel's Decapitator
+# https://rotfserver.fandom.com/api.php?action=parse&page=Bel%27s%20Decapitator&prop=wikitext
+
+{{ItemInfo|name = Bel's Decapitator|desc = This ancient axe, once wielded by bel, has guarded the Necropolis for thousands of years|rarity = p|slot = sword|tier = UT|minDmg = 630|maxDmg = 770|shots = 1|rof = 70|range2 = 3.91|fameb = 10|effects = yes|passthrough = yes|primal = Brutality:<br/>Increse attack by 10 for 4.5 seconds.(9 second cooldown)|dropsFrom = drops from bel}}

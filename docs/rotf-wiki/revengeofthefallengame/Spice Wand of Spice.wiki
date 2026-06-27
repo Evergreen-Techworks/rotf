@@ -1,0 +1,4 @@
+# Spice Wand of Spice
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Spice%20Wand%20of%20Spice&prop=wikitext
+
+asdf

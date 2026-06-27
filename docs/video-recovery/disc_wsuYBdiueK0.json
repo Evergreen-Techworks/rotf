@@ -1,0 +1,65 @@
+{
+ "dungeon": "GENUINE ROTF edited compilation 'Part 2' ('LINK TO PART 1 IS IN THE DESCRIPTION'; PREVIOUS/RANDOM/SUBSCRIBE outro; player 'LBGT', ~240s) of big CROWDED PUBLIC boss EVENTS. HIGH value: 2 unbuilt named bosses with taunts -> VOID ENTITY (well-attested, 8 prior specs, NOT built — strong build candidate) + MARBLE DEFENDER (marble-guardian). Crowds obscure precise bullet geometry but arenas + attack colours are documented.",
+ "map": "DOCUMENTED-from-frames+minimaps: (1) VOID ENTITY arena = a PURPLE/DARK COSMIC chamber with a grid floor, roughly CIRCULAR (minimap = small round purple arena); open center, players ring the boss. (2) MARBLE DEFENDER arena = a GREY MARBLE/STONE circular arena (open stone floor, circular minimap) — a blue armored golem boss in the center. (3) (intro b002@4s) a RED/MAROON CIRCULAR arena with a darker-red border ring (Part-1's final boss shown at start). Crowded public-event arenas; no contiguous multi-room layout captured.",
+ "bosses": [
+  {
+   "name": "Void Entity",
+   "phases": [
+    "DOCUMENTED-from-chat: an 'experiment'/control theme — 'An experiment that su[cceeded]...' + 'And a white titan to co[me/ntrol]...' + 'ALL UNDER MY CONTROL...' implies a SUMMON/CONTROL phase (a 'white titan' minion it controls)."
+   ],
+   "attacks": [
+    "DOCUMENTED-from-frames (b008_90s, crowd-obscured): PINK/MAGENTA + CYAN bullets in a RADIAL SPREAD around the cosmic arena; precise count/geometry not isolatable (huge player crowd). Reconstructed: radial spread/nova, cosmic."
+   ],
+   "minions": [
+    "'white titan' (referenced: 'And a white titan to co[me/ntrol]' — a controlled titan minion)"
+   ],
+   "colorFlashes": "purple/cosmic; pink + cyan bullets",
+   "taunts": [
+    "I am the embodiment of yourselves...",
+    "Naivety! You really thi...",
+    "...One day you shall all be sla...",
+    "An experiment that su...",
+    "And a white titan to co...",
+    "ALL UNDER MY CONTROL..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix '<Void Entity>', grayscale-pull; bracket form = boss speech, same convention as built Twilight Archmage). WELL-ATTESTED ROTF boss (8 prior specs) but NOT yet built -> STRONG build candidate. Several lines tail-CUT (mark partial): 'Naivety! You really thi[nk]...', '...you shall all be sla[in]...', 'An experiment that su[cceeded]...', 'And a white titan to co[me/ntrol]...'. 'ALL UNDER MY CONTROL...' + 'I am the embodiment of yourselves...' read fuller. Theme: void/cosmic experimenter that controls a 'white titan'. Verify cut tails + consolidate with the 8 prior specs before building."
+  },
+  {
+   "name": "Marble Defender",
+   "phases": [],
+   "attacks": [
+    "DOCUMENTED-from-frames (b015_204s, crowd-obscured): a blue armored GOLEM boss in a grey marble arena; bullets not isolatable (crowd). Reconstructed: stone/marble spread."
+   ],
+   "minions": [],
+   "colorFlashes": "grey/marble; blue boss",
+   "taunts": [
+    "I wish only to protect you. Forgive me, but I have no other choice.",
+    "Your confidence is gravely misplaced, heroes.",
+    "Do not allow this evil to escape!",
+    "I can protect your world no longer. You are now responsible for the fate of the realm."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix 'Marble Defender', grayscale-pull). NOT built (1 prior spec). A MARBLE GUARDIAN/PROTECTOR boss (blue armored golem, grey marble arena) — thematically near the built 'Marble Colossus' but a DISTINCT name -> verify base-vs-custom + Marble-Colossus overlap before building. All lines tail-CUT (partial): 'Your confidence [is?]...', 'Do not allow thi[s]...', 'I can protect you [from?]...', '...the fate of the realm...'. Protector flavour ('I can protect you' / 'the fate of the realm'). [VERIFY-LOOP: wide f_ re-crop (f_00099) COMPLETED all 4 tail-cut partials. Note the prior partials 'I can protect you...' + '...the fate of the realm...' were TWO fragments of ONE line ('I can protect your world no longer. You are now responsible for the fate of the realm.'), and 'I wish only to protect you. Forgive me, but I have no other choice.' had been missed. Full set now frame-grounded.]"
+  },
+  {
+   "name": "(unidentified — red-arena intro boss, b002@4s)",
+   "phases": [],
+   "attacks": [
+    "DOCUMENTED-from-frames (b002_4s_008): WHITE bullets in a SPIRAL/RADIAL pattern streaming outward from center in a red circular arena (curved arms -> spiral/pinwheel or radial spread)."
+   ],
+   "minions": [],
+   "colorFlashes": "red arena; white bullets",
+   "taunts": [],
+   "note": "Shown at 4s = the END of Part 1's final fight (intro recap). Red/maroon circular arena, white spiral/radial bullets. Boss UNIDENTIFIED here (no name captured in the recap). Attack DOCUMENTED, name not."
+  }
+ ],
+ "minions": [
+  "white titan (Void Entity)"
+ ],
+ "drops": [
+  "Event Chest / 'The Reward Chest has [opened]' — public-event reward chest loot"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: big CROWDED PUBLIC boss EVENTS (huge player crowds ring each boss). An 'Event Chest - The Reward Chest has [opened]' reward-chest mechanic (shared public reward). Damage-CONTRIBUTION counter visible ('Guacamole...' = the per-player damage-% HUD seen on other ROTF tags). Void Entity has an experiment/CONTROL theme (controls a 'white titan'). Marble Defender is a guardian/protector. Bracket-prefixed boss speech (server convention).",
+ "uncertain": "Edited 'Part 2' compilation + HUGE player CROWDS -> bullet geometry mostly NOT isolatable (Void Entity = pink/cyan radial spread approximate; Marble Defender bullets crowd-hidden; only the b002@4s intro-recap shows a clean white spiral, but that boss is UNNAMED). Many taunts tail-CUT (marked partial) — verify before building. 'Void Entity' vs the 8 prior specs should be consolidated (canonical taunt set). 'Marble Defender' may overlap the built 'Marble Colossus' (both marble) -> collision/base-vs-custom check required. Bracket boss-speech confirmed as the server convention (matches built Twilight Archmage).",
+ "confidence": "MEDIUM-HIGH (boss IDs + taunts) / LOW (attack geometry, crowd-obscured). GENUINE ROTF. Best finds: VOID ENTITY (well-attested across 8 specs, NOT built -> strong build candidate; cosmic experimenter controlling a 'white titan', purple circular arena) + MARBLE DEFENDER (marble guardian, unbuilt). Recorded honestly: taunts verbatim-where-clean with cuts flagged, attacks DOCUMENTED-vs-reconstructed, crowd-occlusion noted, build candidates flagged for collision/consolidation. Best follow-up: a low-crowd Void Entity clip for clean attack geometry + completing the cut taunt tails."
+}

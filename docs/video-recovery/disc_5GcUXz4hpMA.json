@@ -1,0 +1,13 @@
+{
+ "dungeon": "NOT GAMEPLAY — DESKTOP/BROWSER screen recording, not the RotMG/ROTF game client. Frames show a Windows TASKBAR (Start, search, Chrome, Discord, Opera icons) and a web BROWSER (Turkish locale: 'istek adservice.google.com.tr tarafına iletiliyor...') displaying a multicolored SPIN-WHEEL website + dark form/control panels ('DYNA...'). Possibly ROTF-adjacent (a creator's giveaway wheel or a web/admin panel) but NO in-game content. Zero buildable dungeon/boss content.",
+ "map": "N/A — desktop/browser capture, no game map. (Frames: Windows desktop + browser pages + a spin-wheel.)",
+ "bosses": [
+  {"name":"(none — not gameplay)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"No game, no bosses. The 'chat' crops captured the Windows taskbar; the f_ frames are browser windows (a spin-the-wheel site + dark form panels). No fade-to-black transitions/bossends (static desktop scene)."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "N/A — not the game. It is a desktop/browser recording: a multicolored web SPIN-WHEEL (random-picker / giveaway style) and form panels, viewed in a browser with a Turkish locale, over a Windows taskbar. If ROTF-related at all it would be an out-of-game web feature (giveaway/vote wheel or an admin panel), but nothing is legibly ROTF-branded. PROCESS NOTE: alongside the 3 non-RotMG game mis-pulls (disc_1G51S6l2xL4, disc_3EeKxDleJx8, disc_52kMPzz6YCk), channel-expansion also pulls non-gameplay clips (desktop/browser captures). A title/duration RotMG-keyword filter on discovery would cut these.",
+ "uncertain": "Whether this clip is ROTF-related at all is unconfirmed (generic spin-wheel + Turkish browser; no legible ROTF branding). Certain: it is NOT in-game RotMG/ROTF footage and has no buildable content.",
+ "confidence": "HIGH that this is NOT in-game footage (desktop/browser capture). Zero buildable value. Recorded only to mark the tag analyzed and flag the non-gameplay channel-expansion pull."
+}

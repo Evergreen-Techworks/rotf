@@ -1,0 +1,15 @@
+{
+ "dungeon": "(VolttPlay multi-dungeon stream) ROTF — Riverborn taunt (enriches built boss) + Golden Oryx Effigy taunts",
+ "source": "video disc_DQAnCmzGd-s (125 frames, 8 transitions, 31 chat; VolttPlay, Level 20 Archer; overlay 'What happened after gross bow?'). Red-lava + green/brown dungeons. Chat captured two bosses' taunts.",
+ "map": "DOCUMENTED biomes: RED LAVA dungeons, green grass realm, brown dirt, blue stone, a colorful skill-tree grid.",
+ "bosses": [
+  {"name":"Riverborn","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Let's see how well you pl[ay]..."],"note":"DOCUMENTED VERBATIM (seen as 'Epic Riverborn' — an EPIC-scaled variant). Riverborn is the BUILT Riverside Refuge boss (0x8f90) — which I shipped TAUNT-LESS. This gives it a real taunt: 'Let's see how well you play...' (TODO: add to the Riverside build). ALSO confirms the Epic Enemies system scales Riverborn ('Epic Riverborn'). Event: 'The Riverborn has been defeated!'."},
+  {"name":"Golden Oryx Effigy","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["What have you done?","I'm weakened."],"note":"DOCUMENTED VERBATIM (boss-colored chat). The Golden Oryx Effigy (Oryx statue boss) reacts to damage — 'What have you done?', 'I'm weakened.' (a phase/damage-reaction boss)."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Realm Giant (just spawned)","Riverborn (defeated)","Suspicious Looking Dragon (spawned)"],
+ "mechanics": "DOCUMENTED: (1) RIVERBORN taunt 'Let's see how well you play...' — enriches the built Riverside Refuge boss (was taunt-less); seen as 'Epic Riverborn' so Epic Enemies scales it. (2) GOLDEN ORYX EFFIGY damage-reaction taunts ('What have you done?', 'I'm weakened.'). (3) Class Archer confirmed (death screen). (4) Event feed (Realm Giant, Riverborn, Suspicious Looking Dragon).",
+ "uncertain": "Riverborn taunt tail truncated ('how well you play [this game/fight]'). Golden Oryx Effigy's full fight not isolated. Whether 'Golden Oryx Effigy' is the Wine-Cellar statue or a distinct boss unconfirmed.",
+ "confidence": "HIGH for the Riverborn taunt (enriches built boss) + Epic-Riverborn confirmation + the Golden Oryx Effigy taunts. MEDIUM for the truncated Riverborn tail."
+}

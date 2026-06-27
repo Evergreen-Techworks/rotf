@@ -1,0 +1,46 @@
+# GitHub Actions: build the ROTF server (.NET 8) + web launcher, rsync to EC2, restart
+# services. Mirrors egtw's SSH/rsync deploy. Copy to .github/workflows/deploy.yml.
+# Secrets needed: EC2_HOST, EC2_USER (ubuntu), EC2_SSH_KEY (the .pem contents).
+name: Deploy ROTF
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Publish app + world servers
+        run: |
+          dotnet publish server/server/server.csproj   -c Release -o publish/appserver
+          dotnet publish server/wServer/wServer.csproj  -c Release -o publish/worldserver
+
+      # (optional) build the web launcher
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - name: Build launcher
+        run: |
+          if [ -f web/package.json ]; then cd web && npm ci && npm run build; fi
+
+      - name: Setup SSH
+        run: |
+          mkdir -p ~/.ssh && echo "${{ secrets.EC2_SSH_KEY }}" > ~/.ssh/key.pem
+          chmod 600 ~/.ssh/key.pem
+          ssh-keyscan -H ${{ secrets.EC2_HOST }} >> ~/.ssh/known_hosts
+
+      - name: Rsync to EC2
+        run: |
+          rsync -az --delete -e "ssh -i ~/.ssh/key.pem" publish/appserver/   ${{ secrets.EC2_USER }}@${{ secrets.EC2_HOST }}:/opt/rotf/appserver/
+          rsync -az --delete -e "ssh -i ~/.ssh/key.pem" publish/worldserver/ ${{ secrets.EC2_USER }}@${{ secrets.EC2_HOST }}:/opt/rotf/worldserver/
+
+      - name: Restart services
+        run: |
+          ssh -i ~/.ssh/key.pem ${{ secrets.EC2_USER }}@${{ secrets.EC2_HOST }} \
+            "sudo systemctl restart rotf-appserver rotf-worldserver"

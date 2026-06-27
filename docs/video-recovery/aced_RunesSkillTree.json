@@ -1,0 +1,10 @@
+{
+ "dungeon": "(SYSTEM) Runes + Skill Tree (Phase D2)",
+ "source": "aced.gg dev blog 2021-02-15 + 2021-03-14 (Masterwork Runes / new Nexus), Miniguy — DOCUMENTED",
+ "map": "N/A (UI/progression system)",
+ "bosses": [],
+ "drops": [],
+ "mechanics": "DOCUMENTED (dev blog): ROTF replaces vanilla tiers with a RUNE + SKILL TREE system.\n- RUNE SLOT TYPES (named, color-coded): Arcane (blue), Chrysalis (green), Impact (orange), Adaptive (clear/colorless).\n- SKILL TREE: node-based; each tree starts with a MASTER NODE (chosen first, themed to a core rune) before generic stat nodes. MASTERWORK NODES = high-end nodes themed to their core rune. An 'Overview' tab live-previews your build; an 'All Stats' button shows detailed stats incl. item primal effects + reactive rune effects.\n- New stat 'HASTE' = a cooldown-reduction (CDR-like) stat — because many abilities now have COOLDOWNS (not just mana costs).\n- A separate 'CLASS TREE' also exists (distinct from the skill tree).\n- Legacy-rune lore (from key hints): a BLUE rune that increased rare-drop loot chance but prevented looting any other items (fame/loot-tradeoff rune); a speed-scaling DODGE stat (% chance to dodge attacks).\n- The legacy tier system does NOT return as-was; replaced by this system. Masterwork Runes tie into a 'new Nexus' (see docs/aced-blog/masterwork-runes-nexus.txt).",
+ "uncertain": "Exact node lists, rune effects, and numbers not fully specified in these posts. ACED build was Unity (≠ our Flash base) — system design transfers, implementation differs.",
+ "confidence": "MEDIUM-HIGH for system structure (rune slot types, master/masterwork nodes, Haste/cooldowns, class tree — DOCUMENTED); LOW for exact values. Directly informs Phase D2."
+}

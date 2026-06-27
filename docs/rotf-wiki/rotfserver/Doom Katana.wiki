@@ -1,0 +1,4 @@
+# Doom Katana
+# https://rotfserver.fandom.com/api.php?action=parse&page=Doom%20Katana&prop=wikitext
+
+{{ItemInfo|name = Doom Katana|desc = This foul Katana has doomed many opponents, as it is slowly decaying|rarity = h|slot = katana|tier = UT|minDmg = 250|maxDmg = 335|shots = 1|rof = 55|range2 = 5.8|fameb = 5}}

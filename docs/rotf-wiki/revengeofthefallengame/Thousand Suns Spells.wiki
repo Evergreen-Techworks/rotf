@@ -1,0 +1,4 @@
+# Thousand Suns Spells
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Thousand%20Suns%20Spells&prop=wikitext
+
+asdf

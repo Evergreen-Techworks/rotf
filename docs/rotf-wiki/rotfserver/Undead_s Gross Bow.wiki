@@ -1,0 +1,35 @@
+# Undead's Gross Bow
+# https://rotfserver.fandom.com/api.php?action=parse&page=Undead%27s%20Gross%20Bow&prop=wikitext
+
+{{ItemInfo
+| name = Undead's Gross Bow
+| slot = bow
+| tier = UT
+| rarity = l
+| desc = A gross,rather large bow that was crafted from the dead. Thanks to: BeeEasy.
+
+| rof = 85
+| range = 7.04
+| projSpeed = 16
+| lifetime = 440
+| minDmg = 85
+| maxDmg = 120
+| amplitude = 0.15
+| frequency = 1
+| shots = 5
+| arcgap = 5
+| feedp = 900
+| fameb = 6
+
+| effects = yes
+| multihit = yes
+| pierce = yes
+
+| legendary = 4
+
+| lootbag = white
+|dropsFrom = drops from Troll Matriarch , Ghost Bride , Grave Caretaker , Ghost of Skuld}}
+<noinclude>
+[[Category:Bows]]
+
+</noinclude>

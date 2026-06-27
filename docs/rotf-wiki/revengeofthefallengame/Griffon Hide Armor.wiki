@@ -1,0 +1,4 @@
+# Griffon Hide Armor
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Griffon%20Hide%20Armor&prop=wikitext
+
+adf

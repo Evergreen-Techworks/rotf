@@ -1,0 +1,29 @@
+# The Seaweed Sword
+# https://rotfserver.fandom.com/api.php?action=parse&page=The%20Seaweed%20Sword&prop=wikitext
+
+{{ItemInfo
+| name = The Seaweed Sword
+| slot = sword
+| tier = ST
+| desc = Crafted from the seaweed that occupies the Riverborn's face, the sword is agile and very deadly.
+
+| rof = 120
+|| projSpeed = 10
+| lifetime = 500
+| minDmg = 75
+| maxDmg = 145
+| amplitude = 1
+| frequency = 0.3
+| shots = 3
+| arcgap = 8
+| feedp = 500
+| fameb = 5
+
+| bonuses = {{Stat|vit|4}}
+
+|lootbag = white
+|dropsFrom = is obtainable from the Riverborn realm event.|rarity = a|range2 = 5}}
+<noinclude>
+[[Category:Swords]]
+{{NavSwords}}
+</noinclude>

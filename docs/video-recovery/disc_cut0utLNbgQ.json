@@ -1,0 +1,12 @@
+{
+ "dungeon": "Galactic/lava farming session — AUCTION HOUSE catalog (Nodestones!) + galactic bosses",
+ "map": "DOCUMENTED biomes: orange/red LAVA dungeons (orange-brick structured rooms, cross/plus layouts), green realm, desert, dark caverns. Galactic farming context.",
+ "bosses": [
+   {"name":"Lucky Djinn (galactic)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"'<Spectre> The Lucky Djinn has been defeated'."},
+   {"name":"Uvuvwevwevwe (event)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"'<Spectre> A Uvuvwevwevwe has just spawned' (re-confirmed)."}
+ ],
+ "drops": [],
+ "mechanics": "MAJOR D2 recovery: the AUCTION HOUSE UI (BUY/SELL tabs, prices in Fame, 'Total auctions placed: 2583', player fame balance shown) — its 'Quick Select' sidebar lists the real tradeable item/currency types: **NODESTONES** -> 'Small Nodestone', 'Big Nodestone', 'Starforce Small Nodestone', 'Starforce Big Nodestone' (these are the D2 'Runes + Nodestones' material/currency, in 2 sizes x normal/Starforce tiers). Also: Special Crate, Char Slot Unlocker, Vault Chest Unlocker, Backpack, Potion of Life, Potion of Mana. Auction listings show armor/weapons/rings/abilities at fame prices (e.g. 25000/6949/500000/83500) with auction-duration timers (33h/46h/47h) + Buy buttons. Galactic farming (Lucky Djinn, Uvuvwevwevwe). New announcer persona: Spectre.",
+ "uncertain": "Exact Nodestone function (how they're consumed into runes/skill-tree nodes) not shown here — but their existence + 4 tiers (Small/Big x normal/Starforce) is DOCUMENTED. Auction item names not all legible.",
+ "confidence": "HIGH for the Auction House catalog + NODESTONE item tiers (DOCUMENTED — directly feeds D2); MEDIUM for biomes; galactic bosses documented."
+}

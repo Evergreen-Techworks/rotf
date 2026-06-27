@@ -1,0 +1,40 @@
+entry-content">
+
+ Hi all! This is a (very late) Miniguy post. In last week’s devlog , Shmitty walked us through some of the animation, spriting, and general design work that they’ve been doing for the newest world boss. We also asked for name suggestions, since internally, we’d been calling her the Demon Lady. After a lot of great suggestions (and a lot of perhaps objectionable ideas), we’ve finalized her name as Nyx of Fire. Congratulations to Flurry for coming up with it! 
+
+ Today, I want to give you a small preview of how Nyx’s fight plays out. We’re not done with her, yet: her animations are still being finalized (i.e. some of her minions animation timings are still being fixed!), we’re still working out how we want the world’s transformation to look, we still need to pad out the fight with smaller bullet hell patterns… but it’s nice to put our pencils down for a bit and see where we’re at! Have a look below: 
+
+ You should definitely watch the full video, but I wanted to highlight one of the things Mike and I had a lot of fun working on: Nyx’s evil player phase! In this phase, she recruits a player to help fight for her. I’m pretty sure I killed Mike at least twice. 
+
+ that demon lady is just so fine… 
+
+ I’ll also point out a newer projectile pathing system that we just finished writing. It’ll be used in the GTU lord fight that patpot’s been working on , but you can also see it used during Nyx’s fight (see the clone that jumps in from the left): 
+
+ she jump 
+
+ Thanks for checking out today’s post, even though it’s a bit later than we intended! As always, we’ll update this post with a closed testing key within 10 minutes of its publication. Hit those F5 buttons, y’all! 
+
+ Here’s the promised second key, apologies again for the late post! EH [1] Y- [2] Q7W-T6 [3] L-BL [4] 2 
+
+ [1] If you were interested in a certain iconic high range sword from a realm event in legacy rotf, what is the first letter of the name of the event boss you’d be farming? [2] For those dedicated base fame farmers there was a certain rune you could equip which would increase your fame gain but stop loot from dropping, what is the first character of the second word of the name of this rune? [3] There was some speedy characters in legacy rotf, if you wanted a boost in your evasion stat to make this even stronger what is the first character of the base skill tree master node you would choose? (For clarification, the first node you have to choose for a skill tree before going into generic stat nodes) [4] The first character of the name of the person who’s perspective you watch in the Nyx of Fire – World Boss Preview video. 
+
+ YU [1] 8-6EY [2] – [3] QGY- [4] KVU 
+
+ [1] The first letter of the class of boss mentioned in this post! [2] The first letter of the dungeon that dropped Enchanted Uru Sword. [3] The number of times rotf has been delayed so far. [4] The number of world bosses we’ve shown publicly. 
+
+ Use at https://rotf.io/register . Good luck! 
+ Share this: Twitter Facebook Like this: Like Loading... 
+
+ Related 
+
+ Tagged aced games aced.gg Demon Lady nyx of fire realm revenge of the fallen rotf rotf.io World Boss 
+
+ Published by Miniguy 
+
+ I’m one of the lead developers at ACED. We’re currently working on porting RotF to Unity! 
+ View all posts by Miniguy 
+
+ Published 
+ January 17, 2021 January 17, 2021 
+
+</article

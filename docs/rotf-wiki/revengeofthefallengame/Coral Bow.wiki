@@ -1,0 +1,4 @@
+# Coral Bow
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Coral%20Bow&prop=wikitext
+
+asdf

@@ -1,0 +1,44 @@
+# Mystic
+# https://rotfserver.fandom.com/api.php?action=parse&page=Mystic&prop=wikitext
+
+{{Classbox
+| desc = The mystic fights with a staff and uses her crystal orb to bind enemies to a distant plane.
+| weaponSlot = Staff
+| weapon = Energy Staff
+| abilitySlot = Orb
+| ability = Statis Orb
+| armor = Robe
+| armorLink = Robes
+
+| hpStart = 100
+| hpLevel = 20 - 30
+| hpCap = 670
+
+| mpStart = 100
+| mpLevel = 5 - 15
+| mpCap = 385
+
+| attStart = 12
+| attLevel = 1 - 2
+| attCap = 65
+
+| defStart = 0
+| defLevel = 0
+| defCap = 25
+
+| spdStart = 12
+| spdLevel = 0 - 2
+| spdCap = 60
+
+| dexStart = 12
+| dexLevel = 0 - 2
+| dexCap = 65
+
+| vitStart = 15
+| vitLevel = 0 - 1
+| vitCap = 40
+
+| wisStart = 15
+| wisLevel = 1 - 2
+| wisCap = 75
+}}

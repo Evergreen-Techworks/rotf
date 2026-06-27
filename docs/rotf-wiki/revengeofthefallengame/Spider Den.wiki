@@ -1,0 +1,4 @@
+# Spider Den
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Spider%20Den&prop=wikitext
+
+asdf

@@ -1,0 +1,4 @@
+# Crystal Prisoner
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Crystal%20Prisoner&prop=wikitext
+
+asdf

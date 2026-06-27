@@ -1,0 +1,4 @@
+# Robes
+# https://rotfserver.fandom.com/api.php?action=parse&page=Robes&prop=wikitext
+
+{{Infobox_item|title = Water Dragon Silk Robe|image = T13 Water Dragon Silk Robe.png|type = Heroic|effects = On Equip: (+6 Attack) (+12 Defense) (+6 Speed) (+3 Wisdom) (Fame Bonus: 5%)|source = https://www.realmeye.com/wiki/water-dragon-silk-robe|buy = Around 300-400|sell = Drops in White bag from Nikao the Defiler}}{{Infobox_item}}

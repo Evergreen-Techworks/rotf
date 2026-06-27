@@ -1,0 +1,31 @@
+# Firebreather's Tail
+# https://rotfserver.fandom.com/api.php?action=parse&page=Firebreather%27s%20Tail&prop=wikitext
+
+{{ItemInfo
+| name = Firebreather's Tail
+| desc = Cut off from the body of the fallen Firebreather and covered in it's searing blood.
+| tier = ST
+| slot = dagger
+
+| minDmg = 85
+| maxDmg = 190
+| shots = 1
+| rof = 
+| range = 
+| projSpeed = 10
+| lifetime = 550
+| fameb = 5
+| feedp = 500
+
+| effects = yes
+| pierce = yes
+
+| lootbag = white
+| dropsFrom = can be found in a White Bag dropped by: [[Firebreather]].
+|rarity = a|range2 = 5.7}}
+
+<noinclude>
+{{NavDaggers}}
+[[Category: Daggers]]
+[[Category:Tiered weapons]]
+</noinclude>

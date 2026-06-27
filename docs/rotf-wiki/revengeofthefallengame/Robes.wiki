@@ -1,0 +1,238 @@
+# Robes
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Robes&prop=wikitext
+
+The robe is the armor for high range classes (wizard, mystic, necromancer, priest and sorcerer). It focuses on low defense and utility stats
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = BoneSplinterRobe.png
+| link = Bone Splinter Robe
+| text = Bone Splinter Robe
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlack
+| file = RitualRobe.png
+| link = Ritual Robe
+| text = Ritual Robe
+}}
+|{{ImageBlack
+| file = CheaterRobe.png
+| link = Cheater Robe
+| text = Cheater Robe
+}}
+|{{ImageBlack
+| file = HelasRobe.png
+| link = Hela's Robe
+| text = Hela's Robe
+}}
+|{{ImageBlackLarge1
+| file = GravediggersDisguise.png
+| link = Gravedigger's Disguise
+| text = Gravedigger's Disguise
+}}
+|{{ImageBlackLarge1
+| file = GarbOfTheFrozenQueen.png
+| link = Garb of the Frozen Queen
+| text = Garb of the Frozen Queen
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = WaterDragonSilkRobe.png
+| link = Water Dragon Silk Robe
+| text = Water Dragon Silk Robe
+}}
+|{{ImageBlackLarge1
+| file = RobeOfTheMadScientist.png
+| link = Robe of the Mad Scientist
+| text = Robe of the Mad Scientist
+}}
+|{{ImageBlackLarge2
+| file = RobeOfTheSummerSolstice.png
+| link = Robe of the Summer Solstice
+| text = Robe of the Summer Solstice
+}}
+|{{ImageBlackLarge2
+| file = FrostElementalistRobe.png
+| link = Frost Elementalist Robe
+| text = Frost Elementalist Robe
+}}
+|{{ImageBlack
+| file = LinenCoat.png
+| link = Linen Coat
+| text = Linen Coat
+}}
+|{{ImageBlackLarge1
+| file = BrightRobeOfTheCrystals.png
+| link = Bright Robe of the Crystals
+| text = Bright Robe of the Crystals
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlack
+| file = ShendytOfGeb.png
+| link = Shendyt of Geb
+| text = Shendyt of Geb
+}}
+|{{ImageBlackLarge1
+| file = TheRobeOfTwilight.png
+| link = The Robe of Twilight
+| text = The Robe of Twilight
+}}
+|{{ImageBlackLarge1
+| file = TheSoullessRobe.png
+| link = The Soulless Robe
+| text = The Soulless Robe
+}}
+|{{ImageBlack
+| file = TogaPicta.png
+| link = Toga Picta
+| text = Toga Picta
+}}
+|-
+|{{ImageBlackLarge1
+| file = GarmentOfTheBeast.png
+| link = Garment of the Beast
+| text = Garment of the Beast
+}}
+|{{ImageBlack
+| file = TheRiverRobe.png
+| link = The River Robe
+| text = The River Robe
+}}
+|{{ImageBlackLarge2
+| file = TheIncombustibleRobe.png
+| link = The Incombustible Robe
+| text = The Incombustible Robe
+}}
+|{{ImageBlackLarge2
+| file = RobeOfTheNatureGoddess.png
+| link = Robe of the Nature Goddess
+| text = Robe of the Nature Goddess
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">
+Unique
+</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = RobeOfTheTlatoani.png
+| link = Robe of the Tlatoani
+| text = Robe of the Tlatoani
+}}
+|{{ImageBlackLarge1
+| file = ChasubleOfHolyLight.png
+| link = Chasuble of Holy Light
+| text = Chasuble of Holy Light
+}}
+|{{ImageBlack
+| file = CandyRobe.png
+| link = Candy Robe
+| text = Candy Robe
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = DeepspaceMantle.png
+| link = Deepspace Mantle
+| text = Deepspace Mantle
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = RobeOfTheMoonWizard.png
+| link = Robe of the Moon Wizard
+| text = Robe of the Moon Wizard
+}}
+|{{ImageBlackLarge1
+| file = RobeOfTheElderWarlock.png
+| link = Robe of the Elder Warlock
+| text = Robe of the Elder Warlock
+}}
+|{{ImageBlackLarge1
+| file = RobeOfTheGrandSorcerer.png
+| link = Robe of the Grand Sorcerer
+| text = Robe of the Grand Sorcerer
+}}
+|{{ImageBlackLarge1
+| file = RobeOfTheStarMother.png
+| link = Robe of the Star Mother
+| text = Robe of the Star Mother
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = RobeOfTheNeophyte.png
+| link = Robe of the Neophyte
+| text = Robe of the Neophyte
+}}
+|{{ImageBlackLarge1
+| file = RobeOfTheApprentice.png
+| link = Robe of the Apprentice
+| text = Robe of the Apprentice
+}}
+|{{ImageBlackLarge1
+| file = RobeOfTheAcolyte.png
+| link = Robe of the Acolyte
+| text = Robe of the Acolyte
+}}
+|{{ImageBlackLarge1
+| file = RobeOfTheStudent.png
+| link = Robe of the Student
+| text = Robe of the Student
+}}
+|{{ImageBlackLarge1
+| file = RobeOfTheConjurer.png
+| link = Robe of the Conjurer
+| text = Robe of the Conjurer
+}}
+|{{ImageBlackLarge1
+| file = RobeOfTheAdept.png
+| link = Robe of the Adept
+| text = Robe of the Adept
+}}
+|-
+|{{ImageBlackLarge1
+| file = RobeOfTheInvoker.png
+| link = Robe of the Invoker
+| text = Robe of the Invoker
+}}
+|{{ImageBlackLarge1
+| file = RobeOfTheIllusionist.png
+| link = Robe of the Illusionist
+| text = Robe of the Illusionist
+}}
+|{{ImageBlackLarge1
+| file = RobeOfTheMaster.png
+| link = Robe of the Master
+| text = Robe of the Master
+}}
+|{{ImageBlackLarge1
+| file = RobeOfTheShadowMagus.png
+| link = Robe of the Shadow Magus
+| text = Robe of the Shadow Magus
+}}
+|{{ImageBlackLarge2
+| file = RobeOfTheAncientIntellect.png
+| link = Robe of the Ancient Intellect
+| text = Robe of the Ancient Intellect
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

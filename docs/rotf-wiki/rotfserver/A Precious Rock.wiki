@@ -1,0 +1,26 @@
+# A Precious Rock
+# https://rotfserver.fandom.com/api.php?action=parse&page=A%20Precious%20Rock&prop=wikitext
+
+{{ItemInfo
+| name = A Precious Rock
+| desc = A goldish gem, stuck in a pile of rubble, attracting anyone who lays their eyes upon it
+| slot = trap
+| tier = UT
+| rarity = h
+| cost = 60
+| damage = 220,160
+| radius = 10,4
+| triggerradius =5,2 
+| armtime = 6,10
+| cooldown = 2
+| fameb = 7
+| bonuses = {{Stat|att|6}}{{Stat|dex|6}}{{Stat|def|-12}}
+| effects = yes
+| slowed = (large)5
+| paralysed = (small)1
+| lootbag = white
+| dropsFrom = can be found in a White Bag dropped by 
+}}
+<noinclude>
+{{NavTraps}}
+</noinclude>

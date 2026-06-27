@@ -1,0 +1,17 @@
+{
+ "dungeon": "ROTF DEV/ADMIN console session (not a dungeon run) — demonstrates the DYE BAG cosmetic system. GENUINE ROTF dev footage (player <Skilly> running admin commands).",
+ "source": "video disc_YdIHSLvgkTs (143 f_, 36 chat, 1 transition at 0s). Chat is the SERVER DEV CONSOLE: lines are prefixed [CommandManager]/[ChatManager]/[RealmManager] with player '<Skilly>' (a ROTF dev/admin) issuing /give, /clear inv, /removedyes in the Nexus/Vault. Biomes on contact sheet: brown brick MANOR/VAULT interior (torch-lit wood floors) + blue water/island exterior — the dev navigating test worlds, not a boss fight.",
+ "bosses": [
+  {"name":"(none — dev console / cosmetics demo, no boss fight)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"No boss/dungeon combat. This Tag documents the dye-bag cosmetic system + admin commands."}
+ ],
+ "minions": [],
+ "drops": [
+  "dusty-odd bag (dye bag) — 'gives either large or small random patterned [dye]'",
+  "the odd dusty (bag) — 'gives a large or small normal dye'",
+  "rainbow bag (dye bag) — /give rainbow bag (rainbow dye)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED ROTF DEV/COSMETIC info (verbatim from the dev console): (1) DYE BAG SYSTEM — new consumable dye bags that grant clothing dyes: 'dusty-odd bag' gives a large OR small RANDOM PATTERNED dye; 'the odd dusty one' gives a large OR small NORMAL dye; 'rainbow bag' gives a rainbow dye. Verbatim dev explanation: '...gives either large or small random patterned' / 'the odd dusty one' / 'gives a large or small normal dye'. (2) ADMIN COMMANDS confirmed: '/give <item>' (e.g. '/give dusty-odd bag', '/give rainbow bag'), '/clear inv', '/removedyes'. (3) WORLDS referenced by the RealmManager: 'The Gauntlet' (World -2), 'Nexus Tutorial' (World -3) — both removed/unloaded during the session. (4) Dye bags drop/are stored and applied from the Vault.",
+ "uncertain": "Exact dye-bag item ids/textures not shown (only the /give names: 'dusty-odd bag', 'rainbow bag'). Whether 'dusty-odd' and 'the odd dusty one' are two distinct bags or the dev re-describing one is slightly ambiguous (reads as two: patterned vs normal). The manor/water biomes are just where the dev stood (Vault/Nexus/test world), not a real dungeon.",
+ "confidence": "HIGH that this is GENUINE ROTF dev footage documenting the DYE BAG cosmetic system + admin commands (verbatim from console). No boss/dungeon recovery. Useful for the cosmetics/dye feature, not for content building."
+}

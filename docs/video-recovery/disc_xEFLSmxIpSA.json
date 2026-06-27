@@ -1,0 +1,58 @@
+{
+ "dungeon": "GENUINE ROTF realm/multi-boss clip (player RuinedBow, ~160s). Value: 2nd-source CORROBORATION of the built Marble Colossus full line + a DOCUMENTED Grand Sphinx grid/wall attack + a NEW event-boss name lead (Mad Toxicologist) + custom loot items (Awoken Doom Bow, Shattered Bolt) + the damage-% contribution system. One distinctive UNIDENTIFIED color-wheel-arena boss.",
+ "map": "DOCUMENTED-from-frames+minimaps (multi-arena): (1) GRAND SPHINX arena = a TAN/ORANGE DESERT DOME (rounded-top chamber) filled with a regular GRID of evenly-spaced bullets. (2) a distinctive UNIDENTIFIED boss arena = a circular floor split into COLORED PIE-SLICE SECTORS (red/green/blue/purple wedges) with white radial bullets. (3) contact-sheet also shows a RED/LAVA spiral arena, a GREEN circular arena, snowy/water, and a large BLUE DRAGON — quick multi-boss cuts. No single contiguous layout.",
+ "bosses": [
+  {
+   "name": "Grand Sphinx",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (b002 desert-dome frames): a WALL/GRID of evenly-spaced bullets covering the dome arena (regular lattice of orange shots) -> wall/grid pattern."],
+   "minions": [],
+   "colorFlashes": "tan/orange desert",
+   "taunts": [],
+   "note": "DOCUMENTED-from-chat ('[ANNOUNCEMENT] Grand Sphinx') + frames (desert dome). Base/known boss (21 prior specs, 2 build/base refs). No clean taunt here (announcement only). Attack = grid/wall lattice (DOCUMENTED). Corroboration + attack documentation."
+  },
+  {
+   "name": "Marble Colossus",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "I feel myself... Slipping... Into the void... It is so... Dark..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix 'Marble Colossus'). ALREADY BUILT. 2nd-SOURCE CORROBORATION: the slipping/void line matches the built (corrected) taunt 'I feel myself... Slipping... Into the void... It is so... Dark...' (OCBosses2.cs:28). (My on-screen read trailed into a 'no...' fragment, likely a player-line bleed ('<NyX>') -> NOT treated as a correction; the built line stands.) + damage-% contribution + 'Shattered Bolt' Legendary loot seen with it."
+  },
+  {
+   "name": "Mad Toxicologist",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-feed ('A Mad Toxicologist has just spawned in the Realm'). NEW name-only event-boss lead (0 prior specs, 0 build). Poison/toxin theme (cf. 'Poison Shocker' loot). Flagged -> needs fought-footage for taunt/arena/attack before building."
+  },
+  {
+   "name": "(unidentified — color-wheel-arena boss)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (b002 early frames): white bullets in a RADIAL pattern over a circular floor split into colored pie-slice sectors (red/green/blue/purple wedges) -> radial; sector-floor gimmick."],
+   "minions": [],
+   "colorFlashes": "red/green/blue/purple sector floor",
+   "taunts": [],
+   "note": "Distinctive COLOR-WHEEL/pie-sector arena with white radial bullets. Boss NAME not captured in this clip -> UNIDENTIFIED (not guessed). Arena gimmick (colored floor sectors) documented for future ID."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Awoken Doom Bow (Godly item — an upgraded/'awoken' Doom Bow; RuinedBow)",
+  "Shattered Bolt (Legendary item; dropped to multiple players — Shatters/Marble theme)",
+  "Magical Bag (from a 'LG shard')",
+  "Poison Shocker (from a LG shard)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Grand Sphinx (announcement; base/known)",
+  "Mad Toxicologist ('just spawned in the Realm' — NEW name-only lead)"
+ ],
+ "mechanics": "DOCUMENTED: (1) DAMAGE-%-CONTRIBUTION system ('Damage Counter: You had 22.48% damage dealt!'; loot tagged 'with X% damage dealt!'). (2) RARITY-tiered loot overlays — Godly ('Awoken Doom Bow') / Legendary ('Shattered Bolt') items; 'LG shard' drops (Magical Bag, Poison Shocker). (3) stat-MAXING progression (Speed 6/8 -> 8/8, Magic ?/8). (4) realm event spawns (Grand Sphinx, Mad Toxicologist). Boss attacks: Grand Sphinx grid/wall lattice; a color-wheel-arena boss with radial bullets + a sector-floor gimmick.",
+ "uncertain": "Multi-boss compilation: the single 'bossend' group (b002@6s) actually spans MULTIPLE arenas (color-wheel + Grand Sphinx dome) -> attacks attributed by arena, not perfectly time-aligned. Marble Colossus line is CORROBORATION of the already-built (corrected) taunt -> NOT re-edited (the trailing 'no...' I saw is likely a '<NyX>' player-line bleed, deliberately NOT made a correction). The color-wheel boss is UNIDENTIFIED (no name captured). Mad Toxicologist is a name-only feed lead (no taunt/arena). 'Awoken Doom Bow' = a Godly Doom Bow variant (custom upgrade); 'Shattered Bolt' Legendary.",
+ "confidence": "MEDIUM. GENUINE ROTF (RuinedBow). Best value: (a) DOCUMENTED Grand Sphinx grid/wall attack; (b) 2nd-source CORROBORATION of the built Marble Colossus full line (confirms the prior correction is right); (c) NEW event lead Mad Toxicologist (poison theme); (d) custom loot items (Awoken Doom Bow Godly, Shattered Bolt Legendary) + damage-% system. Recorded honestly: no guessed taunts (color-wheel boss left unidentified, Mad Toxicologist name-only), Marble Colossus treated as corroboration not a new correction, attacks DOCUMENTED-vs labeled. Best follow-up: ID the color-wheel boss + fought-footage of Mad Toxicologist."
+}

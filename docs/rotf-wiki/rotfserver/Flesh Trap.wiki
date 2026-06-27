@@ -1,0 +1,27 @@
+# Flesh Trap
+# https://rotfserver.fandom.com/api.php?action=parse&page=Flesh%20Trap&prop=wikitext
+
+{{ItemInfo
+| name = Flesh Trap
+| desc = A trap made of flesh from Norghus' collection of corpses
+| slot = trap
+| tier = UT
+| rarity = p
+| cost = 150
+| damage = 1400,1000,600
+| radius = 10,6,3
+| triggerradius = 5,3,2
+| armtime = 5,5.5,6
+| cooldown = 1
+| fameb = 10
+| bonuses = {{Stat|att|4}}{{Stat|dex|9}}
+| effects = yes
+| slowed = (large)4.5
+| paralysed = (medium)5
+| weak = (small)4
+| lootbag = white
+| dropsFrom = can be found in a White Bag dropped by Cookie Monster
+}}
+<noinclude>
+{{NavTraps}}
+</noinclude>
