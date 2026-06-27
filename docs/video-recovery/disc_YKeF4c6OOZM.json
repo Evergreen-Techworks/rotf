@@ -1,0 +1,42 @@
+{
+ "dungeon": "GENUINE ROTF '8-DUNGEON CHALLENGE' run by creator Valox (~210s, rapid-cut, 42 entries; X/8 counter climbs 1/8 -> 8/8; ends in a death screen 'BASE FAME 3998 / KILLED BY...'; VALOX outro). LOW NEW-content yield: chat yields only BASE bosses (Thessal, Oryx) with canonical/cut lines -> NO new ROTF-custom boss/taunt. Value = corroboration of the 8-dungeon-challenge + potion/lootbox systems.",
+ "map": "DOCUMENTED-from-transitions+f_ (8-dungeon tour, no single layout): the X/8 challenge cycles through GREEN grass realms, dark SPACE/void, SANDY/tan grid dungeons, PURPLE cosmic arenas, RED/ORANGE LAVA arenas, and GREY-checkered rooms. Crowded public fights. Quick cuts between dungeons (42 transitions in 210s).",
+ "bosses": [
+  {
+   "name": "Thessal the Mermaid Goddess",
+   "phases": [],
+   "attacks": ["not isolated (rapid-cut)."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "...is King Al...",
+    "Thank you..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix 'Thessal the Mermaid Goddess'). BASE-GAME Ocean Trench boss -> CANONICAL/no-build, corroboration. Both lines tail-CUT/partial (low-contrast montage). No new content."
+  },
+  {
+   "name": "Oryx the Mad God",
+   "phases": [],
+   "attacks": ["not isolated (rapid-cut)."],
+   "minions": ["henchmen"],
+   "colorFlashes": "",
+   "taunts": [
+    "Pathetic mortals! I ha...",
+    "Can't... keep... hench...",
+    "You puny mortals! I..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix 'Oryx the Mad God'). BASE realm boss; these read as CANONICAL/base Oryx lines (not claimed as ROTF-original) -> corroboration/no-build. All tail-CUT. 'Can't... keep... hench[men]' is a weakening line."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "lootbox loot (lucky-box/unbox system, per the Valox-run economy)",
+  "Potion of Mana Consumed ++ (the ROTF '++' potion-consume suffix)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "deaths feed ('died at level 8/20, killed by Monster/Oryx')"
+ ],
+ "mechanics": "DOCUMENTED ROTF SYSTEMS (corroboration): (1) the '8-DUNGEON CHALLENGE' — a persistent X/8 counter climbs 1/8 -> 8/8 as dungeons are cleared (matches disc_wwhGYuiu_9U). (2) 'Potion of Mana Consumed ++' — the '++' potion-consume suffix (matches the Potion-of-Vitality '++' note). (3) lootbox/unbox economy. (4) base realm bosses (Thessal/Oryx) appear across the run. No NEW custom boss/taunt; ends in player death (Valox, base fame 3998).",
+ "uncertain": "RAPID-CUT montage (42 cuts in 210s) + low-contrast chat -> only BASE bosses recovered (Thessal, Oryx), all taunts tail-CUT and CANONICAL/base (not ROTF-original) -> no new buildable content. Attacks NOT cleanly traced (bossends mostly transition-darkened; the contact-sheet lava arena showed horizontal orange bullet lines + a fan = approx wall/wave, but not isolatable to a named boss). No priority no-footage dungeon ID'd (standard biomes). Creator = Valox (Valoks in chat), ROTF (NOT the Valor server).",
+ "confidence": "LOW (new content) / corroboration. GENUINE ROTF Valox 8-dungeon-challenge run. NO new boss/taunt (only base Thessal + Oryx, canonical/cut lines). Value = corroborates the 8-dungeon-challenge counter + 'Potion ... Consumed ++' + lootbox systems. Recorded honestly: base bosses flagged canonical/no-build, all taunts marked cut/partial, attacks not fabricated (rapid-cut + darkened bossends), Valox!=Valor. No follow-up needed (no buildable ROTF content)."
+}

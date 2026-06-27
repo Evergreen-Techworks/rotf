@@ -1,0 +1,5 @@
+# The Apex Bulwark
+# https://rotfserver.fandom.com/api.php?action=parse&page=The%20Apex%20Bulwark&prop=wikitext
+
+{{ItemInfo|name = The Apex Bulwark|desc = This wand was once wielded by the leader of the ancient battle mages. His dark energy continues to pulsate through the wand, making it impossible to command through traditional methods|rarity = p|slot = wand|tier = UT|minDmg = 225|maxDmg = 250|shots = 4|range2 = 3|fameb = 10|effects = yes|multihit = yes|passthrough = yes|primal = Power Surge:
+On hit, you have a 2% chance to gain berserk, damaging and armor broken.(6 second cooldown)|dropsFrom = drops from novus}}

@@ -1,0 +1,24 @@
+{
+ "dungeon": "ROTF owner-TEST of a COMMUNITY-MADE custom dungeon (~155s; on-screen overlay 'There is custom dungeon made by Maks (owner)', player 'VoltriPlay'). A 'Fire Ghost' boss in a lava-brick corridor arena, with rough/repetitive broken-English taunts. Owner/admin chat ('muffin hax', 'banned', trade spam) dominates. base-vs-canonical UNCERTAIN -> likely WIP/player-made content, NOT confirmed official ROTF; flagged, recorded honestly.",
+ "map": "DOCUMENTED-from-transitions+bossends+f_: the Fire Ghost arena is a RED LAVA-BRICK corridor/channel layout (vertical lava-brick lanes with molten gaps between, b003_108s) -> long narrow lava channels (dodge corridors), not an open arena. The run also passes a PURPLE grid area (t001, shop/staging?) and a GREEN grass realm (t003); an ICE/BLUE arena appears in the b002 window. Multi-dungeon; the custom Fire Ghost dungeon = lava-brick corridors.",
+ "bosses": [
+  {
+   "name": "Fire Ghost",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (b003_108s): scattered/loose WHITE bullets in the lava-brick corridor -> basic spread/scattered (no clean geometric ring/spiral; small bullet count). Approximate."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "dont understand LEAVE OR LEAVE...",
+    "I WILL DESTROY YOU"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Fire Ghost', grayscale-pull). Taunts are HEAVILY REPEATED + broken English ('dont understand LEAVE OR LEAVE...' spammed; 'I WILL DESTROY YOU' / 'J DESTROY YOU') -> reads like WIP/placeholder text for a player-MADE dungeon ('made by Maks (owner)', owner-tested by VoltriPlay). base-vs-canonical UNCERTAIN: this may NOT be official ROTF content -> FLAGGED, do NOT build/enrich as canonical without confirmation. A possible 3rd line 'I will burn a(n) unholy de[ath]...' was too garbled to confirm -> NOT recorded."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: an OWNER TEST of a community/player-MADE custom dungeon ('custom dungeon made by Maks (owner)') -> ROTF appears to support player-made dungeons that owners test live. Admin activity in chat: 'muffin hax' + 'banned' (an owner banning a hacker mid-stream) + trade spam ('X wants to trade with you. Type /trade'). The 'Fire Ghost' boss spams its taunts. No loot/drop line cleanly captured (a crate-grid loot screen appears in b002).",
+ "uncertain": "base-vs-canonical of the 'Fire Ghost' dungeon is UNCONFIRMED -> it is a player-MADE ('by Maks') custom dungeon being owner-tested, so it may be WIP / non-official; the taunts are repetitive broken-English (possible placeholder) -> FLAGGED, not treated as canonical. High chat red-density (0.9) was partly the LAVA floor + the spammed red boss text. Attack geometry approximate (scattered white bullets, no clean pattern). A 3rd garbled Fire Ghost line not recorded (illegible). Owner/trade/ban chat = not boss content.",
+ "confidence": "LOW-MEDIUM. GENUINE ROTF footage but of a COMMUNITY-MADE custom dungeon under owner test (not confirmed official). Recoverable: a 'Fire Ghost' boss (lava-brick corridor arena, scattered-bullet attack, repetitive broken-English taunts 'dont understand LEAVE OR LEAVE...' / 'I WILL DESTROY YOU') + the player-made-dungeon + owner-ban mechanics. Recorded honestly + FLAGGED base-vs-canonical uncertain (likely WIP/placeholder) -> NOT a build candidate without confirmation. Best follow-up: confirm whether 'Fire Ghost / Maks's dungeon' is shipped official content."
+}

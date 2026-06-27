@@ -1,0 +1,4 @@
+# Wand of the Rising Star
+# https://rotfserver.fandom.com/api.php?action=parse&page=Wand%20of%20the%20Rising%20Star&prop=wikitext
+
+{{ItemInfo|name = Wand of the Rising Star|desc = Various kinds of stars have been used in the creation of this wand... Maybe.|rarity = h|slot = wand|tier = UT|minDmg = 75|maxDmg = 130|shots = 3|rof = 60|range2 = 8|fameb = 1|dropsFrom = sprite world boss}}

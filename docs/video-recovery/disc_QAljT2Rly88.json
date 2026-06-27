@@ -1,0 +1,13 @@
+{
+ "dungeon": "(GAMEPLAY VIDEO w/ intro/outro cards, player Valox) ROTF — Ortar fight + crate-opening; low novelty",
+ "source": "video disc_QAljT2Rly88 (189 frames, 6 transitions, 47 chat; channel intro 'WhX PRIME?' + 'SUBSCRIBE IF YOU ENJOYED' outro + 'AFK CHARGING' / 'Map size: 9.5' overlays). Brown-brick dungeons + green grass. Chat = crate-opening spam (item names cut off at crop edge).",
+ "map": "DOCUMENTED biomes: brown/tan BRICK dungeons, green grass realm, purple zones, blue water (outro).",
+ "bosses": [
+  {"name":"Ortar","phases":[],"attacks":[],"minions":[],"colorFlashes":"orange/red/purple","taunts":[],"note":"Ortar's sprite (orange/red/purple) shown during a fight — taunts already richly documented elsewhere (disc_n7RZ1JzWXXw, disc_pGEVj9uJLFw). No new Ortar lines captured here."}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "DOCUMENTED: (1) CRATE-OPENING flavor — 'You have opened a crate! Obtained a [item]' (repeated; item names truncated at the chat-box right edge). Player Valox unboxing many crates. (2) An 'AFK CHARGING' overlay (possible charging/AFK mechanic — unconfirmed by chat). (3) 'Map size: 9.5' video annotation. Mostly an Ortar farm + crate-opening; no new boss taunts.",
+ "uncertain": "Crate item names cut off at crop edge (unreadable). 'AFK CHARGING' overlay meaning unconfirmed (creator annotation, not in-game text). No new boss taunts (Ortar already documented).",
+ "confidence": "LOW novelty — Ortar fight (already documented) + crate-opening flavor. HIGH only that crate-opening uses 'You have opened a crate! Obtained a [item]' and that Valox/this channel farms Ortar."
+}

@@ -1,0 +1,15 @@
+{
+ "dungeon": "(HUGE 4-CLASS GROUP STREAM ~53 entries) ROTF — rich NEW Ortar taunt set + Grand Sphinx taunt + D3 Fuel SOURCE",
+ "source": "video disc_pGEVj9uJLFw (1211 frames, 159 transitions = ~53 entries, 1817 chat; a maxed 4-person group: 8/8 Paladin/Warrior/Wizard/Archer). Chat captured a full Ortar taunt set, a Grand Sphinx taunt, and the Fuel-extraction source.",
+ "map": "DOCUMENTED biomes: grey/purple CASTLE-STONE arenas (gold accents), brown/orange LAVA dungeons, a RED SPIRAL bullet-hell arena, an ORANGE/YELLOW DESERT (the Grand Sphinx's pyramid/desert domain), plus menu/skill-tree panels. Classes Paladin/Warrior/Wizard/Archer confirmed.",
+ "bosses": [
+  {"name":"Ortar","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You no hurt Ortar. Ortar hurt you!","Tryhard... Not fun.. TRYHARD NOT FUN!","Now Ortar tryhard.","This NO fun.. Me leave.. I ANGRY!","Ortar KILL you! FUN! haHAA!"],"note":"DOCUMENTED VERBATIM (boss-colored chat). Ortar is ALREADY BUILT (OCBosses 0x8fd0). RICH new taunt set in broken/caveman English — a 'fun'-obsessed boss who calls players tryhards and rage-quits ('This NO fun.. Me leave.. I ANGRY!'). Combine with earlier finds (Hail/Highest of Staffords, Me want to go/angery, Why you serious, Me serious now too, Ortar make you idle) for a full taunt rotation."},
+  {"name":"Grand Sphinx","phases":[],"attacks":[],"minions":[],"colorFlashes":"desert","taunts":["You hide like cowards... but you can't hide..."],"note":"DOCUMENTED VERBATIM. The desert/pyramid SPHINX boss (already has setpieces). Taunts about players hiding; death-feed shows players 'crushed by' it. Fought in the orange/yellow desert biome."}
+ ],
+ "minions": [],
+ "drops": ["Crossbow, Mjolnir, Potion of Life (trade economy: 'BUYING LIFE 100 FAME EACH', 'Crossbow 2k6', 'Mjolnir 14k')"],
+ "event_bosses_seen_in_global_feed": ["Mysterious Card (just spawned)"],
+ "mechanics": "MAJOR: (1) D3 FUEL SOURCE identified — 'You have extracted [74] Fuel from this mysterious object!' — Fuel is extracted from 'MYSTERIOUS OBJECTS' (space asteroids/anomalies in the galactic zone). Answers the open 'what is Fuel extracted from?' question. (2) Coin-ANALYZE -> Fame: 'You have analyzed the coin, discovering [30] Fame!' (analyzing a coin grants Fame). (3) Ortar's full tryhard-themed taunt rotation (see above). (4) Classes Paladin/Warrior/Wizard/Archer confirmed.",
+ "uncertain": "Ortar/Grand Sphinx attacks/HP/dungeons not isolated. Grand Sphinx taunt slightly truncated. Many of the 159 entries are loading-screen blanks (several chat samples were black transitions).",
+ "confidence": "HIGH for: the rich Ortar taunt set (verbatim, enriches built boss) + the Grand Sphinx taunt + the Fuel-from-mysterious-objects D3 detail + coin-analyze-to-Fame. MEDIUM for trade item prices; LOW for dungeon mapping."
+}

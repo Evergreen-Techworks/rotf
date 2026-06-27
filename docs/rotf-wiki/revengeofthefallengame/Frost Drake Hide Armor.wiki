@@ -1,0 +1,4 @@
+# Frost Drake Hide Armor
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Frost%20Drake%20Hide%20Armor&prop=wikitext
+
+asdf

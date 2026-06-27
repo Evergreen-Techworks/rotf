@@ -1,0 +1,4 @@
+# Tome of Renewing
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Tome%20of%20Renewing&prop=wikitext
+
+asdf

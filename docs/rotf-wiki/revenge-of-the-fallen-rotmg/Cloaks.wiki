@@ -1,0 +1,95 @@
+# Cloaks
+# https://revenge-of-the-fallen-rotmg.fandom.com/api.php?action=parse&page=Cloaks&prop=wikitext
+
+This page includes both custom cloaks and old cloaks that have been edited from how they appear on the preduction RotMG server.
+{| class="article-table"
+!Cloaks
+!Buffs                        
+!Stats
+!MP Cost
+!Cooldown
+!Fame Bonus
+!Tier
+!Legendary/Primal
+Effect
+|-
+|Deepspace Veil
+|Invisible: 6 sec 
+|<nowiki>+5spd</nowiki>
++3vit
+
++3wis
+
++4dex
+|90
+|7 sec
+|6%
+|GL
+|
+|-
+|Destructor Cloak
+|Invisible: 4 sec
+Damaging: 2 sec
+
+Berserk: 2 sec
+|
+|110
+|5 sec
+|6%
+|Heroic
+|
+|-
+|Cloak of the 1000 Oceans
+|Invisible: 2 sec
+Speedy 2 sec
+|
+|90
+|2 sec
+|6%
+|Heroic
+|
+|-
+|Shadow Scales
+|Invisible: 5 sec
+Speedy: 5 sec
+|<nowiki>+5att</nowiki>
++5spd
+
++50hp
+
++50mp
+|95
+|5 sec
+|5%
+|Artifact
+|
+|-
+|Spectral's Cloak
+|Invisible: 2.5 sec
+Speedy: 2.5 sec 
+
+Damaging: 2.5 sec
+
+Shots: 5
+
+Damage: 200-400
+
+Range: 7.2
+|
+|110
+|3.5 sec
+|8%
+|Unknown
+|Last Hope
+|-
+|Cloak of the Planewalker
+|Invisible: 5.5 sec
+Teleport to Cursor
+|<nowiki>+5spd</nowiki>
++4dex
+|100
+|6.5 sec
+|6%
+|Legendary
+|Throwback
+|}

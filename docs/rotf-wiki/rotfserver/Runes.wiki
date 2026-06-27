@@ -1,0 +1,36 @@
+# Runes
+# https://rotfserver.fandom.com/api.php?action=parse&page=Runes&prop=wikitext
+
+== '''Runes''' ==
+One of Revenge of the Fallen's many original features, runes are a unique way to strengthen your character while playing. Be warned however, runes give positive and negative features to your character.
+You can get runes from nodestones. Large runes from large nodestones and small runes from small nodestones.
+== '''Small Runes''' ==
+* Mini Mobility / +3 SPD (Small Nodestone)
+
+* Mini Spirit / +3 VIT (Small Galactic Nodestone)
+
+* Mini Protection / +3 DEF (Small Nodestone)
+
+* Mini Enlightenment / +3 WIS (Small Galactic Nodestone)
+* Mini Strength / +3 ATT (Small Nodestone)
+* Mini Precision / +3 DEX (Small Galactic Nodestone)
+* Mini Health / +30 HP (Small Galactic Nodestone)
+* Mini Mana / +30 MP (Small Galactic Nodestone)
+
+== '''Big Runes''' ==
+* Perfectionist - +35% DMG when full health / -35% DMG when not full health
+* Biding Time - DEF +50%, Immunity to Armor Break / HP regen -30%, MP regen -30% (Big Nodestone)
+* Mana Hunger - Hitting Boss/Event monsters restores 1% of Maximum MP, killing enemies restores 20% of Maximum MP / Mana Regeneration -95%, Dexterity -12
+* Aggressive Agitator - Attack +75% / Speed-15%, Dexterity-50%, Fire Rate-10%, immunity to Berserk
+* Blissful Ignorance - Immune to all debuffs / immune to all buffs
+* Dreadstumps Greed - Loot Drop boosts +33% / Cannot boost Loot Drop by dealing SB damage
+* Eye for an Eye - White Bag drop chance boost +40%/ You cannot loot any other item(Coins,Receipts,and Keys are now added to the drop table when using Eye for an Eye)
+* Blood Pact - Health Regeneration +85% / abilities use 20% health instead of mana (Galactic Big Nodestone)
+* Arcane Surge - Mana Regeneration +135% / Health Regeneration -50%
+* Consistent Onslaught - All shots pierce armor, immunity to Weak and Armor Break / Weapon Damage is averaged, immunity to Damaging
+* Restoration Temptation - Health Regeneration +8% for each Health Potion in stack, Mana Regeneration +8% for each Mana Potion in stack / Upon using a Health/Mana Potion, you are stunned for 5 seconds (Big Nodestone)
+* Regeneration of the Brute - Health Regeneration +115% / Mana Regeneration -60% (Big Nodestone)
+* Bulwark of the Surgeon Maximum HP +200% / Speed -30%, Dexterity -50%, Attack -30%, Enemies will always target you if you're in their vision
+* Adrenaline Rune - When below 70% health, Fire Rate +35%, Health Regeneration +25% / When above 70% health, Fire Rate -15%, Health Regeneration -25%
+* Narrow Sighted Magic - Ability Projectile Damage +75% / Mana Regeneration -75%
+* Pot Head - Killing enemies restores 1 HP and 1 MP pot (only works up to 6 potions per stack), Health Potion gives 1 of the 3 buffs (damaging, armored, berserk) for 2 seconds after consumption, Magic Potion gives 1 of the 3 buffs (invisibility, healing, speedy) for 2 seconds after consumption, Health Potion gain from killing bosses/events +2, Magic Potion gain from killing bosses/events + 2 / Health Potion doesn't restore HP, Magic Potion doesn't restore MP

@@ -1,0 +1,33 @@
+# Shadowbone Sword
+# https://rotfserver.fandom.com/api.php?action=parse&page=Shadowbone%20Sword&prop=wikitext
+
+{{ItemInfo
+| name = Shadowbone Sword
+| slot = sword
+| tier = ST
+| desc = A sword crafted from countless bones collected from the corpses lying around Shadowland.
+
+| rof = 
+| range = 
+| projSpeed = 10
+| lifetime = 480
+| minDmg = 123
+| maxDmg = 166
+| frequency = 
+| shots = 3
+| arcgap = 90
+| feedp = 500
+| fameb = 5
+
+| effects = yes
+| multihit = yes
+
+| bonuses = {{Stat|att|4}} {{Stat|vit|2}}
+
+|lootbag = white
+|dropsFrom = is obtainable from the Shadowscale realm event.|range2 = 4.8}}
+
+<noinclude>
+[[Category:Swords]]
+{{NavSwords}}
+</noinclude>

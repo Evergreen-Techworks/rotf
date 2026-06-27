@@ -1,0 +1,19 @@
+{
+ "dungeon": "Galactic Zones",
+ "map": "(Galactic Zone arenas — see GalacticZones_stream spec)",
+ "bosses": [
+   {"name":"Cracked Core","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["OOOOOOOOOOOM!!!","These creatures are too overwhelming!!!"]},
+   {"name":"Stonetaker","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["MY BEAUTIFUL STONES! NOOO!!!","My stones... no... no...","NOT MY STONES!!!!!"]},
+   {"name":"Treesmasher","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]},
+   {"name":"Cube God (Galactic)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]},
+   {"name":"Cookie Monster (Galactic)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]},
+   {"name":"Shadowscale (Galactic)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]},
+   {"name":"Pulse","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]},
+   {"name":"Snake Queen","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]}
+ ],
+ "minions": [],
+ "drops": ["Fuel (currency)","Fame (from coins)","Galactic items (see wiki/Galactic spec)"],
+ "mechanics": "GALACTIC ZONE mechanics DOCUMENTED from chat: bosses spawn/defeat with an '(X/25)' rotation counter (Treesmasher 6/25, Shadowscale 5/25, Cube God 13/25, Cookie Monster 14/25) -> ~25-boss infinite rotation. 'You have extracted [82] Fuel from this mysterious object!' = FUEL gained from in-zone objects. 'You have analyzed the coin, discovering [N] Fame!' = coins -> Fame. 'Your loot drop boost has been activated!' = a loot-boost buff. Announcer channels = god names (Reaper/Demon/Ogre/Kraken/Bat/Sphinx). Event bosses also feed in: God of Reptilians, Mad Jester, Warbringer, Pentaract Tower Ultra.",
+ "uncertain": "Exact per-boss attack patterns not captured (loot montage). '(X/25)' — whether 25 is a fixed session length or running tally is unclear. Some names approximate.",
+ "confidence": "HIGH — Galactic boss roster (8 names incl. Cracked Core/Stonetaker/Treesmasher/Pulse/Snake Queen) + verbatim Cracked Core & Stonetaker taunts + Fuel/coin-Fame/loot-boost mechanics, all DOCUMENTED from chat. Major Phase-D3 input."
+}

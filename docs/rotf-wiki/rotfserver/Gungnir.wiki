@@ -1,0 +1,4 @@
+# Gungnir
+# https://rotfserver.fandom.com/api.php?action=parse&page=Gungnir&prop=wikitext
+
+{{ItemInfo|name = Gungnir|desc = The magical spear that once belonged to the Allfather himself  .|rarity = l|slot = sword|tier = UT|minDmg = 250|maxDmg = 340|shots = 1|rof = 110|range2 = 5.5|fameb = 7|effects = yes|pierce = yes|legendary = 3|dropsFrom = drops from Odin}}

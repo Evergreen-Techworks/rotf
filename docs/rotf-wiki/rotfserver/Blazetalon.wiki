@@ -1,0 +1,4 @@
+# Blazetalon
+# https://rotfserver.fandom.com/api.php?action=parse&page=Blazetalon&prop=wikitext
+
+{{ItemInfo|name = Blazetalon|desc = With a blade made of magmarock and a hild of pure flame,one who wields this blade feels its true fiery rage|rarity = l|slot = katana|tier = UT|minDmg = 140|maxDmg = 160|shots = 2|rof = 150|range2 = 5.5|fameb = 7|effects = yes|pierce = yes|legendary = 3|dropsFrom = idk}}

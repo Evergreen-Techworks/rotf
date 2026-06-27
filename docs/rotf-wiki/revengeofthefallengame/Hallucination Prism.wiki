@@ -1,0 +1,4 @@
+# Hallucination Prism
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Hallucination%20Prism&prop=wikitext
+
+asdf

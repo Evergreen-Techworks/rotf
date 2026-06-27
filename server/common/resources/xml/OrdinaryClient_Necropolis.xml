@@ -1,0 +1,237 @@
+<Objects>
+  <!-- Ordinary Client - TWILIGHT NECROPOLIS (graveyard/tomb dungeon). HIGHEST-FIDELITY recovery:
+       map + boss taunts are VIDEO-DOCUMENTED (docs/video-recovery/TwilightNecropolis*.json).
+       Map progression: green forest entrance -> gothic gray/black stone corridors -> purple rooms ->
+       RED CROSS-PATTERN final arena. Bosses: Gravedigger (summoner, MAIN), Diagon (-> Wand of Bone),
+       Necro Doggo / werewolf (-> Claw of the Beast), Grave Caretaker (white-robed lich, paired dialogue).
+       Undead minions: Troll Matriarch, Ghost Bride + Gravedigger's summoned Minions. Verbatim taunts live
+       in the behavior file. Placeholder sprites; reused projectiles. ids 0x8f70-0x8f76 + portal 0x820f. -->
+  <Object type="0x8f70" id="Gravedigger">
+    <Group>Twilight Necropolis</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>7</Index></AnimatedTexture>
+    <MaxHitPoints>120000</MaxHitPoints>
+    <Defense>50</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <PerRealmMax>1</PerRealmMax>
+    <Level>20</Level>
+    <Size>165</Size>
+    <XpMult>0.25</XpMult>
+    <Projectile id="0">
+      <ObjectId>Demon Blade</ObjectId>
+      <Speed>95</Speed>
+      <Damage>115</Damage>
+      <Size>120</Size>
+      <LifetimeMS>1300</LifetimeMS>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>70</Speed>
+      <Damage>90</Damage>
+      <Size>130</Size>
+      <LifetimeMS>2000</LifetimeMS>
+      <ConditionEffect duration="3">Quiet</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x8f71" id="Diagon">
+    <Group>Twilight Necropolis</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>2</Index></AnimatedTexture>
+    <MaxHitPoints>45000</MaxHitPoints>
+    <Defense>35</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <Level>20</Level>
+    <Size>140</Size>
+    <XpMult>0.15</XpMult>
+    <Projectile id="0">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>90</Speed>
+      <Damage>85</Damage>
+      <Size>110</Size>
+      <LifetimeMS>1500</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x8f72" id="Necro Doggo">
+    <Group>Twilight Necropolis</Group>
+    <DisplayId>Necro Doggo</DisplayId>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>11</Index></AnimatedTexture>
+    <MaxHitPoints>40000</MaxHitPoints>
+    <Defense>25</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <Level>20</Level>
+    <Size>135</Size>
+    <XpMult>0.15</XpMult>
+    <Projectile id="0">
+      <ObjectId>Demon Blade</ObjectId>
+      <Speed>110</Speed>
+      <Damage>95</Damage>
+      <Size>105</Size>
+      <LifetimeMS>1000</LifetimeMS>
+      <ConditionEffect duration="2">Bleeding</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x8f73" id="Grave Caretaker">
+    <Group>Twilight Necropolis</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>3</Index></AnimatedTexture>
+    <MaxHitPoints>52000</MaxHitPoints>
+    <Defense>40</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <Level>20</Level>
+    <Size>140</Size>
+    <XpMult>0.15</XpMult>
+    <Projectile id="0">
+      <ObjectId>Trident</ObjectId>
+      <Speed>80</Speed>
+      <Damage>80</Damage>
+      <Size>110</Size>
+      <LifetimeMS>1600</LifetimeMS>
+      <ConditionEffect duration="3">Sick</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x8f74" id="Troll Matriarch">
+    <Group>Twilight Necropolis</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>12</Index></AnimatedTexture>
+    <MaxHitPoints>6500</MaxHitPoints>
+    <Defense>25</Defense>
+    <Level>20</Level>
+    <Size>120</Size>
+    <XpMult>0.06</XpMult>
+    <Projectile id="0">
+      <ObjectId>Trident</ObjectId>
+      <Speed>75</Speed>
+      <Damage>60</Damage>
+      <Size>95</Size>
+      <LifetimeMS>1100</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x8f75" id="Ghost Bride">
+    <Group>Twilight Necropolis</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>4</Index></AnimatedTexture>
+    <MaxHitPoints>5000</MaxHitPoints>
+    <Defense>10</Defense>
+    <Level>20</Level>
+    <Size>115</Size>
+    <XpMult>0.06</XpMult>
+    <Projectile id="0">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>100</Speed>
+      <Damage>50</Damage>
+      <Size>85</Size>
+      <LifetimeMS>1300</LifetimeMS>
+      <ConditionEffect duration="2">Confused</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x8f76" id="Gravedigger Minion">
+    <Group>Twilight Necropolis</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>8</Index></AnimatedTexture>
+    <MaxHitPoints>3200</MaxHitPoints>
+    <Defense>12</Defense>
+    <Level>20</Level>
+    <Size>95</Size>
+    <XpMult>0.04</XpMult>
+    <Projectile id="0">
+      <ObjectId>Demon Blade</ObjectId>
+      <Speed>80</Speed>
+      <Damage>45</Damage>
+      <Size>80</Size>
+      <LifetimeMS>900</LifetimeMS>
+    </Projectile>
+  </Object>
+  <!-- NORGHUS — TN Boss 1. DISCOVERED 2026-06-24 from TwilightNecropolis/ footage. fight ~f_00415-430.
+       Large dark entity, dense red round bullets, dark purple hex floor. Turrets in corners of boss room.
+       Drop: Flesh Trap (item desc: "made of flesh from Norghus' collection of corpses"). -->
+  <Object type="0x8f77" id="Norghus">
+    <Group>Twilight Necropolis</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>5</Index></AnimatedTexture>
+    <MaxHitPoints>100000</MaxHitPoints>
+    <Defense>45</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <PerRealmMax>1</PerRealmMax>
+    <Level>20</Level>
+    <Size>165</Size>
+    <XpMult>0.22</XpMult>
+    <Projectile id="0">
+      <ObjectId>Demon Blade</ObjectId>
+      <Speed>105</Speed>
+      <Damage>110</Damage>
+      <Size>110</Size>
+      <LifetimeMS>1100</LifetimeMS>
+    </Projectile>
+  </Object>
+  <!-- THUSALA — TN Boss 2. DISCOVERED 2026-06-24. fight ~f_00370 (open) + f_00440-495 (main).
+       Dark humanoid with red circular aura; ring attack of red/orange round balls (f_00457).
+       Drop: Thusala's Slasher (confirmed rotfserver wiki). -->
+  <Object type="0x8f78" id="Thusala">
+    <Group>Twilight Necropolis</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>6</Index></AnimatedTexture>
+    <MaxHitPoints>115000</MaxHitPoints>
+    <Defense>48</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <PerRealmMax>1</PerRealmMax>
+    <Level>20</Level>
+    <Size>160</Size>
+    <XpMult>0.24</XpMult>
+    <Projectile id="0">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>88</Speed>
+      <Damage>115</Damage>
+      <Size>115</Size>
+      <LifetimeMS>1400</LifetimeMS>
+    </Projectile>
+  </Object>
+  <!-- Norghus Ghoul — summoned minion ("Go my children, FEAST ON THEIR FLESH!" / "Mary Ann" from cage) -->
+  <Object type="0x8f79" id="Norghus Ghoul">
+    <Group>Twilight Necropolis</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>9</Index></AnimatedTexture>
+    <MaxHitPoints>3500</MaxHitPoints>
+    <Defense>15</Defense>
+    <Level>20</Level>
+    <Size>100</Size>
+    <XpMult>0.04</XpMult>
+    <Projectile id="0">
+      <ObjectId>Demon Blade</ObjectId>
+      <Speed>85</Speed>
+      <Damage>50</Damage>
+      <Size>80</Size>
+      <LifetimeMS>900</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x820f" id="Twilight Necropolis Portal">
+    <Class>Portal</Class>
+    <IntergamePortal/>
+    <DungeonName>Twilight Necropolis</DungeonName>
+    <Texture><File>lofiObj3</File><Index>0x21f</Index></Texture>
+    <Size>120</Size>
+    <ShowName/>
+  </Object>
+</Objects>

@@ -1,0 +1,4 @@
+# Stem of the Brain
+# https://rotfserver.fandom.com/api.php?action=parse&page=Stem%20of%20the%20Brain&prop=wikitext
+
+{{ItemInfo|name = Stem of the Brain|desc = It's a little gruesome, but it'll work.|rarity = l|slot = katana|tier = UT|minDmg = 250|maxDmg = 350|shots = 1|rof = 65|range2 = 3.8|fameb = 5|effects = yes|multihit = yes|boomerang = yes|bonuses = {{Stat|att|6}}|legendary = 1|dropsFrom = e brains}}

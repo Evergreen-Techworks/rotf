@@ -1,0 +1,50 @@
+{
+ "dungeon": "GENUINE ROTF spooky/Halloween-themed multi-dungeon video by creator 'Valox' (~145s; 'you have been visited by the spooki boi' caption + skeleton graphics; outro 'VALOX / THANKS FOR WATCHING'). NOT the 'Valor' server (Valox = a recurring ROTF YouTuber, 4 other specs; Valor = a separate non-ROTF server). Value: recurring lead ORYX PUPPET (3 specs, unbuilt) + base Mad Lab corroboration (Dr Terrible / Horrific Creation).",
+ "map": "DOCUMENTED-from-frames+transitions (multi-dungeon hop): SANDY/desert dungeon (t001, spooki-boi caption), grey CHECKERED Mad Lab rooms (Dr Terrible/Horrific Creation), open GREEN grass realm, SNOWY/white area, PURPLE/cosmic, RED/LAVA arena. Skeleton/undead theme throughout. No single contiguous layout.",
+ "bosses": [
+  {
+   "name": "Oryx Puppet",
+   "phases": [],
+   "attacks": [
+    "not cleanly traced (mixed bossend frames + multi-dungeon). Reconstructed: Oryx-like spread/radial (it mimics Oryx)."
+   ],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "Am I not an uncanny likeness of Oryx himself?",
+    "You don't see the similarity? Well then, let me show you!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix 'Oryx Puppet'). NOT built; RECURRING lead (2 prior specs + this = 3) -> build candidate. A PUPPET/REPLICA of Oryx (it boasts of resembling Oryx: 'Am I not an uncanny likeness...', 'You don't see the similarities...'). Both lines tail-CUT (partial) -> consolidate the 3 specs for the full taunt set before building. (Thematically related to 'The Puppet Master' lead from disc_wsuYBdiueK0.) [VERIFY-LOOP: both taunts were tail-CUT in the narrow chat crop; wide f_ re-crop (f_00064) reveals FULL lines: 'Am I not an uncanny likeness of Oryx himself?' / 'You don't see the similarity? Well then, let me show you!' (singular 'similarity'). Built lines corrected.]"
+  },
+  {
+   "name": "Dr Terrible",
+   "phases": [],
+   "attacks": [],
+   "minions": [
+    "Horrific Creation"
+   ],
+   "colorFlashes": "",
+   "taunts": [
+    "Have a deadly potion!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix 'Dr Terrible'). BASE-GAME Mad Lab boss -> CANONICAL/no-build, corroboration. 'Have a deadly potion!' is a base Dr Terrible line (he tosses Green Potion)."
+  },
+  {
+   "name": "Horrific Creation",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "WHO KILL MASTER?! RA..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix 'Horrific Creation'). BASE-GAME Mad Lab mini-boss -> CANONICAL/no-build, corroboration. 'WHO KILL MASTER?!' is its broken-English rage line (when Dr Terrible dies); tail-cut ('RA[GE?]')."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: a spooky/Halloween (skeleton/undead) ROTF run. Key content = ORYX PUPPET, a puppet/replica boss that MIMICS Oryx (boasts of resembling him) -> recurring ROTF lead (3 specs), unbuilt. Base Mad Lab corroboration (Dr Terrible 'Have a deadly potion!' + Horrific Creation 'WHO KILL MASTER?!'). Player banter 'the skeletons can't get me here' (not a boss line). Creator 'Valox' (ROTF YouTuber, NOT the Valor server).",
+ "uncertain": "Edited Valox video (caption overlays + creator skull graphics) -> attacks NOT cleanly traceable (b005 bossend mixes green realm + creator graphic + Mad Lab; scattered bullets, no clean geometry). Oryx Puppet taunts are tail-CUT (partial) -> consolidate with the 2 prior Oryx Puppet specs before building. Dr Terrible + Horrific Creation are BASE-GAME (corroboration/no-build). SERVER CHECK: 'VALOX' outro = the creator's channel (Valox appears in 4 other specs as a ROTF creator), NOT the non-ROTF 'Valor' server (separately tracked, 6 specs) -> this IS ROTF. No connect-banner frame captured to triple-confirm, but the Oryx Puppet + base-Mad-Lab + Valox-creator combo fits ROTF.",
+ "confidence": "MEDIUM. GENUINE ROTF (Valox creator). Best value: ORYX PUPPET recurring lead (3 specs now, unbuilt -> build candidate; an Oryx-replica boss, taunts 'Am I not an uncanny likeness...' / 'You don't see the similarities...' partial) + base Mad Lab corroboration (Dr Terrible / Horrific Creation, no-build). Recorded honestly: Valox creator distinguished from the Valor server, base-vs-custom separated, cut taunts flagged, attacks not fabricated. Best follow-up: consolidate the 3 Oryx Puppet specs into a full taunt set + clean attack footage, then build."
+}

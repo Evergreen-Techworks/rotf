@@ -1,0 +1,21 @@
+{
+ "dungeon": "FACECAM multi-dungeon stream — SAME creator as disc_m8KnWYLT4Ac ('DRAGSKAH', char 'OODragonOo', webcam over the bottom-left chat). ~15 entries over ~490s across vault/lava/desert/space biomes. The webcam obscures the chat -> NO boss taunts captured (only the facecam + UI). One lava-arena boss attack documented from frames. LOW boss-content yield. Server identity = RotMG-engine (likely same server as the other DRAGSKAH tag); not positively confirmed.",
+ "map": "DOCUMENTED-from-transitions+f_frames: a 15-entry multi-dungeon hop — many white VAULT/item-grid rooms + a CHARACTER-SELECT screen (UI-heavy), an ORANGE/RED LAVA-BRICK arena (Abyss-of-Demons-style, the boss fight), a tan DESERT area, and dark SPACE zones. Hub/UI between. No bossends -> arenas catalogued, no single room-sequence.",
+ "bosses": [
+  {
+   "name": "(unidentified lava-arena boss)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (f_00090, lava arena): a downward FAN/SPREAD of orange bullets (spread/cone class). Single pattern seen; count not cleanly countable."],
+   "minions": [],
+   "colorFlashes": "orange/red (lava)",
+   "taunts": [],
+   "note": "A boss fought in a red LAVA-BRICK arena (Abyss-of-Demons-style) with an orange spread/fan bullet attack. NAME NOT captured (facecam covers the chat; no floating taunt visible) -> left UNIDENTIFIED (no guessing). Attack documented from a single frame, flagged."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED (limited — facecam): the bottom-left CHAT is WEBCAM-COVERED -> no boss taunts readable. Multi-dungeon run (vault/lava/desert/space) by the same creator as disc_m8KnWYLT4Ac (DRAGSKAH/OODragonOo). One lava-arena boss with an orange spread/fan attack (f_00090). UI-heavy (many vault + character-select screens). No bossends -> no further attack geometry. No new boss names/taunts.",
+ "uncertain": "CHAT facecam-covered -> NO boss taunts; the lava boss is UNIDENTIFIED (not guessed). SERVER IDENTITY not positively confirmed (RotMG-engine; same creator as disc_m8KnWYLT4Ac so likely the same server). Attack = spread/fan from ONE frame (count/exactness approximate). No priority dungeons (Craig's Castle / Gate to the Underworld / Tomb of Decaying Death / Broken Forest / The Showcase) seen.",
+ "confidence": "LOW. RotMG-engine multi-dungeon FACECAM stream (DRAGSKAH) -> very low recoverable boss content (chat covered, no bossends, no boss name/taunt). Concrete notes: the biome/dungeon set (vault/lava-Abyss/desert/space) + one lava-boss spread/fan attack. NO boss/taunt recorded (honestly left empty/unidentified, no fabrication). Recurring low-yield facecam pattern -> best follow-up = prefer non-facecam ROTF-custom-dungeon footage."
+}

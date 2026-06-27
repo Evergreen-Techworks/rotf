@@ -1,0 +1,17 @@
+{
+ "dungeon": "2017-10-31 (Halloween) RotMG HIGHLIGHTS MONTAGE (title 'Realm of the Mad God') — fast cuts across many dungeons; vanilla Oryx realm-close taunts. LOW value (edited montage, likely vanilla/early-RotMG or unbranded ROTF).",
+ "map": "DOCUMENTED-from-frames (montage, many biomes flashed, no single dungeon followed): Candyland-style multicolor-checkered tiled dungeons, sandstone desert + a red ring arena, skeleton/white-blob tiled rooms, brown/orange tiled rooms, a GOLDEN ORNATE boss room (dark/red, unidentified golden boss), a blue/purple tiled boss arena. Fast-cut highlights — no room-layout traceable.",
+ "bosses": [
+  {"name":"Oryx the Mad God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["...MY MINIONS HAVE [failed]... BUT NOW YOU SHALL...","COME MEET YOUR [DOOM]","I HAVE CLOSED THIS [realm]... [you will never] SEE THE LIGHT OF DAY!"],"note":"DOCUMENTED-from-chat. These are VANILLA Oryx realm-close/open taunts (base RotMG) — not ROTF-custom. Do not build (base game)."},
+  {"name":"(golden ornate boss — unidentified)","phases":[],"attacks":[],"minions":[],"colorFlashes":"gold","taunts":[],"note":"A golden/ornate boss in a dark-red room flashed in the montage (under a 'What if you wanted to go to Heaven' meme card) — could be a god/Egyptian boss but unidentifiable from one montage frame."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [
+  "mass deaths 'killed by Aqua A[?]' (an aqua/water boss, name truncated)",
+  "Potzey died at level 20, killed by Deep Sea [Beast]"
+ ],
+ "mechanics": "DOCUMENTED: a Halloween-2017 highlights MONTAGE. Vanilla Oryx the Mad God realm-close taunts. Mass death feed by 'Aqua A[?]' (unidentified water boss) + Deep Sea Beast (we've seen 'Epic Deep Sea Beast' in confirmed-ROTF footage). NOTE (process learning): bossends/ + transitions/ fire on EDITING CUTS in montage videos (one full-black point here -> the 12 bossends frames span the whole montage, NOT one fight). The bossends boss-fight capture works on RAW gameplay runs, not edited montages.",
+ "uncertain": "Server identity: title 'Realm of the Mad God' + vanilla Oryx + level-20 deaths in 2017 -> likely vanilla/early RotMG OR unbranded ROTF (this creator's early content) — unconfirmed as ROTF. 'Aqua A[?]' boss name truncated. The golden ornate boss unidentified.",
+ "confidence": "LOW — edited Halloween highlights montage, vanilla Oryx taunts (base game, not buildable ROTF content), no clean single fight. Useful mainly as a PROCESS NOTE: bossends/ is noisy on montage/edited videos (catches cut-spans). Real attack-pattern value will come from RAW dungeon-run videos."
+}

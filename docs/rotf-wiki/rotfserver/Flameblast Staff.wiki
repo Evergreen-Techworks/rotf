@@ -1,0 +1,4 @@
+# Flameblast Staff
+# https://rotfserver.fandom.com/api.php?action=parse&page=Flameblast%20Staff&prop=wikitext
+
+{{ItemInfo|name = Flameblast Staff|desc = Tipped with blazing crystals, the heat from this staff can be felt by even the wielder.|rarity = l|slot = staff|tier = UT|minDmg = 400|maxDmg = 500|shots = 2|rof = 35|range2 = 4.7|fameb = 7|legendary = 3|dropsFrom = fiery plannes 2nd boss}}

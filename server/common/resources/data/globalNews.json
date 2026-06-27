@@ -1,0 +1,26 @@
+[
+    {
+        "slot": 1,
+        "linkType": 1,
+        "title": "Welcome to Ordinary Client \u2014 ROTF reborn!",
+        "image": "",
+        "linkDetail": "https://rotf.io/",
+        "priority": 1
+    },
+    {
+        "slot": 2,
+        "linkType": 0,
+        "title": "Hunt the Illusionist for Fallen-tier loot",
+        "image": "",
+        "linkDetail": "",
+        "priority": 0
+    },
+    {
+        "slot": 3,
+        "linkType": 0,
+        "title": "Custom dungeons, runes & galactic zones coming soon",
+        "image": "",
+        "linkDetail": "",
+        "priority": 0
+    }
+]

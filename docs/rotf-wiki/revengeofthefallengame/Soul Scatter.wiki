@@ -1,0 +1,4 @@
+# Soul Scatter
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Soul%20Scatter&prop=wikitext
+
+asdf

@@ -1,0 +1,4 @@
+# Four-Point Star
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Four-Point%20Star&prop=wikitext
+
+asdf

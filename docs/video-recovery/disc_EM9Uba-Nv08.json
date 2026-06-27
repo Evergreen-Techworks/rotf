@@ -1,0 +1,89 @@
+{
+ "dungeon": "GENUINE ROTF realm + multi-dungeon run by VoltiPlay (the SERVER OWNER — same handle as the God of Amber Stones owner-showcase tag disc_CnZQkLsjBVI; Level 20 Wizard, death screen 'killed on January 12, 2019 by RockBomb'). Chat readable. HIGH-value boss-taunt yield: TWO custom bosses with full short taunt sets — Queen of Hearts (Wonderland) and Bedlam - God of Chaos (Court of Oryx) — plus Avatar of the Forgotten King, a 'Wizzard Clone', Shaitan the Advisor, and a batch of Oryx realm-announcer lines.",
+ "map": "DOCUMENTED-from-minimaps+frames (realm + several dungeon arenas): (1) green grass REALM with a structured DARK-PURPLE inner throne ROOM (Wonderland / Queen of Hearts arena); (2) an ORANGE/LAVA arena marked with a TEMPLE/altar icon (Belladonna's Garden / Shaitan); (3) a tan-brown boss arena with FOUR orange BRAZIER/pillar nodes arranged around a dark-red centre + a blue/grey L-corridor room (Court of Oryx, where Bedlam - God of Chaos is summoned via 'Miru is quaking you to Court of Oryx!'); (4) grey brick dungeon corridors + a RED-LAVA combat arena. Realm-hub compilation -> arenas catalogued individually.",
+ "bosses": [
+  {
+   "name": "Queen of Hearts",
+   "phases": ["PHASE 1: summons Guards ('Guards, kill these troublemakers!'); PHASE 2: dismisses them and fights solo ('My guards that is enough, I'll do it alone!'); near-death: pleads for guard protection ('if I die, Wonderland will [fall]')"],
+   "attacks": ["DOCUMENTED-phase-behavior-from-taunts (geometry not isolated -> approximate): summon-adds (Guards) in phase 1, then direct fire in phase 2. Reconstruct as: Spawn Guards + periodic shots (p1) -> heavier radial/aimed fire with no adds (p2)."],
+   "minions": ["Guards (Card guards)"],
+   "colorFlashes": "",
+   "taunts": [
+    "Guards, kill these troublemakers!",
+    "My guards that is enough, I'll do it alone!",
+    "Guard protect me, if I die, Wonderland will [fall]"
+   ],
+   "note": "DOCUMENTED-from-chat (orange boss-coloured 'Queen of Hearts', lines clear; the third line right-edge cut at 'Wonderland will...'). WONDERLAND is a ROTF-CUSTOM dungeon (no base-RotMG Queen of Hearts) -> NEW build candidate. The summon->solo->plead arc is a clean 3-phase design straight from the taunts. Owner-played = high confidence it exists."
+  },
+  {
+   "name": "Bedlam - God of Chaos",
+   "phases": ["chaos-themed; 'Bring forth... THE CHAOS!' as an escalation/summon beat"],
+   "attacks": ["not geometrically isolated (edited, no bossend) -> reconstruct as chaotic multi-pattern (mixed radial nova + scattered) fitting the 'Chaos' theme; DOCUMENTED only that it is a Court-of-Oryx summoned boss."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "You will 'ALL' die here!",
+    "Bring forth... THE CHAOS!"
+   ],
+   "note": "DOCUMENTED-from-chat (orange boss-coloured 'Bedlam - God of Chaos', exact incl. the dash and the quoted 'ALL'). Summoned in the COURT OF ORYX ('Miru is quaking you to Court of Oryx!'). NOT a base Court-of-Oryx boss -> ROTF-CUSTOM NEW build candidate. Owner-played."
+  },
+  {
+   "name": "Avatar of the Forgotten King",
+   "phases": [],
+   "attacks": ["fire theme ('BURN!!') -> not isolated, approximate"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["BURN!!", "YOU KNOW NOT WHAT YOU HAVE [done/unleashed]"],
+   "note": "DOCUMENTED-from-chat (orange boss-coloured). Avatar of the Forgotten King is BASE-GAME (Lost Halls) -> ENRICH base if these lines differ from canon; second line right-edge cut. Verify against base before treating as custom."
+  },
+  {
+   "name": "Wizzard Clone",
+   "phases": [],
+   "attacks": ["clone-confusion (multiple identical clones)"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["I am everywhere and nowhere!"],
+   "note": "DOCUMENTED-from-chat (orange boss-coloured 'Wizzard Clone', sic spelling). SAME 'I am everywhere and nowhere!' line as the verified Crystal Prisoner Clone -> CROSS-CORROBORATES that this is a SHARED ROTF clone-boss taunt used by multiple clone enemies. Already in build for Crystal Prisoner Clone; note the shared usage."
+  },
+  {
+   "name": "Shaitan the Advisor",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["THE MAD GOD SHALL KNOW OF THESE TR[ANSGRESSIONS]"],
+   "note": "DOCUMENTED-from-chat (orange; 'Belladonna's Garden opened by 7live'). Shaitan = BASE-GAME (Lair of Shaitan / Belladonna's Garden) -> base content; line right-edge cut. Recorded for completeness, low new value."
+  },
+  {
+   "name": "Oryx the Mad God (realm announcer)",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "I HAVE CLOSED THIS REALM!",
+    "YOU WILL NOT LIVE TO SEE THE LIGHT OF [DAY]",
+    "Krond, you may have destroyed my Cube God, but you will never defeat me!",
+    "At last, a Grand Sphinx will teach you to res[pect]",
+    "Mythical has unleashed an evil upon this R[ealm]",
+    "My Hermit God's thousand tentacles shall [drag you...]",
+    "My last Phoenix Lord will blacken your bon[es]",
+    "Tokularnik, you pathetic swine! How dare [you]"
+   ],
+   "note": "DOCUMENTED-from-chat (orange 'Oryx the Mad God:' realm-invasion announcer). HONESTY FLAG: most of these are likely CANONICAL base-game RotMG Oryx realm taunts (they name standard guardians — Cube God, Grand Sphinx, Hermit God, Phoenix Lord — and address players by name) and OVERLAP the previous tag disc_ehEBWCzq3fs -> recorded verbatim but NOT claimed as ROTF-original. 'I HAVE CLOSED THIS REALM!' = base realm-close line. Do not build as custom without checking base Oryx taunt list."
+  }
+ ],
+ "minions": ["Guards (Queen of Hearts)"],
+ "drops": [
+  "Maxed Potion of Defense / Attack / Mana / Vitality / Wisdom / Speed (consumed/auto-stored)",
+  "(no boss-specific legendary cleanly read this tag)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Death eludes king (ANNOUNCEMENT congratulation event)",
+  "Court of Oryx summon ('Miru is quaking you to Court of Oryx!')",
+  "Belladonna's Garden (opened by 7live)"
+ ],
+ "mechanics": "DOCUMENTED: an OWNER (VoltiPlay) realm + multi-dungeon run -> high-trust that the captured bosses are live server content. HEADLINE = two ROTF-CUSTOM bosses with verbatim taunt sets: Queen of Hearts (Wonderland; a clean 3-phase summon->solo->plead arc) and Bedlam - God of Chaos (a custom COURT OF ORYX boss). Plus a 'Wizzard Clone' sharing the verified 'I am everywhere and nowhere!' clone line (confirming it is a shared clone-boss taunt), base-game Avatar of the Forgotten King ('BURN!!') and Shaitan the Advisor. A large batch of Oryx realm-announcer lines is recorded but FLAGGED as probably-canonical (overlaps the prior tag) to avoid over-claiming. No clean boss bullet-geometry (edited, no bossends) -> attacks approximate/reconstructed.",
+ "uncertain": "No bossends + edited compilation -> attack GEOMETRY is reconstructed, not traced (Queen of Hearts phases inferred from her taunts; Bedlam pattern only theme-reconstructed). Several lines right-edge cut (Queen of Hearts '...Wonderland will [fall]', Avatar '...YOU KNOW NOT WHAT YOU HAVE', Shaitan '...TR[ANSGRESSIONS]', some Oryx lines). The Oryx announcer batch is probably base-game canon, NOT ROTF-original (flagged). Avatar of the Forgotten King + Shaitan are base-game (enrich, don't duplicate). Wonderland/Court arena shapes from minimaps only.",
+ "confidence": "HIGH for the existence + verbatim short taunts of the two NEW custom bosses (Queen of Hearts, Bedlam - God of Chaos) — owner-played, boss-coloured, clearly read. MEDIUM for line completions (some cut) and the Queen of Hearts phase reconstruction (from taunts, not geometry). Oryx lines deliberately NOT claimed as custom. GENUINE ROTF. Net value: 2 strong NEW custom build candidates (Queen of Hearts w/ a ready 3-phase design + Wonderland dungeon; Bedlam - God of Chaos for Court of Oryx) + cross-corroboration of the shared clone taunt. Best follow-up: a single Wonderland clip to complete the Queen of Hearts lines + capture her actual attack geometry."
+}

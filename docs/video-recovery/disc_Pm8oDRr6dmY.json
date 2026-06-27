@@ -1,0 +1,30 @@
+{
+ "dungeon": "GENUINE ROTF multi-dungeon clip (~90s; first NEW prepped tag after the bulk_prep stall). Main boss = STHENO THE SNAKE QUEEN (base Snake Pit boss, already BUILT). HIGH ENRICH value: recovered FULLER taunts that COMPLETE the built (truncated) Stheno lines + 1 new line. Also multi-biome (snowy/maze/lava-ring/pink Snake Pit/colosseum).",
+ "map": "DOCUMENTED-from-frames+minimaps: the STHENO arena = a PINK/MAGENTA Snake Pit with a tan/sandy DIAMOND central platform (cross-shaped), Stheno in the center. Other biomes glimpsed: white SNOWY, a purple/dark MAZE (labyrinth), an ORANGE LAVA CONCENTRIC-RING (bullseye) arena, a tan SANDY colosseum/crater, green realm. Multi-dungeon; Snake Pit is the fought one.",
+ "bosses": [
+  {
+   "name": "Stheno the Snake Queen",
+   "phases": ["DOCUMENTED (built + taunts): a GROWING gimmick — 'Watch me grow...' / 'I cannot die bigger than my u[sual?]' (Stheno grows in size); multi-phase 'Silver Blasts' (built 1-8)"],
+   "attacks": ["per-built: multi-phase 'Silver Blasts' (numbered 1-8) silver/white radial blasts. This clip's Snake-Pit frames show the pink diamond arena between blast phases (sparse) -> attack per the built behavior, not re-traced."],
+   "minions": ["Stheno Swarm, Stheno Pet (built)"],
+   "colorFlashes": "pink/magenta arena; silver blasts",
+   "taunts": [
+    "Watch me grow, ancient human...",
+    "I cannot die bigger than my u...",
+    "Please... come forward...",
+    "And so I block the creatures w...",
+    "I would hiss... but I shall be b..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix '<Stheno the Snake Queen>'). BASE Snake Pit boss, ALREADY BUILT (BehaviorDb.SnakePit.cs:11). ENRICH/COMPLETE lead: the BUILT taunts are TRUNCATED ('Watch m...', 'I cannot...', 'Please...', 'And so...') -> THIS clip gives the FULLER text: 'Watch me grow, ancient human...' / 'I cannot die bigger than my u[sual?]...' / 'Please... come forward...' / 'And so I block the creatures w[...]'. NEW line not in built set: 'I would hiss... but I shall be b[...]'. My reads are still tail-CUT (marked). base-vs-custom: these elaborate 'growing snake' lines are unusual for vanilla Stheno -> likely ROTF-enhanced; they match (complete) the built truncations either way. RECOMMEND enrich loop replace the built 'Watch m...'/'I cannot...'/'And so...'/'Please...' stubs with these fuller verified-cut forms."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "World Key ('You just received ... Obtaining a [Inferno?] World Key' — partial)",
+  "old dusty bottle ('You just opened the old dusty bottle! Obtaining a Great[er Potion?]...')"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: STHENO THE SNAKE QUEEN (base Snake Pit, built) with a GROWING-snake gimmick ('Watch me grow' / 'I cannot die bigger than my usual[?]') + multi-phase 'Silver Blasts' (built). Loot: a 'World Key' (unlocks a world dungeon) + an 'old dusty bottle' that opens into a Greater Potion. Pink Snake-Pit arena (tan diamond platform). Multi-dungeon clip.",
+ "uncertain": "Stheno is BASE/BUILT -> this is CORROBORATION + an ENRICH-COMPLETE lead (fuller text for the built TRUNCATED taunts), not a new boss. My recovered taunts are themselves tail-CUT ('ancient hum[an]', 'my u[sual?]', 'creatures w[...]', 'I shall be b[igger?]') -> fuller than the build but still partial; the enrich loop should use them to extend the stubs, flagging the remaining cuts. base-vs-custom of the elaborate lines unresolved (likely ROTF-enhanced Stheno). Attack per built behavior (Silver Blasts), not re-traced (Snake-Pit frames between phases were sparse). World Key / dusty-bottle names partial.",
+ "confidence": "MEDIUM (corroboration + enrich-complete). GENUINE ROTF. Best value: FULLER text for the built Stheno the Snake Queen's TRUNCATED taunts ('Watch me grow, ancient human...' completes 'Watch m...', etc.) + 1 new line ('I would hiss... but I shall be b...') + the growing-snake gimmick + Snake-Pit arena. Recorded honestly: base/built boss (not new), fuller-but-still-cut taunts flagged, attack per-built (not re-traced), base-vs-custom flagged. Best follow-up: ENRICH the built Stheno truncations with these fuller forms; cleaner footage to finish the cut tails."
+}

@@ -1,0 +1,25 @@
+# Dungeons
+# https://rotfserver.fandom.com/api.php?action=parse&page=Dungeons&prop=wikitext
+
+Dungeons in Revenge of the Fallen hold vital roles in acquiring new and stronger gear. These Dungeons can be sources for various Potions, Quest Chests, and Crates.
+
+<br>
+<u>'''Dungeons that are exclusive to Revenge of the Fallen''':</u> 
+
+<u>[[Illusion]]</u>
+
+<u>
+[[The Showcase]]</u>
+
+<u>
+[[Galaxy|Galaxies]]</u>
+
+[[Asgard]]
+
+[[Tomb of Decaying Death]]
+
+[[Twilight Necropolis]]
+
+[[Icy Peaks]]
+
+[[Scorched Plains]]

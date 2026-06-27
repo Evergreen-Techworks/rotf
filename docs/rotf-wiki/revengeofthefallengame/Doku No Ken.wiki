@@ -1,0 +1,4 @@
+# Doku No Ken
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Doku%20No%20Ken&prop=wikitext
+
+asdf

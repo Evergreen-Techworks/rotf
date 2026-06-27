@@ -1,0 +1,11 @@
+{
+ "dungeon": "NOT a dungeon run — a short (~55s) GIVEAWAY / PROMO clip. Overlay cards over a crate-grid floor + dark void/space: 'This giveaway will include 5 winners and 1 loser.', 'If you get 6th place, then I feel bad for you...', plus glowing void outro panels. NO gameplay boss/dungeon content.",
+ "map": "NONE — no dungeon; a flat gold/tan CRATE-GRID staging floor behind the giveaway cards + dark VOID/SPACE for the outro panels. No layout to record.",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "NONE recoverable. Creator GIVEAWAY/PROMO clip (giveaway-rules cards: 5 winners + 1 'loser'/6th place joke; void outro). No boss, dungeon, taunt, attack, loot, or mechanic content.",
+ "uncertain": "None — clearly a non-gameplay giveaway/promo clip (overlay cards only; chat red-density = 0, no boss-coloured text). No ROTF boss/dungeon/taunt content exists in this tag.",
+ "confidence": "HIGH that this is a non-dungeon GIVEAWAY/PROMO clip with NO recoverable boss/dungeon/taunt/attack content (bosses=[]). Recorded honestly as a zero-yield promo (matches the recurring giveaway/promo exclusion pattern, e.g. disc_PYepJXh-RR8 / disc_srX18YxFFXQ). No build/enrich content. No follow-up needed."
+}

@@ -1,0 +1,4 @@
+# LeatherArmors
+# https://rotfserver.fandom.com/api.php?action=parse&page=LeatherArmors&prop=wikitext
+
+#REDIRECT [[Armors]]

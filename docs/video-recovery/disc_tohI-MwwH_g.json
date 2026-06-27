@@ -1,0 +1,14 @@
+{
+ "dungeon": "(ROLO/NILO multi-dungeon stream) ROTF — event feed + Primal overlay; low novelty (no new taunts)",
+ "source": "video disc_tohI-MwwH_g (304 frames, 18 transitions, 76 chat; ROLO/NILO channel; 'PRIMAL' overlay). Diverse dungeons. Chat = event feed + standard startup + chatter (no boss taunts captured).",
+ "map": "DOCUMENTED biomes: orange/LAVA dungeons + crater arenas, grey stone, brown brick rooms, purple dungeon, green grass + purple. A 'Level 20 Warrior' death screen (Tharmz).",
+ "bosses": [
+  {"name":"Oryx the Mad God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You are food for my minions!"],"note":"DOCUMENTED from startup (re-confirmed)."}
+ ],
+ "minions": [],
+ "drops": ["PRIMAL-tier item (overlay 'PRIMAL')"],
+ "event_bosses_seen_in_global_feed": ["Lord of the Lost Lands","Pulse (just spawned)","Suspicious Looking Dragon"],
+ "mechanics": "DOCUMENTED (re-confirmations): event feed (Lord of the Lost Lands, Pulse, Suspicious Looking Dragon); PRIMAL item tier (overlay); Oryx taunt; class Warrior (death screen); vanilla MOTD. No new boss taunts.",
+ "uncertain": "No new boss taunts (chat = event feed + chatter + black transitions). Dungeon names not captured.",
+ "confidence": "LOW novelty — event-roster + Primal-tier + Oryx + Warrior-class re-confirmations only; no new boss/taunt."
+}

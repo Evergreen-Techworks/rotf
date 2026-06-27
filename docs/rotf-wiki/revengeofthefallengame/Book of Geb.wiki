@@ -1,0 +1,4 @@
+# Book of Geb
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Book%20of%20Geb&prop=wikitext
+
+asdf

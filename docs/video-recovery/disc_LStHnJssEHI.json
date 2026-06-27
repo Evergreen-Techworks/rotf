@@ -1,0 +1,24 @@
+{
+ "dungeon": "FACECAM multi-dungeon stream (creator 'Stregzter'; webcam covers the bottom-left chat + a 'SUBSCRIBE' overlay) — a long ~700s run through 14 dungeon entries across many biomes, plus the PET YARD UI shown. The webcam obscures the chat, so only fragmentary boss text is visible (a 'Court of Oryx' run + a '...WARDEN' boss + a 'my minions!' summoner + an 'I have failed...' line) — too fragmentary to attribute cleanly. Main concrete capture = the PET system (Pet Yard / Feed / Fuse). Server identity (ROTF vs other RotMG) NOT positively confirmed.",
+ "map": "DOCUMENTED-from-transitions+minimaps: a 14-entry multi-dungeon hop across biomes — a GREEN grass REALM (structures + realm minimap), dark SPACE/VOID zones (scattered-enemy open maps; recurring galactic-zone style), a BLUE WATER/ICE area, white SNOW, and white VAULT/item-grid rooms. Hub<->dungeon hopping; no single dungeon layout (catalogued biomes). No bossends -> arenas not geometry-traced.",
+ "bosses": [
+  {
+   "name": "(Court of Oryx + facecam-obscured boss fragments)",
+   "phases": [],
+   "attacks": ["not traced (facecam + no bossends)"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-chat but FRAGMENTARY (webcam covers the speaker names): partial lines '...the Court of Oryx with my [...]', '[?]WARDEN? YOU SHALL [...]', 'my minions!' (x2), 'I have failed...'. A 'Court of Oryx' run (base-game event dungeon) is referenced. The '...WARDEN' boss + 'my minions!' summoner are NOT cleanly attributable (names obscured) -> recorded as fragments, NOT assigned to a named boss (no guessing). No taunt recorded as verified."
+  }
+ ],
+ "minions": [],
+ "pets": [
+  {"name":"Gold Bulldog","family":"Canine","rarity":"Rare","abilities":["Heal","Magic Heal"],"level":"70/70","note":"DOCUMENTED-from-Pet-Yard-UI: a pet 'Gold Bulldog' (Canine family, Rare, Heal + Magic Heal, maxed 70/70). Feed/Fuse buttons + a Common->Uncommon upgrade path shown -> the RotMG PET YARD system (feed/fuse/level pets)."}
+ ],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED (limited — facecam): (1) PET YARD system — a 'Gold Bulldog' pet (Canine, Rare, Heal+Magic Heal, 70/70) with FEED + FUSE buttons and a rarity-upgrade path (Common->Uncommon...) -> standard RotMG pet feed/fuse/level mechanics, confirmed present. (2) The bottom-left chat is WEBCAM-COVERED -> boss taunts only partially visible + not cleanly attributable. (3) A 'Court of Oryx' (base-game event dungeon) run is referenced in chat. (4) Multi-dungeon hop incl. space/void galactic-style zones (recurring). No bossends -> no attack geometry.",
+ "uncertain": "SERVER IDENTITY not confirmed (RotMG-engine, creator 'Stregzter'; could be ROTF or another RotMG server). CHAT facecam-obscured -> boss fragments ('...WARDEN', 'my minions!', 'I have failed...') NOT attributable to named bosses (deliberately not guessed). 'Court of Oryx' = base-game event. NO attacks traced (facecam + no bossends). Pet 'Gold Bulldog' is base-game pet-system content.",
+ "confidence": "LOW-MEDIUM. RotMG-engine multi-dungeon FACECAM stream -> low recoverable boss content (chat covered, no bossends). Concrete capture = the PET YARD system (Gold Bulldog pet, Feed/Fuse) — base-game pet mechanics, confirmed present. Boss fragments recorded honestly as UNATTRIBUTED (no fabricated names/taunts). Server identity uncertain. Net: limited; best follow-up = prefer non-facecam ROTF-custom-dungeon footage. Recorded honestly rather than guessing at the obscured boss names."
+}

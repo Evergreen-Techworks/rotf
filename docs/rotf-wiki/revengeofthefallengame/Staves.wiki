@@ -1,0 +1,230 @@
+# Staves
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Staves&prop=wikitext
+
+The staves are the main weapons of the wizard, the mystic and the necromancer. It is focused in high dps at high range.
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = StaffOfAnnihilation.png
+| link = Staff of Annihilation
+| text = Staff of Annihilation
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = StaffOfUnholySacrifice.png
+| link = Staff of Unholy Sacrifice
+| text = Staff of Unholy Sacrifice
+}}
+| {{ImageBlack
+| file = AnatisStaff.png
+| link = Anatis Staff
+| text = Anatis Staff
+}}
+| {{ImageBlack
+| file = HelasPower.png
+| link = Hela's Power
+| text = Hela's Power
+}}
+| {{ImageBlackLarge1
+| file = GravediggersShovel.png
+| link = Gravedigger's Shovel
+| text = Gravedigger's Shovel
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge2
+| file = StaffOfExtremePrejudice.png
+| link = Staff of Extreme Prejudice
+| text = Staff of Extreme Prejudice
+}}
+| {{ImageBlack
+| file = KoalaPOW.png
+| link = KoalaPOW
+| text = KoalaPOW
+}}
+| {{ImageBlackLarge1
+| file = BarelyAttunedMagicThingy.png
+| link = Barely Attuned Magic Thingy
+| text = Barely Attuned Magic Thingy
+}}
+| {{ImageBlackLarge1
+| file = StaffOfTheRisingSun.png
+| link = Staff of the Rising Sun
+| text = Staff of the Rising Sun
+}}
+| {{ImageBlack
+| file = StaffOfIceblast.png
+| link = Staff of Iceblast
+| text = Staff of Iceblast
+}}
+| {{ImageBlack
+| file = PowerfulTwig.png
+| link = Powerful Twig
+| text = Powerful Twig
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = ThePhylactery.png
+| link = The Phylactery
+| text = The Phylactery
+}}
+| {{ImageBlack
+| file = SentientStaff.png
+| link = Sentient Staff
+| text = Sentient Staff
+}}
+| {{ImageBlackLarge1
+| file = EdictumPraetoris.png
+| link = Edictum Praetoris
+| text = Edictum Praetoris
+}}
+| {{ImageBlackLarge1
+| file = HeadOfTheFirebreather.png
+| link = Head of the Firebreather
+| text = Head of the Firebreather
+}}
+| {{ImageBlack
+| file = StaffOfNature.png
+| link = Staff of Nature
+| text = Staff of Nature
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Unique</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = StaffOfTheCrystalSerpent.png
+| link = Staff of the Crystal Serpent
+| text = Staff of the Crystal Serpent
+}}
+| {{ImageBlack
+| file = StaffOfEsben.png
+| link = Staff of Esben
+| text = Staff of Esben
+}}
+| {{ImageBlackLarge1
+| file = StaffOfAdoration.png
+| link = Staff of Adoration
+| text = Staff of Adoration
+}}
+| {{ImageBlackLarge1
+| file = StaffOfHorrificKnowledge.png
+| link = Staff of Horrific Knowledge
+| text = Staff of Horrific Knowledge
+}}
+| {{ImageBlackLarge1
+| file = StaffOfYuletideCarols.png
+| link = Staff of Yuletide Carols
+| text = Staff of Yuletide Carols
+}}
+| {{ImageBlackLarge1
+| file = SweetSugarRushStaff.png
+| link = Sweet Sugar Rush Staff
+| text = Sweet Sugar Rush Staff
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = StarlightCrook.png
+| link = Starlight Crook
+| text = Starlight Crook
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = StaffOfAstralKnowledge.png
+| link = Staff of Astral Knowledge
+| text = Staff of Astral Knowledge
+}}
+| {{ImageBlackLarge1
+| file = StaffOfTheCosmicWhole.png
+| link = Staff of the Cosmic Whole
+| text = Staff of the Cosmic Whole
+}}
+| {{ImageBlackLarge1
+| file = StaffOfTheVitalUnity.png
+| link = Staff of the Vital Unity
+| text = Staff of the Vital Unity
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = EnergyStaff.png
+| link = Energy Staff
+| text = Energy Staff
+}}
+| {{ImageBlack
+| file = FirebrandStaff.png
+| link = Firebrand Staff
+| text = Firebrand Staff
+}}
+| {{ImageBlack
+| file = CometStaff.png
+| link = Comet Staff
+| text = Comet Staff
+}}
+| {{ImageBlackLarge1
+| file = SerpentineStaff.png
+| link = Serpentine Staff
+| text = Serpentine Staff
+}}
+| {{ImageBlack
+| file = MeteorStaff.png
+| link = Meteor Staff
+| text = Meteor Staff
+}}
+| {{ImageBlack
+| file = SlayerStaff.png
+| link = Slayer Staff
+| text = Slayer Staff
+}}
+|-
+| {{ImageBlack
+| file = AvengerStaff.png
+| link = Avenger Staff
+| text = Avenger Staff
+}}
+| {{ImageBlackLarge1
+| file = StaffOfDestruction.png
+| link = Staff of Destruction
+| text = Staff of Destruction
+}}
+| {{ImageBlack
+| file = StaffOfHorror.png
+| link = Staff of Horror
+| text = Staff of Horror
+}}
+| {{ImageBlackLarge2
+| file = StaffOfNecrotic Arcana.png
+| link = Staff of Necrotic Arcana
+| text = Staff of Necrotic Arcana
+}}
+| {{ImageBlackLarge1
+| file = StaffOfDiabolic Secrets.png
+| link = Staff of Diabolic Secrets
+| text = Staff of Diabolic Secrets
+}}
+| {{ImageBlackLarge2
+| file = StaffOfTheFundamentalCore.png
+| link = Staff of the Fundamental Core
+| text = Staff of the Fundamental Core
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

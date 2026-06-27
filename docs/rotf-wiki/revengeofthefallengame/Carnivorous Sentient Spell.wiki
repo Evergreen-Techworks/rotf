@@ -1,0 +1,4 @@
+# Carnivorous Sentient Spell
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Carnivorous%20Sentient%20Spell&prop=wikitext
+
+asdf

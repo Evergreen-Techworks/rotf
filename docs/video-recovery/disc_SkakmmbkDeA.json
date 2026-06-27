@@ -1,0 +1,11 @@
+{
+ "dungeon": "(4-CLASS GROUP STREAM ~68 entries) ROTF — biome documentation only (chat hidden)",
+ "source": "video disc_SkakmmbkDeA (955 frames, 204 transitions = ~68 entries, 1432 chat; 4-class party 8/8 Paladin/Warrior/Wizard/Archer). CHAT BOX WAS HIDDEN/COLLAPSED the whole video — every sampled chat crop is black, so NO text/taunts/feed are recoverable. Biome documentation only.",
+ "map": "DOCUMENTED biomes (contact sheet): brown DIRT/MINE cave with gold ore + a circular gold-dot boss arena (Septavius/mine-style); tan SANDSTONE with a central structure; green grass + blue water; green grass dungeon; grey stone; and a recurring PURPLE/GOLD castle THRONE-ROOM arena (Asgard-style). Plus menu/options screens.",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "mechanics": "NONE recoverable — the player's chat box was hidden/collapsed throughout (all chat crops black). Only biomes documented: a 4-class group (Paladin/Warrior/Wizard/Archer) running varied dungeons incl. an Asgard-style gold/purple throne arena + a Septavius-style brown mine cave.",
+ "uncertain": "No chat/taunts/feed (chat hidden). Boss identities inferred from biome only (Asgard throne / Septavius mine). ~68 entries not named.",
+ "confidence": "LOW — biome-only documentation; the chat box was hidden so no verbatim recovery possible. Likely re-covers already-known dungeons (Asgard, Undead Lair)."
+}

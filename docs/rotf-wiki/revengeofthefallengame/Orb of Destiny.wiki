@@ -1,0 +1,4 @@
+# Orb of Destiny
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Orb%20of%20Destiny&prop=wikitext
+
+asdf

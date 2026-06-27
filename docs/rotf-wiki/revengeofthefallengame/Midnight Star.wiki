@@ -1,0 +1,4 @@
+# Midnight Star
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Midnight%20Star&prop=wikitext
+
+asdf

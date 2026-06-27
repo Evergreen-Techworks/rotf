@@ -1,0 +1,4 @@
+# Recurring Terror Spell
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Recurring%20Terror%20Spell&prop=wikitext
+
+asdf

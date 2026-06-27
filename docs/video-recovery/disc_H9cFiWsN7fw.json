@@ -1,0 +1,12 @@
+{
+ "dungeon": "Crate/potion-farming multi-dungeon session — Nodestone drops + events",
+ "map": "DOCUMENTED biomes: space/void zones, grey caverns, orange-brick temples, sandy desert, red/maroon caverns, green realm, purple dungeons, brown lava caverns. Large party (6/8, 11/16). Undead Lair (vanilla) entered.",
+ "bosses": [
+   {"name":"Riverborn (dragon Lord)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"'<Hydra> The Riverborn has been defeated!'."},
+   {"name":"Grand Sphinx (event)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"'<Blob> A Grand Sphinx has just spawned!'."}
+ ],
+ "drops": ["Nodestone / Small Nodestone (D2 material — '<Geezi> a nodestone' / 'fucking small nodestone')","white bag(s)","crate -> Potions"],
+ "mechanics": "DOCUMENTED (D2-relevant): NODESTONES drop from content — players got 'a nodestone' / 'small nodestone' (confirms Nodestones [Small/Big] are obtainable as drops, not just Auction-House buys). CRATE economy: 'You have opened a crate! Obtaining a [Potion...]', 'You feel as if your potion inventory got heavier', and POTION STORAGE caps ('Your potion storage is already full on Bottles/Potions'). Dungeon entry feed: 'Undead Lair opened by <player>'. Events: Grand Sphinx spawned, Riverborn defeated (announcer personas Blob, Hydra).",
+ "uncertain": "No boss taunts captured (crate/event-feed chat). Crate potion item names clipped.",
+ "confidence": "MEDIUM — Nodestone DROP confirmed (D2), crate->potion + potion-storage mechanics, event feed; biomes documented; no taunts."
+}

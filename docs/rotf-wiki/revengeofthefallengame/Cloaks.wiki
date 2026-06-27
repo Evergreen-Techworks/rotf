@@ -1,0 +1,116 @@
+# Cloaks
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Cloaks&prop=wikitext
+
+The cloak is the ability of the rogue. It gives the buffs to the player (mainly invisible)
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = TheCapeOfTwilight.png
+| link = The Cape of Twilight
+| text = The Cape of Twilight
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = SpectralCloak.png
+| link = Spectral Cloak
+| text = Spectral Cloak
+}}
+| {{ImageBlackLarge1
+| file = CloakOfThePlanewalker.png
+| link = Cloak of the Planewalker
+| text = Cloak of the Planewalker
+}}
+| {{ImageBlackLarge1
+| file = CloakOfBloodySurprises.png
+| link = Cloak of Bloody Surprises
+| text = Cloak of Bloody Surprises
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = CloakOfThe1000Oceans.png
+| link = Cloak of the 1000 Oceans
+| text = Cloak of the 1000 Oceans
+}}
+| {{ImageBlackLarge1
+| file = DestructorCloak.png
+| link = Destructor Cloak
+| text = Destructor Cloak
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = GhastlyDrape.png
+| link = Ghastly Drape
+| text = Ghastly Drape
+}}
+| {{ImageBlack
+| file = ShadowScales.png
+| link = Shadow Scales
+| text = Shadow Scales
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = DeepspaceVeil.png
+| link = Deepspace Veil
+| text = Deepspace Veil
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge2
+| file = CloakOfEndlessTwilight.png
+| link = Cloak of Endless Twilight
+| text = Cloak of Endless Twilight
+}}
+| {{ImageBlackLarge2
+| file = CloakOfGhostlyConcealment.png
+| link = Cloak of Ghostly Concealment
+| text = Cloak of Ghostly Concealment
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = CloakOfShadows.png
+| link = Cloak of Shadows
+| text = Cloak of Shadows
+}}
+| {{ImageBlackLarge1
+| file = CloakOfDarkness.png
+| link = Cloak of Darkness
+| text = Cloak of Darkness
+}}
+| {{ImageBlack
+| file = CloakOfSpeed.png
+| link = Cloak of Speed
+| text = Cloak of Speed
+}}
+| {{ImageBlackLarge1
+| file = CloakOfTheNightThief.png
+| link = Cloak of the Night Thief
+| text = Cloak of the Night Thief
+}}
+| {{ImageBlackLarge1
+| file = CloakOfTheRedAgent.png
+| link = Cloak of the Red Agent
+| text = Cloak of the Red Agent
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

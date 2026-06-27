@@ -1,0 +1,4 @@
+# Magical Lodestone
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Magical%20Lodestone&prop=wikitext
+
+asdf

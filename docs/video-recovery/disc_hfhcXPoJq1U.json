@@ -1,0 +1,43 @@
+{
+ "dungeon": "GENUINE ROTF FACECAM stream (streamer 'Turychor' — webcam + 'LEAVE A LIKE' overlay; but the chat box is only PARTIALLY covered so much IS readable). A multi-dungeon realm session through standard dungeons (white VAULT, DESERT, grass REALM, a PURPLE loot dungeon). Mostly CORROBORATION of already-built content: the custom Oryx HP-BOAST mechanic + the chicken meme boss. KEY finding: resolves that the 'Cluck Cluck Chicken' new-boss candidate is the SAME as the already-built 'Giant Oryx Chicken' (shared cluck taunts).",
+ "map": "DOCUMENTED-from-transitions+f_frames (facecam-limited): a realm-hub session feeding standard dungeons — WHITE/GREY VAULT rooms (chest grids), a BROWN/TAN DESERT dungeon, the green GRASS REALM (open island), and a PURPLE/dark dungeon with colourful loot bags. Room-and-corridor standard layouts; no distinctive custom arena captured (facecam + no bossends). 21 transitions across the run.",
+ "bosses": [
+  {
+   "name": "Giant Oryx Chicken",
+   "phases": [],
+   "attacks": ["not isolated (facecam, no bossends) -> see built Giant Oryx Chicken (chicken meme boss)"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "BUCK!!",
+    "Cluck cluck cluck... CLUCK!",
+    "CLLLUUUCCCKKK!!!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Giant Oryx Chicken'). *** PROVENANCE RESOLUTION ***: these are the SAME cluck taunts I previously attributed to a NEW 'Cluck Cluck Chicken' boss (disc_EMgDk9BDwOE). Here they are clearly spoken by 'Giant Oryx Chicken' (ALREADY BUILT, OCBosses2). So 'Cluck Cluck Chicken' = 'Giant Oryx Chicken' (same chicken meme boss) -> do NOT build a separate Cluck Cluck Chicken; it would duplicate the built Giant Oryx Chicken. ALSO: the built Giant Oryx Chicken taunt is 'Cluck cluck BOCK!!' but footage shows 'BUCK!!' + the fuller 'Cluck cluck cluck... CLUCK!' / 'CLLLUUUCCCKKK!!!' -> enrich/verify the built taunt (BOCK->BUCK + add the cluck lines)."
+  },
+  {
+   "name": "Oryx the Mad God (HP-boast)",
+   "phases": ["announces a scaling hitpoint total in taunts"],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "Foolish humans! My 1313212 hitpoints give me strength!",
+    "Meloo... how I still have 2023322 hitpoints!",
+    "That's ENOUGH!",
+    "There is no point in running, but you will anyway!"
+   ],
+   "note": "DOCUMENTED-from-chat. CORROBORATES the custom ROTF Oryx HP-BOAST mechanic (Oryx announces a scaling hitpoint number: 1313212 / 2023322) first documented in disc_EMgDk9BDwOE. 'There is no point in running, but you will anyway!' is a likely base-canon Oryx line -> flagged, not claimed as custom. The HP-boast numbers + format ARE the custom ROTF behaviour."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "loot bags (purple dungeon; specific items not legible — facecam)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "various realm events (NexusPortal Cube/Unicorn travel)"
+ ],
+ "mechanics": "DOCUMENTED (facecam-limited): a Turychor facecam realm-run. PRIMARY VALUE = (1) a PROVENANCE RESOLUTION: the 'Cluck Cluck Chicken' new-boss candidate (disc_EMgDk9BDwOE) is the SAME boss as the already-built 'Giant Oryx Chicken' (shared cluck taunts: 'Cluck cluck cluck... CLUCK!', 'CLLLUUUCCCKKK!!!', 'BUCK!!') -> do NOT build a duplicate; instead enrich/verify the built Giant Oryx Chicken ('BOCK!!'->'BUCK!!' + add the cluck lines). (2) CORROBORATES the custom Oryx HP-BOAST mechanic (scaling hitpoint numbers in taunts: 1313212 / 2023322). Standard dungeons (vault/desert/grass/purple); facecam + no bossends -> attacks not isolated. No new named boss.",
+ "uncertain": "Facecam stream -> attacks not isolated (no bossends), drops illegible, dungeon names not banner-confirmed. The Giant-Oryx-Chicken vs 'Cluck Cluck Chicken' identity is INFERRED from shared exact taunts (strong, but the two names are different -> possible they are deliberately-distinct chicken variants; treat as same pending a frame showing both). Oryx 'no point in running' line may be base-canon. HP-boast numbers read off small text (±digits).",
+ "confidence": "MEDIUM. GENUINE ROTF. HIGH for the corroborations (Oryx HP-boast mechanic; Giant Oryx Chicken cluck taunts). The KEY output is the PROVENANCE RESOLUTION: 'Cluck Cluck Chicken' candidate ≈ built 'Giant Oryx Chicken' -> prevents a duplicate build + gives the built chicken a fuller taunt set (BOCK->BUCK + cluck lines) for the dev/verify loops. LOW new content (facecam, standard dungeons). Recorded to resolve the chicken-boss identity + corroborate the HP-boast mechanic."
+}

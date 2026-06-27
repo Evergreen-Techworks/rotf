@@ -1,0 +1,6 @@
+# Reaper's Bow
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Reaper%27s%20Bow&prop=wikitext
+
+{{Infobox_item|title = Reaper's Bow|image = Reapersbow.PNG|type = Bow|effects = Shots hit multiple targets
+Shots pass through obstacles
+Shots boomerang|buy = Average: 2.15 million fame}}

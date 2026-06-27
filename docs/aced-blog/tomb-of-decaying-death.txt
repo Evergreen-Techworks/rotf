@@ -1,0 +1,44 @@
+Revenge of the Fallen: Tomb of Decaying Death Design 
+
+ Hello again, everyone! I’m Shmitty, a senior designer working on Revenge of the Fallen. I work with BQ, Foucs, Quaximi, and Nephilim to make all of the pixel art you see in game, from complex animations to basic item sprites. You might recognize me through my work on things like the new Legendary and Primal items, Nyx of Fire, or the Soul Harvest. Today I’ll be adding the Tomb of Decaying Death to that list! This is another one of the few dungeons from legacy making a return in the new game. This post will be pretty similar to the one I wrote about designing the Nyx of Fire—I’ll be talking about my experiences making this biome. I hope you enjoy! The ToDD biome itself is a graveyard-esque area filled with moss, bones, tombstones, soul cracks in the ground: everything you could want in a spooky graveyard. Below is an example I made of what an area of the biome might look like. 
+
+ Things to note: – The darker dirt doesn’t have a tile blend, so in the image, the side is just flat. It wont look like this in game. – There are far more object variants than what I’ve shown in the image above. There’s no way I could fit them all here! 
+
+ Of course, what’s a biome without its enemies ? There’s a variety of evil creatures inhabiting this area, but for the most part, they’re an eldritch mixture of bone and zombie. These undead monsters crawl, sprint, and sometimes float. Below is a collage showing off a few of them. 
+
+ From left to right, we have: – The Rotten Corpse. – The Brain Craver. – The Buried Hand & its counterpart, the Revealed Remains. – The Spoilt Flesh 
+
+ Of course, we can’t forget about our favorite tomb-robber, making his triumphant return from legacy: the Tombstone Carrier! 
+
+ He is returning, just in the form of a zombie! 
+
+ Much like the work I’ve done for the Twilight Necropolis dungeon —which hasn’t been shown yet ;)—I went for a more noisy look. I used many different colors, and ended up using a lot more anti-aliasing for many of the enemies, and lots of the static objects as well. 
+
+ Originally, I had designed the sprites to be lighter, smoother and more simple—which of course looked fine—but I felt a noisier, more complex look was much more fitting for the ToDD biome. When remaking some sprites, I made use of a lot of anti-aliasing and a lot more texturing than I usually would—and in my opinion, it turned out great. On the trees and tombstones, I tried out a different way of texturing that I’d never used before—and while I’m still somewhat unsure of it—I believe it looks pretty good. Also, one of the many major things you have to look out for when making use of anti-aliasing and texturing is making the sprite too complicated. There’s a fine line between noisy and unreadable, and I think I did a good job of staying behind that line. 
+
+ I didn’t run into any major problems while making this biome, which is a good thing, I guess. The most challenging work here is definitely animating the enemies. It’s going well, but I’m not entirely finished just yet. I mentioned this briefly in my last post, but animating humanoids is tough —you have to maintain proportions across each frame, making sure everything stays in place and looks natural. I’ve been steadily improving though, and I hope to prove it when these enemies are finished :). 
+
+ That’s all I have for you today. Thank you for reading, and I hope you enjoyed my little rant about the Tomb of Decaying Death’s design! I’ll see you in the dungeon ;). This post will be updated tomorrow (@ 4pm ET) with some testing keys. Hang in there! 
+
+ Edit: Keys! 
+
+ Use at https://rotf.io/register . Good luck! 
+ Share this: Twitter Facebook Like this: Like Loading... 
+
+ Related 
+
+ Published by Shmitty 
+
+ I am a senior designer here at RotF! I do pixel art and if I had to say, I specialize in animation. 
+ View all posts by Shmitty 
+
+ May 23, 2021 
+
+ Uncategorized 
+
+ aced , aced games , aced.gg , biome , Death , Decaying , Design , Lord , revenge of the fallen , rotf , rotf.io , Tomb , Tomb of Decaying Death , Tombstone Carrier 
+
+ Post navigation 
+ Revenge of the Fallen: Legendary Effects Preview Revenge of the Fallen: FIRING LAZ0RS! 
+
+ Comments are closed.

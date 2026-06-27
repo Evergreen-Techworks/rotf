@@ -1,0 +1,32 @@
+# PoOoOoOokkErrRr
+# https://rotfserver.fandom.com/api.php?action=parse&page=PoOoOoOokkErrRr&prop=wikitext
+
+{{ItemInfo
+| name = PoOoOoOokkErrRr
+| desc = 01001110 01101001 01100011 01100101 00100001
+| tier = UT
+| rarity = l
+| slot = dagger
+
+| minDmg = 160
+| maxDmg = 235
+| shots = 1
+| rof = 120
+| range = no
+| projSpeed = 18
+| lifetime = 249
+| fameb = 7
+
+| legendary = 3
+
+| bonuses = {{Stat|dex|5}}
+
+| lootbag = white
+| dropsFrom = can be found in a White Bag dropped by: [[Pokerface]].
+|range2 = 6.5|effects = yes|multihit = yes}}
+
+<noinclude>
+{{NavDaggers}}
+[[Category: Daggers]]
+[[Category:Tiered weapons]]
+</noinclude>

@@ -1,0 +1,37 @@
+# Guilds
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Guilds&prop=wikitext
+
+[[File:Guilds.png|thumb|114x114px]]Guilds, like in any other game, it's a way to team up with friends or make new ones to help each other to progress through the game.
+
+== Basics ==
+The first thing you should know about guilds is how to join or create one:
+* To create one, you need to walk to the box in the nexus, click on Create (it has a cost of 1000 fame each time you create a new guild), choose a suitable name and confirm. You have your own guild! Time to invite some friends. To do this, use the command "/invite (username)"
+* To join someone else's guild, he needs to first send you the invitation. Once you receive it, write "/accept"
+
+== Ranks ==
+In each guild, players have a different rank. Each rank has diferent levels of power:
+[[File:GuildRanksTable-1.png|thumb|817x817px|centre]]
+
+== Obtaining guild fame ==
+If you want to upgrade your guild, you will need guild fame.
+
+Guild fame is obtained as a 1:2 ratio from death fame (the player that dies gets his fame and adds the guild fame to the guild, both things happen without any loss) This transfers to:
+ Guild fame obtained = (Fame on death · 2)
+It is recommended to colaborate between the many members of the guild to reach the high guild fame amounts some upgrades require.
+
+== Guild hall and others ==
+[[File:GuildsBox.png|thumb|100x100px]]
+Guilds aren't just a chat for friends, they have 2 other main funcionts:
+* The Guild Hall is where guildies can meet and talk without interruptions. This hall turns bigger and gets better furniture with each upgrade.
+
+* In the Guild Hall you can find a table where founders and leaders can upgrade 3 things: The guild hall size and the 2 boosts.
+
+* Upgrading the guild hall improves how it looks and adds slots so you can keep recruiting new players
+*# The 1st upgrade costs 10,000 guild fame
+*# The 2nd upgrade costs 100,000 guild fame
+*# The 3rd upgrade costs 250,000 guild fame
+* Upgrading the loot boost increases the base loot boost for all of the guild player by 1% per upgrade. The upgrades also increase in price. This boost is capped at 100%. Loot boost applies to the drop rate of each item independently.
+* Upgrading the on-death fame boost increases the fame obtained on death for all of the guild player by 1% per upgrade. The upgrades also increase in price. This boost is capped at 100%.The boost is applied after the final calculation:
+ Loot boost applied to drops = Item drop rate + (Item drop rate · loot boost)
+
+ Fame on death = (Base fame + (Base fame · (sum of all other boosts)) · guild boosts

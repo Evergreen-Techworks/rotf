@@ -1,0 +1,4 @@
+# Staff of Astral Knowledge
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Staff%20of%20Astral%20Knowledge&prop=wikitext
+
+asdf

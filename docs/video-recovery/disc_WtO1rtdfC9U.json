@@ -1,0 +1,19 @@
+{
+ "dungeon": "GENUINE ROTF short edited REALM-roaming clip (player RuinedBow/'RuinedArmy', ~156s; 'No hate. Appreciate.' + 'thanks for watching' outro; a 'put an f in the comments' RIP narration). NOT a single dungeon/boss fight — RuinedBow roams the OPEN REALM fighting realm/event mobs. Value: a NOTABLE CUSTOM ITEM ('Solo Thief' UT, anti-group loot mechanic) + event-feed corroboration + the Runes menu. NO boss-prefix taunt.",
+ "map": "DOCUMENTED-from-frames+minimaps: the OPEN REALM overworld — a GREEN grass + TAN/brown DIRT CHECKERED terrain (large open biome, no enclosed arena/rooms), scattered structures. A class/RUNES/Graveyard/Collection menu screen (t001@3s). No dungeon room-sequence; it's realm roaming.",
+ "bosses": [],
+ "minions": [],
+ "drops": [
+  "Solo Thief (UT item) — Note icon: Bag; Tier: Limited Drop bonus; DRAWBACK: '+25% Loot Drop bonus per player in an instance (not including yourself)'; Speciality: Robber. Flavor: 'Why bother going on an adventure with other people, when all they will do is just steal the rewards right from you?'",
+  "Legendary loot item 'with X% damage dealt!' (damage-contribution loot)",
+  "Crafting Material 'Aspect of [...]' (partial name)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Hermit God ('Hermit God has just spawned!') — BASE-GAME ocean/realm boss (corroboration)",
+  "The ominous-looking Dragon ('has spawned') — realm event spawn (likely base 'ominous-looking' realm Dragon)",
+  "The Pit[?] ('has been defeated (XP3)', announcer Deathmage) — XP## epic-tier realm boss (partial name; NEW-ish lead)"
+ ],
+ "mechanics": "DOCUMENTED: (1) CUSTOM ITEM 'Solo Thief' (UT) — an ANTI-GROUP/solo-incentive item: drawback '+25% Loot Drop bonus per player in an instance (not including yourself)' + speciality 'Robber' (more players = more loot bonus; rewards/punishes grouping). (2) RUNES system menu (Characters/Runes/Graveyard/Collection/Classes tabs) — corroborates the built Runes feature. (3) damage-CONTRIBUTION loot ('with X% damage dealt!') + crafting-material drops ('Aspect of...'). (4) XP## EPIC-TIER suffix on a defeated realm boss ('(XP3)'). (5) multi-name realm event ANNOUNCERS (Iisan/Deathmage/Joshmoroe persona prefixes on spawn/defeat lines). Realm-roaming, not a dungeon.",
+ "uncertain": "REALM-roaming clip, not a dungeon: NO single boss fought with a taunt -> bosses=[]. Chat is heavily WASHED OUT over the bright tan/green floor (needed aggressive threshold) -> only event-feed + loot lines recovered (Hermit God spawn, ominous Dragon spawn, an XP3 boss 'The Pit[?]' defeated); names are partial/feed-only, not arena-fought. The b002@5s 'fight' is sparse scattered realm bullets (no clean geometry); b003/b004 'bossends' are the RIP + outro END-CARDS, not boss fights. 'Solo Thief' tooltip read cleanly from t001 (high confidence on that item). Announcer prefixes may be player names, not NPC personas -> flagged.",
+ "confidence": "LOW (no boss/taunt) but with ONE solid CUSTOM-ITEM find. GENUINE ROTF (RuinedBow). Best find: the 'Solo Thief' UT item (clear tooltip: anti-group '+25% loot per player' drawback + 'Robber' speciality) — a buildable custom item lead. Plus corroboration of the Runes menu, damage-% + crafting-material loot, XP## epic tier, and realm event bosses (Hermit God/ominous Dragon/an XP3 boss). Recorded honestly: bosses=[] (none fought with a taunt), event bosses as feed-only leads, washed-out chat noted, end-cards not mistaken for fights, no fabrication. Best follow-up: a dungeon clip with readable chat; build the 'Solo Thief' item."
+}

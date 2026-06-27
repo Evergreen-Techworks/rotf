@@ -1,0 +1,30 @@
+{
+ "dungeon": "ROTF realm-clear run (685 frames) — Marble Colossus + Lycaon taunts CONFIRMED, new bosses (Shade of Nexus, Lucky Ent God, Golden Oryx Effigy, Pulse), CRATE/lootbox + Loot Notifier system. GENUINE ROTF.",
+ "source": "video disc_XQUmPL07sFY (685 f_, 171 chat, 86 minimap, 3 transitions). Biomes (contact sheet): RED BRICK boss arena, PURPLE RITUAL/SUMMONING CIRCLE, RAINBOW pixel-art grid (possible Rainbow Road), blue water+brick dock, grey stone labyrinth. Very heavy chat: realm event feed + a 'Loot Notifier' crate-unbox feed + verbatim boss taunts.",
+ "bosses": [
+  {"name":"Marble Colossus","phases":["catacombs guardian, weakening"],"attacks":[],"minions":[],"colorFlashes":"","taunts":["I feel myself... slipping...","PAH! The dark[/prohibited] arts... [partial]"],"note":"DOCUMENTED-from-chat. CONFIRMS the ledger Marble Colossus taunts ('I feel myself... slipping...' + the 'PAH! ... arts...' line). Catacombs guardian — clean to build (no base collision per prior check)."},
+  {"name":"Lycaon","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["FLESH AND BLOOD!","FRESH MEAT!"],"note":"DOCUMENTED-from-chat. CONFIRMS ledger Lycaon 'FLESH AND BLOOD!' + adds a 2nd verbatim taunt 'FRESH MEAT!'. Werewolf boss, clean to build."},
+  {"name":"Golden Oryx Effigy","phases":[],"attacks":[],"minions":["protectors"],"colorFlashes":"","taunts":["My protectors..."],"note":"DOCUMENTED-from-chat. Golden Oryx Effigy is a base-RotMG realm-event boss that summons protectors — verify base collision before any build (likely base, enrich)."},
+  {"name":"Shade of Nexus","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat (NEW name): feed 'The Shade of Nexus has been defeated'. Realm event boss."},
+  {"name":"Lucky Ent God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'Lucky Ent God has just spawned!' / 'The Lucky Ent God has been defeated'. CORRECTION — earlier read 'Lucky Lint God' (disc_wsRSijbExRI/disc_XGl3pTaNmTM) is actually 'Lucky Ent God' (an Ent/tree luck boss). Realm event meme boss."},
+  {"name":"Pulse","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: announcer 'Chimera - Pulse has just spawned!'. Pulse = ledger TODO realm boss, now confirmed as a real realm event spawn."},
+  {"name":"God of Luck","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You can use your [Luck]... [partial]"],"note":"DOCUMENTED-from-chat. Matches ledger God of Luck 'You can use your Luck...' (Lucky Potion cooldown boss)."},
+  {"name":"Zucc","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Where has my unidentified [?]... [partial]"],"note":"DOCUMENTED-from-chat, partial. The Zuck/Zucc meme boss (see disc_XGl3pTaNmTM 'Starforce - The Zuck')."}
+ ],
+ "minions": [],
+ "drops": ["Endless Torment! (UT unboxed via crate)", "Warrior's Armor (unboxed)", "various armors (Maxred/High Armor — unbox feed)"],
+ "event_bosses_seen_in_global_feed": [
+  "The Realm Giant (Phoenix announcer)",
+  "Ghost Ship has just spawned (Phoenix)",
+  "The Cube God has been defeated (Qbost)",
+  "A God of Reptilians (Demon announcer)",
+  "Pulse has just spawned (Chimera)",
+  "The Shade of Nexus has been defeated (Bat)",
+  "Lucky Ent God spawned/defeated (Bat)",
+  "The Grand Sphinx has been defeated (Spectre)",
+  "Treesmasher/'troosmaster' has just spawned"
+ ],
+ "mechanics": "DOCUMENTED: (1) CRATE / LOOTBOX system — 'You have opened a crate! Obtaining...' + a global 'Loot Notifier' feed: 'Loot Notifier - [player] just unboxed [item]'. Items unboxed include Warrior's Armor, Endless Torment (UT), various armors. (2) DAMAGE-CONTRIBUTION LOOT — drops/unboxes tagged 'with N% damage dealt!' (3%, 6%, 20%, 26%...) with on-screen X2/X3 multiplier markers (bag-tier or roll multipliers). (3) POTION STORAGE FULL — 'Potion Storage full! Potion of Wisdom/Defense...' (storage cap reached; complements the 'N left to max' + overflow->vault lines from prior tags). (4) Realm uses named NPC ANNOUNCERS for the event feed (Phoenix / Bat / Demon / Chimera / Spectre / Qbost prefix each boss spawn/defeat line). (5) Marble Colossus + Lycaon are realm/dungeon bosses with the confirmed taunts above.",
+ "uncertain": "Marble Colossus 2nd taunt partial ('PAH!/PFSTS! ... arts...'). Whether the named prefixes (Phoenix/Bat/Demon/Chimera) are random-mob announcers (like the /30 system narrators) or players is likely the former. 'troosmaster' is probably 'Treesmasher' (Collapsed Woods boss) as a realm spawn. Rainbow pixel-grid biome = possible Rainbow Road but no entry name captured. Zucc taunt fragment.",
+ "confidence": "HIGH for the verbatim chat: Marble Colossus + Lycaon taunts (Lycaon now 2 lines), Golden Oryx Effigy 'My protectors...', Lucky Ent God name correction, Pulse spawn, the crate/Loot-Notifier + Potion-Storage-full systems. MEDIUM for partials (Marble 2nd line, Zucc). GENUINE ROTF."
+}

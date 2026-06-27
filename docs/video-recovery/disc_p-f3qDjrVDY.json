@@ -1,0 +1,34 @@
+{
+ "dungeon": "ROTF realm run (219 frames) — login screen CONFIRMS 'Revenge the Fallen'. Confirms Firebreather/Archdemon Malphas/Suspicious Dragon taunts; new Starforce boss 'Gem Gem'; void-coins + identify-receipt systems. GENUINE ROTF.",
+ "source": "video disc_p-f3qDjrVDY (219 f_, 55 chat, 27 minimap, 2 entries). Contact sheet TOP-LEFT = the 'Revenge of the Fallen' login/menu screen (server CONFIRMED). Biomes: green grass/forest, grey stone rooms, heavy ORANGE/RED LAVA areas, sandstone, red brick boss rooms, purple dungeon. On-screen 'X/16' completion overlays. NOTE: chat has heavy toxic/slur spam (not transcribed).",
+ "bosses": [
+  {"name":"Firebreather","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Your courage softens me..."],"note":"DOCUMENTED-from-chat. CONFIRMS the built Firebreather taunt (BehaviorDb.FlamingHearth.cs). Spawns as a realm event ('A Firebreather has just spawned!')."},
+  {"name":"Archdemon Malphas","phases":["...->defeated"],"attacks":[],"minions":[],"colorFlashes":"","taunts":["I have been defeated..."],"note":"DOCUMENTED-from-chat. CONFIRMS the ledger Malphas death taunt. Malphas = base Abyss of Demons boss (BehaviorDb.Abyss.cs) -> ENRICH the base behavior with the recovered taunt arc, do NOT build new."},
+  {"name":"Suspicious Looking Dragon","phases":[],"attacks":["ground/earthquake theme"],"minions":[],"colorFlashes":"","taunts":["...vibrations from deep down below..."],"note":"DOCUMENTED-from-chat. 2nd recovery of this taunt (also disc_XGl3pTaNmTM) -> now HIGH confidence. Earthquake/ground dragon boss."},
+  {"name":"Gem Gem","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat (NEW): 'Starforce - A Gem Gem has just spawned!'. A STARFORCE-zone boss (2nd Starforce boss after 'The Zuck'). Gem/crystal meme boss."},
+  {"name":"Lucky Djinn","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'Scorpion - A Lucky Djinn has just spawned!'. Another 'Lucky-X' meme luck boss (family: Lucky Ent God, Lucky Orion Bot, Lucky Djinn)."},
+  {"name":"Vampire","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'Reaper - A Vampire has just spawned!'. Possibly tied to the ledger 'Lord Ruthven' vampire partial."}
+ ],
+ "minions": [],
+ "drops": [
+  "Gravedigger's Shovel (built UT; traded for 226k)",
+  "fire swords (sold in bulk, 8-15 for ~1000)",
+  "cee key (a key item)",
+  "Seal of Blasphemous[?] (item, being bought)",
+  "Soul [of the Beast?] (from a special crate)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "A Treesmasher has just spawned! / defeated",
+  "The Cube God has been defeated",
+  "A Grand Sphinx has just spawned!",
+  "The Asgard Guardian has been defeated",
+  "The God of Reptilians has been defeated",
+  "A Riverborn has just spawned!",
+  "Starforce - A Gem Gem has just spawned!",
+  "A Lucky Djinn has just spawned!",
+  "A Vampire has just spawned!"
+ ],
+ "mechanics": "DOCUMENTED: (1) SERVER CONFIRMED ROTF (login screen). (2) VOID COINS currency — 'has analyzed a bag of void coins! Obtaining...' (a coin bag you analyze/open for loot). (3) IDENTIFY-RECEIPT item system — items drop unidentified; 'You have identified the receipt! Obtaining...' reveals the item (an unidentified-item gating mechanic). (4) SPECIAL CRATE unboxing + Loot Notifier (consistent with prior tags). (5) STARFORCE zone has multiple meme bosses (Gem Gem here, The Zuck earlier) announced via 'Starforce -' prefix. (6) 'X/16' COMPLETION COUNTER — death-notifier format is [N/16, fame] (e.g. [8/16, 597], [8/16, 376]) and the screen shows '6/16'/'8/16' overlays -> likely 16 CLASSES, counter = how many are 8/8-maxed (combines with the '8/8' per-class stat maxing from the guide tag). (7) STAT-POT caps + 'You're now maxed' + overflow-to-vault recur. (8) Commands: /vault /realm /nexus /ah /starforce /tp /tell.",
+ "uncertain": "'X/16' counter interpretation (16 classes maxed vs 16 stats) is inferred, not stated. 'Gem Gem' / 'cee key' / 'Seal of Blasphemous' exact spellings partial. Malphas full arc not all captured (just the death line here). Dungeon entry names not legible (2 transitions, lava biomes).",
+ "confidence": "HIGH that this is GENUINE ROTF (login screen) and for the confirmed taunts (Firebreather, Archdemon Malphas, Suspicious Dragon) + the void-coins / identify-receipt / Starforce-Gem-Gem findings. MEDIUM for the /16 counter meaning + partial item names."
+}

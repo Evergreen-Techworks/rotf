@@ -1,0 +1,5 @@
+# Wand of the Frozen Queen
+# https://rotfserver.fandom.com/api.php?action=parse&page=Wand%20of%20the%20Frozen%20Queen&prop=wikitext
+
+{{ItemInfo|name = Wand of the Frozen Queen|desc = Ripped straight from the ground of te Frozen Queen's domain, this wand pierces your enemies with an unrelenting coldness|rarity = l|slot = wand|tier = UT|minDmg = 180|maxDmg = 200|shots = 1|rof = 110|range2 = 12|fameb = 7|effects = yes|pierce = yea|multihit = yea|bonuses = {{Stat|att|5}}{{Stat|dex|2}}|legendary = 4|dropsFrom = drops from Frozen Queen
+|slowed = 1}}

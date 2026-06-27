@@ -1,0 +1,28 @@
+# Fang of Frost
+# https://rotfserver.fandom.com/api.php?action=parse&page=Fang%20of%20Frost&prop=wikitext
+
+{{ItemInfo
+| name = Fang of Frost
+| slot = sword
+| tier = UT
+| rarity = u
+| desc = An unearthly metal forged into a blade colder than winter in all of it's fury. Thanks to: Nekrie.
+
+| rof = 140
+| range = 
+| projSpeed = 10
+| lifetime = 450
+| minDmg = 120
+| maxDmg = 165
+| feedp = 580
+| fameb = 6    
+
+| effects = yes
+| pierce = yes
+
+|lootbag = white
+|dropsFrom = is obtainable from Sprite World|range2 = 4.5}}
+<noinclude>
+{{NavSwords}}
+</noinclude><noinclude>
+[[Category:Swords]]</noinclude>

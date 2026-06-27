@@ -1,0 +1,4 @@
+# Bow of Fey Magic
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Bow%20of%20Fey%20Magic&prop=wikitext
+
+asdf

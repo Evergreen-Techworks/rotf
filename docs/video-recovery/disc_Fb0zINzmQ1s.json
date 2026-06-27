@@ -1,0 +1,57 @@
+{
+ "dungeon": "GENUINE target-server PROMO/CHANGELOG video — launcher header 'ELEMENTAL REALMS' (texture/support/servers/play), played/narrated by VoltiPlay (the OWNER: 'Undead Lair opened by VoltiPlay', 'VoltiPlay: Spawning 10 Abyss Chest' admin commands, owner Legendary drops). SERVER-IDENTITY NOTE: this is VoltiPlay's server — the SAME owner whose content the project already treats as ROTF (God of Amber Stones showcase disc_CnZQkLsjBVI, Wonderland/Queen of Hearts disc_EM9Uba-Nv08). So 'Elemental Realms' is very likely the actual brand-name of the ROTF target server (DISTINCT from the unrelated 'Void Realm' server flagged in disc_f-3WUcp2jFI). A feature-showcase, not a clean dungeon run: overlays advertise Custom Items / donor shop / Token system / Changed Dungeons / 'market /level20' / Nexus change.",
+ "map": "DOCUMENTED-from-showcase-clips (quick cuts, not full runs): a tour across many biomes — grass REALM (mushroom enemies), ORANGE/RED LAVA dungeons, BLUE/CYAN ice areas, dark SPACE/VOID rooms, grey-stone ARENAS, an Undead Lair (purple crypt). No single continuous layout (it's an edited promo); arenas shown as brief boss-showcase snippets. Loot/chest rooms (owner-spawned Abyss Chests).",
+ "bosses": [
+  {
+   "name": "Golem King",
+   "phases": ["casual/owner-banter boss; 'You Won!' on defeat, 'I will return for you.' as a retreat/death line"],
+   "attacks": ["showcase clip only (not isolated) -> approximate"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "Welcome Brono",
+    "Thats not funny!",
+    "F*ck off to nexus",
+    "You Won!",
+    "I will return for you.",
+    "I'd be better"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Golem King'). CASUAL/MEME taunt set (owner-flavoured banter; fits the heritage-meme branding) -> NEW custom build candidate. 'Welcome Brono' likely addresses a player named Brono. Lines clear but informal."
+  },
+  {
+   "name": "The Magical lord of sky",
+   "phases": ["multi-part boss: a central 'Magical lord of sky' + 'Right hand' and 'Left hand' add-bodies (Lost-Halls/Skull-Shrine-style hands)"],
+   "attacks": ["showcase clip only -> approximate"],
+   "minions": ["Right hand of Magical lord of sky", "Left hand of Magical lord of sky"],
+   "colorFlashes": "",
+   "taunts": [
+    "I will catch you baby...",
+    "Haha! Don't worry."
+   ],
+   "note": "DOCUMENTED-from-chat (boss + its two named HANDS each speak 'Haha! Don't worry.'). NEW custom multi-part boss candidate (a central body with destructible left/right hands). Lines clear."
+  },
+  {
+   "name": "Oryx the Mad God (custom guardian taunts)",
+   "phases": [],
+   "attacks": [],
+   "minions": ["3 Cyclops Gods", "Lord of the Lost Lands"],
+   "colorFlashes": "",
+   "taunts": [
+    "Cretins! I have 3 Cyclops Gods to guard me!",
+    "My Lord of the Lost Lands will make short work of you"
+   ],
+   "note": "DOCUMENTED-from-chat. Custom Oryx GUARDIAN-boast taunts (naming guardian bosses) — consistent with the HP-boast/guardian Oryx pattern seen on this server (disc_EMgDk9BDwOE, disc_ehEBWCzq3fs). Likely ROTF-custom Oryx flavour; the guardian-count style matches base RotMG too -> verify before treating as original."
+  }
+ ],
+ "minions": ["Right hand of Magical lord of sky", "Left hand of Magical lord of sky"],
+ "drops": [
+  "Legendary drops (owner VoltiPlay loot notifications)",
+  "Abyss Chests (owner-spawned via 'Spawning 10 Abyss Chest')"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Undead Lair (opened by VoltiPlay)"
+ ],
+ "mechanics": "DOCUMENTED SERVER FEATURES (the main value — this is a CHANGELOG/promo): (1) 'Elemental Realms' launcher branding + VoltiPlay = OWNER -> server-identity clarification (= the ROTF target server, vs the separate 'Void Realm'). (2) a TOKEN drop-guarantee system ('Tokens, if you use them it will guarantee... more drops late in chest / vault... and to refund'). (3) a DONOR SHOP + CUSTOM ITEMS ('Custom Items / donor shop for donaters'). (4) 'Changed Dungeons:' + 'Custom Dungeon; we will add more soon...' (the server adds/edits custom dungeons over time). (5) a 'market /level20 (for 2 week)' command/event + 'Nexus will change soon'. (6) owner admin spawn commands ('Spawning 10 Abyss Chest'). NEW bosses captured: Golem King (meme banter) + The Magical lord of sky (multi-part with Left/Right hands). Custom Oryx guardian taunts. Attacks are showcase-glimpses (edited promo, no bossends).",
+ "uncertain": "It's an edited PROMO (quick cuts) -> boss ATTACKS not isolated (showcase only), map is a biome tour not a layout. Golem King's taunts are casual/informal (owner banter) -> genuine but low combat-flavour. The Oryx guardian lines may overlap base-game canon (flagged). SERVER IDENTITY: 'Elemental Realms' is INFERRED to be the ROTF target server via the VoltiPlay-owner link (strong, but the 'ROTF / Revenge of the Fallen' name vs 'Elemental Realms' brand relationship is not explicitly stated on-screen).",
+ "confidence": "MEDIUM-HIGH for the server-FEATURE documentation (Token/donor/custom-dungeon/market systems — clear overlays) and the server-identity link (VoltiPlay owner -> Elemental Realms = the ROTF server). MEDIUM for the NEW boss candidates Golem King + The Magical lord of sky (clear taunts, but attacks/arenas are showcase-only). GENUINE owner content. Net value: clarifies the server brand ('Elemental Realms', distinct from 'Void Realm'), documents the custom Token/donor/dungeon systems, and adds 2 new boss candidates + custom Oryx guardian lines. Best follow-up: a non-promo run of Golem King / Magical lord of sky to capture attacks + complete arenas."
+}

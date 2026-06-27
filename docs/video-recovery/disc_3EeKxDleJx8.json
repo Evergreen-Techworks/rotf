@@ -1,0 +1,13 @@
+{
+ "dungeon": "NOT ROTF / NOT RotMG — misqueued video. This is a MINECRAFT server promo TRAILER for 'VALOR', a Hardcore Factions (HCF) server. Logo end-card: VALOR shield/sword emblem, 'Hardcore Factions Season 1 — Releasing July 25th, 1PM EST', 'mc.valorserver.com', 'discord.gg/valormc'. All footage is 3D blocky Minecraft cinematics (lava/Nether b-roll, explosions), not 2D top-down RotMG. No buildable ROTF content.",
+ "map": "N/A (not RotMG). Frames are 3D Minecraft cinematic shots; minimap_*.png crops captured sky/blur (no RotMG HUD minimap present). No top-down dungeon layout.",
+ "bosses": [
+  {"name":"(none — not RotMG)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"No RotMG bosses. The 9 bossends/ frames are PROMO text cards + Minecraft b-roll, not boss fights. blackdetect fired on the trailer's edited cuts (montage caveat applies to non-RotMG edited video too)."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "N/A — not ROTF. It is a MINECRAFT Hardcore Factions (HCF) server trailer. Promo overlays: 'A UNIQUE SPIN ON REGULAR HCF', 'FREQUENT SERVER-WIDE EVENTS', 'CUSTOM TUNES & ELITE MONSTERS' (Minecraft-Factions feature claims, not RotMG). chat_*.png crops captured Minecraft block terrain (stone/lava/grass), not a 2D chat box. PROCESS NOTE: channel-expansion keeps pulling in non-RotMG uploads from creator channels (cf. disc_1G51S6l2xL4 = a 3D castle game). 'Elite Monsters' here is a Minecraft term, NOT the ROTF Epic-Enemies system.",
+ "uncertain": "Identity as non-RotMG is CERTAIN (VALOR Minecraft HCF logo + mc.valorserver.com + 3D blocky graphics). Nothing buildable.",
+ "confidence": "HIGH that this is NOT ROTF/RotMG content. Zero buildable value. Recorded only to mark the tag analyzed and flag the channel-expansion mis-pull (2nd non-RotMG tag found)."
+}

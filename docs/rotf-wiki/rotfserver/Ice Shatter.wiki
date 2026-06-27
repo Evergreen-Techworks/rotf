@@ -1,0 +1,4 @@
+# Ice Shatter
+# https://rotfserver.fandom.com/api.php?action=parse&page=Ice%20Shatter&prop=wikitext
+
+{{ItemInfo|name = Ice Shatter|desc = A crystallized crossbow imbued with magical energy, firing icecles that freeze the bones of its victims, readying them for shattering|rarity = h|slot = bow|tier = ut|minDmg = 200|maxDmg = 225|shots = 1|rof = 125|range2 = 8|fameb = 5|effects = yes|slowed = 1|bonuses = {{Stat|att|3}}{{Stat|spd|4}}{{Stat|dex|5}}|dropsFrom = drops from the ice queen in icy peaks}}

@@ -1,0 +1,4 @@
+# Studded Leather Armor
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Studded%20Leather%20Armor&prop=wikitext
+
+asdf

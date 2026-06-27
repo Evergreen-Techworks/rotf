@@ -1,0 +1,15 @@
+{
+ "dungeon": "GENUINE ROTF FACECAM stream (webcam in the bottom-left over the chat box -> taunts unreadable). Long run (478 f_ frames) mostly through WHITE/GREY TREASURE-VAULT dungeons (rows of chests) + the green grass REALM. LOW yield: chat blocked (facecam), no prominent boss FIGHT captured (bossends/ empty). Biome/map data only.",
+ "map": "DOCUMENTED-from-frames+transitions+minimaps: WHITE/GREY BRICK-TILED VAULT dungeons — boxy grey rooms packed with brown CHESTS in grids, linked by tiled corridors (treasure-vault layout); and the green GRASS REALM (circular island) on the outer entries. No boss arena prominently captured; treasure-grind navigation.",
+ "bosses": [
+  {"name":"(none captured — facecam treasure-vault run)","phases":[],"attacks":["not captured: no prominent boss FIGHT in the frames (treasure-vault navigation; bossends/ empty for this tag) -> no attack geometry to trace"],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED: facecam covers the chat box -> no taunts. No boss fight captured (the run is treasure-vault grinding through chest rooms). Recurring low-yield facecam-channel pattern (cf. disc_41Voq7Bf5e8 / disc_AAdS1UqpPWc)."}
+ ],
+ "minions": [],
+ "drops": [
+  "treasure-vault chests (grids of loot containers; specific loot not legible — facecam)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED-limited (facecam): a ROTF run through WHITE/GREY TREASURE-VAULT dungeons (chest grids) + the grass realm. Chat box fully covered by the webcam -> no taunts / event feed / dungeon names confirmable. No prominent boss fight captured (treasure-grind navigation; bossends/ empty). Map read off f_ overview frames + minimaps. Recurring facecam-channel limitation.",
+ "uncertain": "No boss names/taunts (facecam blocks chat). No boss fight/attack captured (treasure-vault navigation). Vault dungeons not name-identified. Chest loot not legible.",
+ "confidence": "LOW. GENUINE ROTF but a facecam treasure-vault run -> biome/map catalog only (white/grey vault + grass realm), NO taunts/attacks/bosses recoverable. Recorded to mark the tag analyzed + flag the recurring low-yield facecam-channel pattern. Not a source of new content."
+}

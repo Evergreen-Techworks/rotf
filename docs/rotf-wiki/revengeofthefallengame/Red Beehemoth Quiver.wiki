@@ -1,0 +1,4 @@
+# Red Beehemoth Quiver
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Red%20Beehemoth%20Quiver&prop=wikitext
+
+asdf

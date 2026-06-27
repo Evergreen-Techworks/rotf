@@ -1,0 +1,15 @@
+{
+ "dungeon": "GENUINE ROTF FACECAM stream (webcam in the bottom-right of every gameplay frame; chat is player banter, not boss taunts). Long run (613 f_ frames) featuring a WHITE/GREY TILED TREASURE-VAULT dungeon (rows of chests) plus a DARK BOSS ARENA, with grass/forest + desert biomes passed through. LOW taunt yield (facecam + player chat); MEDIUM map + attack yield.",
+ "map": "DOCUMENTED-from-frames: a WHITE/GREY BRICK-TILED VAULT — large rooms with brown CHESTS/loot-containers arranged in a regular GRID across the floor (a treasure/loot-vault layout), connected by tiled corridors; and a separate DARK CIRCULAR BOSS ARENA (black floor) where a ring-firing boss is fought. Outer biomes glimpsed on entry: green grass/forest and tan desert. Room sequence not linearly traceable (stream).",
+ "bosses": [
+  {"name":"(dark-arena boss — unnamed; facecam/player-chat, no name)","phases":[],"attacks":["DOCUMENTED-from-frames: RADIAL RING/NOVA — boss in the dark arena fires a clean CIRCULAR RING of white/cyan bullets outward in all directions; reconstruct as Shoot count:~12-16 shootAngle:360/N (single expanding ring)"],"minions":[],"colorFlashes":"white/cyan","taunts":[],"note":"DOCUMENTED-from-frames only. Name not recoverable (webcam covers bottom-left chat; visible chat is player banter). The single-ring radial nova in a dark arena is the recoverable mechanic."}
+ ],
+ "minions": [],
+ "drops": [
+  "treasure-vault CHESTS (rows of loot containers; specific items not legible)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED-from-frames (facecam-limited): a ROTF run through a TREASURE/LOOT-VAULT dungeon — white/grey tiled rooms packed with grid-arranged chests — and a dark boss arena. ATTACK recovered: dark-arena boss fires a RADIAL RING/NOVA of white/cyan bullets. HUD shows an ability HOTKEY bar (SHIFT + A S D F keybinds) and '[Enter] To Chat' prompts. Visible chat is social/market ('Spyid has come online', 'DanRigby: its going to take getting used to', payment-method/discord lines) — no boss taunts or event feed confirmable (webcam over the chat box). Map read off f_ overview frames.",
+ "uncertain": "No boss names/taunts (facecam + player chat). Chest loot contents not legible. The SHIFT+ASDF hotkey bar suggests an abilities/keybind system but specifics unread. Dungeon name not captured.",
+ "confidence": "MEDIUM for MAP (treasure-vault chest-grid layout + dark boss arena) and ATTACK (single radial-ring nova, DOCUMENTED-from-frames). LOW for boss identity/taunts (webcam blocks chat). GENUINE ROTF (recurring facecam-channel limitation)."
+}

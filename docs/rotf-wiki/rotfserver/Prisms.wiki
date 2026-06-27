@@ -1,0 +1,15 @@
+# Prisms
+# https://rotfserver.fandom.com/api.php?action=parse&page=Prisms&prop=wikitext
+
+'''Prisms''' are used by [[Trickster|Tricksters]]. Upon activation, the player will be {{i|e|Teleport|Teleported}} to the targeted location, and a {{i|e|Decoy|decoy}} will be spawned in the location, the '''prism''' was activated at. The {{i|e|Decoy|decoy}} will move in a direction the player was moving, or in a random direction if the player was standing still. {{i|e|Decoy}} will cause the enemies to target it, but their shots will {{i|e|Passthrough|pass-through}} it. 
+==Production {{PAGENAME}}==
+'''''For production {{PAGENAME}} please follow this [https://www.realmeye.com/wiki/prisms link].
+
+==Custom {{PAGENAME}}==
+{|
+| {{ItemDisplay|A triangular cookie|a}}
+|}
+===Starforce {{PAGENAME}}===
+{|
+| {{ItemDisplay|Cosmic Phantom Prism|g}}
+|}

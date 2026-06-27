@@ -1,0 +1,15 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM) ROTF — Diagon + Shade of Novus taunts, PRIMAL/Angel's Touch items",
+ "source": "video disc_MszcvkbWED8 (242 frames, 36 transitions, 60 chat). Dark blue/purple dungeons with red-skull bosses + orange-DIAMOND bullet-hell. Overlays 'PRIMAL' + 'ANGEL'S TOUCH'. Chat captured two bosses' taunt sets.",
+ "map": "DOCUMENTED biomes: dark BLUE/PURPLE dungeons with RED-SKULL bosses firing ORANGE-DIAMOND bullet patterns (Diagon's arena), green grass, blue ice/water.",
+ "bosses": [
+  {"name":"Diagon","phases":[],"attacks":["orange-diamond geometric bullet-hell"],"minions":[],"colorFlashes":"red","taunts":["Enough of this. BEHOLD. THE PERFECTION OF DIAGON!"],"note":"DOCUMENTED VERBATIM (boss-colored chat). Diagon is the BUILT Twilight Necropolis mini-boss (0x8f71, drops Wand of Bone) — now with a taunt! A VAIN/geometric boss ('THE PERFECTION OF DIAGON') whose signature is the orange-DIAMOND bullet pattern. Enriches the build (was taunt-less)."},
+  {"name":"Shade of Novus (Novus)","phases":["ritual/resurrection"],"attacks":[],"minions":[],"colorFlashes":"red/blood","taunts":["With fresh blood in my veins, I will be restored to m[y full power]...","COME! LET THE RITUAL BEGIN!","Vengeance is within my grasp! RICHTUS WILL PAY!"],"note":"DOCUMENTED VERBATIM. 'Novus' (= the recurring 'Shade of Novus' event boss). A vengeful BLOOD/RITUAL boss seeking resurrection + revenge against someone named 'RICHTUS' (lore hook: Novus vs Richtus). Speaks as 'Novus' in-fight."}
+ ],
+ "minions": [],
+ "drops": ["PRIMAL-tier item (overlay 'PRIMAL' — the dev-blog Primal item tier)","Angel's Touch (overlay 'ANGEL'S TOUCH' — an item)"],
+ "event_bosses_seen_in_global_feed": ["Grand Sphinx (defeated 6/25 — /25 counter variant)","Warbringer (just spawned)","Lord of the Lost Lands (just spawned)","Suspicious Looking Dragon (defeated)"],
+ "mechanics": "DOCUMENTED: (1) DIAGON taunt + signature orange-diamond 'perfection' bullet-hell (enriches the built Necropolis Diagon). (2) SHADE OF NOVUS lore + taunts — a blood-resurrection/ritual boss with a vendetta against 'RICHTUS'. (3) PRIMAL item tier confirmed (overlay) — the highest dev-blog item tier (Legendary < Primal). (4) Item 'Angel's Touch'. (5) Event-counter denominator VARIES again — Grand Sphinx '(6/25)' (cf. /30, /35 elsewhere).",
+ "uncertain": "Novus's 1st taunt tail truncated ('restored to my full power'?). 'RICHTUS' is a lore name (boss? NPC? the player?) — unconfirmed. PRIMAL/Angel's Touch shown as overlays, not full item tooltips. Diagon/Novus attacks/HP not fully isolated.",
+ "confidence": "HIGH for the Diagon taunt (enriches built boss) + the Shade-of-Novus taunt set + the PRIMAL tier + the /25 counter variant. MEDIUM for the Richtus lore + Angel's Touch."
+}

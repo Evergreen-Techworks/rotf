@@ -1,0 +1,4 @@
+# The Searing Shower
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=The%20Searing%20Shower&prop=wikitext
+
+asdf

@@ -1,0 +1,13 @@
+{
+ "dungeon": "NOT ROTF / NOT RotMG — misqueued video. This is a 3D TACTICAL FIRST-PERSON SHOOTER (Valorant — agent-ability HUD, first-person gun viewmodel + weapon skins, round timer, top-right minimap) with a FACECAM + an intro overlay ('Sorry if I sound sick in this video') and a 'STAR[...]' overlay. RotMG/ROTF is 2D top-down pixel art, so this is unrelated content. No buildable ROTF content.",
+ "map": "N/A (not RotMG). 3D FPS maps (tactical-shooter bombsites/corridors), not a 2D top-down tiled dungeon.",
+ "bosses": [
+  {"name":"(none — not RotMG)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"No RotMG bosses. 3D FPS gameplay (Valorant). chat_*.png crops captured 3D FPS scenes + the facecam, not a 2D chat box. bossends/ empty (no fade-to-black dungeon loads). blackdetect would only fire on FPS round transitions if at all."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "N/A — not ROTF. It is a 3D tactical FPS (Valorant-style: agent abilities, gun skins, round-based, minimap). PROCESS NOTE: this is another non-RotMG channel-expansion mis-pull (cf. disc_1G51S6l2xL4 = 3D castle game; disc_3EeKxDleJx8 = Minecraft VALOR HCF; disc_52kMPzz6YCk = Minecraft Dungeons; disc_5GcUXz4hpMA = browser spin-wheel; disc_7SDqBpBCtIM = stream room-tour). Creator channels post mixed content; the discovery step keeps pulling unrelated uploads.",
+ "uncertain": "Identity as non-RotMG is CERTAIN (3D first-person shooter graphics + FPS HUD). Exact FPS title (Valorant most likely from the agent-ability HUD) not critical. Nothing buildable.",
+ "confidence": "HIGH that this is NOT ROTF/RotMG content (3D tactical FPS). Zero buildable value. Recorded only to mark the tag analyzed and flag the recurring channel-expansion mis-pull (now 6th non-ROTF/non-gameplay tag)."
+}

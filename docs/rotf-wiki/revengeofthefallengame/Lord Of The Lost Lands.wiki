@@ -1,0 +1,4 @@
+# Lord Of The Lost Lands
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Lord%20Of%20The%20Lost%20Lands&prop=wikitext
+
+asdf

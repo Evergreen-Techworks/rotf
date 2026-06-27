@@ -1,0 +1,12 @@
+{
+ "dungeon": "Realm World Boss — Nyx of Fire (the 'Demon Lady')",
+ "source": "aced.gg dev blog 2021-01-10 (design) + 2021-01-17 (fight preview, Miniguy) — DOCUMENTED",
+ "map": "Realm WORLD BOSS (spawns in the realm). During the fight the WORLD TRANSFORMS (a fire/demon transformation of the area).",
+ "bosses": [
+   {"name":"Nyx of Fire","phases":["bullet-hell patterns","EVIL PLAYER PHASE — Nyx recruits/mind-controls a real player to fight FOR her against the group","world-transformation phase","clone phase (a clone jumps in from the left, using a new projectile-pathing system)"],"attacks":["fire bullet-hell patterns","minion summons","mind-controlled player"],"minions":["fire/demon minions (custom animated)"],"colorFlashes":"fire red/orange","taunts":[]}
+ ],
+ "drops": [],
+ "mechanics": "DOCUMENTED (dev blog): Nyx of Fire is a fire/demon WORLD BOSS. Signature mechanic = 'EVIL PLAYER PHASE' — she recruits a player to fight on her side (mind-control/turn a player against the group). The WORLD visually transforms during the fight. Uses a new projectile-pathing system (clone jumps in from the left) — the same pathing system used in the Gate-to-the-Underworld lord fight. Same designer (Shmitty) also did ToDD, Soul Harvest, Legendary/Primal items. NOTE: ACED's later build was a UNITY port (our base is the Flash X3.1.1 client).",
+ "uncertain": "Exact bullet patterns/timings, minion names, drops, and how the 'evil player phase' is implemented mechanically not fully specified. Raw text: docs/aced-blog/nyx-of-fire.txt + demon-lady-design.txt.",
+ "confidence": "MEDIUM-HIGH for fight concept (evil-player phase + world transform + clone, DOCUMENTED); LOW for exact patterns/drops."
+}

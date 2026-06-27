@@ -1,0 +1,39 @@
+{
+ "dungeon": "GENUINE ROTF/RotMG multi-dungeon run (~634s, 10 entries) — headline find is JON BILGEWATER THE PIRATE KING, a cannon/parrot/barrier pirate boss with a FULL verbatim taunt set (wide-re-crop read). Also base-game corroboration: Oryx realm-announcer lines + the Grand Sphinx (garbled scream, already built). Chat readable for the pirate fight.",
+ "map": "DOCUMENTED-from-transitions: a 10-entry multi-dungeon hop — a grey CHECKERED-GRID arena, a dark boss arena (red/orange enemies), GREEN forest/grass, tan DESERT (Grand Sphinx), dark SPACE/VOID, + the pirate-boss arena (Jon Bilgewater). Realm/Nexus hub between (Oryx 'Welcome to Realm of the Mad God' + 'Australia Nexus Portal Cube'). No bossends -> arenas catalogued, attacks from taunt-named patterns.",
+ "bosses": [
+  {
+   "name": "Jon Bilgewater the Pirate King",
+   "phases": ["BARRIER ACTIVATE! (invulnerable-barrier phase, repeated) <-> vulnerable", "summons PARROTS; enrages when parrots die ('YOU'LL PAY FOR KILLING MY PARROTS!')"],
+   "attacks": ["DOCUMENTED-from-taunt-names (no bossends -> geometry reconstructed): 'CANNON CLUSTER' = a cluster/spread of cannonball bullets; 'CANNON BARRAGE' = a heavy multi-bullet barrage; 'PEWPEWPEW!' = rapid cannon fire. Class: spread/cluster + barrage. BARRIER phase = periodic invulnerability ('BARRIER ACTIVATE!')."],
+   "minions": ["Parrots"],
+   "colorFlashes": "",
+   "taunts": ["PEWPEWPEW!", "Check out my AWESOME CANNON CLUSTER!", "Now you're making me angry! PARROT!", "YOU'LL PAY FOR KILLING MY PARROTS!", "CANNON BARRAGE!"],
+   "note": "DOCUMENTED-from-chat VERBATIM (wide-re-crop of f_ frames + 3x chat-crop reads; 'Jon Bilgewater the Pirate King:' prefix confirmed). A cannon/parrot/BARRIER pirate boss: summons PARROTS, has a periodic invuln BARRIER ('BARRIER ACTIVATE!'), cannon attacks (CANNON CLUSTER/BARRAGE/PEWPEWPEW). *** BASE-GAME-vs-ROTF-CUSTOM UNCERTAIN ***: base RotMG's pirate-king is 'Dreadstump' (Pirate Cave) — 'Jon Bilgewater' is a DIFFERENT name w/ distinctive cannon/parrot/barrier lines -> likely CUSTOM (verify vs base XML before building). Strong candidate if custom: full taunt set + clear mechanic."
+  },
+  {
+   "name": "Grand Sphinx",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["OOaoaoAaAoaAAOOAoaaooaa!!!"],
+   "note": "DOCUMENTED-from-chat: the garbled Sphinx scream -> CORROBORATES the BUILT Grand Sphinx (BehaviorDb.Sphinx.cs line 118 'OOaoaoAaAoaAAOOAoaaoooaa!!!'). BASE-game desert boss. Also a '...you foul ruffian! Do not climb the Grand Sphinx!'-style line addressed at a player."
+  },
+  {
+   "name": "Oryx the Mad God (realm announcer)",
+   "phases": [],
+   "attacks": [],
+   "minions": ["minions", "6 Cyclops Gods"],
+   "colorFlashes": "",
+   "taunts": ["You are food for my minions!", "My 6 powerful Cyclops Gods will smash you!"],
+   "note": "DOCUMENTED-from-chat. BASE-GAME Oryx realm-announcer lines (Nexus/realm entry + Cyclops-God event) -> canonical, not ROTF-custom."
+  }
+ ],
+ "minions": ["Parrots (Jon Bilgewater)"],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: (1) *** JON BILGEWATER THE PIRATE KING *** — cannon/parrot pirate boss with a periodic INVULNERABILITY BARRIER ('BARRIER ACTIVATE!', repeated), PARROT minions (enrages on their death: 'YOU'LL PAY FOR KILLING MY PARROTS!'), and cannon attacks ('CANNON CLUSTER', 'CANNON BARRAGE', 'PEWPEWPEW!'). Full taunt set captured. (2) base-game corroboration: Grand Sphinx (garbled scream = built line) + Oryx realm-announcer ('You are food for my minions!' / 'My 6 powerful Cyclops Gods will smash you!'). GENUINE ROTF/RotMG.",
+ "uncertain": "Jon Bilgewater base-vs-custom UNCONFIRMED (likely custom — distinct from base 'Dreadstump'; verify vs base XML). A first-pass LOW-RES montage seemed to show merchant-style lines ('Welcome friends to The Pearl' / 'Marvel at the wonders of the Pearl' / 'All this can be yours if you...') but these did NOT reappear in the clear 3x/wide re-reads -> recorded as UNCONFIRMED (possible misread or a separate merchant NPC; NOT asserted as Jon Bilgewater taunts). Attack GEOMETRY reconstructed from taunt-names (no bossends). Grand Sphinx + Oryx = base-game.",
+ "confidence": "HIGH for the Jon Bilgewater TAUNTS (full set, wide-re-crop verbatim, boss-prefix confirmed) + his mechanic (barrier/parrots/cannons). MEDIUM for base-vs-custom (likely custom; flagged to verify). LOW for exact attack geometry (reconstructed from taunt-names, no bossends). HIGH for the base-game corroboration (Sphinx = built; Oryx canonical). Net value: a well-characterized NEW pirate-boss candidate (Jon Bilgewater — full taunts + barrier/cannon/parrot mechanic) IF confirmed custom. Best follow-up: verify 'Jon Bilgewater' vs base XML + a single-boss clip for cannon-bullet geometry. The unconfirmed 'Pearl' lines flagged, not built."
+}

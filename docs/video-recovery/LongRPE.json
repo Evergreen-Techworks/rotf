@@ -1,0 +1,31 @@
+{
+ "dungeon": "ROTF 'Hour of Twilight' season marathon (651 frames, ~42 entries) — confirms ToDD-in-realm, The Mysterious Card + Cookie Monster spawns, Oryx taunts; new items (Prejudice, Ring of Cosmic Momentum). GENUINE ROTF.",
+ "source": "video LongRPE (651 f_, 976 chat, 488 minimap, 42 entries). Login = the 'HOUR OF TWILIGHT' season screen (red demon logo) -> ROTF confirmed (Hour of Twilight is a ROTF season title). Biomes (transitions): recurring orange-triangle BRICK dungeon, sandstone temples/labyrinths, a PINK boss arena, lava crater, RAINBOW pixel-grid dungeon, green realm, purple/red dungeons. Heavy chat event-feed + crate unboxes.",
+ "bosses": [
+  {"name":"Oryx the Mad God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["YOU WILL NOT...","Can't... keep..."],"note":"DOCUMENTED-from-chat (partial). The Hour-of-Twilight-season Oryx — new taunt fragments ('YOU WILL NOT...', 'Can't... keep...'). The realm-close boss."},
+  {"name":"Craig, The Worst Nightmare","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["So if you don't want to suffer... [partial]"],"note":"DOCUMENTED-from-chat. The recurring Craig middle taunt (still truncated)."},
+  {"name":"The Mysterious Card","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'Mummy - The Mysterious Card has just spawned!'. CONFIRMS the ledger TODO boss 'The Mysterious Card' (magician event boss, taunt 'With my sleight of hand...') as a live realm event."},
+  {"name":"Cookie Monster","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: spawned + 'The Cookie Monster has been defeated' (Hat/Bat announcers). Re-confirms the ledger Cookie Monster realm event boss."},
+  {"name":"Hive","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'Spire - Hive has been defeated' (partial). A 'Hive' boss (possibly base RotMG Hive / a swarm boss) — verify."},
+  {"name":"Tomb of Decaying Death (ToDD) — realm dungeon","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'SeverFifty - TODD IN REALM' + players 'todd'/'tp todd' -> ToDD's portal SPAWNS IN THE REALM and players TP to it. Confirms the built ToDD is a live realm-spawned dungeon (no interior footage here, just the realm-spawn confirmation)."}
+ ],
+ "minions": [],
+ "drops": [
+  "Prejudice (UT — unboxed via crate, 'just unboxed ... Prejudice!')",
+  "the ring of cosmic momentum (ring item)",
+  "Lucky Box (item/event seen in a transition)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "The Ghost Ship has been defeated (x2)",
+  "The Pulse has been defeated",
+  "Treesmasher has just spawned",
+  "The Cookie Monster spawned + defeated",
+  "The Firebreather has been defeated",
+  "The Mysterious Card has just spawned",
+  "Hive has been defeated",
+  "TODD IN REALM (ToDD portal spawned in realm)"
+ ],
+ "mechanics": "DOCUMENTED: (1) 'HOUR OF TWILIGHT' SEASON (login screen) — a ROTF season. (2) ToDD spawns as a REALM dungeon ('TODD IN REALM'); players TP to it. (3) The Mysterious Card + Cookie Monster are live realm event bosses. (4) POTION STORAGE FULL across many stats (Dexterity/Vitality/Mana/Life) — the stat-pot storage cap. (5) CRATE/Loot-Notifier unboxing with damage-% (24% dealt) — items incl. 'Prejudice' UT. (6) Named NPC announcers (Chimera/Spire/Sprite/Mummy/Hat/Bat) for the event feed. (7) NEW items: 'Prejudice' (UT), 'ring of cosmic momentum'.",
+ "uncertain": "Oryx taunts partial ('YOU WILL NOT...', 'Can't... keep...'). 'Hive' boss identity unclear (base RotMG Hive vs a ROTF boss). No ToDD INTERIOR footage (just the realm-spawn mention) — still useful but not the no-footage interior the cron flags. Item stats for Prejudice / Ring of Cosmic Momentum not captured. 42 entries only sampled.",
+ "confidence": "HIGH for the verbatim chat: The Mysterious Card + Cookie Monster spawns (confirm ledger), ToDD-in-realm, the Prejudice/Ring-of-Cosmic-Momentum items, Hour-of-Twilight season, Potion-Storage-full system. MEDIUM for Oryx/Craig partials + Hive. GENUINE ROTF."
+}

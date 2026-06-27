@@ -1,0 +1,32 @@
+{
+ "dungeon": "GENUINE ROTF multi-dungeon run (~223s, 6 entries). Corroboration-heavy: base-game Archdemon Malphas (Abyss) + a broad event-boss /25 feed (Warbringer[built]/Cube God/Uvuvwuwuwe[built]/Skull Shrine/Ghost Ship). No NEW boss isolated. One mildly-new (base) Malphas line flagged.",
+ "map": "DOCUMENTED-from-transitions+bossends: a 6-entry hop — grey/tan CHECKERED grid arenas, a RED/LAVA arena (scattered bullets), a red dungeon w/ structures, a GREY/MARBLE arena (white bullets, Shatters/Marble-style, b004 bottom-right), and dark SPACE/void. No single contiguous layout (multi-dungeon).",
+ "bosses": [
+  {
+   "name": "Archdemon Malphas",
+   "phases": [],
+   "attacks": ["not cleanly isolated this tag (multi-dungeon); base Abyss demon-bullet spread + minion swarm"],
+   "minions": ["demons / 'protectors' ('Kill my protectors, before you can...')"],
+   "colorFlashes": "",
+   "taunts": [
+    "You will regret your decision.. DIE!",
+    "My minions will slay you!",
+    "My minions are failing me! I will...",
+    "Kill my protectors, before you can..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Archdemon Malphas', grayscale-pull). BASE-GAME Abyss-of-Demons boss -> CANONICAL/no-build, corroboration. The first 3 match the known verbatim set (disc_PE04BhHHyBk). 'Kill my protectors, before you can...' is a possible additional/variant line (right-cut, single read) -> FLAGGED, base-game so NOT built; could be a base Abyss line or a ROTF Abyss-minion addition (cf. the Abyss demon-minion taunts in disc_qX4jc5j4MvY)."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [
+  "The Warbringer has been defeated! (18/25) — built ROTF boss",
+  "Cube God has just spawned! — base",
+  "Uvuvwevwevwe has just spawned! — built (meme boss)",
+  "Skull Shrine has just spawned! — base",
+  "The Ghost Ship has been defeated! (19/25) — base (Davy Jones dungeon)"
+ ],
+ "mechanics": "DOCUMENTED: base Archdemon Malphas (Abyss) corroboration + a server-wide EVENT-BOSS /25 defeat-counter feed (Warbringer 18/25, Ghost Ship 19/25) -> reinforces the build-variant /25 counter cap (vs /30 elsewhere; [[rotf-stat-systems]] note). Event bosses = mix of built ROTF (Warbringer/Uvuvwuwuwe) + base (Cube God/Skull Shrine/Ghost Ship). No new buildable boss; no clean attack geometry.",
+ "uncertain": "No NEW/ROTF-custom boss isolated (all = base Malphas + built/base event bosses). 'Kill my protectors, before you can...' is a single right-cut read attributed to Malphas (base) -> flagged, not built (base-game). Attacks not cleanly traced (multi-dungeon). High chat red-density partly = lava/dark floor. Event-feed names are spawn/defeat announcements (corroboration, not taunts).",
+ "confidence": "MEDIUM (corroboration) / NONE (new boss). GENUINE ROTF multi-dungeon run. Value = corroboration of base Malphas + a /25 event-feed (Warbringer/Ghost Ship counters; reinforces build-variant counter) + confirms built bosses (Warbringer/Uvuvwuwuwe) appear as realm events. No new buildable content. Recorded honestly. Best follow-up: a clean single-boss clip if the 'Kill my protectors' line is wanted (base Abyss, low priority)."
+}

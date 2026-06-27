@@ -1,0 +1,66 @@
+{
+ "dungeon": "GENUINE target-server multi-boss run (VoltiPlay the owner present; trade-heavy chat) across several biomes (red-lava, green-grass, blue, sand). GOOD taunt yield: a Ghost King resurrection narrative, two MEME bosses (Time Lord + Mewtwo), plus base-game Lich + a Haunted Spirit. Looks like a realm/boss-sampler run, not a single dungeon -> taunts solid, attacks cross-attributed.",
+ "map": "DOCUMENTED-from-frames (multi-biome run, not one dungeon): bosses fought across RED/ORANGE LAVA arenas, green GRASS realm, a BLUE/ice area, and SAND/desert pockets. No single coherent dungeon layout (boss-sampler/realm run) -> arena geometry not meaningfully attributable. A yellow knight/wizard boss sprite is the one being actively fought in several frames.",
+ "bosses": [
+  {
+   "name": "Ghost King",
+   "phases": ["resurrection narrative: regains flesh -> laments betrayal/loneliness"],
+   "attacks": ["not isolated (multi-boss run) -> approximate; base-game Ghost Ship boss patterns"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "Your secret soul master is dying, Your Majesty",
+    "I feel my flesh again! For the first time in a 1000 years I LIVE!",
+    "I am still so very alone",
+    "I cannot live with my betrayal..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Ghost King'). Ghost King = BASE-GAME RotMG (Ghost Ship) -> verify these resurrection lines vs base canon before treating as ROTF-custom (could be canonical or a custom enrich). Coherent narrative arc (soul-master dying -> 'I LIVE!' -> alone -> betrayal)."
+  },
+  {
+   "name": "Time Lord",
+   "phases": [],
+   "attacks": ["not isolated -> approximate"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["Do you know what time it is?", "It's time for you to die!"],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Time Lord'). A MEME boss (Doctor Who 'Time Lord' / time pun) -> fits the heritage-meme branding. NEW custom meme-boss candidate. ('Kaster: You better be worthy of my time!' nearby MAY be a Time Lord variant or a player named Kaster -> flagged uncertain, not claimed.)"
+  },
+  {
+   "name": "Mewtwo",
+   "phases": [],
+   "attacks": ["not isolated -> approximate"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["Well I can kill you outside!", "So you are trying to kill me?"],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Mewtwo'). A MEME boss (Pokemon Mewtwo). CORROBORATES the dev-queue 'enrich-mewtwo' task -> these lines can feed it (verify vs the built Mewtwo first). 'Well I can kill you outside!' is a verbatim grammatical quirk (keep as-is)."
+  },
+  {
+   "name": "Lich",
+   "phases": ["summons an army of undead"],
+   "attacks": ["summon-heavy (base-game Undead Lair Lich)"],
+   "minions": ["undead army"],
+   "colorFlashes": "",
+   "taunts": ["Time to meet your future brothers and sisters...", "...there's an ARMY of them! Hahahaaaa!!"],
+   "note": "DOCUMENTED-from-chat. Lich = BASE-GAME (Undead Lair). These army-summon lines may be canonical or a custom flavour -> verify vs base before treating as custom."
+  },
+  {
+   "name": "Haunted Spirit",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["Hungry..."],
+   "note": "DOCUMENTED-from-chat. A minor haunted enemy ('Hungry...'); likely a Ghost-Ship/undead add, not a major boss."
+  }
+ ],
+ "minions": ["undead army (Lich)"],
+ "drops": [
+  "(trade-heavy chat; specific drops not isolated)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Oryx the Mad God realm taunt ('My Lord of the Lost Lands will make short work of you, and despair!')"
+ ],
+ "mechanics": "DOCUMENTED: a VoltiPlay (owner) multi-boss/realm run. NEW MEME-boss candidate: 'Time Lord' ('Do you know what time it is? It's time for you to die!'). CORROBORATES the dev-queue Mewtwo ('Well I can kill you outside!', 'So you are trying to kill me?'). A Ghost King resurrection narrative (soul-master dying -> 'I feel my flesh again! ...I LIVE!' -> alone -> betrayal) + base-game Lich army-summon lines + a Haunted Spirit 'Hungry...'. PROVENANCE NOTE: Ghost King + Lich are BASE-GAME bosses -> their lines need a canon-check before being treated as ROTF-custom (cf. the Twilight Archmage/Forgotten King = base-game corrections). Attacks cross-attributed (multi-boss run, no isolated geometry).",
+ "uncertain": "Multi-boss run -> ATTACK geometry not isolable per boss. Ghost King + Lich are base-game -> their captured lines may be canonical (verify before claiming custom). 'Kaster: You better be worthy of my time!' ambiguous (Time Lord variant vs player). Drops lost in trade chat. The actively-fought 'yellow knight/wizard' boss sprite not name-confirmed.",
+ "confidence": "MEDIUM-HIGH for the chat taunts (boss-coloured, clearly read). NEW value: a 'Time Lord' meme-boss candidate + corroboration of the Mewtwo build task + a Ghost King resurrection taunt set. PROVENANCE-flagged the base-game bosses (Ghost King/Lich) for a canon-check. GENUINE target-server (VoltiPlay). Attacks LOW (multi-boss run). Recorded the new candidates honestly + flagged the base-game lines to avoid over-claiming."
+}

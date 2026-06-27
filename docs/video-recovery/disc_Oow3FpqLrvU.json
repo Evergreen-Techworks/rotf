@@ -1,0 +1,14 @@
+{
+ "dungeon": "(SANDSTONE TEMPLE / possible GALACTIC HUB, player imnoop) ROTF — third Spaceship dialogue line + Realm Giant event boss",
+ "source": "video disc_Oow3FpqLrvU (97 frames, 0 transitions, 24 chat; Flash client + Bandicam). A single sandstone/cream TEMPLE interior (brown-brick frames, tan floor, purple-tile accents, wall torches/statues). 0 transitions = single location. Chat = global feed incl. Spaceship dialogue.",
+ "map": "DOCUMENTED: a cream/white-walled TEMPLE interior with brown-brick frames, a tan/SANDSTONE floor with purple-tile patches, columns, torches, and purple statues/braziers. POSSIBLY the GALACTIC HUB / spaceship interior (the Spaceship announces fuel processing while the player is here) rather than a combat dungeon.",
+ "bosses": [
+  {"name":"Realm Giant","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED from feed: '<Bat> Realm Giant has just spawned!' — a (new) realm EVENT boss, a giant. No fight/taunt captured."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Lord of the Last Lands (defeated)","Ghost Ship (just spawned)","Asgard Guardian (defeated)","Realm Giant (just spawned)"],
+ "mechanics": "DOCUMENTED: D3 GALACTIC SPACESHIP dialogue — '<Spaceship> Fuel data is being processed.' This is the THIRD spaceship line, completing the launch dialogue ARC: 'Fuel data is being processed.' (after fuel deposit/extract) -> 'Initiating startup sequence.' (disc_koXrDxguF7o) -> 'Systems back online.' (disc_mnxP85v4SSY) -> arrive in the galactic/starfield zone. (Pairs with Fuel extraction, disc_Kei9ksQxGl4 '[59] Fuel'.) The sandstone-temple room may be the ship interior / galactic hub where fuel is processed. Player imnoop: 'i got unbanned in rotf', 'now i will start making rotf videos'.",
+ "uncertain": "Whether the sandstone-temple room is the spaceship hub/interior or a separate dungeon — unconfirmed (the Spaceship dialogue could be a global broadcast). Realm Giant's fight/taunt/drops not captured. No transitions to name the location.",
+ "confidence": "HIGH for the 'Fuel data is being processed' Spaceship line (completes the D3 launch arc) + the Realm Giant event + the sandstone-temple biome. MEDIUM for the hub-interior interpretation; LOW for the room's exact identity."
+}

@@ -1,0 +1,46 @@
+{
+ "dungeon": "GENUINE ROTF HALLOWEEN/HOLIDAY event compilation ('ARCHER 20 PART 2', player 'GUUI'; ~360s; PREVIOUS/RANDOM/SUBSCRIBE outro). CROWDED public boss EVENTS in a holiday-decorated cosmic realm. LOW NEW-content yield: chat is low-contrast over bright cosmic arenas + right-CUT + player-crowd heavy -> boss NAMES recovered but NO clean verbatim TAUNT. Value: corroboration of known Halloween bosses + a holiday item + event-chest mechanic.",
+ "map": "DOCUMENTED-from-frames+minimaps: the main arena (b001@204s) = a PURPLE/BLUE COSMIC GRID chamber decorated with green HOLIDAY TREES, roughly open/circular, ringed by a large player crowd. Other quick cuts show green/lime, red/lava, orange/sandy, and grey-checkered arenas (Part-2 compilation; only ONE full loading-transition detected @356s -> mostly one long event with quick scene cuts).",
+ "bosses": [
+  {
+   "name": "Haunted Armor",
+   "phases": [],
+   "attacks": ["not cleanly traced (crowd-obscured cosmic arena)."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-chat (boss-prefix '<Haunted Armor>' seen on multiple lines) but the TAUNT TEXT after the prefix is ILLEGIBLE/blank (low-contrast + right-cut) -> NO verbatim taunt recovered (NOT guessed). Halloween boss. Already known: 3 prior specs + 1 build/base ref -> corroboration; consolidate prior specs for its taunt set."
+  },
+  {
+   "name": "The Puppet Master",
+   "phases": [],
+   "attacks": ["not cleanly traced (crowd)."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-chat (name 'The Puppet Master' in feed; boss-prefix vs feed unclear, low-contrast). NO clean taunt recovered here. Already well-attested: 7 prior specs + 2 build/base refs -> corroboration; use prior specs for its taunts."
+  },
+  {
+   "name": "Oryx the Mad God",
+   "phases": [],
+   "attacks": ["not cleanly traced (crowd; purple cosmic arena)."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-chat (boss-prefix '<Oryx the Mad God>' on multiple lines, all right-CUT/illegible). BASE realm-boss. No clean taunt recovered here. Corroboration only."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Holiday weapon item (tooltip: Range 4, Rate of Fire ~6, Soulbound, 'Usable by: Warrior', Fame Bonus; name ends '...ondeer' — likely a Reindeer/holiday-themed weapon; partial)",
+  "Event Chest loot (public-event reward chest, repeated)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Haunted Armor (Halloween boss; also boss-prefix)",
+  "The Puppet Master (Halloween boss)",
+  "Oryx the Mad God (base realm boss)"
+ ],
+ "mechanics": "DOCUMENTED: a HALLOWEEN/HOLIDAY public EVENT — crowded boss fights in a cosmic arena decorated with holiday trees; 'Halloween Haunted...' event lines; an 'Event Chest' shared reward-chest mechanic; a holiday weapon drop (Soulbound, Warrior-usable, '...ondeer' name). Archer-class PPE run ('is this that archer ppe wtf?'). No NEW custom boss/taunt isolated (all named bosses are already known/built).",
+ "uncertain": "CROWDED HALLOWEEN compilation: chat is LOW-CONTRAST over bright cosmic arenas + lines are RIGHT-CUT + heavy player banter -> boss NAMES readable (Haunted Armor / The Puppet Master / Oryx) but TAUNT TEXT is illegible/blank after the prefix -> NO verbatim taunt recovered (deliberately NOT guessed). Attacks crowd-obscured (no clean geometry). Only ONE full loading-transition (@356s) despite many biomes -> mostly one long event with quick cuts. Haunted Armor + Puppet Master are already in prior specs/build -> corroboration, not new. Holiday item name partial ('...ondeer').",
+ "confidence": "LOW (new content) / corroboration. GENUINE ROTF Halloween event. NO clean new taunt recovered (chat illegible/cut over crowded bright arenas) -> taunts=[] for all bosses (honest: names only, text not legible). Value: corroborates known Halloween bosses (Haunted Armor 3 specs, The Puppet Master 7 specs) + documents the Halloween event-chest + holiday item + cosmic holiday arena. Recorded honestly: no guessed taunts, attacks marked crowd-obscured, named bosses flagged as known/corroboration. Best follow-up: a low-crowd, non-event clip of Haunted Armor / The Puppet Master for clean taunts + attack geometry."
+}

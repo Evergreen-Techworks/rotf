@@ -1,0 +1,4 @@
+# Eldritch Wand
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Eldritch%20Wand&prop=wikitext
+
+asdf

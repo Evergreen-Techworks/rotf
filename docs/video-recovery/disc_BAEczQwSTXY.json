@@ -1,0 +1,13 @@
+{
+ "dungeon": "Maxing/farming stream — Realm + multiple dungeons + event bosses (~15 entries)",
+ "map": "DOCUMENTED biomes from transitions/contact: cosmic/space bullet-hell zones, blue OCEAN, tan/sandy DESERT dungeons, red/orange LAVA boss arenas, grey stone dungeons, white/snow zones, green grass realm, and a dark zone with a red-brick structure + NPC dialog. Variety = a farming session across many areas.",
+ "bosses": [
+   {"name":"Oryx the Mad God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You are food for my m[inions...]"],"note":"Standard RotMG Oryx taunt (login realm)."},
+   {"name":"The Mad Jester (event boss)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"Announced defeated: '<Djinn> The Mad Jester has been defeated'."},
+   {"name":"Uvuvwevwevwe (event boss)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"Announced spawn: '<Djinn> a Uvuvwevwevwe has just spawned' — re-confirms the meme event boss (also seen in LimonSprite)."}
+ ],
+ "drops": [],
+ "mechanics": "DOCUMENTED: login MOTD 'Welcome to Realm of the Mad God' + tutorial lines ('Use [WASDQE] to move; click to shoot!', 'Type /help for more help') -> ROTF keeps RotMG's stock onboarding. POTION-TO-MAX counter: 'Potion of <Stat> consumed. <N> left to max.' (Speed/Attack/Defense seen — tracks pots remaining to max each stat). Global announcer uses random PERSONAS (this stream: Djinn) for event spawn/defeat. A 'Death Notifier' persona posts player deaths with a party-fame tuple: '<Death Notifier> Sayimfao (0/8: 0) has been killed'. Event bosses: The Mad Jester, Uvuvwevwevwe.",
+ "uncertain": "Several lines clipped at chat right edge. No ROTF-custom boss taunts captured here (mostly vanilla Oryx + announcer feed). No clear no-footage-dungeon match in the 15 entries.",
+ "confidence": "MEDIUM — DOCUMENTED potion-to-max counter, Death Notifier persona, and event bosses (Mad Jester defeated / Uvuvwevwevwe spawned); biomes documented; no custom taunts."
+}

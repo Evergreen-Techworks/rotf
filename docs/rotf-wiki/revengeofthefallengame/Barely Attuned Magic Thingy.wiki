@@ -1,0 +1,4 @@
+# Barely Attuned Magic Thingy
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Barely%20Attuned%20Magic%20Thingy&prop=wikitext
+
+asdf

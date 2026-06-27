@@ -1,0 +1,4 @@
+# Main Page
+# https://rotfserver.fandom.com/api.php?action=parse&page=Main%20Page&prop=wikitext
+
+#REDIRECT [[Revenge of the Fallen Wiki]]

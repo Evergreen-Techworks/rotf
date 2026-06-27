@@ -1,0 +1,125 @@
+# Tomes
+# https://revenge-of-the-fallen-rotmg.fandom.com/api.php?action=parse&page=Tomes&prop=wikitext
+
+This page includes both custom tomes and old tomes that have been edited from how they appear on the production RotMG server.
+{| class="article-table"
+!Tome
+!Heal
+!Range
+!Self Buffs
+!Enemy Effects
+!Stast
+!MP Cost
+!Cooldown
+!Fame Bonus
+!Tier
+!Legendary/Primal
+Effect
+|-
+|Tome of Cosmic Rejuvination
+|288
+|6.8
+|Healing:
+8.9 sec
+
+Speedy:
+
+2.7 sec
+|
+|
+|90
+|
+|6%
+|GL
+|
+|-
+|Book of the Rejuvenating River
+|315
+|2
+|Speedy:
+2
+|
+|<nowiki>+40mp</nowiki>
++5vit
+|100
+|
+|5%
+|Artifact
+|
+|-
+|The Frozen Tome
+|100 
+|
+|Damaging:
+1 sec
+
+Berserk:
+
+1 sec
+|
+|
+|115
+|
+|4%
+|
+|
+|-
+|Ortar's Enchantment
+|
+|6.5
+|Invulnerable:
+2 sec
+
+Sick:
+
+3.5 sec
+|Paralyzed:
+3.2
+|<nowiki>-10def</nowiki>
+-80hp
+
+-4vit
+
+-4wis
+|150
+|
+|8%
+|Legendary
+|Angel's Touch
+|-
+|A Worthy Jewel
+|175
+|4
+|Summons Jewel for 4 sec that heals every .6 sec
+|
+|<nowiki>+6def</nowiki>
++6wis
+
+-6vit
+
+-6dex
+|120
+|6 seconds
+|9%
+|Legendary
+|Last Hope
+|-
+|Tome of Pain
+|120
+|2.8
+|
+|280 damage
+|<nowiki>-20hp</nowiki>
++4att
+
++4spd
+
++2def
+
+-5vit
+|95
+|
+|6%
+|Legendary
+|Angel's Touch
+|}

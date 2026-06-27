@@ -1,0 +1,4 @@
+# Crystal Wand
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Crystal%20Wand&prop=wikitext
+
+asdf

@@ -1,0 +1,14 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM ~48 entries) ROTF — diverse biomes incl. concentric-square boss arena; low novelty",
+ "source": "video disc_RO6AZQ8cgkI (480 frames, 144 transitions = ~48 entries, 120 chat; webcam overlay; client X3.32). Chat = startup + feed; boss-arena chat samples were dark/empty (no taunts captured).",
+ "map": "DOCUMENTED biomes: green grass island, blue water + sand, RED LAVA, lots of WHITE/SNOW arenas, a distinctive grey CONCENTRIC-SQUARE arena (a labyrinth/grid boss arena), a colorful tiled grid, brown/orange dungeon with snow.",
+ "bosses": [
+  {"name":"Oryx the Mad God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You are food for my minions!"],"note":"DOCUMENTED from startup (re-confirmed)."},
+  {"name":"(concentric-square arena boss — unnamed)","phases":[],"attacks":[],"minions":[],"colorFlashes":"grey","taunts":[],"note":"VISUALLY DOCUMENTED: a grey arena tiled in CONCENTRIC SQUARES (labyrinth/grid layout) where a boss is fought — name/taunt not captured (chat dark in those frames)."}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "DOCUMENTED: client X3.32; vanilla MOTD ('Welcome to Realm of the Mad God') + a custom 'Have a nice break <3' line; '/help' command exists ('Type /help for more help'); WASDQE controls. A concentric-square labyrinth boss-arena layout. No new boss taunts.",
+ "uncertain": "Boss-arena boss not named (chat empty/dark in those frames). The concentric-square arena's dungeon unidentified. ~48 entries not individually named.",
+ "confidence": "LOW novelty — Oryx re-confirm + /help command + the concentric-square arena biome (visual). No new boss/taunt captured."
+}

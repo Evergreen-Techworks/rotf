@@ -1,0 +1,4 @@
+# Cloak of the Night Thief
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Cloak%20of%20the%20Night%20Thief&prop=wikitext
+
+asdf

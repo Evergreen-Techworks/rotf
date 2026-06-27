@@ -1,0 +1,27 @@
+{
+ "dungeon": "ROTF marathon (1836 frames, ~194 entries; SAMPLED) — dominated by ASGARD farming. Loki trickster taunt set (NEW), Heimdall/Odin lines, Gjallahorn + Hela's Essence items, Galactic Zones live. GENUINE ROTF.",
+ "source": "video disc__1He_TVKDuw (HUGE: 1836 f_, 2754 chat, 1377 minimap, 582 transitions = ~194 entries). Sampled (25 transitions + 18 chat). The DOMINANT farmed dungeon (recurring green-grass + purple-tile CROSS courtyard with a gold SUN-DISK medallion center) = ASGARD (consistent with the flood of Asgard-god taunts: Loki/Odin/Heimdall/Thor/Hela). Other biomes: sandstone, blue water, red-brick maze, grey labyrinths.",
+ "bosses": [
+  {"name":"Loki","phases":["invisibility/trickster"],"attacks":[],"minions":[],"colorFlashes":"","taunts":["I will disappear now! Or will I! Hahahaha!","I was invisible! Are you cheating!","trick, trick, trick.","You seem to be still alive.","Don't fall for my tricks!"],"note":"DOCUMENTED-from-chat. BIG ENRICHMENT for the built Asgard Loki (BehaviorDb.Asgard.cs currently only 'Don't fall for my tricks!'/'Why are you still alive? Die!'). Loki has an INVISIBILITY/disappear mechanic + mocking taunts. ('Now you see me! Now you die!' also seen but attribution to Loki uncertain.)"},
+  {"name":"Heimdall","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["The sound will penetrate your mind!"],"note":"DOCUMENTED-from-chat. The FULL version of the 'Let the sound penetrate...' line added this session -> consider updating built Heimdall to 'The sound will penetrate your mind!' (Gjallarhorn)."},
+  {"name":"Odin","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You have no chance in this fight!","Attention to all guards, intruders in the Throne Room","Defeat the mortals!"],"note":"DOCUMENTED-from-chat. Confirms built Odin taunts + 'Defeat the mortals!' (variant of built 'Help me, guards. Kill the mortals!')."}
+ ],
+ "minions": [],
+ "drops": [
+  "Gjallahorn (Heimdall's horn — sellable item, 'S - Gjallahorn')",
+  "Hela's Essence (Hela material/drop — '2 Hela's Essence' traded)",
+  "Firesword (item, sold 4-8 for ~500 fame)",
+  "Special Crate unboxes"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "The Pentaract Tower Ultra has been defeated!",
+  "Uvuvwevwevwe has just spawned!",
+  "The God of Reptilians has been defeated! (12/22)",
+  "The Pulse has been defeated! (19/22)",
+  "The Suspicious Looking Dragon has been defeated",
+  "Lucky Djinn has just spawned!"
+ ],
+ "mechanics": "DOCUMENTED: (1) ASGARD is heavily farmable (the recurring green/purple courtyard + gold sun-disk = Asgard) -> huge confirmation of the built Asgard dungeon + its gods. (2) LOKI invisibility/trickster mechanic + 4 new taunts (big enrichment). (3) GALACTIC ZONES (D3) LIVE — player recruiting 'WANT TO DO GALAXIES? COME JOIN' (the spaceship/galaxy system is accessible in-game). (4) ITEMS: Gjallahorn (Heimdall horn), Hela's Essence (Hela material), Firesword. (5) EVENT COUNTER /22 here (Pulse 19/22, God of Reptilians 12/22). (6) Heimdall 'The sound will penetrate your mind!' (full line).",
+ "uncertain": "'Now you see me! Now you die!' Loki attribution uncertain (prefix read as a player). The gold-sun-disk courtyard = Asgard is inferred from the boss-taunt flood, not an entry name. Only ~25/194 transitions sampled. Gjallahorn/Hela's Essence exact stats not captured (just names/trades).",
+ "confidence": "HIGH for the verbatim chat: Loki's new trickster taunt set, Heimdall/Odin lines, Gjallahorn + Hela's Essence items, Galactic-Zones-live recruitment, /22 counter. MEDIUM for the Asgard biome ID + full coverage. GENUINE ROTF. Actionable: enrich built Loki with the trickster taunts + invisibility phase."
+}

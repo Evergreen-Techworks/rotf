@@ -1,0 +1,4 @@
+# Celestial Caduceus
+# https://rotfserver.fandom.com/api.php?action=parse&page=Celestial%20Caduceus&prop=wikitext
+
+{{ItemInfo|name = Celestial Caduceus|desc = A wand originating from the far reaches of the universe, imbued with the endless power of millions of stars.|rarity = g|slot = wand|tier = GL|minDmg = 135|maxDmg = 180|shots = 1|rof = 100|range2 = 9.36|fameb = 6|effects = yes|multihit = yes|bonuses = {{Stat|att|4}}{{Stat|dex|4}}|dropsFrom = drops from GL bosses}}

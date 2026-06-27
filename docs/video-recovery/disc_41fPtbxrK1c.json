@@ -1,0 +1,30 @@
+{
+ "dungeon": "GENUINE ROTF SYSTEMS/CRAFTING GUIDE video set in a PURPLE-TILED VAULT/LABYRINTH dungeon. Heavy economy/crafting focus (Onrane currency, crate-unboxing, a forge/vault crafting system, marketplace), narrated with on-screen 'How to craft / How to use' overlays. LOW boss/combat yield; HIGH items + SYSTEMS yield.",
+ "map": "DOCUMENTED-from-frames+transitions: a PURPLE/BLUE BRICK-TILED VAULT/LABYRINTH — repeating boxy purple-brick rooms connected by corridors (a maze/vault layout), with loot/inventory windows opened frequently. One DARK BOSS ARENA holds a GOLDEN boss. Also a circular minimap room seen. Single-dungeon-type run (purple vault) rather than a multi-biome marathon.",
+ "bosses": [
+  {"name":"(golden boss — dark vault arena, unnamed)","phases":[],"attacks":["DOCUMENTED-from-frames: WALL/GRID — golden boss in a dark arena emits a regular GRID/lattice of bullets across the floor; reconstruct as repeated fixedAngle Shoot volleys forming rows"],"minions":[],"colorFlashes":"gold/yellow","taunts":[],"note":"DOCUMENTED-from-frames (transition arena shot). Name not in captured chat. The grid/wall bullet lattice is the recoverable mechanic."},
+  {"name":"Tunnel Varghus the [Eye]","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat death feed ('dingus died to Tunnel Varghus the [Eye]'). An 'Eye'-type boss; name partially read. Not fought on-screen here."},
+  {"name":"The Kraken","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat ANNOUNCEMENT ('The Kraken was demo[lished]') — a server-wide EVENT boss defeated; not fought on-screen. (Base RotMG also has a Kraken — verify before building.)"}
+ ],
+ "minions": [],
+ "drops": [
+  "Abyssal Whip (craftable weapon — 'How to craft Abyssal Whip')",
+  "Assault Shard (item; '9 Assault Shard')",
+  "Starmind Gauntlet (market S>)",
+  "Faith (item, market S>)",
+  "Last Scripture #2 (item; needs 12/12 + 20-star to use)",
+  "Greater Potion of Prowess (unboxed)",
+  "Greater Potion of Mind (unboxed)",
+  "Greater Potion of Life (unboxed)",
+  "Gold Cache (crate)",
+  "Soul Fragment Cache (crate)",
+  "1000 Gold (crate reward)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "The Kraken ('was demolished' server announcement)",
+  "Tunnel Varghus the [Eye] (killed player 'dingus')"
+ ],
+ "mechanics": "DOCUMENTED ROTF SYSTEMS (high value): ONRANE CURRENCY — earned from kills/crates ('You have obtained 14 Onrane'; players ask 'what do i do with onrane?'); CRATE/UNBOXING economy — Gold Cache, Soul Fragment Cache, 1000 Gold, Greater Potions all 'unboxed'; a CRAFTING/FORGE+VAULT system — on-screen guides 'How to craft Abyssal Whip', 'How to use [vial]', 'Don't double-click to enter the vault... you should use forge', with requirements like '12/12' (maxed stats) and '20 star' (account rank) to use end-game items ('Last Scripture #2'); a MARKETPLACE — buy/sell chat 'B> bracer', 'B> Starmind Gauntlet S> Faith'. Combat is incidental (purple vault navigation while narrating). Attacks limited to the golden vault-boss grid/wall pattern.",
+ "uncertain": "Golden vault-boss unnamed. 'Tunnel Varghus the [Eye]' name partially read. The Kraken may be base-RotMG (verify). 'If you are el[ite]' / 'If you wan[t]' lines in the chat scroll were likely tutorial/help text, not boss taunts (not confirmed as boss lines). Exact craft recipes not fully transcribed.",
+ "confidence": "MEDIUM for ITEMS + SYSTEMS (Onrane currency, crate-unbox economy, forge/vault crafting incl. Abyssal Whip, 12/12 + 20-star gates, marketplace) — strong economy intel. LOW for bosses/attacks (guide video; only the golden vault-boss grid pattern is DOCUMENTED). GENUINE ROTF."
+}

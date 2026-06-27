@@ -1,0 +1,63 @@
+<Objects>
+  <!-- Ordinary Client - ICY PEAKS (ROTF seasonal ice dungeon; recovered from IcyPeaks_tutorial footage).
+       Ice Queen sits in a frozen FLOWER-GARDEN arena, INVULNERABLE behind 4 ice-encased TOWERS
+       ("clear the ice block to kill the towers and it should open"); destroy the Towers -> the Queen
+       thaws and becomes vulnerable. TOWER-GATE = drop-in on the Ra-Staves / Anubis-Pillars pattern.
+       No Ice Queen taunt was captured (cheese-run footage) -> ice-themed lines RECONSTRUCTED, marked.
+       Placeholder sprites (chars16x16dEncounters2); reused projectiles. ids 0x8f0d-0x8f0e + portal 0x8214. -->
+  <Object type="0x8f0d" id="Ice Queen">
+    <Group>Icy Peaks</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>11</Index></AnimatedTexture>
+    <MaxHitPoints>145000</MaxHitPoints>
+    <Defense>60</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <PerRealmMax>1</PerRealmMax>
+    <Level>20</Level>
+    <Size>165</Size>
+    <XpMult>0.25</XpMult>
+    <Projectile id="0">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>95</Speed>
+      <Damage>110</Damage>
+      <Size>120</Size>
+      <LifetimeMS>1500</LifetimeMS>
+    </Projectile>
+    <Projectile id="1">
+      <ObjectId>Trident</ObjectId>
+      <Speed>70</Speed>
+      <Damage>90</Damage>
+      <Size>140</Size>
+      <LifetimeMS>2000</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x8f0e" id="Ice Queen's Tower">
+    <Group>Icy Peaks</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>6</Index></AnimatedTexture>
+    <MaxHitPoints>17000</MaxHitPoints>
+    <Defense>25</Defense>
+    <Level>20</Level>
+    <Size>120</Size>
+    <XpMult>0.05</XpMult>
+    <Projectile id="0">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>75</Speed>
+      <Damage>65</Damage>
+      <Size>100</Size>
+      <LifetimeMS>1500</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x8214" id="Icy Peaks Portal">
+    <Class>Portal</Class>
+    <IntergamePortal/>
+    <DungeonName>Icy Peaks</DungeonName>
+    <Texture><File>lofiObj3</File><Index>0x21f</Index></Texture>
+    <Size>120</Size>
+    <ShowName/>
+  </Object>
+</Objects>

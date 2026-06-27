@@ -1,0 +1,110 @@
+# Traps
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Traps&prop=wikitext
+
+The trap is the ability of the huntress. It lands a trap that triggers when an emey walks within it's range. It causes damage and debuffs (mostly slow)
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = FleshTrap.png
+| link = Flesh Trap
+| text = Flesh Trap
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = TrapOfTheVileSpirit.png
+| link = Trap of the Vile Spirit
+| text = Trap of the Vile Spirit
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = CoralVenomTrap.png
+| link = Coral Venom Trap
+| text = Coral Venom Trap
+}}
+|{{ImageBlack
+| file = ArcaneBait.png
+| link = Arcane Bait
+| text = Arcane Bait
+}}
+|{{ImageBlackLarge1
+| file = APreciousRock.png
+| link = A Precious Rock
+| text = A Precious Rock
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = HoneytombSnare.png
+| link = Honeytomb Snare
+| text = Honeytomb Snare
+}}
+| {{ImageBlackLarge1
+| file = ATrapMadeOfCookies.png
+| link = A Trap Made of Cookies
+| text = A Trap Made of Cookies
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = BlackholeTrap.png
+| link = Blackhole Trap
+| text = Blackhole Trap
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = DragonstalkerTrap.png
+| link = Dragonstalker Trap
+| text = Dragonstalker Trap
+}}
+| {{ImageBlackLarge1
+| file = GiantcatcherTrap.png
+| link = Giantcatcher Trap
+| text = Giantcatcher Trap
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = HuntingTrap.png
+| link = Hunting Trap
+| text = Hunting Trap
+}}
+| {{ImageBlackLarge1
+| file = WilderlandsTrap.png
+| link = Wilderlands Trap
+| text = Wilderlands Trap
+}}
+| {{ImageBlackLarge1
+| file = DeepforestTrap.png
+| link = Deepforest Trap
+| text = Deepforest Trap
+}}
+| {{ImageBlack
+| file = SavageTrap.png
+| link = Savage Trap
+| text = Savage Trap
+}}
+| {{ImageBlackLarge1
+| file = DemonhunterTrap.png
+| link = Demonhunter Trap
+| text = Demonhunter Trap
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

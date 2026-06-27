@@ -1,0 +1,4 @@
+# Starfish
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Starfish&prop=wikitext
+
+asdf

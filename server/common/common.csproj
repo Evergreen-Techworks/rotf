@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <RootNamespace>common</RootNamespace>
+    <AssemblyName>common</AssemblyName>
+  </PropertyGroup>
+
+  <!-- NuGet deps (kept at original major versions; all ship netstandard2.0 builds
+       that run on net8). The System.* polyfill packages from the net472 build
+       (Buffers, Memory, Numerics.Vectors, Threading.Channels, IO.Pipelines,
+       PerformanceCounter, etc.) are intentionally dropped — they are built into net8. -->
+  <ItemGroup>
+    <PackageReference Include="DotNetZip" Version="1.13.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="NLog" Version="4.6.6" />
+    <PackageReference Include="Pipelines.Sockets.Unofficial" Version="2.0.22" />
+    <PackageReference Include="StackExchange.Redis" Version="2.0.601" />
+  </ItemGroup>
+
+  <!-- Game data + assets copied to every consumer's output (flows via ProjectReference). -->
+  <ItemGroup>
+    <Content Include="resources/**" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="nlog.config" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,4 @@
+# Destructor Dagger
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Destructor%20Dagger&prop=wikitext
+
+asdf

@@ -1,0 +1,4 @@
+# Energy Staff
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Energy%20Staff&prop=wikitext
+
+asdf

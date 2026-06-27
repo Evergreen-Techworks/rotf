@@ -1,0 +1,220 @@
+# Heavy Armors
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Heavy%20Armors&prop=wikitext
+
+The heavy armor is used by the short range classes (knight, paladin and warrior). It is mostly focused on high defense and health.
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = NecroticBoneplate.png
+| link = Necrotic Boneplate
+| text = Necrotic Boneplate
+}}
+| {{ImageBlackLarge1
+| file = TitansBreastplate.png
+| link = Titan's Breastplate
+| text = Titan's Breastplate
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = ResurrectedWarriorsArmor.png
+| link = Resurrected Warrior’s Armor
+| text = Resurrected Warrior’s Armor
+}}
+|{{ImageBlackLarge1
+| file = BreastplateOfNewLife.png
+| link = Breastplate of New Life
+| text = Breastplate of New Life
+}}
+|{{ImageBlackLarge1
+| file = Cheater Heavy Armor.png
+| link = Cheater Heavy Armor
+| text = Cheater Heavy Armor
+}}
+|{{ImageBlackLarge2
+| file = AncientStoneGuardianArmor.png
+| link = Ancient Stone Guardian Armor
+| text = Ancient Stone Guardian Armor
+}}
+|{{ImageBlack
+| file = ThorsArmor.png
+| link = Thor's Armor
+| text = Thor's Armor
+}}
+|{{ImageBlack
+| file = OdinsAttire.png
+| link = Odin's Attire
+| text = Odin's Attire
+}}
+|{{ImageBlack
+| file = ArmorOfOryx.png
+| link = Armor of Oryx
+| text = Armor of Oryx
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = CandyCoatedArmor.png
+| link = Candy-Coated Armor
+| text = Candy-Coated Armor
+}}
+|{{ImageBlackLarge1
+| file = FireDragonBattleArmor.png
+| link = Fire Dragon Battle Armor
+| text = Fire Dragon Battle Armor
+}}
+|{{ImageBlackLarge1
+| file = FrostCitadelArmor.png
+| link = Frost Citadel Armor
+| text = Frost Citadel Armor
+}}
+|{{ImageBlackLarge1
+| file = ArmorOfTheFallen.png
+| link = Armor of the Fallen
+| text = Armor of the Fallen
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = AlmandineArmorOfAnger.png
+| link = Almandine Armor of Anger
+| text = Almandine Armor of Anger
+}}
+|{{ImageBlack
+| file = FairyPlate.png
+| link = Fairy Plate
+| text = Fairy Plate
+}}
+|{{ImageBlackLarge1
+| file = ZaarvoxsHeart.png
+| link = Zaarvox’s Heart
+| text = Zaarvox’s Heart
+}}
+|{{ImageBlackLarge1
+| file = TheDrenchedArmor.png
+| link = The Drenched Armor
+| text = The Drenched Armor
+}}
+|{{ImageBlackLarge2
+| file = TheScavengersAttire.png
+| link = The Scavenger's Attire
+| text = The Scavenger's Attire
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Unique</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = ArmorOfTheAquaticGod.png
+| link = Armor of the Aquatic God
+| text = Armor of the Aquatic God
+}}
+|{{ImageBlackLarge1
+| file = ArmorOfTheDemonLord.png
+| link = Armor of the Demon Lord
+| text = Armor of the Demon Lord
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = InfinityChestplate.png
+| link = Infinity Chestplate
+| text = Infinity Chestplate
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = VengeanceArmor.png
+| link = Vengeance Armor
+| text = Vengeance Armor
+}}
+|{{ImageBlack
+| file = AbyssalArmor.png
+| link = Abyssal Armor
+| text = Abyssal Armor
+}}
+|{{ImageBlackLarge1
+| file = AcropolisArmor.png
+| link = Acropolis Armor
+| text = Acropolis Armor
+}}
+|{{ImageBlackLarge1
+| file = DominionArmor.png
+| link = Dominion Armor
+| text = Dominion Armor
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlack
+| file = IronMail.png
+| link = Iron Mail
+| text = Iron Mail
+}}
+|{{ImageBlack
+| file = Chainmail.png
+| link = Chainmail
+| text = Chainmail
+}}
+|{{ImageBlack
+| file = BlueSteelMail.png
+| link = Blue Steel Mail
+| text = Blue Steel Mail
+}}
+|{{ImageBlackLarge1
+| file = SilverChainmail.png
+| link = Silver Chainmail
+| text = Silver Chainmail
+}}
+|{{ImageBlackLarge1
+| file = GoldenChainmail.png
+| link = Golden Chainmail
+| text = Golden Chainmail
+}}
+|{{ImageBlack
+| file = PlateMail.png
+| link = Plate Mail
+| text = Plate Mail
+}}
+|-
+|{{ImageBlackLarge1
+| file = MithrilChainmail.png
+| link = Mithril Chainmail
+| text = Mithril Chainmail
+}}
+|{{ImageBlack
+| file = MithrilArmor.png
+| link = Mithril Armor
+| text = Mithril Armor
+}}
+|{{ImageBlackLarge1
+| file = DragonscaleArmor.png
+| link = Dragonscale Armor
+| text = Dragonscale Armor
+}}
+|{{ImageBlackLarge1
+| file = DesolationArmor.png
+| link = Desolation Armor
+| text = Desolation Armor
+}}
+|{{ImageBlackLarge1
+| file = AnnihilationArmor.png
+| link = Annihilation Armor
+| text = Annihilation Armor
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

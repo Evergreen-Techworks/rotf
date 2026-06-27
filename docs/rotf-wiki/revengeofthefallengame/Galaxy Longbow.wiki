@@ -1,0 +1,4 @@
+# Galaxy Longbow
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Galaxy%20Longbow&prop=wikitext
+
+asdf

@@ -1,0 +1,66 @@
+# Galaxy
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Galaxy&prop=wikitext
+
+[[File:Galaxies.png|thumb|166x166px]]
+The galaxy is a new area divided in 4 maps, where the player can team up with friends to fight a variety of bosses in exchange of Galactic Essence, Galatic gear and other great loot.
+
+== How to: ==
+To play in the galaxy, you need fuel. If you don't have any, you can either buy it in the market or join someone else's galaxy (only the player opening the galaxy spends fuel)
+* How to start your own galaxy: To do this you need to play as a maxed character, then go to your vault, speak with the flying spaceship and select the difficulty.
+*# Sungravel) 1st world. 500 fuel to join. This is the easiest area and recommended for maxing your skill tree.
+*# Splinterspire) 2nd world. 2000 fuel to join. 
+*# Flamefeather) 3rd world. 5000 fuel to join.
+*# Frostwood) 4th world. 10000 fuel to join. This is the hardest area, recommended for farming galactic gear.
+
+* How to join other galaxy: First you will need to find a group. This is usually easy in the nexus, where everyone is looking for galaxy runs.
+** Keep in mind you need to to know these are when looking for a group
+**# "H" = Host
+**# "LF" = Look for
+**# "GL(nº)" = Galaxy run for that difficulty (numbers as defined earlier)
+**# You will also see people asking for things like "bulwark priest", "perma-stun" and etc... Check this page to learn about it ==> [https://revengeofthefallengame.fandom.com/wiki/Popular_Builds Popular Builds] <==
+
+== Bosses ==
+All 4 galaxies have the same 7 bosses. These are:
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Galaxy bosses</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| style="width: auto;" align="center"
+|-  
+| {{ImageBlack
+| file = ArcanicaBoss.png
+| link = Arcanica
+| text = Arcanica
+}}
+|{{ImageBlack
+| file = ZuccBoss.png
+| link = Zucc
+| text = Zucc
+}}
+|{{ImageBlack
+| file = BanditoBoss.png
+| link = Bandito
+| text = Bandito
+}}
+|{{ImageBlack
+| file = GemGemBoss.png
+| link = Gem Gem
+| text = Gem Gem
+}}
+|{{ImageBlack
+| file = OrtarBoss.png
+| link = Ortar
+| text = Ortar
+}}
+| {{ImageBlack
+| file = CrackedCoreBoss.png
+| link = Cracked Core
+| text = Cracked Core
+}}
+|{{ImageBlack
+| file = StoneRakerBoss.png
+| link = Stone Raker
+| text = Stone Raker
+}}
+|}
+</div>
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;"></div>
+== Tips and tricks ==
+It is recommended to join galaxies with good gear, since enemies can be strong even in the 1st world. Also planning a team with different classes can be a good idea. (For example, a team for a GL4 could be composed of: a bulwark priest, a permastun, a permapally and a dps class).

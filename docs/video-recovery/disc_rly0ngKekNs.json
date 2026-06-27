@@ -1,0 +1,14 @@
+{
+ "dungeon": "(VALOX PRESENTS multi-dungeon stream) ROTF — Marble Colossus boss taunt + event feed",
+ "source": "video disc_rly0ngKekNs (373 frames, 33 transitions, 93 chat; VALOX channel, 'ZOOM'/'I worked so long for that too'/'SUBSCRIBE' overlays). Grey vault/maze + space bullet-hell + lava/water biomes. Chat captured a Marble Colossus taunt + event/loot feed.",
+ "map": "DOCUMENTED biomes: grey VAULT/MAZE (purple loot), green grass, orange/red LAVA, blue water, dark SPACE arenas with blue-dot ring bullet-hell.",
+ "bosses": [
+  {"name":"Marble Colossus","phases":["death/crumble"],"attacks":[],"minions":[],"colorFlashes":"grey/marble","taunts":["I fe[e/a]l myself... Slip[ping]..."],"note":"DOCUMENTED VERBATIM (boss-colored chat, truncated at crop edge). A MARBLE/STONE COLOSSUS boss — a crumbling-stone-giant death/phase line ('I feel myself... slipping [away]...' most likely). NEW boss (distinct from Stonetaker; both stone-themed). Grey vault/maze arena."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Cube God (just spawned)","Pulse (defeated)"],
+ "mechanics": "DOCUMENTED: (1) NEW boss 'Marble Colossus' (crumbling stone colossus) with a death/phase taunt. (2) Damage-contribution loot reconfirmed ('just got some [item] with N% damage dealt!', 3% / 19% seen). (3) Event feed (Cube God, Pulse). Space bullet-hell (blue-dot rings) + vault/maze biomes.",
+ "uncertain": "Marble Colossus taunt truncated at the chat-box edge ('Slip...' -> likely 'Slipping away...'); could read 'I feel myself' or 'I fell myself'. Its attacks/HP/dungeon not isolated. Marble Colossus vs Stonetaker relationship unclear (both stone bosses).",
+ "confidence": "HIGH for the Marble Colossus boss existing + its (truncated) taunt + the damage-loot reconfirmation. LOW for the full taunt wording + dungeon mapping."
+}

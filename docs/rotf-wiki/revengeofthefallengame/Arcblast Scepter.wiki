@@ -1,0 +1,4 @@
+# Arcblast Scepter
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Arcblast%20Scepter&prop=wikitext
+
+asdf

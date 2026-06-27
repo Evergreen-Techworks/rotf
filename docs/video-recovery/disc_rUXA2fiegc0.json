@@ -1,0 +1,14 @@
+{
+ "dungeon": "GENUINE ROTF FEATURE-SHOWCASE / guide video (creator 'RuinedBow', ~227s) — explains server features via on-screen INFO CARDS rather than running a single dungeon. Captured mechanic cards: 'Stackable pots (up to 70)', 'Different pet abilities', 'Luck potion'. Background gameplay is dark SPACE/VOID arenas + a green realm + a shop panel. NO boss is named or tauntED (sparse chat = HUD + Fame bar + crates).",
+ "map": "DOCUMENTED-from-transitions+f_: a showcase hop across dark SPACE/VOID arenas (scattered red/yellow bullets, possibly galactic zones), a GREEN/brown realm, and a shop/vendor panel ('Various parts for 50...'). Not a single navigable dungeon (feature-showcase) -> no clean room sequence / boss arena geometry.",
+ "bosses": [],
+ "minions": [],
+ "drops": [
+  "Luck potion (item — shown via an info-card tooltip)",
+  "(Fame progression bar: 'Fame 0.931K/2K')"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED-from-frames (creator INFO CARDS): (1) 'Stackable pots (up to 70)' -> consumable pots stack up to 70 (a large stack cap). (2) 'Different pet abilities' -> pets have varied abilities. (3) 'Luck potion' -> a Luck-boosting potion item. Plus a Fame progression bar ('0.931K/2K'). This is a guide/showcase of server QoL features, not boss/dungeon content. (Dark void arenas may be galactic zones but no galactic boss/fuel/spaceship line is shown.)",
+ "uncertain": "NO boss named/tauntED (feature-showcase; chat = player HUD + Fame bar + crates, no boss-coloured taunts; chat red-density low/HUD-driven). Attack geometry NOT isolated (scattered bullets in dark arenas, no single boss). 'Stackable pots up to 70' / 'Luck potion' / 'pet abilities' read off creator info-card overlays (clear, but they're the creator's framing). Whether the dark void arenas are ROTF galactic zones is unconfirmed (no galactic feed line).",
+ "confidence": "MEDIUM (mechanics) / NONE (boss). GENUINE ROTF feature-showcase (RuinedBow). Recoverable value = QoL mechanic notes: pots STACK UP TO 70, varied PET ABILITIES, a LUCK POTION item, + a Fame bar. NO boss/dungeon/taunt/attack content (bosses=[]). Recorded honestly: showcase video, no named boss, attacks not isolated, void-arena-as-galactic unconfirmed. No build/enrich content; mechanic notes logged as context."
+}

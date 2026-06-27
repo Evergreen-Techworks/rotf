@@ -1,0 +1,4 @@
+# Yeti
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Yeti&prop=wikitext
+
+asdf

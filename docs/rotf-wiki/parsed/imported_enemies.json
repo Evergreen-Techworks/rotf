@@ -1,0 +1,744 @@
+[
+ {
+  "name": "Ice Destructible Wall",
+  "type": "0x192b",
+  "hp": 5000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Destructible Earth Wall",
+  "type": "0x1948",
+  "hp": 1000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Spider Web Wall",
+  "type": "0x1995",
+  "hp": 10000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "shtrs Dirt Wall Destructible",
+  "type": "0x1996",
+  "hp": 50,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Thessal Dropper",
+  "type": "0x1554",
+  "hp": 960000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Sea Slurp Home",
+  "type": "0x8300",
+  "hp": 5000,
+  "proj": 2,
+  "group": "Ocean Trench"
+ },
+ {
+  "name": "DS Bat",
+  "type": "0x714c",
+  "hp": 125,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "DS Rat",
+  "type": "0x714d",
+  "hp": 800,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "DS Natural Slime God",
+  "type": "0x714e",
+  "hp": 1000,
+  "proj": 2,
+  "group": ""
+ },
+ {
+  "name": "DS Goblin Peon",
+  "type": "0x714f",
+  "hp": 900,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "DS Goblin Warlock",
+  "type": "0x7150",
+  "hp": 1200,
+  "proj": 2,
+  "group": ""
+ },
+ {
+  "name": "DS Goblin Sorcerer",
+  "type": "0x7163",
+  "hp": 1200,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "DS Goblin Brute",
+  "type": "0x7151",
+  "hp": 1750,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "DS Goblin Knight",
+  "type": "0x7152",
+  "hp": 2450,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "DS Alligator",
+  "type": "0x7168",
+  "hp": 1700,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "DS Brown Slime",
+  "type": "0x7153",
+  "hp": 2750,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "DS Yellow Slime",
+  "type": "0x7154",
+  "hp": 2500,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "DS Gulpord the Slime God",
+  "type": "0x7155",
+  "hp": 45000,
+  "proj": 4,
+  "group": ""
+ },
+ {
+  "name": "DS Boss Minion",
+  "type": "0x7156",
+  "hp": 1500,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "DS Gulpord the Slime God M",
+  "type": "0x17f",
+  "hp": 9500,
+  "proj": 2,
+  "group": ""
+ },
+ {
+  "name": "DS Gulpord the Slime God S",
+  "type": "0x7165",
+  "hp": 6000,
+  "proj": 2,
+  "group": ""
+ },
+ {
+  "name": "DS Master Rat",
+  "type": "0x7158",
+  "hp": 10000,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "DS Orange Turtle",
+  "type": "0x7159",
+  "hp": 4200,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "DS Red Turtle",
+  "type": "0x715b",
+  "hp": 4200,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "DS Purple Turtle",
+  "type": "0x715c",
+  "hp": 4200,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "DS Blue Turtle",
+  "type": "0x715e",
+  "hp": 4200,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "DS Golden Rat",
+  "type": "0x715f",
+  "hp": 5500,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "DS Sewer Dummy",
+  "type": "0x7169",
+  "hp": 10000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "DS Brown Slime Trail",
+  "type": "0x7167",
+  "hp": 1000,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "DS Yellow Slime Trail",
+  "type": "0x7166",
+  "hp": 1000,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "DS Fly",
+  "type": "0x7164",
+  "hp": 100,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "ic CreepyTime",
+  "type": "0x762",
+  "hp": 3000,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "ic Whirlwind",
+  "type": "0x765",
+  "hp": 3000,
+  "proj": 2,
+  "group": ""
+ },
+ {
+  "name": "ic boss spawner live",
+  "type": "0x748e",
+  "hp": 0,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "ic boss manager",
+  "type": "0x764",
+  "hp": 0,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "ic boss purifier generator",
+  "type": "0x761",
+  "hp": 10000,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "ic boss purifier",
+  "type": "0x760",
+  "hp": 8000,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "ic shielded king",
+  "type": "0x763",
+  "hp": 3500,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "ic Esben the Unwilling",
+  "type": "0x75f",
+  "hp": 90000,
+  "proj": 4,
+  "group": ""
+ },
+ {
+  "name": "Snow Bat Mama",
+  "type": "0x0e5b",
+  "hp": 4240,
+  "proj": 4,
+  "group": ""
+ },
+ {
+  "name": "Snow Bat",
+  "type": "0x0e5a",
+  "hp": 1200,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "Mini Yeti",
+  "type": "0x0e59",
+  "hp": 2890,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "Big Yeti",
+  "type": "0x0e58",
+  "hp": 7000,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "ic Loot Balloon",
+  "type": "0x768",
+  "hp": 120000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Pile of Bones Mid",
+  "type": "0x203f",
+  "hp": 3000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Pile of Bones High",
+  "type": "0x2040",
+  "hp": 3000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Pile of Bones God",
+  "type": "0x2041",
+  "hp": 3000,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "Megamad Oryx Statue helper",
+  "type": "0x2029",
+  "hp": 75000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Spirit of Oryx Helper",
+  "type": "0x202a",
+  "hp": 75000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Brute helper",
+  "type": "0x1fdd",
+  "hp": 75000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "StoneRight helper",
+  "type": "0x1fdf",
+  "hp": 75000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "StoneLeft helper",
+  "type": "0x1fe0",
+  "hp": 75000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Megamad Oryx Guardian Sword",
+  "type": "0x1fdc",
+  "hp": 50000,
+  "proj": 7,
+  "group": "Oryx Minions"
+ },
+ {
+  "name": "Megamad Oryx Stone Guardian Right",
+  "type": "0x1fdb",
+  "hp": 250000,
+  "proj": 3,
+  "group": "Oryx Minions"
+ },
+ {
+  "name": "Megamad Oryx Stone Guardian Left",
+  "type": "0x1fda",
+  "hp": 250000,
+  "proj": 3,
+  "group": "Oryx Minions"
+ },
+ {
+  "name": "Megamad Activator",
+  "type": "0x1fd5",
+  "hp": 100000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Megamad Oryx Brute",
+  "type": "0x1fd3",
+  "hp": 250000,
+  "proj": 6,
+  "group": "Oryx Minions"
+ },
+ {
+  "name": "Megamad Oryx Eye Warrior",
+  "type": "0x1fd4",
+  "hp": 34500,
+  "proj": 2,
+  "group": "Oryx Minions"
+ },
+ {
+  "name": "Ring Bullet",
+  "type": "0x1fe6",
+  "hp": 34500,
+  "proj": 1,
+  "group": "Oryx Minions"
+ },
+ {
+  "name": "Spirit of Oryx",
+  "type": "0x1fea",
+  "hp": 300000,
+  "proj": 14,
+  "group": "Oryx Minions"
+ },
+ {
+  "name": "Possessed Oryx Statue",
+  "type": "0x1feb",
+  "hp": 250000,
+  "proj": 2,
+  "group": ""
+ },
+ {
+  "name": "Death Ring Anchor",
+  "type": "0x1fec",
+  "hp": 100000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Oryx Marker BR",
+  "type": "0x1fed",
+  "hp": 1000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Oryx Marker BL",
+  "type": "0x1fef",
+  "hp": 1000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Oryx Marker TL",
+  "type": "0x1ff0",
+  "hp": 1000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Oryx Marker TR",
+  "type": "0x1ff1",
+  "hp": 1000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Oryx Marker Center",
+  "type": "0x1ff2",
+  "hp": 1000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Oryx Leader",
+  "type": "0x1ffc",
+  "hp": 1000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Oryx Darkness Trap",
+  "type": "0x1ffd",
+  "hp": 100000,
+  "proj": 1,
+  "group": "OryxMine"
+ },
+ {
+  "name": "Oryx Daze Trap",
+  "type": "0x202e",
+  "hp": 100000,
+  "proj": 1,
+  "group": "OryxMine"
+ },
+ {
+  "name": "Oryx Confuse Trap",
+  "type": "0x202d",
+  "hp": 100000,
+  "proj": 1,
+  "group": "OryxMine"
+ },
+ {
+  "name": "Thunder Helper",
+  "type": "0x6faf",
+  "hp": 100000,
+  "proj": 0,
+  "group": "Daichi"
+ },
+ {
+  "name": "meteor explosion",
+  "type": "0x6fae",
+  "hp": 100000,
+  "proj": 2,
+  "group": "Daichi"
+ },
+ {
+  "name": "EarthSmash",
+  "type": "0x1ffe",
+  "hp": 10,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "OryxFireMakerUp",
+  "type": "0x2010",
+  "hp": 10,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "OryxFireMakerDn",
+  "type": "0x2011",
+  "hp": 10,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "OryxFireMakerLf",
+  "type": "0x2012",
+  "hp": 10,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "OryxFireMakerRt",
+  "type": "0x2013",
+  "hp": 10,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "OryxFire",
+  "type": "0x2014",
+  "hp": 10,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Hook Helper",
+  "type": "0x2018",
+  "hp": 100000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Hook Head",
+  "type": "0x2019",
+  "hp": 100000,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "Hook Link A",
+  "type": "0x2020",
+  "hp": 100000,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "Hook Link B",
+  "type": "0x2021",
+  "hp": 100000,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "Hook Link C",
+  "type": "0x2022",
+  "hp": 100000,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "Hook Link D",
+  "type": "0x2023",
+  "hp": 100000,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "Hook Link E",
+  "type": "0x2024",
+  "hp": 100000,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "Hook Tester",
+  "type": "0x2026",
+  "hp": 100000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Megamad Oryx Statue",
+  "type": "0x2028",
+  "hp": 250000,
+  "proj": 1,
+  "group": ""
+ },
+ {
+  "name": "TG TP",
+  "type": "0x108f",
+  "hp": 100000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "TG",
+  "type": "0xcf2",
+  "hp": 100000,
+  "proj": 4,
+  "group": ""
+ },
+ {
+  "name": "Decaract",
+  "type": "0x63d",
+  "hp": 10000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "0Def",
+  "type": "0xc0c",
+  "hp": 100000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "20Def",
+  "type": "0xc0d",
+  "hp": 100000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "60Def",
+  "type": "0xc0e",
+  "hp": 100000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Stat Baloon",
+  "type": "0x0752",
+  "hp": 4000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Head",
+  "type": "0x0d0e",
+  "hp": 400000,
+  "proj": 3,
+  "group": ""
+ },
+ {
+  "name": "BB Low Egg",
+  "type": "0x89a",
+  "hp": 10000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "BB Mid Egg",
+  "type": "0x89b",
+  "hp": 10000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "BB High Egg",
+  "type": "0x89c",
+  "hp": 10000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "BB God Egg",
+  "type": "0x89d",
+  "hp": 10000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "BB Biff Summoner",
+  "type": "0x89e",
+  "hp": 300000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "BB Biff the Buffed Bunny",
+  "type": "0x89f",
+  "hp": 208000,
+  "proj": 6,
+  "group": ""
+ },
+ {
+  "name": "Event Chest",
+  "type": "0x744d",
+  "hp": 180000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Event Chest Portal",
+  "type": "0x744f",
+  "hp": 30000,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Quest Chest",
+  "type": "0xd8d",
+  "hp": 2500,
+  "proj": 0,
+  "group": ""
+ },
+ {
+  "name": "Epic Quest Chest",
+  "type": "0xd8f",
+  "hp": 5000,
+  "proj": 0,
+  "group": ""
+ }
+]

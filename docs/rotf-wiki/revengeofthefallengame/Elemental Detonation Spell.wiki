@@ -1,0 +1,4 @@
+# Elemental Detonation Spell
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Elemental%20Detonation%20Spell&prop=wikitext
+
+asdf

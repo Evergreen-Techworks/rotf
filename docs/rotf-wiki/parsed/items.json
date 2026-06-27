@@ -1,0 +1,2264 @@
+[
+ {
+  "name": "A Precious Rock",
+  "desc": "A goldish gem, stuck in a pile of rubble, attracting anyone who lays their eyes upon it",
+  "slot": "trap",
+  "tier": "UT",
+  "rarity": "h",
+  "cost": "60",
+  "damage": "220,160",
+  "radius": "10,4",
+  "triggerradius": "5,2",
+  "armtime": "6,10",
+  "cooldown": "2",
+  "fameb": "7",
+  "bonuses": "{{Stat|att|6}}{{Stat|dex|6}}{{Stat|def|-12}}",
+  "effects": "yes",
+  "slowed": "(large)5",
+  "paralysed": "(small)1",
+  "lootbag": "white",
+  "dropsFrom": "can be found in a White Bag dropped by",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "att",
+    "6"
+   ],
+   [
+    "dex",
+    "6"
+   ],
+   [
+    "def",
+    "-12"
+   ]
+  ],
+  "_page": "A Precious Rock",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "A trap made of cookies",
+  "desc": "YACK,YACK,YACK,YACK,man down.",
+  "slot": "trap",
+  "tier": "ST",
+  "rarity": "a",
+  "cost": "85",
+  "damage": "490",
+  "radius": "4",
+  "triggerradius": "2.6",
+  "armtime": "10",
+  "cooldown": "0",
+  "fameb": "5",
+  "bonuses": "{{Stat|hp|4}}{{Stat|mp|4}}{{Stat|att|4}}{{Stat|vit|4}}{{Stat|wis|4}}",
+  "effects": "yes",
+  "dazed": "5",
+  "lootbag": "white",
+  "dropsFrom": "can be found in a White Bag dropped by Cookie Monster",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "hp",
+    "4"
+   ],
+   [
+    "mp",
+    "4"
+   ],
+   [
+    "att",
+    "4"
+   ],
+   [
+    "vit",
+    "4"
+   ],
+   [
+    "wis",
+    "4"
+   ]
+  ],
+  "_page": "A trap made of cookies",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "A triangular cookie",
+  "slot": "prism",
+  "tier": "ST",
+  "desc": "This blue balloon, the month of june!",
+  "cost": "90",
+  "feedp": "700",
+  "fameb": "5",
+  "minDmg": "100",
+  "maxDmg": "250",
+  "shots": "15",
+  "range": "yes",
+  "lifetime": "600",
+  "projSpeed": "80",
+  "decoyDistance": "7",
+  "decoySpeed": "0.93",
+  "effects": "yes",
+  "decoy": "2",
+  "bonuses": "{{Stat|hp|18}} {{Stat|mp|18}} {{Stat|att|4}} {{Stat|vit|4}} {{Stat|wis|4}}",
+  "lootbag": "white",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "hp",
+    "18"
+   ],
+   [
+    "mp",
+    "18"
+   ],
+   [
+    "att",
+    "4"
+   ],
+   [
+    "vit",
+    "4"
+   ],
+   [
+    "wis",
+    "4"
+   ]
+  ],
+  "_page": "A triangular cookie",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Acid Katana",
+  "desc": "This Katana melts almost anything it touches instantly",
+  "rarity": "h",
+  "slot": "katana",
+  "tier": "UT",
+  "minDmg": "100",
+  "maxDmg": "135",
+  "shots": "1",
+  "rof": "160",
+  "range2": "4.8",
+  "fameb": "5",
+  "dropsFrom": "no idea",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Acid Katana",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Arcane Bait",
+  "desc": "The arcanic beings often lure in their prey with the help of the arcane power they posses.",
+  "slot": "trap",
+  "tier": "UT",
+  "rarity": "h",
+  "cost": "140",
+  "damage": "80,140,180",
+  "radius": "9,6,3",
+  "triggerradius": "4.5,3,1.5",
+  "armtime": "8,6,4",
+  "cooldown": "0",
+  "fameb": "8",
+  "bonuses": "{{Stat|vit|-2}}{{Stat|dex|2}}{{Stat|wis|2}}",
+  "effects": "yes",
+  "cursed": "(middle)2",
+  "paralysed": "(small)2",
+  "lootbag": "white",
+  "dropsFrom": "can be found in a White Bag dropped by",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "vit",
+    "-2"
+   ],
+   [
+    "dex",
+    "2"
+   ],
+   [
+    "wis",
+    "2"
+   ]
+  ],
+  "_page": "Arcane Bait",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Asura",
+  "desc": "tool long cba",
+  "rarity": "l",
+  "slot": "katana",
+  "tier": "UT",
+  "minDmg": "125",
+  "maxDmg": "150",
+  "shots": "3",
+  "rof": "125",
+  "range2": "5",
+  "fameb": "8",
+  "effects": "yes",
+  "pierce": "yes",
+  "multihit": "yes",
+  "passthrough": "yes",
+  "bonuses": "{{Stat|spd|3}}",
+  "legendary": "4",
+  "dropsFrom": "icy peaks",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "spd",
+    "3"
+   ]
+  ],
+  "_page": "Asura",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Bel's Decapitator",
+  "desc": "This ancient axe, once wielded by bel, has guarded the Necropolis for thousands of years",
+  "rarity": "p",
+  "slot": "sword",
+  "tier": "UT",
+  "minDmg": "630",
+  "maxDmg": "770",
+  "shots": "1",
+  "rof": "70",
+  "range2": "3.91",
+  "fameb": "10",
+  "effects": "yes",
+  "passthrough": "yes",
+  "primal": "Brutality:<br/>Increse attack by 10 for 4.5 seconds.(9 second cooldown)",
+  "dropsFrom": "drops from bel",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Bel_s Decapitator",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Blackhole Trap",
+  "desc": "The first object to ever survive a blackhole, now imbued with it's powerful gravity.",
+  "slot": "trap",
+  "tier": "GL",
+  "rarity": "g",
+  "soulbound": "yes",
+  "cost": "110",
+  "damage": "4370",
+  "radius": "6.8",
+  "triggerradius": "3.4",
+  "armtime": "20",
+  "cooldown": "0",
+  "fameb": "6",
+  "bonuses": "{{Stat|att|3}}{{Stat|vit|3}}{{Stat|wis|3}}",
+  "effects": "yes",
+  "slowed": "6.5",
+  "lootbag": "white",
+  "dropsFrom": "can be found in a White Bag dropped by",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "att",
+    "3"
+   ],
+   [
+    "vit",
+    "3"
+   ],
+   [
+    "wis",
+    "3"
+   ]
+  ],
+  "_page": "Blackhole Trap",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Blade of the Fallen Sky",
+  "slot": "sword",
+  "tier": "UT",
+  "rarity": "h",
+  "desc": "A pointy blade that seems to go throught enemies,which also seems to be lightweight.When slashed,you feel as the sky would fall any moment... Thanks to: BeeEasy.",
+  "rof": "120",
+  "range": "",
+  "projSpeed": "10",
+  "lifetime": "480",
+  "minDmg": "170",
+  "maxDmg": "235",
+  "frequency": "",
+  "feedp": "900",
+  "fameb": "5",
+  "effects": "yes",
+  "multihit": "yes",
+  "lootbag": "white",
+  "dropsFrom": ":Tomb Of The Ancients",
+  "range2": "5.1",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Blade of the Fallen Sky",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Blazetalon",
+  "desc": "With a blade made of magmarock and a hild of pure flame,one who wields this blade feels its true fiery rage",
+  "rarity": "l",
+  "slot": "katana",
+  "tier": "UT",
+  "minDmg": "140",
+  "maxDmg": "160",
+  "shots": "2",
+  "rof": "150",
+  "range2": "5.5",
+  "fameb": "7",
+  "effects": "yes",
+  "pierce": "yes",
+  "legendary": "3",
+  "dropsFrom": "idk",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Blazetalon",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Bow of the Lightning God",
+  "slot": "bow",
+  "tier": "UT",
+  "rarity": "h",
+  "desc": "A bow once used by the lightning God, it shoots lightning-fast projectiles that the eye can barley see",
+  "rof": "80",
+  "range": "",
+  "projSpeed": "",
+  "lifetime": "",
+  "minDmg": "100",
+  "maxDmg": "130",
+  "shots": "2",
+  "feedp": "666",
+  "fameb": "6",
+  "effects": "yes",
+  "multihit": "yes",
+  "lootbag": "white",
+  "range2": "5",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Bow of the Lightning God",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Broken Branch",
+  "desc": "One of many branches laying around in the broken Forest, sharpened into swift and deadly weapon",
+  "rarity": "a",
+  "slot": "katana",
+  "tier": "ST",
+  "minDmg": "300",
+  "maxDmg": "450",
+  "shots": "1",
+  "rof": "50",
+  "range2": "5.2",
+  "fameb": "5",
+  "effects": "yea",
+  "multihit": "yes",
+  "bonuses": "{{Stat|att|6}}{{Stat|dex|4}}",
+  "dropsFrom": "no idea",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "att",
+    "6"
+   ],
+   [
+    "dex",
+    "4"
+   ]
+  ],
+  "_page": "Broken Branch",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Celestial Caduceus",
+  "desc": "A wand originating from the far reaches of the universe, imbued with the endless power of millions of stars.",
+  "rarity": "g",
+  "slot": "wand",
+  "tier": "GL",
+  "minDmg": "135",
+  "maxDmg": "180",
+  "shots": "1",
+  "rof": "100",
+  "range2": "9.36",
+  "fameb": "6",
+  "effects": "yes",
+  "multihit": "yes",
+  "bonuses": "{{Stat|att|4}}{{Stat|dex|4}}",
+  "dropsFrom": "drops from GL bosses",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "att",
+    "4"
+   ],
+   [
+    "dex",
+    "4"
+   ]
+  ],
+  "_page": "Celestial Caduceus",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Claw of the Beast",
+  "desc": "A claw, freshly plucked from the forepaw of the Necropolis' werewolf.",
+  "rarity": "p",
+  "slot": "dagger",
+  "tier": "UT",
+  "minDmg": "80",
+  "maxDmg": "111",
+  "shots": "3",
+  "rof": "150",
+  "range2": "5.21",
+  "fameb": "10",
+  "effects": "yes",
+  "pierce": "yes",
+  "primal": "bleed:<br/>9% chance upon hitting an enemy to deal \"130\" DPS over \"12\" seconds.(total:1500)<br/>Flesh Wounds:<br/>on hit, you have a 6% chance to slow enemies for 2 seconds",
+  "dropsFrom": "drops from the necro doggo",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Claw of the Beast",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Cloak of the 1000 Oceans",
+  "desc": "This has literally the simplest name ever, I'm not good at those, okay? Good for chain-rushing.",
+  "slot": "cloak",
+  "tier": "UT",
+  "rarity": "h",
+  "cost": "90",
+  "cooldown": "1",
+  "feedp": "1250",
+  "fameb": "6",
+  "effects": "yes",
+  "invisible": "3",
+  "speedy": "3",
+  "lootbag": "white",
+  "dropsFrom": "can be found in a White Bag dropped by: [[Thessal the Mermaid Goddess]]",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Cloak of the 1000 Oceans",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Cometstrike Dirk",
+  "desc": "A dagger forged from the body of a dwarf star, imbued with the energy of a thousand comets.",
+  "tier": "GL",
+  "slot": "dagger",
+  "minDmg": "115",
+  "maxDmg": "195",
+  "shots": "1",
+  "rof": "100",
+  "range": "yes",
+  "projSpeed": "14",
+  "lifetime": "420",
+  "fameb": "6",
+  "soulbound": "Yes.",
+  "lootbag": "red",
+  "dropsFrom": "can be found in Red Bags.",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Cometstrike Dirk",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Cosmic Phantom Prism",
+  "slot": "prism",
+  "tier": "GL",
+  "soulbound": "yes",
+  "desc": "A prism of the cosmos, capable of warping dimensions, causing mirages of the user to appear everywhere.",
+  "cost": "90",
+  "fameb": "6",
+  "decoyDistance": "8",
+  "decoySpeed": "1.23",
+  "effects": "yes",
+  "decoy": "8",
+  "teleport": "yes",
+  "bonuses": "{{Stat|vit|3}} {{Stat|wis|3}}",
+  "lootbag": "white",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "vit",
+    "3"
+   ],
+   [
+    "wis",
+    "3"
+   ]
+  ],
+  "_page": "Cosmic Phantom Prism",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Dagger of Goddess of Goddesses",
+  "desc": "Taken from the deep ends of the Trench.",
+  "tier": "UT",
+  "rarity": "h",
+  "slot": "dagger",
+  "minDmg": "150",
+  "maxDmg": "190",
+  "shots": "1",
+  "rof": "85",
+  "range": "",
+  "projSpeed": "33.3",
+  "lifetime": "200",
+  "fameb": "6",
+  "feedp": "1250",
+  "lootbag": "white",
+  "dropsFrom": "can be found in a White Bag dropped by: [[Thessal the Mermaid Goddess]]",
+  "range2": "6.19",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Dagger of Goddess of Goddesses",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Dagger of the Endless Void",
+  "desc": "Ths dagger was long lost,before it was found in some old,dark ruins of an cursed place. Wielders of this weapon will suffer,and then die. Thanks to: BeeEasy",
+  "slot": "dagger",
+  "tier": "UT",
+  "rarity": "l",
+  "rof": "100",
+  "shots": "2",
+  "arcgap": "10",
+  "range": "",
+  "minDmg": "95",
+  "maxDmg": "135",
+  "projSpeed": "10",
+  "lifetime": "500",
+  "amplitude": "0.24",
+  "frequency": "0.88",
+  "fameb": "7",
+  "feedp": "900",
+  "legendary": "2",
+  "lootbag": "white",
+  "dropsFrom": "can be found in a White Bag dropped in: Sprite World from 1st and 2nd Boss.",
+  "range2": "5.5",
+  "effects": "yes",
+  "multihit": "yes",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Dagger of the Endless Void",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Deepspace Veil",
+  "desc": "A cloak weaved from an unknown material, said to drape it's user in absolute, utter, nothingness.",
+  "slot": "cloak",
+  "tier": "GL",
+  "cost": "90",
+  "cooldown": "7",
+  "fameb": "6",
+  "soulbound": "yes",
+  "bonuses": "{{Stat|spd|5}} {{Stat|dex|4}} {{Stat|vit|3}} {{Stat|wis|3}}",
+  "effects": "yes",
+  "invisible": "6",
+  "lootbag": "white",
+  "dropsFrom": "can be found in a White Bag dropped by: [[Cracked Core]], [[The Zucc]] and [[L. Bandito]].",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "spd",
+    "5"
+   ],
+   [
+    "dex",
+    "4"
+   ],
+   [
+    "vit",
+    "3"
+   ],
+   [
+    "wis",
+    "3"
+   ]
+  ],
+  "_page": "Deepspace Veil",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Destructor Cloak",
+  "desc": "There is only 1 copy of this cloak... And you o... Well, there might be 2.",
+  "slot": "cloak",
+  "tier": "UT",
+  "rarity": "h",
+  "cost": "125",
+  "cooldown": "8.5",
+  "feedp": "500",
+  "fameb": "6",
+  "bonuses": "{{Stat|def|2}} {{Stat|vit|2}}",
+  "effects": "yes",
+  "invisible": "6",
+  "berserk": "2",
+  "damaging": "2",
+  "lootbag": "white",
+  "dropsFrom": "can be found in a White Bag dropped in: Abyss of Demons.",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "def",
+    "2"
+   ],
+   [
+    "vit",
+    "2"
+   ]
+  ],
+  "_page": "Destructor Cloak",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Destructor Dagger",
+  "desc": "A dagger obtainted from the Master Destructor himself...",
+  "slot": "dagger",
+  "tier": "UT",
+  "rarity": "h",
+  "rof": "90",
+  "shots": "1",
+  "minDmg": "105",
+  "maxDmg": "175",
+  "range": "",
+  "projSpeed": "10",
+  "lifetime": "510",
+  "fameb": "6",
+  "feedp": "500",
+  "effects": "yes",
+  "multihit": "yes",
+  "pierce": "yes",
+  "lootbag": "white",
+  "dropsFrom": "can be found in a White Bag dropped by: [[Archdemon Malphas]].",
+  "range2": "5.3",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Destructor Dagger",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Doom Katana",
+  "desc": "This foul Katana has doomed many opponents, as it is slowly decaying",
+  "rarity": "h",
+  "slot": "katana",
+  "tier": "UT",
+  "minDmg": "250",
+  "maxDmg": "335",
+  "shots": "1",
+  "rof": "55",
+  "range2": "5.8",
+  "fameb": "5",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Doom Katana",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Dreadstump's Rapier",
+  "slot": "sword",
+  "tier": "UT",
+  "rarity": "l",
+  "desc": "Finesse of the high seas, Thanks to: Nekrie.",
+  "rof": "175",
+  "range": "",
+  "projSpeed": "10",
+  "lifetime": "350",
+  "minDmg": "150",
+  "maxDmg": "200",
+  "frequency": "0.25",
+  "amplitude": "0.25",
+  "feedp": "333",
+  "lootbag": "white",
+  "shots": "1",
+  "range2": "4.5",
+  "fameb": "5",
+  "bonuses": "{{Stat|spd|4}}{{Stat|vit|3}}",
+  "legendary": "1",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "spd",
+    "4"
+   ],
+   [
+    "vit",
+    "3"
+   ]
+  ],
+  "_page": "Dreadstump_s Rapier",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Enchanted Uru Sword",
+  "desc": "Once able to open the Bifrost to Asguard, without Heimdallr's magic, the blade is no better than any other mortal sword.",
+  "rarity": "l",
+  "slot": "sword",
+  "tier": "UT",
+  "minDmg": "200",
+  "maxDmg": "270",
+  "shots": "2",
+  "rof": "75",
+  "range2": "4.7",
+  "fameb": "7",
+  "effects": "yes",
+  "pierce": "yes",
+  "multihit": "yes",
+  "bonuses": "{{Stat|def|4}}{{Stat|wis|6}}",
+  "legendary": "1",
+  "dropsFrom": "drops from Heimdallr",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "def",
+    "4"
+   ],
+   [
+    "wis",
+    "6"
+   ]
+  ],
+  "_page": "Enchanted Uru Sword",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Fang of Frost",
+  "slot": "sword",
+  "tier": "UT",
+  "rarity": "u",
+  "desc": "An unearthly metal forged into a blade colder than winter in all of it's fury. Thanks to: Nekrie.",
+  "rof": "140",
+  "range": "",
+  "projSpeed": "10",
+  "lifetime": "450",
+  "minDmg": "120",
+  "maxDmg": "165",
+  "feedp": "580",
+  "fameb": "6",
+  "effects": "yes",
+  "pierce": "yes",
+  "lootbag": "white",
+  "dropsFrom": "is obtainable from Sprite World",
+  "range2": "4.5",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Fang of Frost",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Firebreather's Tail",
+  "desc": "Cut off from the body of the fallen Firebreather and covered in it's searing blood.",
+  "tier": "ST",
+  "slot": "dagger",
+  "minDmg": "85",
+  "maxDmg": "190",
+  "shots": "1",
+  "rof": "",
+  "range": "",
+  "projSpeed": "10",
+  "lifetime": "550",
+  "fameb": "5",
+  "feedp": "500",
+  "effects": "yes",
+  "pierce": "yes",
+  "lootbag": "white",
+  "dropsFrom": "can be found in a White Bag dropped by: [[Firebreather]].",
+  "rarity": "a",
+  "range2": "5.7",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Firebreather_s Tail",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Flameblast Staff",
+  "desc": "Tipped with blazing crystals, the heat from this staff can be felt by even the wielder.",
+  "rarity": "l",
+  "slot": "staff",
+  "tier": "UT",
+  "minDmg": "400",
+  "maxDmg": "500",
+  "shots": "2",
+  "rof": "35",
+  "range2": "4.7",
+  "fameb": "7",
+  "legendary": "3",
+  "dropsFrom": "fiery plannes 2nd boss",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Flameblast Staff",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Flask of Stardust",
+  "desc": "A flask filled with glittering stardust, combined with the venom of a cosmic dragon, able to bring down any foe.",
+  "slot": "poison",
+  "tier": "GL",
+  "soulbound": "yes",
+  "totalDamage": "940",
+  "impactDamage": "215",
+  "radius": "5",
+  "cost": "105",
+  "fameb": "6",
+  "effects": "yes",
+  "poison": "725",
+  "poisonDuration": "4.5",
+  "bonuses": "{{Stat|vit|3}} {{Stat|wis|3}}",
+  "lootbag": "white",
+  "dropsFrom": "can be found in White Bags dropped by: [[Cracked Core]]. [[The Zucc]] and [[L. Bandito]].",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "vit",
+    "3"
+   ],
+   [
+    "wis",
+    "3"
+   ]
+  ],
+  "_page": "Flask of Stardust",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Flesh Trap",
+  "desc": "A trap made of flesh from Norghus' collection of corpses",
+  "slot": "trap",
+  "tier": "UT",
+  "rarity": "p",
+  "cost": "150",
+  "damage": "1400,1000,600",
+  "radius": "10,6,3",
+  "triggerradius": "5,3,2",
+  "armtime": "5,5.5,6",
+  "cooldown": "1",
+  "fameb": "10",
+  "bonuses": "{{Stat|att|4}}{{Stat|dex|9}}",
+  "effects": "yes",
+  "slowed": "(large)4.5",
+  "paralysed": "(medium)5",
+  "weak": "(small)4",
+  "lootbag": "white",
+  "dropsFrom": "can be found in a White Bag dropped by Cookie Monster",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "att",
+    "4"
+   ],
+   [
+    "dex",
+    "9"
+   ]
+  ],
+  "_page": "Flesh Trap",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Galaxy Longbow",
+  "slot": "bow",
+  "tier": "GL",
+  "soulbound": "yes",
+  "desc": "A bow of incredible power, said to be all the energy of a singular galaxy, condensed into one single weapon.",
+  "rof": "100",
+  "range": "yes",
+  "projSpeed": "16",
+  "lifetime": "470",
+  "minDmg": "75",
+  "maxDmg": "90",
+  "shots": "3",
+  "arcgap": "8",
+  "fameb": "6",
+  "effects": "yes",
+  "multihit": "yes",
+  "lootbag": "white",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Galaxy Longbow",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Gravedigger's Shovel",
+  "desc": "Despite looking like an ordinary shovel, it is not, in fact it contains the limitless power of thousands of souls",
+  "rarity": "l",
+  "slot": "staff",
+  "tier": "UT",
+  "minDmg": "100",
+  "maxDmg": "105",
+  "shots": "5",
+  "rof": "80",
+  "range2": "7",
+  "fameb": "6",
+  "effects": "yes",
+  "pierce": "yes",
+  "passthrough": "yes",
+  "bonuses": "{{Stat|def|-5}}{{Stat|spd|4}}",
+  "legendary": "2",
+  "dropsFrom": "drops from the gravedigger",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "def",
+    "-5"
+   ],
+   [
+    "spd",
+    "4"
+   ]
+  ],
+  "_page": "Gravedigger_s Shovel",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Greeni",
+  "slot": "bow",
+  "tier": "UT",
+  "rarity": "rare",
+  "desc": "This is a acidi... A galactic blaster made up from the greenest of green.",
+  "rof": "120",
+  "range": "6.51",
+  "projSpeed": "18.5",
+  "lifetime": "350",
+  "minDmg": "115",
+  "maxDmg": "140",
+  "shots": "2",
+  "feedp": "3000",
+  "lootbag": "white bag",
+  "dropsFrom": "zucc",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Greeni",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Gungnir",
+  "desc": "The magical spear that once belonged to the Allfather himself  .",
+  "rarity": "l",
+  "slot": "sword",
+  "tier": "UT",
+  "minDmg": "250",
+  "maxDmg": "340",
+  "shots": "1",
+  "rof": "110",
+  "range2": "5.5",
+  "fameb": "7",
+  "effects": "yes",
+  "pierce": "yes",
+  "legendary": "3",
+  "dropsFrom": "drops from Odin",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Gungnir",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Hallow's End",
+  "slot": "bow",
+  "tier": "UT",
+  "rarity": "u",
+  "desc": "A light rustle in the amber sea... Thanks to: Nekrie.",
+  "rof": "66",
+  "range": "yes",
+  "projSpeed": "14",
+  "lifetime": "570",
+  "minDmg": "205",
+  "maxDmg": "255",
+  "feedp": "400",
+  "fameb": "6",
+  "effects": "yes",
+  "multihit": "yes",
+  "lootbag": "white",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Hallow_s End",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Handcannon",
+  "slot": "bow",
+  "tier": "UT",
+  "rarity": "Primal",
+  "desc": "The legendary firearm forged from hard steel and demonic blood containing mighty power.",
+  "rof": "95",
+  "range": "",
+  "projSpeed": "160",
+  "lifetime": "700",
+  "minDmg": "100",
+  "maxDmg": "125",
+  "shots": "8",
+  "arcgap": "6",
+  "effects": "yes",
+  "multihit": "yes",
+  "pierce": "",
+  "legendary": "1",
+  "lootbag": "white",
+  "dropsFrom": "is currently only obtainable from the L.Bandito, in Galactic Zones",
+  "primal": "Overwhelmed With Power:<br/>You have a 0.01% chance to become drunk for 2 seconds on hit",
+  "range2": "12",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Handcannon",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Head of the Firebreather",
+  "desc": "The resurrected head of the fallen Firebreather attached to a wooden stick allows for full control over the Firebreather's flames.",
+  "rarity": "a",
+  "slot": "staff",
+  "tier": "ST",
+  "minDmg": "40",
+  "maxDmg": "70",
+  "shots": "4",
+  "rof": "120",
+  "range2": "9",
+  "fameb": "5",
+  "pierce": "yes",
+  "dropsFrom": "drops from the Firebreather",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Head of the Firebreather",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Heavy Bow of the Asgard Guardian",
+  "slot": "bow",
+  "tier": "UT",
+  "rarity": "h",
+  "desc": "This bow has harvested souls of many dark elves in its lifetime.",
+  "rof": "11",
+  "range": "yes",
+  "projSpeed": "10",
+  "lifetime": "900",
+  "minDmg": "1350",
+  "maxDmg": "1650",
+  "fameb": "5",
+  "feedp": "1000",
+  "effects": "yes",
+  "multihit": "yes",
+  "lootbag": "white",
+  "dropsFrom": "is a white bag drop from the Asgard Guardian in the realm.",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Heavy Bow of the Asgard Guardian",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Hela's power",
+  "desc": "A magical staff, containing the remains of power Hela once held",
+  "rarity": "l",
+  "slot": "staff",
+  "tier": "UT",
+  "minDmg": "100",
+  "maxDmg": "325",
+  "shots": "5",
+  "rof": "45",
+  "range2": "7",
+  "fameb": "7",
+  "effects": "yes",
+  "pierce": "yes",
+  "multihit": "yes",
+  "passthrough": "yes",
+  "bonuses": "{{Stat|hp|80}}{{Stat|wis|4}}",
+  "legendary": "2",
+  "dropsFrom": "drops from Hela",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "hp",
+    "80"
+   ],
+   [
+    "wis",
+    "4"
+   ]
+  ],
+  "_page": "Hela_s power",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Himura's Katana",
+  "desc": "A powerful blade, wielded by only the greatest of magical swordsmen, this blade has been lost to obsidian dragon for many ages, lost it is no more...",
+  "rarity": "u",
+  "slot": "katana",
+  "tier": "UT",
+  "minDmg": "120",
+  "maxDmg": "160",
+  "shots": "1",
+  "rof": "130",
+  "range2": "4",
+  "fameb": "5",
+  "dropsFrom": "no idea",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Himura_s Katana",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Hornshot",
+  "slot": "bow",
+  "tier": "UT",
+  "rarity": "h",
+  "desc": "A slingshot, made from the horns of the trolls",
+  "rof": "23",
+  "range": "yes",
+  "projSpeed": "10",
+  "lifetime": "800",
+  "minDmg": "500",
+  "maxDmg": "600",
+  "fameb": "8",
+  "feedp": "3600",
+  "effects": "yes",
+  "bonuses": "{{Stat|wis|-4}} {{Stat|spd|-4}}",
+  "lootbag": "white",
+  "dropsFrom": "is a white bag drop from the Ortar enemy in the galaxy/starforce.",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "wis",
+    "-4"
+   ],
+   [
+    "spd",
+    "-4"
+   ]
+  ],
+  "_page": "Hornshot",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Ice Shatter",
+  "desc": "A crystallized crossbow imbued with magical energy, firing icecles that freeze the bones of its victims, readying them for shattering",
+  "rarity": "h",
+  "slot": "bow",
+  "tier": "ut",
+  "minDmg": "200",
+  "maxDmg": "225",
+  "shots": "1",
+  "rof": "125",
+  "range2": "8",
+  "fameb": "5",
+  "effects": "yes",
+  "slowed": "1",
+  "bonuses": "{{Stat|att|3}}{{Stat|spd|4}}{{Stat|dex|5}}",
+  "dropsFrom": "drops from the ice queen in icy peaks",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "att",
+    "3"
+   ],
+   [
+    "spd",
+    "4"
+   ],
+   [
+    "dex",
+    "5"
+   ]
+  ],
+  "_page": "Ice Shatter",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Loki's Dagger",
+  "desc": "Taken from the false trickster, the dagger is imbued with a lethal poison.",
+  "rarity": "l",
+  "slot": "dagger",
+  "tier": "UT",
+  "minDmg": "120",
+  "maxDmg": "200",
+  "shots": "1",
+  "rof": "120",
+  "range2": "4.4",
+  "fameb": "7",
+  "effects": "yes",
+  "pierce": "yes",
+  "multihit": "yes",
+  "boomerang": "yes",
+  "legendary": "4",
+  "dropsFrom": "drops from loki",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Loki_s Dagger",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Metal Blood Bow",
+  "slot": "bow",
+  "tier": "UT",
+  "rarity": "h",
+  "desc": "A bow forged out of Metal and Blood. Thanks to: WizardishG.",
+  "rof": "75",
+  "range": "",
+  "projSpeed": "",
+  "lifetime": "",
+  "minDmg": "130",
+  "maxDmg": "165",
+  "feedp": "600",
+  "fameb": "6",
+  "effects": "yes",
+  "multihit": "yes",
+  "boomerang": "yes",
+  "bonuses": "",
+  "lootbag": "white",
+  "range2": "7.5",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Metal Blood Bow",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Molten Katana",
+  "desc": "Sizzle sizzle sizzle...",
+  "rarity": "h",
+  "slot": "katana",
+  "tier": "UT",
+  "minDmg": "180",
+  "maxDmg": "240",
+  "shots": "1",
+  "rof": "75",
+  "fameb": "7",
+  "effects": "yes",
+  "pierce": "yes",
+  "dropsFrom": "no idea",
+  "range2": "4.2",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Molten Katana",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Omega Ancient Sword",
+  "slot": "sword",
+  "tier": "UT",
+  "rarity": "l",
+  "desc": "A Omega Ancient Sword, Thanks to: MegaLerio223.",
+  "rof": "100",
+  "range": "",
+  "projSpeed": "11",
+  "lifetime": "450",
+  "minDmg": "180",
+  "maxDmg": "240",
+  "shots": "3",
+  "arcgap": "15",
+  "feedp": "100",
+  "fameb": "6",
+  "bonuses": "{{Stat|def|2}}",
+  "legendary": "4",
+  "lootbag": "white",
+  "dropsFrom": "is obtainable from The Shatters",
+  "range2": "4.7",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "def",
+    "2"
+   ]
+  ],
+  "_page": "Omega Ancient Sword",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "PoOoOoOokkErrRr",
+  "desc": "01001110 01101001 01100011 01100101 00100001",
+  "tier": "UT",
+  "rarity": "l",
+  "slot": "dagger",
+  "minDmg": "160",
+  "maxDmg": "235",
+  "shots": "1",
+  "rof": "120",
+  "range": "no",
+  "projSpeed": "18",
+  "lifetime": "249",
+  "fameb": "7",
+  "legendary": "3",
+  "bonuses": "{{Stat|dex|5}}",
+  "lootbag": "white",
+  "dropsFrom": "can be found in a White Bag dropped by: [[Pokerface]].",
+  "range2": "6.5",
+  "effects": "yes",
+  "multihit": "yes",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "dex",
+    "5"
+   ]
+  ],
+  "_page": "PoOoOoOokkErrRr",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Radiant Wand of Royalism",
+  "desc": "This wand was forged with burning rubies, dedicated to what was once a Royal Family",
+  "rarity": "l",
+  "slot": "wand",
+  "tier": "UT",
+  "minDmg": "60",
+  "maxDmg": "80",
+  "shots": "2",
+  "rof": "160",
+  "range2": "8",
+  "fameb": "6",
+  "effects": "yes",
+  "multihit": "yes",
+  "legendary": "2",
+  "dropsFrom": "drops from Thessal the Mermaid Goddess",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Radiant Wand of Royalism",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Realm Power",
+  "desc": "This wand holds what's unknown to the universe. The power of the great realm giant",
+  "rarity": "l",
+  "slot": "wand",
+  "tier": "UT",
+  "minDmg": "155",
+  "maxDmg": "180",
+  "shots": "1",
+  "rof": "115",
+  "range2": "8.24",
+  "fameb": "6",
+  "effects": "yes",
+  "pierce": "yes",
+  "multihit": "yes",
+  "legendary": "4",
+  "dropsFrom": "drops from realm giant",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Realm Power",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Reaper's Bow",
+  "desc": "This bow fires the souls of Elithor's victims.",
+  "rarity": "p",
+  "slot": "bow",
+  "tier": "UT",
+  "minDmg": "200",
+  "maxDmg": "300",
+  "shots": "2",
+  "rof": "62",
+  "range2": "5.39",
+  "fameb": "10",
+  "effects": "yes",
+  "multihit": "yes",
+  "passthrough": "yes",
+  "boomerang": "yes",
+  "primal": "Harvest:<br/>Your shots have a 5% chance to do 1.5x damage.",
+  "dropsFrom": "Drops from Elithor",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Reaper_s Bow",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Rotting Arm",
+  "slot": "sword",
+  "tier": "UT",
+  "rarity": "l",
+  "desc": "Despite its fragile and disgusting appearance, this cut-off arm packs a powerful hit.",
+  "rof": "55",
+  "range": "",
+  "projSpeed": "10",
+  "lifetime": "290",
+  "minDmg": "175",
+  "maxDmg": "200",
+  "frequency": "",
+  "shots": "5",
+  "arcgap": "14",
+  "fameb": "6",
+  "feedp": "1600",
+  "bonuses": "{{Stat|hp|40}} {{Stat|def|4}}",
+  "legendary": "3",
+  "lootbag": "white",
+  "dropsFrom": "is obtainable via minions in todd's",
+  "range2": "2.9",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "hp",
+    "40"
+   ],
+   [
+    "def",
+    "4"
+   ]
+  ],
+  "_page": "Rotting Arm",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Shadow Scales",
+  "desc": "A cloak woven from the light-manipulating scales of the Shadowscale.",
+  "slot": "cloak",
+  "tier": "ST",
+  "cost": "95",
+  "cooldown": "6",
+  "feedp": "500",
+  "fameb": "5",
+  "bonuses": "{{Stat|hp|50}} {{Stat|mp|50}} {{Stat|att|5}} {{Stat|spd|5}}",
+  "effects": "yes",
+  "invisible": "5",
+  "speedy": "5",
+  "lootbag": "white",
+  "dropsFrom": "can be found in a White Bag dropped by: [[Shadowscale]].",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "hp",
+    "50"
+   ],
+   [
+    "mp",
+    "50"
+   ],
+   [
+    "att",
+    "5"
+   ],
+   [
+    "spd",
+    "5"
+   ]
+  ],
+  "_page": "Shadow Scales",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Shadowbone Sword",
+  "slot": "sword",
+  "tier": "ST",
+  "desc": "A sword crafted from countless bones collected from the corpses lying around Shadowland.",
+  "rof": "",
+  "range": "",
+  "projSpeed": "10",
+  "lifetime": "480",
+  "minDmg": "123",
+  "maxDmg": "166",
+  "frequency": "",
+  "shots": "3",
+  "arcgap": "90",
+  "feedp": "500",
+  "fameb": "5",
+  "effects": "yes",
+  "multihit": "yes",
+  "bonuses": "{{Stat|att|4}} {{Stat|vit|2}}",
+  "lootbag": "white",
+  "dropsFrom": "is obtainable from the Shadowscale realm event.",
+  "range2": "4.8",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "att",
+    "4"
+   ],
+   [
+    "vit",
+    "2"
+   ]
+  ],
+  "_page": "Shadowbone Sword",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Shadowscale's Horn",
+  "desc": "A sharp bone, cut from the head of the fallen Shadowscale.",
+  "tier": "ST",
+  "slot": "dagger",
+  "minDmg": "95",
+  "maxDmg": "165",
+  "shots": "1",
+  "rof": "125",
+  "range": "",
+  "amplitude": "1",
+  "frequency": "0.2",
+  "projSpeed": "14",
+  "lifetime": "400",
+  "fameb": "5",
+  "feedp": "500",
+  "effects": "yes",
+  "pierce": "yes",
+  "multihit": "yes",
+  "passthrough": "yes",
+  "bonuses": "{{stat|att|4}} {{stat|spd|2}}",
+  "lootbag": "white",
+  "dropsFrom": "can be found in a White Bag dropped by: [[Shadowscale]].",
+  "range2": "5.19",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Shadowscale_s Horn",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Shattered War Axe",
+  "slot": "sword",
+  "tier": "UT",
+  "rarity": "l",
+  "desc": "An axe that has been shattered in the holy war enchanted by angles, yet shattered can cause quite the blow. Thanks to: Oeti.",
+  "rof": "45",
+  "range": "",
+  "projSpeed": "10",
+  "lifetime": "650",
+  "minDmg": "500",
+  "maxDmg": "700",
+  "feedp": "2900",
+  "fameb": "6",
+  "legendary": "5",
+  "lootbag": "white",
+  "dropsFrom": "is obtainable from The Undead Lair.",
+  "range2": "5",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Shattered War Axe",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Staff of Annihilation",
+  "desc": "too long cba",
+  "rarity": "p",
+  "slot": "staff",
+  "tier": "UT",
+  "minDmg": "80",
+  "maxDmg": "120",
+  "shots": "10",
+  "rof": "150",
+  "range2": "8.55",
+  "fameb": "10",
+  "soulbound": "yes",
+  "pierce": "yes",
+  "slowed": "1",
+  "dropsFrom": "is made from combining the 4 pieces of the staff found throughout the Realm.",
+  "primal": "Devastation:<br/>Your shots have a 1.5% chance to apply Armor Broken, Slow and Weak for 3 seconds on hit (6 second cooldown).",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Staff of Annihilation",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Staff of Nature",
+  "desc": "A staff which holds the power of nature. Losing this staff might severely pollute the realm",
+  "rarity": "a",
+  "slot": "staff",
+  "tier": "ST",
+  "minDmg": "65",
+  "maxDmg": "140",
+  "shots": "2",
+  "rof": "120",
+  "range2": "9",
+  "fameb": "5",
+  "dropsFrom": "drops from the god of reptilians",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Staff of Nature",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Starbuster Blade",
+  "slot": "sword",
+  "tier": "GL",
+  "soulbound": "yes",
+  "desc": "A sword forged from a comet, imbued with the energy of a supernova star.",
+  "rof": "100",
+  "range": "yes",
+  "projSpeed": "10",
+  "lifetime": "430",
+  "minDmg": "240",
+  "maxDmg": "300",
+  "fameb": "6",
+  "lootbag": "white",
+  "dropsFrom": "is obtainable from Galactic Zones",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Starbuster Blade",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Stardust Cutter",
+  "desc": "A blade stardust, wielded only by the greatest shinobi, able to slice through the veil of reality itself.",
+  "rarity": "g",
+  "slot": "katana",
+  "tier": "GL",
+  "minDmg": "170",
+  "maxDmg": "210",
+  "shots": "1",
+  "range2": "5.01",
+  "fameb": "6",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Stardust Cutter",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Starlight Crook",
+  "desc": "A mysterious staff, glittering with the light of a star, said to contain the energy of many galaxies",
+  "rarity": "g",
+  "slot": "staff",
+  "tier": "GL",
+  "minDmg": "80",
+  "maxDmg": "125",
+  "shots": "2",
+  "rof": "100",
+  "range2": "8.91",
+  "fameb": "6",
+  "soulbound": "yes",
+  "dropsFrom": "drops from gl bosses",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Starlight Crook",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Stem of the Brain",
+  "desc": "It's a little gruesome, but it'll work.",
+  "rarity": "l",
+  "slot": "katana",
+  "tier": "UT",
+  "minDmg": "250",
+  "maxDmg": "350",
+  "shots": "1",
+  "rof": "65",
+  "range2": "3.8",
+  "fameb": "5",
+  "effects": "yes",
+  "multihit": "yes",
+  "boomerang": "yes",
+  "bonuses": "{{Stat|att|6}}",
+  "legendary": "1",
+  "dropsFrom": "e brains",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "att",
+    "6"
+   ]
+  ],
+  "_page": "Stem of the Brain",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Sweet Sugar Rush Staff",
+  "desc": "A yummy staff that casts Chocolate Projectiles. Thanks to :pepus",
+  "rarity": "u",
+  "slot": "staff",
+  "tier": "UT",
+  "minDmg": "95",
+  "maxDmg": "100",
+  "shots": "1",
+  "rof": "120",
+  "range2": "6",
+  "fameb": "2",
+  "effects": "yes",
+  "multihit": "yes",
+  "boomerang": "yes",
+  "dropsFrom": "drops from bosses in Candy land",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Sweet Sugar Rush Staff",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Sword of Oryx",
+  "slot": "sword",
+  "tier": "UT",
+  "rarity": "l",
+  "desc": "This sword comes from the deepest of mountains, the highest of oceans. Straight from the sky.",
+  "rof": "105",
+  "range": "yes",
+  "projSpeed": "12",
+  "lifetime": "350",
+  "minDmg": "265",
+  "maxDmg": "340",
+  "fameb": "7",
+  "feedp": "1400",
+  "legendary": "4",
+  "lootbag": "white",
+  "dropsFrom": "is obtainable via Oryx The Mad God 3.",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Sword of Oryx",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Sword of the Aquatic God",
+  "slot": "sword",
+  "tier": "UT",
+  "rarity": "u",
+  "desc": "A Sword of the Aquatic God, Thanks to: Neva.",
+  "rof": "115",
+  "range": "",
+  "projSpeed": "10",
+  "minDmg": "165",
+  "maxDmg": "230",
+  "feedp": "490",
+  "fameb": "6",
+  "bonuses": "{{Stat|wis|5}}",
+  "lootbag": "white",
+  "dropsFrom": "can be found in White Bags dropped by: [[Thessal the Mermaid Goddess]].",
+  "range2": "4.8",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "wis",
+    "5"
+   ]
+  ],
+  "_page": "Sword of the Aquatic God",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Sword of the Demon Lord",
+  "slot": "sword",
+  "tier": "UT",
+  "rarity": "u",
+  "desc": "A Sword of the Demon Lord, Thanks to: Neva.",
+  "rof": "80",
+  "range": "",
+  "projSpeed": "10",
+  "lifetime": "370",
+  "minDmg": "220",
+  "maxDmg": "260",
+  "feedp": "490",
+  "fameb": "5",
+  "effects": "yes",
+  "pierce": "yes",
+  "bonuses": "{{Stat|hp|50}} {{Stat|vit|5}}",
+  "lootbag": "white",
+  "dropsFrom": "is obtainable from The Abyss",
+  "range2": "4.1",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "hp",
+    "50"
+   ],
+   [
+    "vit",
+    "5"
+   ]
+  ],
+  "_page": "Sword of the Demon Lord",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Sword of the Fallen",
+  "slot": "sword",
+  "tier": "UT",
+  "rarity": "h",
+  "desc": "Once posessed by the King of the Giants, the sword is the most powerful one within the realm.",
+  "rof": "90",
+  "range": "",
+  "projSpeed": "10",
+  "lifetime": "520",
+  "minDmg": "275",
+  "maxDmg": "320",
+  "feedp": "500",
+  "fameb": "6",
+  "bonuses": "{{Stat|att|2}} {{Stat|dex|2}}",
+  "lootbag": "white",
+  "dropsFrom": "is obtained from the Cave of a Thousand Treasures",
+  "effects": "+2 dexterity , +2 attack",
+  "range2": "4.7",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "att",
+    "2"
+   ],
+   [
+    "dex",
+    "2"
+   ]
+  ],
+  "_page": "Sword of the Fallen",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "The Apex Bulwark",
+  "desc": "This wand was once wielded by the leader of the ancient battle mages. His dark energy continues to pulsate through the wand, making it impossible to command through traditional methods",
+  "rarity": "p",
+  "slot": "wand",
+  "tier": "UT",
+  "minDmg": "225",
+  "maxDmg": "250",
+  "shots": "4",
+  "range2": "3",
+  "fameb": "10",
+  "effects": "yes",
+  "multihit": "yes",
+  "passthrough": "yes",
+  "primal": "Power Surge:\nOn hit, you have a 2% chance to gain berserk, damaging and armor broken.(6 second cooldown)",
+  "dropsFrom": "drops from novus",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "The Apex Bulwark",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "The Searing Blood",
+  "desc": "Collected from the veins of the fallen Firebreather, the blood's fiery structure may have its uses.",
+  "slot": "poison",
+  "tier": "ST",
+  "totalDamage": "1300",
+  "impactDamage": "450",
+  "radius": "5.6",
+  "cost": "130",
+  "feedp": "400",
+  "fameb": "5",
+  "effects": "yes",
+  "poison": "850",
+  "poisonDuration": "4",
+  "lootbag": "white",
+  "dropsFrom": "can be found in White Bags dropped by: [[Firebreather]].",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "The Searing Blood",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "The Seaweed Sword",
+  "slot": "sword",
+  "tier": "ST",
+  "desc": "Crafted from the seaweed that occupies the Riverborn's face, the sword is agile and very deadly.",
+  "rof": "120",
+  "projSpeed": "10",
+  "lifetime": "500",
+  "minDmg": "75",
+  "maxDmg": "145",
+  "amplitude": "1",
+  "frequency": "0.3",
+  "shots": "3",
+  "arcgap": "8",
+  "feedp": "500",
+  "fameb": "5",
+  "bonuses": "{{Stat|vit|4}}",
+  "lootbag": "white",
+  "dropsFrom": "is obtainable from the Riverborn realm event.",
+  "rarity": "a",
+  "range2": "5",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "vit",
+    "4"
+   ]
+  ],
+  "_page": "The Seaweed Sword",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "The Winged Wand",
+  "desc": "Riverborn's wings infused with magic allow the wielder full control over the waters within the river",
+  "rarity": "a",
+  "slot": "wand",
+  "tier": "ST",
+  "minDmg": "65",
+  "maxDmg": "120",
+  "shots": "2",
+  "rof": "95",
+  "range2": "7.01",
+  "fameb": "5",
+  "effects": "yes",
+  "multihit": "yes",
+  "passthrough": "yes",
+  "bonuses": "{{Stat|att|2}}{{Stat|dex|4}}",
+  "dropsFrom": "drops from riverborn",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "att",
+    "2"
+   ],
+   [
+    "dex",
+    "4"
+   ]
+  ],
+  "_page": "The Winged Wand",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Throwing Spear",
+  "slot": "sword",
+  "tier": "UT",
+  "rarity": "l",
+  "desc": "HOW MANY TIME HAVE I CALL MY NAME FOR YOU",
+  "rof": "80",
+  "range": "",
+  "projSpeed": "15",
+  "lifetime": "650",
+  "minDmg": "325",
+  "maxDmg": "325",
+  "fameb": "6",
+  "feedp": "950",
+  "effects": "yes",
+  "pierce": "yes",
+  "legendary": "1",
+  "lootbag": "white",
+  "dropsFrom": "is dropped in a white bag after killing Uvuvwevwevwe.",
+  "range2": "8.02",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Throwing Spear",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Thusala's Slasher",
+  "desc": "This anciant polearm, once wielded by Thusala, has guarded the Necropolis for thousands of years.",
+  "rarity": "p",
+  "slot": "sword",
+  "tier": "UT",
+  "minDmg": "50",
+  "maxDmg": "1675",
+  "shots": "1",
+  "rof": "40",
+  "range2": "6",
+  "fameb": "10",
+  "effects": "yes",
+  "pierce": "yes",
+  "multihit": "yes",
+  "primal": "bleed:<br/>4% chance upon hitting an enemy to deal \"3000\" DPS over \"3\" seconds.(Total:9000)<br/>Swift:<br/>Increase speed by 15 for 4.5 seconds.(9 second cooldown)",
+  "dropsFrom": "drops from Thusala",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Thusala_s Slasher",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Undead's Gross Bow",
+  "slot": "bow",
+  "tier": "UT",
+  "rarity": "l",
+  "desc": "A gross,rather large bow that was crafted from the dead. Thanks to: BeeEasy.",
+  "rof": "85",
+  "range": "7.04",
+  "projSpeed": "16",
+  "lifetime": "440",
+  "minDmg": "85",
+  "maxDmg": "120",
+  "amplitude": "0.15",
+  "frequency": "1",
+  "shots": "5",
+  "arcgap": "5",
+  "feedp": "900",
+  "fameb": "6",
+  "effects": "yes",
+  "multihit": "yes",
+  "pierce": "yes",
+  "legendary": "4",
+  "lootbag": "white",
+  "dropsFrom": "drops from Troll Matriarch , Ghost Bride , Grave Caretaker , Ghost of Skuld",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Undead_s Gross Bow",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Wand Full of Mana",
+  "desc": "Composed of the arcane essence that allows arcanic beings to exist.",
+  "rarity": "h",
+  "slot": "wand",
+  "tier": "UT",
+  "minDmg": "25",
+  "maxDmg": "50",
+  "shots": "5",
+  "rof": "145",
+  "range2": "7",
+  "fameb": "8",
+  "effects": "yes",
+  "passthrough": "yes",
+  "bonuses": "{{Stat|wis|-8}}{{Stat|hp|-75}}{{Stat|mp|200}}",
+  "dropsFrom": "drops from arcanica in Galaxies",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "wis",
+    "-8"
+   ],
+   [
+    "hp",
+    "-75"
+   ],
+   [
+    "mp",
+    "200"
+   ]
+  ],
+  "_page": "Wand Full of Mana",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Wand of Bone",
+  "desc": "A wand fashioned from the bones of Diagon himself. It draws power from Diagon's necrotic life essence",
+  "rarity": "p",
+  "slot": "wand",
+  "tier": "UT",
+  "minDmg": "180",
+  "maxDmg": "200",
+  "shots": "2",
+  "rof": "75",
+  "range2": "5.25",
+  "fameb": "10",
+  "effects": "yes",
+  "pierce": "yes",
+  "multihit": "yes",
+  "dropsFrom": "drops from Diagon",
+  "primal": "Bleed:<br/>\n30% chance upon hitting an enemy to deal \"600\" DPS over \"8\" seconds.(Total:4800)<br/>\nDeep Wounds:<br/>\nOn hit, you have a 10% chance to curse enemies for 3 seconds",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Wand of Bone",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Wand of Retribution",
+  "desc": "A golden wand of breathtaking power, created by elemental forces from the realms of ice and flame to unleash revenge on their enemies.",
+  "slot": "wand",
+  "tier": "T14",
+  "minDmg": "120",
+  "maxDmg": "160",
+  "shots": "1",
+  "range": "yes",
+  "projSpeed": "10",
+  "lifetime": "800",
+  "pierce": "Shots hit multiple targets",
+  "dropsFrom": "drops randomly from bosses in the Necropolis",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Wand of Retribution",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Wand of the Frozen Queen",
+  "desc": "Ripped straight from the ground of te Frozen Queen's domain, this wand pierces your enemies with an unrelenting coldness",
+  "rarity": "l",
+  "slot": "wand",
+  "tier": "UT",
+  "minDmg": "180",
+  "maxDmg": "200",
+  "shots": "1",
+  "rof": "110",
+  "range2": "12",
+  "fameb": "7",
+  "effects": "yes",
+  "pierce": "yea",
+  "multihit": "yea",
+  "bonuses": "{{Stat|att|5}}{{Stat|dex|2}}",
+  "legendary": "4",
+  "dropsFrom": "drops from Frozen Queen",
+  "slowed": "1",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "att",
+    "5"
+   ],
+   [
+    "dex",
+    "2"
+   ]
+  ],
+  "_page": "Wand of the Frozen Queen",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Wand of the Rising Star",
+  "desc": "Various kinds of stars have been used in the creation of this wand... Maybe.",
+  "rarity": "h",
+  "slot": "wand",
+  "tier": "UT",
+  "minDmg": "75",
+  "maxDmg": "130",
+  "shots": "3",
+  "rof": "60",
+  "range2": "8",
+  "fameb": "1",
+  "dropsFrom": "sprite world boss",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "_page": "Wand of the Rising Star",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Windcutter",
+  "desc": "A suspiciously looking katana",
+  "rarity": "l",
+  "slot": "katana",
+  "tier": "UT",
+  "minDmg": "240",
+  "maxDmg": "280",
+  "shots": "1",
+  "rof": "120",
+  "range2": "5.6",
+  "fameb": "6",
+  "effects": "yes",
+  "pierce": "yes",
+  "multihit": "yes",
+  "passthrough": "yes",
+  "bonuses": "{{Stat|spd|3}}{{Stat|dex|3}}",
+  "legendary": "4",
+  "dropsFrom": "suspicious looking dragon",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "spd",
+    "3"
+   ],
+   [
+    "dex",
+    "3"
+   ]
+  ],
+  "_page": "Windcutter",
+  "_wiki": "rotfserver"
+ },
+ {
+  "name": "Wooden Elegance",
+  "slot": "bow",
+  "tier": "ST",
+  "desc": "Crafted from the fine wood found in the Broken Forest, this bow will bring style to the way you shoot.",
+  "rof": "115",
+  "range": "",
+  "projSpeed": "",
+  "lifetime": "",
+  "minDmg": "65",
+  "maxDmg": "95",
+  "shots": "2",
+  "arcgap": "15",
+  "feedp": "500",
+  "fameb": "5",
+  "effects": "yes",
+  "multihit": "yes",
+  "pierce": "yes",
+  "bonuses": "{{Stat|att|4}} {{Stat|dex|6}}",
+  "lootbag": "white",
+  "rarity": "a",
+  "range2": "7.77",
+  "_positional": [
+   "ItemInfo"
+  ],
+  "bonuses_parsed": [
+   [
+    "att",
+    "4"
+   ],
+   [
+    "dex",
+    "6"
+   ]
+  ],
+  "_page": "Wooden Elegance",
+  "_wiki": "rotfserver"
+ }
+]

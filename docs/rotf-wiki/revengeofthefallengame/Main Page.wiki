@@ -1,0 +1,4 @@
+# Main Page
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Main%20Page&prop=wikitext
+
+#REDIRECT [[RevengeOfTheFallenGame Wiki]]

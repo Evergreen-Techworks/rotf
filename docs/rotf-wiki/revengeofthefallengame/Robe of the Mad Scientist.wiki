@@ -1,0 +1,4 @@
+# Robe of the Mad Scientist
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Robe%20of%20the%20Mad%20Scientist&prop=wikitext
+
+asdf

@@ -1,0 +1,4 @@
+# Night Edge
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Night%20Edge&prop=wikitext
+
+asdf

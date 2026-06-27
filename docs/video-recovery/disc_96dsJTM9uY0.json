@@ -1,0 +1,24 @@
+{
+ "dungeon": "GENUINE ROTF lava/fire dungeon run (event-feed heavy; chat readable). Main fight in a LAVA arena (boss does a yellow/orange X-cross geometric volley). Most boss content is EVENT-FEED mentions of base/event bosses; the build-relevant signal is CORROBORATION of the already-built Septavius the Ghost God taunts. A possible new 'Spectral Sentry' line is flagged uncertain.",
+ "map": "DOCUMENTED-from-frames+transitions: ORANGE/RED LAVA dungeons — open lava-floor combat rooms + a darker central boss arena; one blue/cyan arena glimpsed; a '1/10' wave-style counter shown on one entry (lava dungeon may be wave-based). Multi-entry run (6 loads); per-room sequence not traced.",
+ "bosses": [
+  {"name":"Septavius the Ghost God","phases":[],"attacks":[],"minions":["(summoned ghosts)"],"colorFlashes":"green","taunts":["Hahaha! How about a few grenades?!","Enough! You sti[ll]... (cut; = 'Enough! You shall not survive...')"],"note":"DOCUMENTED-from-chat. CORROBORATES the ALREADY-BUILT Septavius lines (grounds them — same wording as the build's verbatim taunts). No change needed; confidence-boost only."},
+  {"name":"(lava-arena boss — unnamed)","phases":[],"attacks":["DOCUMENTED-from-frames: yellow/orange X-CROSS geometric volley (diamond/geometric/cross class, fixedAngle) + scattered lava shots"],"minions":[],"colorFlashes":"orange/yellow","taunts":[],"note":"DOCUMENTED-from-frames. Lava-dungeon boss, name not captured. X-cross bullet pattern is the recoverable mechanic."},
+  {"name":"Spectral Sentry (?)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["I am weak... I am sl[ipping]... (UNCERTAIN attribution)"],"note":"UNCERTAIN: a chat line 'Spectral Sentry: I am weak... I am sl[ipping]' — but this strongly resembles Septavius's 'I am weak... I cannot stay immortal' + Marble Colossus's 'I feel myself... slipping' lines, so it may be a MISREAD/mis-attribution rather than a genuinely-new boss. Flagged, NOT to be built on this evidence alone. Needs a clean single-fight confirmation."}
+ ],
+ "minions": [],
+ "drops": [
+  "Legendary [item] '0% damage dealt' (Loot Notifier: [FatOck] got a legendary)",
+  "wooden head (from the 'old dusty bottle' container; player 'Selling wooden head from the dusty bottle')"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "God of Reptilians (Phoenix: 'A God of Reptilians has just spawned!')",
+  "Shadowscale (Starforce: 'The Shadowscale has been defeated')",
+  "Red Jewel (Golem: 'The Red Jewel has been defeated')",
+  "Grand Sphinx (Phoenix/Mummy: 'A Grand Sphinx has just spawned')",
+  "Skull Shrine, Treesmasher, Mad Jester (defeated; base/event bosses)"
+ ],
+ "mechanics": "DOCUMENTED: a lava/fire dungeon run. CORROBORATION value — Septavius the Ghost God taunts seen in feed match the built behavior (grounds them). MULTI-PERSONA ANNOUNCER system corroborated AGAIN with new personas: Phoenix, Starforce, Golem, Mummy, Death Notifier, Loot Notifier (each announces realm-event spawns/defeats; 'Loot Notifier' calls out legendary loot, 'Death Notifier' calls deaths). CONTAINER ITEM system: 'wooden head from the old dusty bottle' (the dusty-bottle openable seen in disc_55seoqVjso4 yields items like a 'wooden head'). ATTACK: lava boss = yellow/orange X-cross geometric volley + scattered shots. Event bosses are all base/event (low new-build value).",
+ "uncertain": "'Spectral Sentry: I am weak... I am slipping' — likely a misread/mis-attribution of the Septavius/Marble-Colossus 'weak/slipping' lines, NOT confirmed as a new boss (do not build on this). Lava-arena boss unnamed. Septavius 'Enough! You sti[ll]' line cut (matches built 'Enough! You shall not survive...'). '1/10' counter purpose (wave?) inferred.",
+ "confidence": "MEDIUM. GENUINE ROTF. Best value = Septavius taunt CORROBORATION (grounds already-built lines) + announcer-persona/container-item system corroboration. Lava-boss X-cross attack DOCUMENTED-from-frames (unnamed). LOW new-build value otherwise (event-feed = base bosses; 'Spectral Sentry' flagged uncertain, not buildable). Map MEDIUM (lava arenas)."
+}

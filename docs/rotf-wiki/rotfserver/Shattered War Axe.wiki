@@ -1,0 +1,27 @@
+# Shattered War Axe
+# https://rotfserver.fandom.com/api.php?action=parse&page=Shattered%20War%20Axe&prop=wikitext
+
+{{ItemInfo
+| name = Shattered War Axe
+| slot = sword
+| tier = UT
+| rarity = l
+| desc = An axe that has been shattered in the holy war enchanted by angles, yet shattered can cause quite the blow. Thanks to: Oeti.
+
+| rof = 45
+| range = 
+| projSpeed = 10
+| lifetime = 650
+| minDmg = 500
+| maxDmg = 700
+| feedp = 2900
+| fameb = 6
+
+| legendary = 5
+
+|lootbag = white
+|dropsFrom = is obtainable from The Undead Lair.|range2 = 5}}
+<noinclude>
+[[Category:Swords]]
+{{NavSwords}}
+</noinclude>

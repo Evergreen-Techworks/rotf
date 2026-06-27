@@ -1,0 +1,4 @@
+# Consumables
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Consumables&prop=wikitext
+
+Consumables can be used for a variety of options: either obtaining stats for a limited time to opening a portal to a dungeon and more.

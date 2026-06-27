@@ -1,0 +1,4 @@
+# Adept
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Adept&prop=wikitext
+
+This sub-class is mainly used for robe wielding players, assassins, and paladins specializing in their ability for more max health.

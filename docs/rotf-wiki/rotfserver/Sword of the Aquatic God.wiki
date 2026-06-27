@@ -1,0 +1,27 @@
+# Sword of the Aquatic God
+# https://rotfserver.fandom.com/api.php?action=parse&page=Sword%20of%20the%20Aquatic%20God&prop=wikitext
+
+{{ItemInfo
+| name = Sword of the Aquatic God
+| slot = sword
+| tier = UT
+| rarity = u
+| desc = A Sword of the Aquatic God, Thanks to: Neva.
+
+| rof = 115
+| range = 
+| projSpeed = 10
+|
+| minDmg = 165
+| maxDmg = 230
+| feedp = 490
+| fameb = 6
+
+| bonuses = {{Stat|wis|5}}
+
+|lootbag = white
+|dropsFrom = can be found in White Bags dropped by: [[Thessal the Mermaid Goddess]].|range2 = 4.8}}
+<noinclude>
+[[Category:Swords]]
+{{NavSwords}}
+</noinclude>

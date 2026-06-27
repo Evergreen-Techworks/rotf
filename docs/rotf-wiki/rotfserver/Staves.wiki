@@ -1,0 +1,21 @@
+# Staves
+# https://rotfserver.fandom.com/api.php?action=parse&page=Staves&prop=wikitext
+
+'''Bows''' are used by [[Wizard]]s, [[Necromancer]]s and [[Mystic]]s.
+==Production {{PAGENAME}}==
+'''''For production {{PAGENAME}} please follow this '''''[https://www.realmeye.com/wiki/Staves link]
+
+==Custom {{PAGENAME}}==
+{|
+| {{ItemDisplay|Sweet Sugar Rush Staff|u}}
+| {{ItemDisplay|Staff of Nature|a}}
+| {{ItemDisplay|Head of the Firebreather|a}}
+| {{ItemDisplay|Flameblast Staff|l}}
+| {{ItemDisplay|Gravedigger's Shovel|l}}
+| {{ItemDisplay|Hela's power|l}}
+| {{ItemDisplay|Staff of Annihilation|p}}
+|}
+===Starforce {{PAGENAME}}===
+{|
+| {{ItemDisplay|Starlight Crook|g}}
+|}

@@ -1,0 +1,26 @@
+{
+ "dungeon": "GENUINE ROTF-server run of the LOST HALLS — the BASE-GAME RotMG endgame dungeon ('Lost Halls opened by...'; blue-marble biome; 'Oryx Officer' enemies; a death 'Saltypanda died at level 20, killed by Oryx Officer'). FACECAM stream (webcam top-right; chat box bottom-left is visible but the player rarely OPENS chat -> almost NO taunts captured). Map + attacks recoverable; boss taunts NOT (chat closed). Base-game content, low new value.",
+ "map": "DOCUMENTED-from-f_frames: the LOST HALLS layout — a WHITE VAULT entry room (rows of golden chests) -> dark BLUE/MARBLE corridors and rooms (structured stone-marble passages, right-angle corridors, a cross/plus boss arena) -> a dark-blue boss ARENA where a red-bullet boss is fought. Classic Lost Halls room-and-corridor marble layout; choke points = the narrow marble passages between rooms.",
+ "bosses": [
+  {
+   "name": "(Lost Halls marble boss — name not captured)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames: BLUE bullets in long straight WALLS/GRIDS (wall/grid class — the Lost Halls marble-defender pattern: parallel straight lines of blue bullets crossing the arena) in the corridors; a final boss fires RED bullets in curved ARCS/WAVES (wave/sweeping) in the dark-blue arena. Maps to: wall/grid blue shots + sweeping red arcs."],
+   "minions": ["Oryx Officer (killed a player)"],
+   "colorFlashes": "blue / red",
+   "taunts": [],
+   "note": "DOCUMENTED-attack-only: chat stays CLOSED ('[Enter] To Chat') so NO boss name/taunt is captured. The blue wall/grid + red-arc attacks + 'Oryx Officer' enemies + 'Lost Halls' entry identify this as the BASE-GAME Lost Halls / marble-boss chain. Not attributable to a named boss this tag (base-game anyway)."
+  }
+ ],
+ "minions": ["Oryx Officer"],
+ "drops": [
+  "Lost Halls loot (golden vault chests; specifics not legible — facecam + closed chat)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Lost Halls (opened)",
+  "Test Portal spawned"
+ ],
+ "mechanics": "DOCUMENTED-limited (facecam + closed chat): a BASE-GAME LOST HALLS run. KEY clean finds = the Lost Halls LAYOUT (white vault entry -> blue-marble corridors -> cross boss arena) and the ATTACKS (blue bullet WALL/GRID lines + a final boss's red curved ARCS) + 'Oryx Officer' enemies. NO boss taunts (player keeps chat closed). PROVENANCE FLAG (relevant to the dev queue): the Lost Halls -> Cultist Hideout -> O3 endgame chain is BASE-GAME RotMG -> the 'Void Entity' (Cultist Hideout final boss) is a BASE-GAME boss. The dev bridge queued a 'boss-void-entity' NEW-boss task and there is a flagged 'Void Entity' candidate (from disc_dkyXVJtdX_Q) -> those taunts should be checked against base-game canon before building Void Entity as ROTF-custom (likely base-game, like Twilight Archmage / Forgotten King were).",
+ "uncertain": "Boss NAME/taunts NOT captured (chat closed -> facecam-style limitation). Attack geometry DOCUMENTED but base-game (Lost Halls marble). Whether the final red-arc boss is Marble Colossus, a Marble Defender, or the Void Entity is not determinable without a taunt/name. The Void-Entity-is-base-game flag is INFERRED from the Lost-Halls/Cultist-Hideout chain being present (strong for base-game RotMG, but not directly sighted in this tag).",
+ "confidence": "MEDIUM for the map/attacks (Lost Halls layout + blue wall/grid + red arcs, DOCUMENTED-from-frames) but these are BASE-GAME -> LOW new value. The useful OUTPUT is the PROVENANCE FLAG: the base-game Lost Halls/Cultist-Hideout chain is on this server, so 'Void Entity' (a bridge-queued new-boss task) is likely BASE-GAME -> verify its taunts vs canon before building (cf. the Twilight Archmage = base Shatters and Forgotten King = base Shatters corrections). No new named-boss/taunt content. Recorded to document the base Lost Halls + raise the Void-Entity provenance question."
+}

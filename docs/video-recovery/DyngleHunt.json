@@ -1,0 +1,15 @@
+{
+ "dungeon": "(LIKELY NOT ROTF) generic/vanilla RotMG Wizard PPE video — version 'RotMG #27.7.X13'. ~38 standard-dungeon entries, narrated. No ROTF-specific content.",
+ "source": "video DyngleHunt (726 f_, 544 chat, 272 minimap, 114 transitions = ~38 entries). A narrated Wizard PPE 'hunt' (on-screen story captions: 'today I will be starting an amazing adventure on a wizard PPE', 'oryx calls us forth', 'the vile sewers of Gulperd', 'you gotta crack a few eggs', 'purger of heretics'). Version string in chat reads 'RotMG #27.7.X13 Connected!' — a generic RotMG client/private-server, NOT the 'Revenge of the Fallen' server (which showed v1.3/v3.0 + a ROTF login + ROTF custom bosses in other tags).",
+ "map": "~38 entries across STANDARD RotMG biomes: red/orange lava labyrinths, grey stone dungeons, sandstone rooms, green grass realm, brown brick rooms, blue water/ice, snowy/ghost areas. No ROTF-unique biome captured.",
+ "bosses": [
+  {"name":"Oryx the Mad God","phases":[],"attacks":[],"minions":["Hermit God (referenced)"],"colorFlashes":"","taunts":["My Hermit God [...] [partial]"],"note":"DOCUMENTED-from-chat: '<Oryx the Mad God> My Hermit God ...' — vanilla-style Oryx line referencing the Hermit God as a minion/champion. Standard RotMG, not ROTF-custom."},
+  {"name":"(standard RotMG dungeon bosses — narrated, not ROTF-specific)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"Captions reference Gulpord's Sewers ('vile sewers of Gulperd'), Chicken Coop ('crack a few eggs'), 'villainous den ... slew its leader', a lich ('take that, lich'). All standard RotMG / generic-private-server dungeons; no ROTF custom-boss taunts captured."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "Generic RotMG Wizard PPE run. NO ROTF-specific systems observed (no 'Revenge of the Fallen' login, no /30 event counter, no Special Crate / void coins / Lucky-X bosses / Craig-Riverborn-Anubis taunts that the genuine ROTF tags showed). Version 'RotMG #27.7.X13'.",
+ "uncertain": "Server identity: the 'RotMG #27.7.X13' version + only-vanilla content strongly imply this is NOT ROTF (likely vanilla RotMG or an unrelated private server pulled in by the discovery keyword search). Could not confirm any ROTF marker. The Oryx 'My Hermit God' taunt is partial.",
+ "confidence": "LOW for ROTF relevance — flag as LIKELY OFF-TARGET (generic RotMG Wizard PPE, version 27.7.X13, no ROTF markers). Recommend EXCLUDING from ROTF reconstruction. Only the generic Oryx-references-Hermit-God observation is notable, and it's standard RotMG."
+}

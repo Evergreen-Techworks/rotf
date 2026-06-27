@@ -1,0 +1,75 @@
+{
+ "dungeon": "GENUINE ROTF target-server run (owner Volti present) — a GALACTIC/SPACE zone ('Ruins of the Mad God') with multiple NEW space bosses + a deep CRAFTING/FORGING + ACHIEVEMENT/ENCHANT economy. HIGH-VALUE for Phase D3 (Galactic Zones) and the crafting systems. Chat readable (grayscale-pulled from dark space bg). 4 new galactic bosses with taunts + the Forge/Scrap/Artifacts/Enchant/Achievement systems documented verbatim.",
+ "map": "DOCUMENTED-from-transitions+f_frames: a dark SPACE/VOID galactic zone — black starfield scattered with orange/red space enemies (asteroid/creature mobs), the player flying/shooting through open void (this is the 'Ruins of the Mad God' galactic dungeon). Plus a tan/sand DESERT zone and a FORGE/CRAFTING HUB (a crafting UI screen showing item + item -> item recipes with a stat panel: Shots/Length/Fame-Bonus). One long main segment (0-189s) then 2 quick exits (189s,193s). Open-void arena (no tight room geometry); enemies spread across the starfield.",
+ "bosses": [
+  {
+   "name": "Helios",
+   "phases": [
+    "solar/supernova escalation"
+   ],
+   "attacks": [
+    "RECONSTRUCTED-from-taunt (no bossends): 'Witness the SUPERNOVA!' -> a large radial ring/nova burst (solar nova). NOT frame-traced -> reconstructed from the supernova theme."
+   ],
+   "minions": [],
+   "colorFlashes": "orange/yellow (solar, reconstructed)",
+   "taunts": [
+    "Judgment comes! You cannot hide from the light!",
+    "Witness the SUPERNOVA!"
+   ],
+   "note": "DOCUMENTED-from-chat VERBATIM. NEW galactic SUN/SOLAR boss 'Helios'. Two clear taunts. Attack reconstructed from 'SUPERNOVA' theme (radial nova) — flagged, not frame-traced. Phase-D3 candidate. [VERIFY-LOOP CORRECTION: taunt 1 was mis-transcribed 'from this!' -> frame-read f_00301-305 confirms 'from the light!' (SUN/SOLAR theme corroborates). Taunt 2 'Witness the SUPERNOVA!' frame-verified exact.]"
+  },
+  {
+   "name": "Umbra Solaris",
+   "phases": [],
+   "attacks": [
+    "not captured (spawn announced, no clean fight frames)"
+   ],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-chat: '<Volti> Spawning Umbra Solaris...' (owner spawned it). NEW galactic boss 'Umbra Solaris' (umbra=shadow + solaris=sun -> a DARK-SUN/eclipse boss, likely a counterpart to Helios). No taunt/attack captured here — name + existence only. Phase-D3 candidate (needs a clean fight clip)."
+  },
+  {
+   "name": "Ruins of the Mad God (core boss)",
+   "phases": [
+    "'The core awakens!' -> 'LIMITERS RELEASED!' escalation (core powers up / drops damage limiters)"
+   ],
+   "attacks": [
+    "RECONSTRUCTED-from-taunt (no bossends): a CORE/mecha boss that escalates — 'The core awakens! DODGE...' (telegraphed dodge attack) then 'LIMITERS RELEASED! DIE!' (enrage/full-power barrage). NOT frame-traced -> reconstructed."
+   ],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "The core awakens! DODGE[...]",
+    "LIMITERS RELEASED! DIE!"
+   ],
+   "note": "DOCUMENTED-from-chat. 'Ruins of the Mad God' is the GALACTIC ZONE itself AND a CORE boss within it (mecha/reactor theme: 'core', 'limiters'). 2 taunts (1st right-edge cut after 'DODGE'). A core-with-limiters boss = a phase/enrage design. Phase-D3 candidate."
+  },
+  {
+   "name": "Bloodsworn Knight",
+   "phases": [],
+   "attacks": [
+    "not captured"
+   ],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "You dare challenge the Bloodsworn[...]"
+   ],
+   "note": "DOCUMENTED-from-chat (right-edge cut after 'Bloodsworn'). NEW knight boss 'Bloodsworn Knight'. Only the opening clause captured ('You dare challenge the Bloodsworn[Knight/Order?]...'). Blood/knight theme. Needs a cleaner clip for the full line + attack."
+  }
+ ],
+ "minions": [
+  "orange/red space enemies (asteroid/creature mobs in the void)"
+ ],
+ "drops": [
+  "Talisman Fragment x1 (achievement reward -> Gift Chest)",
+  "Forged item variants (Forge output)",
+  "Scrap (crafting currency)",
+  "Artifacts (crafting currency)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED — a DEEP custom economy (very high value):\n(1) FORGING/CRAFTING: '<Ranger> ... Successfully Forged Forged Vari[ant]...' + a Forge UI showing item + item -> item recipes with a stat panel (Shots/Length/Fame-Bonus). Two currencies: SCRAP (an effect '[?]Rancliad effect! (-15 Scrap)' fires repeatedly = a reroll/re-forge costing 15 Scrap each) and ARTIFACTS ('Spent 225 Artifacts.').\n(2) ENCHANTING: on-screen tip 'Enchanting your items increases your DPS' -> an item-enchant system.\n(3) ACHIEVEMENT/QUEST system: 'Claimed reward for \\'Legendary Hunter\\'!' / '...\\'Scrap Salvager\\'!' / '...\\'Monster Cleanup\\'!' / '...\\'Explorer\\'s Trail\\'!' -> 'Reward sent to Gift Chest: Talisman Fragment x1'. Named achievements grant rewards routed to a GIFT CHEST (Talisman Fragment = an achievement/craft currency).\n(4) CRIER NPC hints: '<Crier> If you want to see where items drop, check [...]' + '<Crier> That generator seems to be making a lot o[f noise]...' -> a GENERATOR mechanic in the space zone (a hint/objective system).\n(5) SPACESHIP/ENGINE: 'The engine runs smoothly with [...]' -> the spaceship engine (Galactic-Zones fuel/engine system, cf. the 'Winter Spaceship' vehicle in disc_KF5X3ylt3C0).\nGENUINE target-server (owner Volti).",
+ "uncertain": "Boss ATTACKS are reconstructed from taunt themes (Helios=supernova nova; Ruins core=limiter-escalation) — NO bossends, NOT frame-traced -> flagged. Some taunts right-edge cut ('The core awakens! DODGE[...]', 'You dare challenge the Bloodsworn[...]'). The Scrap-effect word ('Rancliad'?) is an uncertain read; the '(-15 Scrap)' cost is clear. Umbra Solaris = name+spawn only (no taunt/attack). 'Ruins of the Mad God' is both the zone name and a core boss — exact boss vs zone split unconfirmed.",
+ "confidence": "HIGH for the CHAT content (4 new galactic bosses w/ verbatim taunts: Helios + Umbra Solaris + Ruins-of-the-Mad-God core + Bloodsworn Knight; and the Forge/Scrap/Artifacts/Enchant/Achievement/Crier/engine systems — all read clearly). MEDIUM-LOW for ATTACKS (reconstructed from theme, not frame-traced — flagged honestly). GENUINE ROTF (Volti). VERY HIGH net value: concrete Phase-D3 galactic bosses + a documented crafting/forging/achievement economy. Best follow-up: single-boss clips of Helios/Umbra Solaris/the core for attack geometry, and a Forge-UI clip for exact recipe/currency costs."
+}

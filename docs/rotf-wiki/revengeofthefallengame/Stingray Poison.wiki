@@ -1,0 +1,4 @@
+# Stingray Poison
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Stingray%20Poison&prop=wikitext
+
+asdf

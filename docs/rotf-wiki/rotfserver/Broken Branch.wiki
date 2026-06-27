@@ -1,0 +1,5 @@
+# Broken Branch
+# https://rotfserver.fandom.com/api.php?action=parse&page=Broken%20Branch&prop=wikitext
+
+{{ItemInfo|name = Broken Branch  |desc = One of many branches laying around in the broken Forest, sharpened into swift and deadly weapon|rarity = a|slot = katana|tier = ST|minDmg = 300|maxDmg = 450|shots = 1|rof = 50|range2 = 5.2|fameb = 5|effects = yea|multihit = yes|bonuses = {{Stat|att|6}}{{Stat|dex|4}}|dropsFrom = no idea
+}}

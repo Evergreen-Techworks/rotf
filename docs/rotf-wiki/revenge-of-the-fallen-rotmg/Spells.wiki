@@ -1,0 +1,149 @@
+# Spells
+# https://revenge-of-the-fallen-rotmg.fandom.com/api.php?action=parse&page=Spells&prop=wikitext
+
+This page includes both custom daggers and old daggers that have been edited from how they appear on the production RotMG server.
+{| class="article-table"
+!Spell
+!Damage
+!Shots
+!Range
+!MP Cost
+!Stats
+!Pierce
+!Armor Pierce
+!Obstacle Pierce
+!Effects
+!Fame Bonus
+!Tier
+!Legendary/Primal
+Effect
+|-
+|Planetary Destruction Spell
+|85-170
+|20
+|17
+|85
+|<nowiki>+3vit</nowiki>
++3wis
+|
+|
+|
+|
+|6%
+|GL
+|
+|-
+|The Searing Shower
+|90-180
+|20
+|10.08
+|100
+|
+|
+|
+|
+|
+|5%
+|Artifact
+|
+|-
+|Spell Full of Nature
+|120-150
+|20
+|14.25
+|90
+|
+|
+|
+|
+|
+|5%
+|Artifact
+|
+|-
+|Mysterious Incantation
+|55-100
+|20*4
+|9
+|130
+|<nowiki>+2wis</nowiki>
++2def
+
+-4att
+|
+|
+|
+|
+|6%
+|Heroic
+|
+|-
+|Carnivorous Sentient Spell
+|80-125
+|20
+|6.5
+|90
+|
+|yes
+|
+|
+|Boomerang Shots
+|4%
+|Legendary
+|Physical Barrier
+|-
+|Music of the Gods
+|75-200
+|25
+|16
+|115
+|
+|
+|yes
+|
+|Berserk:
+1 sec
+|
+|Legendary
+|Last Hope
+|-
+|Recurring Terror Spell
+|200-300
+|8
+|2
+|75
+|<nowiki>-20hp</nowiki>
++2att
+
++4dex
+
++2def
+
+-5vit
+|
+|
+|yes
+|Parametric
+Shots
+|
+|Legendary
+|Angel's Touch
+|-
+|Tablet of the King's Avatar
+|130-140
+|20
+|0.53
+|180
+|<nowiki>+4wis</nowiki>
++40mp
+|yes
+|
+|
+|Boomerang Shots
+Cooldown:
+
+1 sec
+|6%
+|Legendary
+|Curse
+|}

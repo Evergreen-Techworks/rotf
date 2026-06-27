@@ -1,0 +1,11 @@
+{
+ "dungeon": "NOT a dungeon run — a short (~45s) GIVEAWAY / PROMO video by creator 'RuinedBow'. Dominated by overlay CARDS: an intro meme title 'The Real Day mald ... on September 20th', a GIVEAWAY-RULES card ('To enter the giveaway, you need to like the video, subscribe, and share the video with a friend, and comment your ign in the comments'), and 'Thanks for watching' outro panels. Only brief incidental gameplay behind the cards (a sandy grid arena + a red/lava dungeon segment). NO boss named/tauntED.",
+ "map": "NO recoverable dungeon layout — incidental backdrops only: a flat tan/SANDY GRID floor staged with rows of enemy sprites (intro card backdrop), a RED/LAVA dungeon floor (behind the giveaway card), and a dark VOID/SPACE background for the intro/outro title panels. No room sequence, arena geometry, or choke points (overlay cards cover the gameplay).",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "NONE recoverable. This is a creator GIVEAWAY/PROMO video (like/subscribe/share/comment-ign giveaway entry) with meme intro + outro cards; gameplay is incidental and overlaid. The only 'content' is promotional. No boss, dungeon, taunt, attack, loot, or mechanic captured.",
+ "uncertain": "Whether the brief red/lava segment is a real ROTF dungeon — cannot tell, the giveaway card covers it and no boss/feed is readable. Chat is viewer banter + promo spam (e.g. 'Powered by ... Subscribe', 'AAAA...') over a busy grid floor -> no taunts. The sandy grid of enemy sprites is a staged showcase, not a dungeon.",
+ "confidence": "HIGH that this is a non-dungeon GIVEAWAY/PROMO video with NO recoverable boss/dungeon/taunt/attack/loot content (bosses=[]). Recorded honestly: overlay cards dominate, gameplay incidental, chat = promo/viewer banter. No build/enrich content. No follow-up needed."
+}

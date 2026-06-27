@@ -1,0 +1,21 @@
+{
+ "dungeon": "GENUINE ROTF/RotMG multi-dungeon run (8 entries, ~371s) — green grass REALMS + a RED LAVA arena + a grey/red GEOMETRIC (Shatters-style) arena + space. Many boss climaxes (82 bossends / 8 groups) but NO boss NAMES captured (chat is player banter over the arena floors). LOW-MEDIUM yield: dungeon/biome set + scattered-bullet attack patterns; bosses unidentified.",
+ "map": "DOCUMENTED-from-transitions+bossends: 8-entry multi-dungeon hop — GREEN grass realms (brown enemies arranged in a grid), a RED LAVA arena, a grey/red GEOMETRIC/checkered arena (Shatters-style, t007), dark SPACE. No single room-sequence (multi-dungeon).",
+ "bosses": [
+  {
+   "name": "(unidentified multi-dungeon bosses)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames but APPROXIMATE: scattered bullets across green/grey arenas + grid-arranged brown minions (b003_23s/b006_171s green arenas); a grey/red geometric arena with scattered red bullets (b007_259s). Class: scattered/spread + grid-arranged minions. NO clean single geometric pattern confidently isolated."],
+   "minions": ["grid-arranged brown enemies (green-arena bosses)"],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "8 boss climaxes across the run but NO boss NAME/taunt captured (chat is player banter — 'i forgot about pet', 'ughmm?' — over the grey/checkered floors; no boss-prefix isolated) -> bosses left UNIDENTIFIED (no guessing). Attacks loosely characterised (scattered/spread + grid minions), flagged approximate."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED (limited): a multi-dungeon run with 8 boss climaxes across green-realm / lava / grey-geometric / space biomes. Boss attacks = scattered/spread bullets + grid-arranged brown minions (frames; approximate). Chat is PLAYER BANTER ('i forgot about pet', 'ughmm?') -> NO boss taunts captured. No boss names. Same unidentified-boss pattern as disc_k1Yg0c2rySM / disc_nFN8h1GVL-o (edited multi-dungeon montages yield attack-class but not names).",
+ "uncertain": "NO boss NAMES or taunts captured (chat = player banter over arena floors) -> all bosses UNIDENTIFIED (not guessed). Attack geometry approximate (scattered/spread + grid minions; no clean single pattern). Multi-dungeon -> no single layout. Server = RotMG-engine (not a non-target).",
+ "confidence": "LOW-MEDIUM. GENUINE ROTF/RotMG multi-dungeon run. Concrete: the biome/dungeon set (green-realm/lava/grey-geometric/space) + scattered-bullet attack class across 8 climaxes. NO boss name/taunt captured -> bosses recorded as unidentified, player-chat flagged (not a taunt), no fabrication. Best follow-up: a non-edited single-boss clip (clean boss-coloured chat) for names + taunts + bullet geometry."
+}

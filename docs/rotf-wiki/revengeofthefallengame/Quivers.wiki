@@ -1,0 +1,144 @@
+# Quivers
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Quivers&prop=wikitext
+
+The quiver is the ability of the archer. It is used to cause damage to enemies in a line and causes debuffs (mostly paralyzes).
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = LimbsplitQuiver.png
+| link = Limbsplit Quiver
+| text = Limbsplit Quiver
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlack
+| file = OdinsRavens.png
+| link = Odin's Ravens
+| text = Odin's Ravens
+}}
+|{{ImageBlackLarge1
+| file = DreadstumpsCannon.png
+| link = Dreadstump's Cannon
+| text = Dreadstump's Cannon
+}}
+|{{ImageBlackLarge2
+| file = RedBeehemothQuiver.png
+| link = Red Beehemoth Quiver
+| text = Red Beehemoth Quiver
+}}
+|{{ImageBlackLarge1
+| file = QuiverOfTheShadows.png
+| link = Quiver of the Shadows
+| text = Quiver of the Shadows
+}}
+|{{ImageBlackLarge1
+| file = QuiverOfThunder.png
+| link = Quiver of Thunder
+| text = Quiver of Thunder
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge1
+| file = QuiverOfTheAsgardRuins.png
+| link = Quiver of the Asgard Ruins
+| text = Quiver of the Asgard Ruins
+}}
+|{{ImageBlackLarge1
+| file = LeviathansRepentance.png
+| link = Leviathan's Repentance
+| text = Leviathan's Repentance
+}}
+|{{ImageBlackLarge1
+| file = LightningGodQuiver.png
+| link = Lightning God Quiver
+| text = Lightning God Quiver
+}}
+|{{ImageBlackLarge2
+| file = BlueBeehemothQuiver.png
+| link = Blue Beehemoth Quiver
+| text = Blue Beehemoth Quiver
+}}
+|{{ImageBlackLarge1
+| file = FreezingQuiver.png
+| link = Freezing Quiver
+| text = Freezing Quiver
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlack
+| file = TheSplitArrow.png
+| link = The Split Arrow
+| text = The Split Arrow
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Unique</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlackLarge2
+| file = YellowBeehemothQuiver.png
+| link = Yellow Beehemoth Quiver
+| text = Yellow Beehemoth Quiver
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlack
+| file = StardustQuiver.png
+| link = Stardust Quiver
+| text = Stardust Quiver
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlack
+| file = GoldenQuiver.png
+| link = Golden Quiver
+| text = Golden Quiver
+}}
+|{{ImageBlackLarge1
+| file = QuiverOfElvishMastery.png
+| link = Quiver of Elvish Mastery
+| text = Quiver of Elvish Mastery
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+|{{ImageBlack
+| file = MagicQuiver.png
+| link = Magic Quiver
+| text = Magic Quiver
+}}
+|{{ImageBlackLarge1
+| file = ReinforcedQuiver.png
+| link = Reinforced Quiver
+| text = Reinforced Quiver
+}}
+|{{ImageBlack
+| file = IronQuiver.png
+| link = Iron Quiver
+| text = Iron Quiver
+}}
+|{{ImageBlackLarge1
+| file = ElvencraftQuiver.png
+| link = Elvencraft Quiver
+| text = Elvencraft Quiver
+}}
+|{{ImageBlackLarge1
+| file = MagesteelQuiver.png
+| link = Magesteel Quiver
+| text = Magesteel Quiver
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

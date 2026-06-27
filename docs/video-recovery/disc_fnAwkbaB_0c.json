@@ -1,0 +1,23 @@
+{
+ "dungeon": "ROTF sub-goal marathon (1389 frames, ~125 entries; SAMPLED) — refines Encounter taunts ('GRAVE MISTAKES HAVE BEEN MADE.'), Zucc/Starforce, Hermit God, 'old empty bottle' item. GENUINE ROTF.",
+ "source": "video disc_fnAwkbaB_0c (HUGE: 1389 f_, 2084 chat, 1042 minimap, 375 transitions = ~125 entries). A 'Subscriber Goal' stream (overlay: 631/750, 26 days to go). Analyzed via contact sheet + 25-transition sample + 18-chat-crop sample (NOT exhaustive). Biomes: sandstone dungeons, grey-blue TILED labyrinths (dominant), a bright-RED brick maze, a GOLD TEMPLE (Egyptian/god style), icy/snow areas, green realm.",
+ "bosses": [
+  {"name":"Flying Encounter","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["GRAVE MISTAKES HAVE BEEN MADE.","Your attempt at taking me down is c[ute/comical?]... [truncated]"],"note":"DOCUMENTED-from-chat. REFINES the built Encounter taunt: actual verbatim is 'GRAVE MISTAKES HAVE BEEN MADE.' (the built Encounters.cs uses the approximation 'YOU HAVE MADE A GRAVE MISTAKE'). Flying also has a 2nd line 'Your attempt at taking me down is c...' (partial). Flying Encounter = 0x8f13."},
+  {"name":"Breathing Encounter","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["GRAVE MISTAKES HAVE BEEN MADE."],"note":"DOCUMENTED-from-chat. Same shared Encounter taunt 'GRAVE MISTAKES HAVE BEEN MADE.' (Breathing = 0x8f10). -> ALL the Encounters (Breathing/Smashing/Flying/Shadow) share this exact line; consider correcting Encounters.cs to the verbatim 'GRAVE MISTAKES HAVE BEEN MADE.'"},
+  {"name":"The Zucc","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'Starforce - A Zucc has just spawned!'. Re-confirms The Zucc as a Starforce-zone boss (with Gem Gem + Cracked Core)."},
+  {"name":"Hermit God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'The Hermit God has been defeated! (3/25)'. Base Ocean Trench Hermit family; verify collision."}
+ ],
+ "minions": [],
+ "drops": [
+  "old empty bottle -> Potion (consumable: 'You have opened the old empty bottle! Obtaining a Potion...')",
+  "Special Crate unboxes (Loot Notifier)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Starforce - A Zucc has just spawned!",
+  "The Hermit God has been defeated! (3/25)",
+  "Flying / Breathing Encounters (GRAVE MISTAKES HAVE BEEN MADE)"
+ ],
+ "mechanics": "DOCUMENTED: (1) ENCOUNTER taunt CORRECTION — the realm Encounters say verbatim 'GRAVE MISTAKES HAVE BEEN MADE.' (shared) + per-Encounter follow-ups (Flying: 'Your attempt at taking me down is c...'). The built BehaviorDb.Encounters.cs currently uses 'YOU HAVE MADE A GRAVE MISTAKE' — the recovered verbatim is the passive 'GRAVE MISTAKES HAVE BEEN MADE.'. (2) 'OLD EMPTY BOTTLE' item — opening it yields a Potion (a bottle->potion consumable). (3) /25 event counter + /16 star counter (death notifier [8/16, fame]). (4) Stat-pot caps + overflow-to-vault ('You're already maxed. Potion of X has been sent...'). (5) Special Crate unboxing. (6) Subscriber-Goal stream overlay (meta).",
+ "uncertain": "Flying Encounter 2nd line truncated ('...is c'). Not exhaustive (125 entries, ~25 sampled) — the GOLD TEMPLE + red brick maze biomes could be specific dungeons (Tomb/Anubis-like + a fire maze) but no entry names legible. 'old empty bottle' exact potion type unknown.",
+ "confidence": "HIGH for the Encounter taunt correction ('GRAVE MISTAKES HAVE BEEN MADE.'), Zucc/Starforce, Hermit God, old-empty-bottle item. MEDIUM for the Flying 2nd line + full dungeon coverage. GENUINE ROTF. Actionable: fix Encounters.cs taunt to the verbatim wording."
+}

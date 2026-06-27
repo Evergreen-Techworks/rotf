@@ -1,0 +1,58 @@
+{
+ "dungeon": "GENUINE ROTF long stream (~22 min) — primarily an ASGARD run (the built Asgard gods, all corroborated) + a dark-space/lava dungeon + realm event grind. Chat readable. Mostly CORROBORATION of already-built content (Asgard Loki/Hela/Heimdall/Odin) rather than new bosses; one dark purple/space+lava dungeon documented (possibly Galactic-Zone-related). Maxed-pot auto-storage mechanic visible.",
+ "map": "DOCUMENTED-from-bossends+frames: (1) the ASGARD interior — grey-STONE arenas/corridors (the god-fight rooms) where white/silver bullets fill the floor; (2) a DARK PURPLE/SPACE dungeon (b003 @1205s) — black/void arena with ORANGE-LAVA pockets + TAN/SAND CROSS-structures in the centre, bosses fought amid scattered coloured bullets (space biome, possibly a Galactic zone); (3) the green GRASS REALM hub with water (event spawns). Long stream -> three distinct areas across the 3 transitions (6s, 759s, 1356s).",
+ "bosses": [
+  {
+   "name": "Loki",
+   "phases": ["clone/disappear gimmick"],
+   "attacks": ["white/silver radial bullets (Asgard) — see built Loki"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["I will disappear now! Or will it? Hahahaha!"],
+   "note": "DOCUMENTED-from-chat (ASG Loki; 'crushed by ASG Loki' in feed). CORROBORATES the built Asgard Loki. Already built+verified -> no change needed; recorded as re-confirmation."
+  },
+  {
+   "name": "Hela",
+   "phases": ["summons minions; escalates"],
+   "attacks": ["white/silver radial (Asgard) — see built Hela"],
+   "minions": ["Hela minions"],
+   "colorFlashes": "",
+   "taunts": [
+    "Destroy them, minions!",
+    "Whatever. It just means that I need to try a little harder."
+   ],
+   "note": "DOCUMENTED-from-chat. CORROBORATES the built Asgard Hela (the 'try a little harder' line was already built+verified). Re-confirmation, no change."
+  },
+  {
+   "name": "Heimdall",
+   "phases": [],
+   "attacks": ["white/silver radial (Asgard) — see built Heimdall"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["Let the sound penetrate your mind!"],
+   "note": "DOCUMENTED-from-chat. CORROBORATES the built Asgard Heimdall ('Let the sound penetrate...' already built). Re-confirmation."
+  },
+  {
+   "name": "(unnamed dark-space/lava dungeon boss)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (b003 bossends): scattered ORANGE/BLUE/RED bullets in a dark purple/space arena (radial scatter; multi-source, not a clean single geometry). Possibly a Galactic-zone boss."],
+   "minions": [],
+   "colorFlashes": "orange/blue/red",
+   "taunts": [],
+   "note": "DOCUMENTED-attack-only: the b003 @1205s dungeon is a dark space+lava arena with tan cross-structures; boss name not isolated from the busy chat. Possibly Galactic-Zones-related (space biome). Not attributable to a named boss this tag."
+  }
+ ],
+ "minions": ["Hela minions"],
+ "drops": [
+  "Maxed stat potions auto-sent to potion storage (Mana/Life/Vitality/Wisdom)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Cookie Monster (spawned)",
+  "Firebreather (defeated, /25)",
+  "Mysterious Card",
+  "Oryx the Mad God (realm)"
+ ],
+ "mechanics": "DOCUMENTED: a long ROTF stream = an ASGARD run + a dark-space/lava dungeon + realm event grind. PRIMARY VALUE = CORROBORATION of the already-built Asgard gods (Loki 'I will disappear now! Or will it? Hahahaha!', Hela 'Destroy them, minions!' + 'Whatever. It just means that I need to try a little harder.', Heimdall 'Let the sound penetrate your mind!') — all match the built+verified Asgard set, re-confirming it. A dark PURPLE/SPACE + lava dungeon (b003) is documented (tan cross-structures, scattered coloured bullets; possibly a Galactic zone) but its boss name isn't isolable from the busy chat. Maxed-pot auto-storage mechanic confirmed. Some ambiguous 'Magma'-prefixed lines in the Asgard chat (artifacts/Construct theme) were too small/uncertain to claim. No NEW named boss/taunt.",
+ "uncertain": "Mostly corroboration -> little new content. The dark-space/lava dungeon boss NAME not captured (busy chat). Some batch-A 'Magma: ...artifacts vandals / Here comes my Construct' lines are small + uncertain (possible misreads or a minor Construct boss) -> NOT claimed. Asgard attacks are the known white/silver radial (multi-god scatter, not isolated per-god here). Whether the space dungeon is a Galactic zone is inferred from biome only.",
+ "confidence": "MEDIUM. GENUINE ROTF. HIGH for the Asgard CORROBORATION (Loki/Hela/Heimdall taunts match the built+verified set). LOW for new content (no new named boss/taunt; the space-dungeon boss is name-less here). Net value: re-confirms the Asgard build is grounded + documents a dark-space/lava dungeon biome (possible Galactic). Recorded honestly as a corroboration tag, not over-claimed. Best follow-up: a clean clip of the b003 space+lava dungeon to name its boss."
+}

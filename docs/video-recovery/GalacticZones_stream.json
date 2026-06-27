@@ -1,0 +1,14 @@
+{
+ "dungeon": "Galactic Zones",
+ "map": "VIDEO (4h farming stream, 246 area transitions): players repeatedly enter a Galactic-Zone arena = a BROWN/ORANGE circular/diamond tiled room; bosses spawn one after another (the rotating-boss mechanic). Re-entries dominate (farm loop Nexus/Vault -> Mothership -> Zone).",
+ "bosses": [
+   {"name":"The Lord of Lava","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]},
+   {"name":"(Galactic boss — taunt)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["YOU HAVE MADE A GRAVE MISTAKE"]},
+   {"name":"rotating roster (wiki + earlier drops): Arcanica, Ortar, L. Bandito, Cracked Core, The Zucc","phases":["5 bosses spawn in random order, one after another, infinitely (per wiki)"],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]}
+ ],
+ "minions": [],
+ "drops": ["Galactic Essence (skill points)","Galactic items (wiki): Starbuster Blade, Handcannon, Wand Full of Mana, Hornshot, Celestial Caduceus, Starlight Crook, Deepspace Veil, Flask of Stardust, Greeni","legendary items (8% rolls seen)"],
+ "mechanics": "GALACTIC ZONES confirmed in live use: 'MOTHERSHIP' spaceship launches the zone (from NewDungeons); party shorthand 'H GL1/GL2 LF DPS/Assassin' (host tier, looking-for role); bosses spawn sequentially; 'to join [Arena]' system also present. 4 tiers per wiki: Sungravel/Splinterspire/Flamefeather/Frostwood (Fuel 500/2000/5000/10000).",
+ "uncertain": "Chat sample hit menu screens too -> only 2 boss names + 1 taunt isolated from this pass; the full 5-per-tier roster relies on wiki/earlier drops. 'The Lord of Lava' may be the Flamefeather-tier boss.",
+ "confidence": "MEDIUM-HIGH for the SYSTEM (Mothership + GL-tier party + sequential bosses + farm loop, DOCUMENTED) and the taunt 'YOU HAVE MADE A GRAVE MISTAKE'; boss roster mostly wiki-backed."
+}

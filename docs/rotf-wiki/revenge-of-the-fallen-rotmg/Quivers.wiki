@@ -1,0 +1,184 @@
+# Quivers
+# https://revenge-of-the-fallen-rotmg.fandom.com/api.php?action=parse&page=Quivers&prop=wikitext
+
+This page includes both custom daggers and old daggers that have been edited from how they appear on the production RotMG server.
+{| class="article-table"
+!Quiver
+!Damage
+!Range
+!Shots
+!Stats
+!MP
+Cost
+!Cooldown
+!Effect
+!Pierce
+!Armor Pierce
+!Obstacle Pierce
+!Fame Bonus
+!Tier
+!Legendary/Primal
+Effect
+|-
+|Stardust Quiver
+|345-420
+|15
+|
+|<nowiki>+3vit</nowiki>
++3wis
+
++5dex
+|100
+|
+|Paralyzed: 4 sec
+|yes
+|
+|yes
+|6%
+|GL
+|
+|-
+|Quiver of the Asgard Ruins
+|180-420
+|12.5
+|
+|<nowiki>+5vit</nowiki>
+|175
+|
+|Stunned:
+3.5 sec 
+|
+|
+|
+|5%
+|Heroic
+|
+|-
+|Leviathan's 
+Repentance 
+|145-165
+|15
+|
+|<nowiki>+5spd</nowiki>
++7dex
+|70
+|2.25 sec
+|Paralyzed:
+4.5 sec
+|yes
+|yes
+|
+|5%
+|Heroic
+|
+|-
+|Lightning God Quiver
+|250-335
+|15
+|
+|<nowiki>+2dex</nowiki>
++2att
+|60
+|2 sec
+|Stunned:
+1.5 sec
+|
+|
+|yes
+|6%
+|Heroic
+|
+|-
+|The Split Arrow
+|320-380
+|15
+|2
+|<nowiki>+2att</nowiki>
++2dex
+|100
+|
+|Cursed:
+5 sec 
+|yes
+|
+|
+|5%
+|Artifact
+|
+|-
+|Odin's Ravens
+|500-1000
+|20
+|
+|<nowiki>-3def</nowiki>
++3att
+|160
+|4 sec
+|Berserk: 2.5 sec
+Slowed: 
+
+3.6
+
+Dazed:
+
+3.6
+|yes
+|
+|yes
+|7%
+|Legendary
+|Last Hope
+|-
+|Quiver of Thunder
+|310-360
+|15
+|
+|<nowiki>+5att</nowiki>
+|100
+|6 sec
+|Dazed:
+4 sec
+
+Paralyzed:
+
+3 sec
+|
+|
+|
+|6%
+|Legendary
+|Curse
+|-
+|Beehemoth Quiver
+|180-260
+|9.6
+|3
+|<nowiki>+3att</nowiki>
++3dex
+|90
+|
+|Slowed:
+5 sec
+|yes
+|
+|yes
+|5%
+|Legendary
+|Angel's Touch
+|-
+|Quiver of Shadows
+|400-500
+|10
+|5
+|<nowiki>+2def</nowiki>
+-2spd
+|90
+|
+|
+|yes
+|yes
+|
+|6%
+|Legendary
+|Physical Barrier
+|}

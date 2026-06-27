@@ -1,0 +1,14 @@
+{
+ "dungeon": "(KAPPA'S WARRIOR RPE STREAM) ROTF — FULL Shadowscale taunts (completes built boss) + loot-drop-bonus stat + Warbringer event",
+ "source": "video disc_OpvS02UXO-I (273 frames, 6 transitions, 68 chat; 'Kappa's Warrior RPE'). Diverse dungeons + a Skill-Tree panel. Chat captured the FULL Shadowscale taunt lines (previously truncated) + a loot-bonus stat + event feed.",
+ "map": "DOCUMENTED biomes: blue/purple water arenas, orange/red LAVA crater arena, grey/purple stone dungeons, blue ICE, dark arenas with an ORANGE-DIAMOND boss pattern, tan desert. A SKILL-TREE node-grid panel (colored nodes) shown.",
+ "bosses": [
+  {"name":"Shadowscale","phases":["awaken"],"attacks":[],"minions":[],"colorFlashes":"purple/shadow","taunts":["You have awoken the spirit of shadow...","Do not think you're invincible, you sure aren't...","I will reward you with a swift death. Mee[t your end]..."],"note":"DOCUMENTED VERBATIM — FULL lines that COMPLETE the truncated taunts from disc_LS16CHnxyhU. Shadowscale = the SHROUDED SANCTUM boss (already built with a reconstructed line). These REAL taunts should replace it: awaken 'You have awoken the spirit of shadow...', menace 'Do not think you're invincible, you sure aren't...', false-reward 'I will reward you with a swift death. Meet your end...'."}
+ ],
+ "minions": [],
+ "drops": ["Cloak of the Planes (a cloak, unboxed from a Special Crate)"],
+ "event_bosses_seen_in_global_feed": ["Pulse (just spawned — new event boss)","Warbringer (just spawned — CONFIRMS Warbringer is a real spawnable event boss; was on TODO)","Lord of the Last Lands (defeated)","Mad Jester (just spawned)"],
+ "mechanics": "DOCUMENTED: (1) LOOT-DROP-BONUS stat — '<HitUrShots> 23 - no shield with 97% loot drop bonus' (a % loot-drop/rare-drop bonus you can stack; ties to the dev-blog Arcane rune that boosts rare-drop loot chance, see [[rotf-stat-systems]]). (2) Warbringer CONFIRMED as a spawnable realm EVENT boss (was a TODO Tier-2 boss). (3) New event boss 'Pulse'. (4) Special Crate unbox economy (Cloak of the Planes). Client X1.1; Warrior class (RPE).",
+ "uncertain": "Shadowscale's 3rd line still tail-truncated ('Meet your end...' inferred). Pulse/Warbringer fights/taunts not captured. The orange-diamond boss arena's boss not named. Skill-tree nodes not read.",
+ "confidence": "HIGH for the FULL Shadowscale taunts (completes built boss) + the 97%-loot-drop-bonus stat + Warbringer/Pulse events + Cloak of the Planes. MEDIUM for the exact tail of the 3rd Shadowscale line."
+}

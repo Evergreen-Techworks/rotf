@@ -1,0 +1,30 @@
+{
+ "dungeon": "GENUINE ROTF/RotMG multi-dungeon run (~210s, 6 entries, player 'Volt...'). KEY segment = ABYSS OF DEMONS — recovers VERBATIM taunts for the Abyss DEMON MINIONS (Ogre Demon / Butcher Demon / Big Pit Imp / Sulphur Demon) + an Archdemon Malphas line ('MY MINIONS HAVE FAILED ME!'). Demon enemies TAUNTING is atypical for base RotMG -> likely ROTF-ADDED minion flavour (Abyss + Malphas themselves are base-game). Interleaved with green realm / desert / void biomes.",
+ "map": "DOCUMENTED-from-minimaps+transitions+bossends: a multi-dungeon hop — (1) ABYSS OF DEMONS: a CIRCULAR dark-grey/charcoal boss ARENA (minimap panel 1, player-centred; the Malphas fight, b006_at189s) within the Abyss's chambered red-lava rooms, (2) an OPEN GREEN grassy REALM (minimap panel 3, circular fog reveal), (3) a dark VOID/SPACE zone (panels 2+4, t003_at113s), and (4) a tan DESERT (t002_at55s). No single contiguous room sequence (multi-dungeon).",
+ "bosses": [
+  {
+   "name": "Archdemon Malphas",
+   "phases": [],
+   "attacks": ["not cleanly isolated here (dark Abyss arena, scattered demon-bullet spread); see disc_PE04BhHHyBk for the verbatim Malphas taunt set"],
+   "minions": ["Ogre Demon", "Butcher Demon", "Big Pit Imp", "Sulphur Demon"],
+   "colorFlashes": "",
+   "taunts": ["MY MINIONS HAVE FAILED ME!"],
+   "note": "DOCUMENTED-from-chat (boss-coloured line, b006_at189s bottom, caps). BASE-GAME Abyss-of-Demons boss -> CANONICAL/no-build; complements the 4 verbatim Malphas lines already recovered in disc_PE04BhHHyBk (this is a 'minions failed' death-ish variant). Corroboration only."
+  },
+  {
+   "name": "Abyss Demon minions (Ogre/Butcher/Big Pit Imp/Sulphur)",
+   "phases": [],
+   "attacks": ["minion swarm + scattered demon bullets (approximate; not geometry-traced)"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["Ogre Demon: Let me teach you everything", "Butcher Demon: Die you insect!", "Butcher Demon: You shall not defeat us!", "Big Pit Imp: We are almost finished with...", "Big Pit Imp: Rise from Hell my Lords!"],
+   "note": "DOCUMENTED-from-chat VERBATIM (boss-coloured demon names, chat_00044/00046; enhanced read of maroon-on-lava — corrected an initial 'Did you learn?' MISREAD to the actual 'Die you insect!'). These are ABYSS-OF-DEMONS trash-mob demons that TAUNT (atypical for base RotMG, where Abyss minions are silent) -> base-vs-custom UNCERTAIN: Abyss/Malphas are base, but the MINION TAUNTS look ROTF-ADDED. Minor enemy flavour, not boss-build material. 'Sulphur Demon' name seen but no clean line isolated. Big Pit Imp line right-edge cut at 'with...'."
+  }
+ ],
+ "minions": ["Ogre Demon", "Butcher Demon", "Big Pit Imp", "Sulphur Demon"],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: ROTF appears to give the ABYSS-OF-DEMONS MINION enemies (Ogre Demon, Butcher Demon, Big Pit Imp, Sulphur Demon) their own taunt banter ('Die you insect!', 'You shall not defeat us!', 'Rise from Hell my Lords!', 'Let me teach you everything', 'We are almost finished with...') — base RotMG Abyss minions are silent, so this is a likely ROTF flavour addition. The boss Archdemon Malphas (base) says 'MY MINIONS HAVE FAILED ME!'. Multi-dungeon run; Abyss boss room is a circular grey arena.",
+ "uncertain": "Abyss of Demons + Archdemon Malphas = BASE-GAME (corroboration/no-build). The DEMON-MINION TAUNTS are the novel bit but base-vs-custom is UNCONFIRMED (likely ROTF-added flavour; could in principle be a build variant). Maroon-on-red-lava text required heavy enhancement -> I CORRECTED my own initial 'Did you learn?' misread to 'Die you insect!' (verified crisp). 'Sulphur Demon' line not isolated; Big Pit Imp 'finished with...' cut. Malphas attack geometry not traced here. Drops not captured. The high red-density chat frames (0.93) were the LAVA FLOOR, not text — text was in lower-density frames.",
+ "confidence": "MEDIUM. GENUINE ROTF Abyss-of-Demons run. Solid: VERBATIM taunts for the Abyss demon MINIONS (Ogre/Butcher/Big Pit Imp) + a Malphas 'MY MINIONS HAVE FAILED ME!' line. Honestly flagged: Abyss/Malphas are base (no-build, corroboration), the minion-taunts are likely ROTF-added flavour (base-vs-custom unconfirmed, minor enemy lines not boss-build material), one self-corrected misread ('Die you insect!'), Sulphur line + cuts noted. Best follow-up: confirm whether base or this-build re the minion taunts before any enrich."
+}

@@ -1,0 +1,15 @@
+{
+ "dungeon": "disc_2nyUJDNu9Cs — multi-dungeon 'failed RPE highlights' compilation",
+ "map": "VIDEO compilation across many areas: Galactic/space (purple void + a white circular space structure, 'Death by space'), red/fire boss arenas, gray dungeon interiors, snowy area, green godlands/realm. 10 area transitions.",
+ "bosses": [
+   {"name":"Gravedigger (Twilight Necropolis boss)","phases":["summons minions ('MINIONS. SAVE ME!!!')"],"attacks":[],"minions":["(Gravedigger minions)"],"colorFlashes":"",
+    "taunts":["Let's see how you handle this...","MINIONS. SAVE ME!!!","Death is your reward! Say no more and FINISH...","...your courage softens me. I could grant you a..."]},
+   {"name":"Skull Shrine (Godlands event)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]},
+   {"name":"Uvuvwevwevwe","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[]}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "Announcements seen: 'Skull Shrine has just spawned!', 'The Uvuvwevwevwe has been defeated', a 'Reaper' pet '...has achieved its max level!'. A 'Mummy:' announcer line (Egyptian/Underworld theme).",
+ "uncertain": "Compilation of short clips → no single dungeon map; biomes identified but not named. Some death-notification lines partial.",
+ "confidence": "HIGH for the GRAVEDIGGER taunt lines (verbatim, DOCUMENTED) — these belong to Twilight Necropolis. MEDIUM for the event announcements. Biome IDs visual-only."
+}

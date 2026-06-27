@@ -1,0 +1,30 @@
+{
+ "dungeon": "GENUINE ROTF/RotMG multi-dungeon run (~225s, 9 entries, ends on a PREVIOUS/RANDOM/SUBSCRIBE outro card) — KEY find: DRAKE BABY, a green-realm drake/bird boss, now FOOTAGE-GROUNDED with a verbatim taunt 'Awwwk! Awwwk!' + a radial-ring attack (the build previously had Drake Baby as DESIGNED-no-footage). Plus several green-realm + lava + space boss arenas (8 bossend groups).",
+ "map": "DOCUMENTED-from-transitions+bossends: a 9-entry multi-dungeon hop — GREEN GRASSY REALM arenas (open grass, where Drake Baby is fought), a RED/LAVA-BRICK checkered arena, grey rocky areas, and dark/SPACE zones. Hub between. The Drake Baby arena = an open green-grass field (radial bullet-ring fills it). No single room-sequence (multi-dungeon). b010_225s = the video OUTRO card, not a dungeon.",
+ "bosses": [
+  {
+   "name": "Drake Baby",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (bossend b005_159s): a RADIAL RING/NOVA of evenly-spaced yellow/white bullets around the boss, filling the green-grass arena. Class: radial ring/nova."],
+   "minions": [],
+   "colorFlashes": "green",
+   "taunts": ["Awwwk! Awwwk!"],
+   "note": "DOCUMENTED-from-chat VERBATIM (boss-coloured 'Drake Baby:' prefix, read across chat_00007 + chat_00038/39). A baby drake/BIRD boss (the 'Awwwk!' squawk). *** GROUNDS the build's Drake Baby *** — it was previously DESIGNED-no-footage (BehaviorDb.Midland.cs); this gives it a REAL taunt ('Awwwk! Awwwk!') + a frame-documented radial-ring attack. Green-realm boss."
+  },
+  {
+   "name": "(unidentified green-realm bosses)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames but APPROXIMATE: green-grass arena fights (b002_2s/b003_121s/b006_185s) with scattered white/blue bullets; a dark/space arena (b005 area) -> spread/scattered, no clean single pattern per boss isolated."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "Several other boss arenas across the 8 bossend groups (green realms + lava + space) but NO boss NAMES captured in chat for them -> left UNIDENTIFIED (no guessing). Attacks loosely characterised (scattered/spread), flagged."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: a multi-dungeon run. KEY = DRAKE BABY grounded — a green-realm drake/bird boss with verbatim taunt 'Awwwk! Awwwk!' (multi-frame) + a radial-ring bullet attack (bossend b005_159s). This UPGRADES the build's Drake Baby from DESIGNED-no-footage to footage-grounded. Other bosses (8 bossend groups, green/lava/space arenas) not name-captured -> left unidentified. Video ends on a PREVIOUS/RANDOM/SUBSCRIBE outro card.",
+ "uncertain": "Only ONE boss (Drake Baby) name+taunt captured; the other 7 bossend groups have arenas/bullets but NO chat-captured names -> left unidentified (not guessed). Drake Baby attack = radial ring (DOCUMENTED b005_159s) but exact count not cleanly countable. Server identity = RotMG-engine (Drake Baby is a ROTF realm boss); not a non-target. Some chat frames over a lava/checkered floor (no text).",
+ "confidence": "MEDIUM-HIGH for the DRAKE BABY find: verbatim taunt 'Awwwk! Awwwk!' (multi-frame, boss-prefix confirmed) + a frame-documented radial-ring attack -> directly GROUNDS a previously-DESIGNED build boss (high value for the fabrication-honesty goal: a designed line replaced by recovered footage). LOW for the other unnamed bosses (arenas only). GENUINE ROTF. Best follow-up: a clean Drake Baby fight for exact ring count + name-capture clips for the other green-realm bosses. Flag for DEV/VERIFY: enrich Midland.cs Drake Baby with the recovered 'Awwwk! Awwwk!' + radial-ring attack (upgrade from DESIGNED)."
+}

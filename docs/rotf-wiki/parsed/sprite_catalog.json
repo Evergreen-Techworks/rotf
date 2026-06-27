@@ -1,0 +1,776 @@
+[
+ {
+  "name": "rotf20",
+  "src": "Nothing found _1038_20_png_1.png",
+  "w": 256,
+  "h": 256,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf38",
+  "src": "Nothing found _105E_38_png_1.png",
+  "w": 128,
+  "h": 128,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf39",
+  "src": "Nothing found _108C4_39_png_1.png",
+  "w": 128,
+  "h": 744,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf47",
+  "src": "Nothing found _11DF_47_png_1.png",
+  "w": 128,
+  "h": 128,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf43",
+  "src": "Nothing found _11EA_43_png_1.png",
+  "w": 256,
+  "h": 64,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf31",
+  "src": "Nothing found _1227_31_png_1.png",
+  "w": 128,
+  "h": 128,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf27",
+  "src": "Nothing found _12AC_27_png_1.png",
+  "w": 128,
+  "h": 128,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf69",
+  "src": "Nothing found _1479_69_png_1.png",
+  "w": 256,
+  "h": 88,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf04",
+  "src": "Nothing found _14A_4_png_1.png",
+  "w": 256,
+  "h": 16,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf25",
+  "src": "Nothing found _14E2_25_png_1.png",
+  "w": 128,
+  "h": 128,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf67",
+  "src": "Nothing found _16CA_67_png_1.png",
+  "w": 128,
+  "h": 128,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf36",
+  "src": "Nothing found _17E6_36_png_1.png",
+  "w": 128,
+  "h": 128,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf50",
+  "src": "Nothing found _17F_50_png_1.png",
+  "w": 128,
+  "h": 256,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf37",
+  "src": "Nothing found _1846_37_png_1.png",
+  "w": 128,
+  "h": 256,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf51",
+  "src": "Nothing found _187_51_png_1.png",
+  "w": 128,
+  "h": 128,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf00",
+  "src": "Nothing found _195_0_png_1.png",
+  "w": 64,
+  "h": 64,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf79",
+  "src": "Nothing found _19E4F_79_png_1.png",
+  "w": 128,
+  "h": 2400,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf16",
+  "src": "Nothing found _217_16_png_1.png",
+  "w": 256,
+  "h": 256,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf48",
+  "src": "Nothing found _22A7_48_png_1.png",
+  "w": 56,
+  "h": 768,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf26",
+  "src": "Nothing found _2350_26_png_1.png",
+  "w": 128,
+  "h": 512,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf33",
+  "src": "Nothing found _2350_33_png_1.png",
+  "w": 128,
+  "h": 512,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf45",
+  "src": "Nothing found _2350_45_png_1.png",
+  "w": 128,
+  "h": 512,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf62",
+  "src": "Nothing found _24D9_62_png_1.png",
+  "w": 128,
+  "h": 160,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf60",
+  "src": "Nothing found _25A2_60_png_1.png",
+  "w": 128,
+  "h": 256,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf68",
+  "src": "Nothing found _25A2_68_png_1.png",
+  "w": 128,
+  "h": 256,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf76",
+  "src": "Nothing found _25C5_76_png_1.png",
+  "w": 128,
+  "h": 256,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf73",
+  "src": "Nothing found _2BD2_73_png_1.png",
+  "w": 128,
+  "h": 176,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf44",
+  "src": "Nothing found _2D45_44_png_1.png",
+  "w": 128,
+  "h": 232,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf17",
+  "src": "Nothing found _2FF_17_png_1.png",
+  "w": 80,
+  "h": 80,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf61",
+  "src": "Nothing found _303F_61_png_1.png",
+  "w": 128,
+  "h": 128,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf28",
+  "src": "Nothing found _344C_28_png_1.png",
+  "w": 128,
+  "h": 248,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf32",
+  "src": "Nothing found _344C_32_png_1.png",
+  "w": 128,
+  "h": 248,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf66",
+  "src": "Nothing found _344C_66_png_1.png",
+  "w": 128,
+  "h": 248,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf30",
+  "src": "Nothing found _36BA_30_png_1.png",
+  "w": 128,
+  "h": 208,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf63",
+  "src": "Nothing found _38D9_63_png_1.png",
+  "w": 256,
+  "h": 256,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf35",
+  "src": "Nothing found _38FC_35_png_1.png",
+  "w": 128,
+  "h": 240,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf49",
+  "src": "Nothing found _4615_49_png_1.png",
+  "w": 112,
+  "h": 768,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf21",
+  "src": "Nothing found _4E9_21_png_1.png",
+  "w": 144,
+  "h": 144,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf22",
+  "src": "Nothing found _4EC_22_png_1.png",
+  "w": 256,
+  "h": 256,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf29",
+  "src": "Nothing found _55E1_29_png_1.png",
+  "w": 128,
+  "h": 168,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf56",
+  "src": "Nothing found _5BE_56_png_1.png",
+  "w": 256,
+  "h": 208,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf46",
+  "src": "Nothing found _5F4_46_png_1.png",
+  "w": 128,
+  "h": 128,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf42",
+  "src": "Nothing found _5F67_42_png_1.png",
+  "w": 128,
+  "h": 800,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf57",
+  "src": "Nothing found _6008_57_png_1.png",
+  "w": 100,
+  "h": 100,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf13",
+  "src": "Nothing found _66D_13_png_1.png",
+  "w": 128,
+  "h": 48,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf10",
+  "src": "Nothing found _67E_10_png_1.png",
+  "w": 128,
+  "h": 48,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf52",
+  "src": "Nothing found _6982_52_png_1.png",
+  "w": 256,
+  "h": 512,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf53",
+  "src": "Nothing found _6A93_53_png_1.png",
+  "w": 256,
+  "h": 208,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf12",
+  "src": "Nothing found _6C1_12_png_1.png",
+  "w": 128,
+  "h": 120,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf15",
+  "src": "Nothing found _6C1_15_png_1.png",
+  "w": 128,
+  "h": 120,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf58",
+  "src": "Nothing found _71F_58_png_1.png",
+  "w": 271,
+  "h": 184,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf01",
+  "src": "Nothing found _75F_1_png_1.png",
+  "w": 128,
+  "h": 32,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf23",
+  "src": "Nothing found _79F_23_png_1.png",
+  "w": 128,
+  "h": 160,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf77",
+  "src": "Nothing found _843_77_png_1.png",
+  "w": 256,
+  "h": 128,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf64",
+  "src": "Nothing found _895_64_png_1.png",
+  "w": 256,
+  "h": 256,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf59",
+  "src": "Nothing found _8976_59_png_1.png",
+  "w": 128,
+  "h": 432,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf41",
+  "src": "Nothing found _8B0_41_png_1.png",
+  "w": 256,
+  "h": 256,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf08",
+  "src": "Nothing found _A0_8_png_1.png",
+  "w": 4,
+  "h": 4,
+  "cells": [
+   8
+  ]
+ },
+ {
+  "name": "rotf06",
+  "src": "Nothing found _A2_6_png_1.png",
+  "w": 4,
+  "h": 4,
+  "cells": [
+   8
+  ]
+ },
+ {
+  "name": "rotf19",
+  "src": "Nothing found _A35_19_png_1.png",
+  "w": 40,
+  "h": 200,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf34",
+  "src": "Nothing found _A4F_34_png_1.png",
+  "w": 128,
+  "h": 128,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf05",
+  "src": "Nothing found _A8_5_png_1.png",
+  "w": 4,
+  "h": 4,
+  "cells": [
+   8
+  ]
+ },
+ {
+  "name": "rotf75",
+  "src": "Nothing found _AC28_75_png_1.png",
+  "w": 256,
+  "h": 1600,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf07",
+  "src": "Nothing found _AC_7_png_1.png",
+  "w": 4,
+  "h": 4,
+  "cells": [
+   8
+  ]
+ },
+ {
+  "name": "rotf40",
+  "src": "Nothing found _B0ED_40_png_1.png",
+  "w": 256,
+  "h": 1280,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf71",
+  "src": "Nothing found _B38_71_png_1.png",
+  "w": 256,
+  "h": 32,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf65",
+  "src": "Nothing found _B64_65_png_1.png",
+  "w": 128,
+  "h": 312,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf11",
+  "src": "Nothing found _C5_11_png_1.png",
+  "w": 12,
+  "h": 4,
+  "cells": [
+   8
+  ]
+ },
+ {
+  "name": "rotf72",
+  "src": "Nothing found _C6E_72_png_1.png",
+  "w": 256,
+  "h": 880,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf70",
+  "src": "Nothing found _CC84_70_png_1.png",
+  "w": 256,
+  "h": 512,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf24",
+  "src": "Nothing found _D04_24_png_1.png",
+  "w": 256,
+  "h": 48,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf02",
+  "src": "Nothing found _D8_2_png_1.png",
+  "w": 256,
+  "h": 16,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf03",
+  "src": "Nothing found _DB_3_png_1.png",
+  "w": 25,
+  "h": 10,
+  "cells": [
+   8
+  ]
+ },
+ {
+  "name": "rotf74",
+  "src": "Nothing found _E0A_74_png_1.png",
+  "w": 128,
+  "h": 512,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf78",
+  "src": "Nothing found _E0_78_png_1.png",
+  "w": 128,
+  "h": 16,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf55",
+  "src": "Nothing found _EBC_55_png_1.png",
+  "w": 128,
+  "h": 64,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf18",
+  "src": "Nothing found _F39_18_png_1.png",
+  "w": 160,
+  "h": 160,
+  "cells": [
+   8,
+   16
+  ]
+ },
+ {
+  "name": "rotf54",
+  "src": "Nothing found _FAC_54_png_1.png",
+  "w": 128,
+  "h": 128,
+  "cells": [
+   8,
+   16
+  ]
+ }
+]

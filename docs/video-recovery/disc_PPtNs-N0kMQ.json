@@ -1,0 +1,19 @@
+{
+ "dungeon": "NOT a single dungeon — a creator GUIDE/TUTORIAL video (facecam stream w/ viewer chat 'can i be in vid?') on gold + realm-boss FARMING. On-screen overlay captions: 'How to get gold ...and farm bosses' and 'Spaces realm bosses'. Shows a Bazaar/shop UI, open REALM farming (sand/beach + grass + a dark grey/red-veined dungeon floor). The valuable recoverable content is a FRAGMENT stat-upgrade MECHANIC seen in the event feed; NO boss is cleanly named or tauntED (chat box sits over the busy red-veined floor + facecam -> taunts unreadable).",
+ "map": "DOCUMENTED-from-minimaps+f_: OPEN REALM farming, not a structured dungeon — minimaps show the standard RotMG circular fog-of-war reveal over tan SAND/DESERT + GREEN grass biomes (open realm, no room sequence/choke points). One segment is in a dark GREY/RED-VEINED dungeon floor (flesh/blood biome, the t001_at268s transition). No boss-arena geometry isolated.",
+ "bosses": [],
+ "minions": [],
+ "drops": [
+  "Speed Fragment (consumed -> 'You now have 73/75 Speed' / '74/75 Speed'; also 'sold for 20 Gold')",
+  "Life Fragment (consumed -> toward Health cap '60/770 Health'; also 'Life Fragment sold for 20 Gold')",
+  "Defense Fragment (consumed -> 'You now have 17/20 defense')",
+  "Spawn Fragment (consumed)",
+  "Mana Fragment (consumed -> mana/hp gain)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "A [Spirit] Elite Monster has spawned"
+ ],
+ "mechanics": "DOCUMENTED-from-frames (chat_00063/00065/00067, strong grayscale-pull): a FRAGMENT STAT-UPGRADE system — typed fragments (Speed / Life / Defense / Spawn / Mana Fragment) are CONSUMED to raise a stat toward its per-stat CAP, with a running counter: 'Speed Fragment consumed. You now have 73/75 Speed' -> '74/75 Speed'; 'Defense fragment consumed. You now have 17/20 defense'; 'Life Fragment consumed ... 60/770 Health'. Unwanted fragments are SOLD FOR GOLD ('Life Fragment sold for 20 Gold' x2) -> ties into the 'how to get gold' guide. An 'Elite Monster has spawned' event-mob mechanic is also referenced. Realm-boss farming guide overall. (Relates to the ROTF stat-cap/stat-pot economy already noted.)",
+ "uncertain": "NO boss named/tauntED in this tag (facecam guide; chat over busy red-veined floor -> taunts illegible) -> bosses=[]. Fragment stat CAPS read as Speed 75, Defense 20, Health 770 but the per-stat numbers are partly inferred from a busy feed (Speed 73->74/75 is the clearest). 'Spirit Elite Monster' name partial. 'Spaces realm bosses' caption = creator wording (Space-themed realm bosses?). No attack geometry isolated (open-realm farming, no bossends). Most chat = viewer banter (excluded).",
+ "confidence": "MEDIUM (mechanic) / LOW (boss). GENUINE ROTF guide video. Solid NEW recoverable content: a FRAGMENT stat-upgrade MECHANIC (typed fragments consumed toward stat caps w/ counters: Speed 73->74/75, Defense 17/20, Health x/770; fragments sold for 20 gold) + an 'Elite Monster' spawn event. Recorded honestly: bosses=[] (none captured; facecam+busy-floor chat), attacks not isolated (open-realm farming), some feed numbers inferred. Best follow-up: a clean clip of the fragment UI / a named realm boss fight."
+}

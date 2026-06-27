@@ -1,0 +1,4 @@
+# Geb's Ring of Wisdom
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Geb%27s%20Ring%20of%20Wisdom&prop=wikitext
+
+asdf

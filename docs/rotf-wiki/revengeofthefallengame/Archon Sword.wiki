@@ -1,0 +1,4 @@
+# Archon Sword
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Archon%20Sword&prop=wikitext
+
+asdf

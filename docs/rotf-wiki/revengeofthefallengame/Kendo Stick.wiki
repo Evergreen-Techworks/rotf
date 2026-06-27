@@ -1,0 +1,4 @@
+# Kendo Stick
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Kendo%20Stick&prop=wikitext
+
+asdf

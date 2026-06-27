@@ -1,0 +1,51 @@
+# Popular Builds
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Popular%20Builds&prop=wikitext
+
+In ROTF a lot of builds are possible with each class, but some stand out because of their strength or their utility. Some of these builds are:
+
+== Builds ==
+
+=== "Perma-stun" ===
+These builds are used mostly in GLs and elite abysses. These are centered around being able to spam your ability often enough to keep any boss stunned or paralyzed until it dies. A few of these can be done through wisdom and mana regen, but it's mostly recommended to use the bloodpact rune, all the possible vitality and the lowest health. (Remember that only some of the abilities can permastun or permalyze, check the cooldown and the duration of the effect. If the duration is higher, it probably can be used)
+
+Example build for a permastun knight: 
+[[File:PermastunKnightBuild.png|centre|thumb|402x402px]]
+
+=== Bulwark Priest (+ "perma-para") ===
+This build is focused on creating a meat-shield that can heal itself, becoming easily unkillable. In this build it is essential to use the bulwark and the mana hunger runes. It is usually built around evasion, wisdom, hp and mp, and rate of fire boosts (remember, your def must be 64 or lower in order to let evasion work). A player with this build is requested in all GL4 games, so he can lure the bosses. It's important to use the wand full of mana, so you shoot 5 projectiles to make the best use of mana hunger 
+
+Example build: 
+[[File:BulwarkPriestBuild.png|centre|thumb|385x385px]]
+If you use the ortar's enchantment tome, you can also "perma-paralyze" the target. 
+
+=== Offensive-evasion ===
+This build is used by a lot of classes, mostly dps-centered ones that can appreciate some survivability but don't want to sacrifice damage. It's focused around getting all the possible evasion and as much dextery, attack and ROF as you can.
+
+Example of full build:
+
+[[File:EvasionOffensiveBuild.png|centre|thumb|370x370px]]
+
+=== Bulwark Assasin ===
+This build popularized when Hela's Essence was incredibly powerful and only a few players had it. This build allows the player to be hardly killed and deal high AOE dps. It focuses on max wisdom and high mp, evasion and dextery. Nowadays this build is mostly used for rushing through Asgard
+
+Example of full build:
+[[File:BulwarkAssasinBuild.png|centre|thumb|377x377px]]
+
+=== One-shotters ===
+This build is more of a meme than an actual good build, but it became famous because of how high the damage of your shots can get (but because of the low dextery, your dps remains low). To get this build, you focus on maxing your attack and dextery (prioritizing attack over dextery). This build requires a weapon with huge max damage, like the Asgard bow or the Tushala's Slaser
+
+Example of a full build:
+[[File:OneShotBuild.png|centre|thumb|362x362px]]
+
+=== Looter ===
+This build can be used by any class and it's good for getting a high loot boost for farming. It's the most malleable of them all, since you just need to get all the loot boost nodes in the skill tree. You can use the 2 utility runes that best fit your playstyle when farming (for example, if going to farm realm, don't use Solo thief; if going to farm dungeons alone looking for a white bag, use it with Eye for an Eye).
+[[File:LooterBuild.png|centre|thumb|392x392px]]
+
+<nowiki/>
+
+== Others ==
+-Take into account that these builds don't need to be followed step by step without a change. These are some recommended ways of building them, but you can change whatever you need as far as you keep it's core parts.
+
+-The runes that appear as "?" mean that almost anything could be used as far as it doesn't break the core parts of the build.
+
+-You can use this UNOFFICIAL website to plan your build https://rotfskilltree.ddns.net/ (this site is not affiliated to ROTF, anything that happens in this webstie is not related and will not be attended by admins)

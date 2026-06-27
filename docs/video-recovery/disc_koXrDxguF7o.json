@@ -1,0 +1,14 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM) ROTF — castle-stone dungeons + D3 SPACESHIP dialogue + a Lycaon werewolf taunt + stat-cap details",
+ "source": "video disc_koXrDxguF7o (801 frames, 27 transitions, 200 chat). Opens on the ROTF 'Hour of Twilight' title screen; mostly grey CASTLE-STONE dungeons (Oryx-castle-style). Chat yielded a boss taunt + key system lines.",
+ "map": "DOCUMENTED biomes: lots of grey CASTLE-STONE corridors/rooms (Oryx-Castle-style, with yellow boss markers); green grass realm; tan desert; purple/magenta rooms; a dark room with a central boss figure; an orange/tan grid (pet-yard/vault).",
+ "bosses": [
+  {"name":"Lycaon","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["FLESH AND BLOOD!"],"note":"DOCUMENTED VERBATIM (boss-colored chat). 'Lycaon' = the mythological first werewolf — a WEREWOLF boss (ties to the 'Necro Doggo / werewolf' boss seen in Twilight Necropolis recovery)."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Skull Shrine (just spawned)","Mad Jester (defeated)","God of Reptilians (just spawned)","Shade of Novus (defeated)"],
+ "mechanics": "RECOVERY:\n- D3 GALACTIC SPACESHIP: '<Spaceship> Initiating startup sequence.' — the spaceship is a NAMED ENTITY with dialogue; after fueling it (see disc_Kei9ksQxGl4 'extracted [59] Fuel'), it runs a STARTUP SEQUENCE to launch to the galactic zones. Two halves of the D3 fuel->launch loop now footage-confirmed.\n- STAT CAPS (HP/MP): 'Potion of Life consumed. 5 left to max.' / 'Potion of Mana consumed. 2 left to max.' — so HP/MP keep the vanilla 'Potion of Life'/'Potion of Mana' names (with 'N left to max' caps), while Attack/Defense/Wisdom/Haste use the FRUIT names (Blackberry/Coconut/Elderberry/Orange) from disc_iBUg7V_Eq0A. Consistent unified picture of the stat-pot system.\n- 'This world is full!' = world player-cap message. Client version banner 'X3.51'.",
+ "uncertain": "Lycaon's attacks/HP/dungeon not isolated (only the taunt). What Fuel is extracted from still unknown. Castle-stone dungeon names not individually captured.",
+ "confidence": "HIGH for: the Spaceship 'Initiating startup sequence' line + the Lycaon taunt + the HP/MP stat-cap pot names + version X3.51. MEDIUM for event spawns; LOW for biome->dungeon mapping."
+}

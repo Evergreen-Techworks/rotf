@@ -1,0 +1,23 @@
+# Shields
+# https://rotfserver.fandom.com/api.php?action=parse&page=Shields&prop=wikitext
+
+Shields are used by the [[Knight]]. By getting up close to the enemy, it can deal a massive amount of damage and apply a '''STUN '''effect, with a few exceptions.
+
+'''GL Shields:'''
+
+Stardust Buckler
+
+[[File:Item Stardust Buckler.png|left|thumb|85x85px]]
+
+
+
+'''UT Shields:'''
+
+'''*''' Shield of Vendettas
+[[File:Item Shield of Vendettas.png|left|thumb|83x83px]]
+
+This shield drops in the Craig's Castle dungeon.
+
+With 6 shots,  dealing 300-350 damage each, with a 3.2 range, this shield can deal a hefty amount of damage if you're close enough to the enemy.
+
+The shield applies 11 defense on equip, has a 3% fame bonus. The use of the shield costs                                 150 mana.

@@ -1,0 +1,13 @@
+# Auction House
+# https://rotfserver.fandom.com/api.php?action=parse&page=Auction%20House&prop=wikitext
+
+=== '''The Auction''' ===
+It's a place where you can put items for sale. Not every item can be placed and you can ony buy them with fame. The items placed for sale will last two days (48 hours) before getting cancelled and put in a gift chest, in your vault.
+
+=== '''Accessibility''' ===
+The auction house can be accessed from the nexus by using the Auction portal or by using the command: “/market”
+
+=== '''More''' ===
+Since the items are automatically put back in a gift chest after 48 hours (or cancellation), there is currently a way to save space. By using this mechanism you can store your sellable items in the said gift chests instead of your regular chests and thus save space. The only thing you have to do is put a ridiculously high amount needed to buy your item so no one will buy it and then wait 48h OR simply cancel the trade. The item will go straight into your gifts.
+
+===<nowiki/>===

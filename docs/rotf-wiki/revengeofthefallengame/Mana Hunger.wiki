@@ -1,0 +1,4 @@
+# Mana Hunger
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Mana%20Hunger&prop=wikitext
+
+asdf

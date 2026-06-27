@@ -1,0 +1,4 @@
+# Mad Jester
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Mad%20Jester&prop=wikitext
+
+asdf

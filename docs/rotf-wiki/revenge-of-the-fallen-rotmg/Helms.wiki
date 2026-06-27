@@ -1,0 +1,140 @@
+# Helms
+# https://revenge-of-the-fallen-rotmg.fandom.com/api.php?action=parse&page=Helms&prop=wikitext
+
+This page includes both custom helms and old helms that have been edited from how they appear on the production RotMG server.
+{| class="article-table"
+!Helm
+!Party Buff
+!Self Buff
+!Range
+!Stats
+!MP Cost
+!Cooldown
+!Fame Bonus
+!Tier
+!Legendary/Primal
+Effects
+|-
+|Galactic Titan Helm
+|Berserk:
+6.5 sec
+|Speedy:
+6.5 sec
+|4
+|<nowiki>+10def</nowiki>
++3vit
+
++3wis
+|105
+|7.5 sec
+|6%
+|GL
+|
+|-
+|Helm of the Fallen
+|Berserk:
+5 sec
+
++200 hp
+|
+|6
+|<nowiki>+4def</nowiki>
++3spd
+
++6vit
+|90
+|6 sec
+|6%
+|Heroic
+|
+|-
+|Helm of the Demon Lord
+|
+|Armored:
+2.6 sec
+
+Healing:
+
+4 sec
+|
+|<nowiki>+8vit</nowiki>
++80hp
+|115
+|5 sec
+|4%
+|Unique
+|
+|-
+|Shadowscale's Skull
+|Berserk:
+10 sec
+|Speedy:
+10 sec
+|4
+|<nowiki>+5def</nowiki>
++50mp
+|150
+|6 sec
+|5%
+|Artifact
+|
+|-
+|Loki's Horns
+|Berserk:
+8 sec
+|Speedy:
+4 sec
+
+Invisible:
+
+2.5 sec
+|4
+|<nowiki>+5spd</nowiki>
+|100
+|3 sec
+|7%
+|Legendary
+|Curse
+|-
+|Helm of Oryx
+|Berserk:
+7.5 sec
+
+Damaging:
+
+4 sec
+|
+|Berserk:
+10
+
+Damaging:
+
+4
+|<nowiki>+7att</nowiki>
++10def
+
++4spd
+
++4vit
+
++8dex
+|100
+|7 sec
+|7%
+|Legendary
+|Physical Barrier
+|-
+|Helm of the Juggernaut 
+|Berserk:
+4.5 sec
+|Armored:
+4.5 sec
+|4
+|<nowiki>+10def</nowiki>
++5spd
+|90
+|6 sec
+|6%
+|Legendary
+|Physical Barrier
+|}

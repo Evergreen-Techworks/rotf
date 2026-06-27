@@ -1,0 +1,16 @@
+# Helm of the Demon Lord
+# https://rotfserver.fandom.com/api.php?action=parse&page=Helm%20of%20the%20Demon%20Lord&prop=wikitext
+
+Helm of the Demon Lord is a [https://rotfserver.wikia.com/wiki/Helms Ability for the Warrior] .
+
+"''A Helm of the Demon Lord, Thanks to: pepus''"
+
+'''<u>Stats:</u>'''
+* Effect on self: Armored for 2.6 seconds
+* Effect on self: Healing for 4 seconds
+
+* On Equip: +8 Vitality +80 Maximum HP
+* MP Cost: 110
+* Fame Bonus 4%
+* Cooldown 5 seconds
+It is Dropped by [[Archdemon Malphas]]

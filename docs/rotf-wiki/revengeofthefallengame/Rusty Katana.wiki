@@ -1,0 +1,4 @@
+# Rusty Katana
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Rusty%20Katana&prop=wikitext
+
+asdf

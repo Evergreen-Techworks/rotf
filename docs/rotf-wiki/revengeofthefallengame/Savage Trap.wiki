@@ -1,0 +1,4 @@
+# Savage Trap
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Savage%20Trap&prop=wikitext
+
+asdf

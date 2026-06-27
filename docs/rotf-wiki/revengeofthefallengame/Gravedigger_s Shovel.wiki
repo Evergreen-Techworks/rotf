@@ -1,0 +1,4 @@
+# Gravedigger's Shovel
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Gravedigger%27s%20Shovel&prop=wikitext
+
+asdf

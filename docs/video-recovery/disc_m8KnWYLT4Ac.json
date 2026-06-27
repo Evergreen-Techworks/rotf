@@ -1,0 +1,21 @@
+{
+ "dungeon": "FACECAM multi-dungeon stream (creator 'DRAGSKAH', char 'OODragonOo'; 'SUBSCRIBE / LEAVE A LIKE' overlay + webcam covering the bottom-left chat). ~9 dungeon entries over ~565s across many biomes. The webcam obscures the chat, so NO clean boss taunts were captured — only the Nexus welcome, event-feed, and the QUEST-TRACKER panel are readable. LOW boss-content yield. Server identity (ROTF vs other RotMG) NOT positively confirmed.",
+ "map": "DOCUMENTED-from-transitions+f_frames: a multi-dungeon hop — GREEN grass REALMS (structures), an ORANGE/RED LAVA-BRICK arena (checkered lava floor, where the player fought mid-run), a grey/pink CHECKERED-GRID arena (Shatters-style, purple bullets + green enemies), and dark/SPACE areas. Realm/Nexus hub between. No bossends -> arenas catalogued, no single room-sequence.",
+ "bosses": [
+  {
+   "name": "(unidentified — facecam stream, no clean boss capture)",
+   "phases": [],
+   "attacks": ["RECONSTRUCTED/APPROXIMATE (facecam + no bossends): the grey checkered-grid arena fight showed PURPLE bullets + green minions; the lava-brick arena fight too -> scattered/spread bullets, no clean single geometric pattern isolated."],
+   "minions": ["green minions (checkered-grid arena)"],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "NO boss NAME or taunt captured — the webcam covers the chat box, and the top-left text is the QUEST TRACKER (not taunts). Deliberately NOT naming/attributing a boss (no guessing). Attack only loosely characterised (scattered/spread), flagged reconstructed."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED (limited — facecam): (1) the bottom-left CHAT is WEBCAM-COVERED -> no boss taunts readable (only Nexus 'Welcome to Realm of the Mad God' / Oryx 'You are food for my minions!' + event-feed). (2) QUEST / OBJECTIVE TRACKER visible top-left (base-game-style daily quests): 'Free Titan from Oryx's blessed [...]', 'Reach Level 20 and become stronger', 'Defeat 1 vanishing Demon of Oryx', 'Defeat Oryx the Mad God in his Castle' -> a quest system is present (Oryx-themed objectives = base-game). (3) Multi-dungeon biomes incl. a lava-brick + Shatters-style checkered-grid arena. No bossends -> no attack geometry.",
+ "uncertain": "SERVER IDENTITY not confirmed (RotMG-engine, facecam 'DRAGSKAH'; the quests are Oryx-themed base-game objectives). CHAT webcam-covered -> NO boss taunts captured. No boss NAME (deliberately not guessed). Attacks reconstructed/approximate (facecam + no bossends). The 'red' chat frames were a LAVA-BRICK arena FLOOR, not chat text (false-positive on the red-detection).",
+ "confidence": "LOW. RotMG-engine multi-dungeon FACECAM stream -> very low recoverable boss content (chat covered, no bossends, no boss name/taunt). Concrete notes: a QUEST/OBJECTIVE tracker system is present (base-game Oryx quests) + the dungeon-biome set (lava-brick + checkered-grid + green realms). NO boss/taunt recorded (honestly left empty, no fabrication). Server identity uncertain. Best follow-up: prefer non-facecam ROTF-custom-dungeon footage over facecam realm-running streams (recurring low-yield pattern)."
+}

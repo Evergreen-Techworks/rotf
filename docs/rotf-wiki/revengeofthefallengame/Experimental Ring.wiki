@@ -1,0 +1,4 @@
+# Experimental Ring
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Experimental%20Ring&prop=wikitext
+
+asdf

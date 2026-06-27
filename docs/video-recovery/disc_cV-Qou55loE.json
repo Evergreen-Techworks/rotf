@@ -1,0 +1,11 @@
+{
+ "dungeon": "X3.0-era multi-dungeon stream (~68 entries)",
+ "map": "DOCUMENTED biomes from transitions/contact: snow/ICE areas w/ brown structures, brown caverns, an orange/fire boss arena (explosion boss), a purple/dark dungeon w/ red boss, blue/purple ICE dungeon, tan/sandy dungeon, a multi-color RAINBOW-tile dungeon (candyland/sprite-world-like), green realm. Most of the 68 transition entries captured the loading screen itself (few legible interiors).",
+ "bosses": [
+   {"name":"Lucky Ent God (Galactic Zone boss)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"'<Minotaur> Lucky Ent God has just spawned' — re-confirms this Galactic boss (also seen in disc_DqUiNlQ9Uz0)."}
+ ],
+ "drops": [],
+ "mechanics": "DOCUMENTED: client version 'X3.0' (matches rotf.io's archived X2.2/X3.0K/X3.1x builds). LOOT NOTIFIER announces CRATE openings: '<Loot Notifier> [Aurystick] just unbo[xed]...' (crate/unbox economy). POTION-TO-MAX counter again ('Potion of Wisdom consumed. 19 left [to max]'). PETRIFY status effect exists — players say 'im perma petrified' / 'PERMA' (a Petrify/stun condition, possibly stacking/stuck). Level-up feed: '<name> achieved level 20 as a <class>'. More announcer PERSONAS: Minotaur, Neighbor (+ Loot Notifier). Heavy player trading/social chat.",
+ "uncertain": "No boss taunts captured (social/announcer chat only). 68 entries not name-identified (transitions mostly caught loading screens). 'perma petrified' may be a bug report rather than a designed mechanic. No clear no-footage-dungeon match.",
+ "confidence": "MEDIUM — version X3.0, Loot-Notifier crate-unbox, potion-to-max, Petrify status, and Lucky Ent God re-confirm all DOCUMENTED; biomes documented; no taunts."
+}

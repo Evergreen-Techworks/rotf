@@ -1,0 +1,15 @@
+{
+ "dungeon": "(HUGE MULTI-DUNGEON STREAM ~100 entries) ROTF — Stonetaker (new boss) + Dwarf King taunts (likely a naming correction)",
+ "source": "video disc_PRzNeGfRR00 (1072 frames, 300 transitions = ~100 entries, 1609 chat; client X1.1). Very diverse dungeons; chat captured two bosses' taunt sets.",
+ "map": "DOCUMENTED biomes: blue WATER arenas, tan DESERT, green grass realm, grey CASTLE STONE, brown dirt paths, white SNOW, and RED/MAGENTA arenas (with blue snowflake projectiles — Stonetaker's domain).",
+ "bosses": [
+  {"name":"Stonetaker","phases":["fight","death/panic"],"attacks":[],"minions":[],"colorFlashes":"red/magenta","taunts":["Mmm... Beautiful stones...","Leave my stones in peace...","No... no... NO! YOU WI[LL]...","LEAVE MY STONES ALONE!"],"note":"DOCUMENTED VERBATIM (boss-colored chat). A NEW stone-HOARDER boss (golem/troll?) obsessed with its stones/gems — admires them ('Beautiful stones'), warns players off ('Leave my stones in peace'), then panics on death ('No... no... NO!', 'LEAVE MY STONES ALONE!'). Fought in a red/magenta arena."},
+  {"name":"Dwarf King","phases":[],"attacks":["axe melee"],"minions":[],"colorFlashes":"","taunts":["You'll taste my axe!"],"note":"DOCUMENTED VERBATIM. IMPORTANT: this taunt ('You'll taste my axe!') is the one currently attached to the BUILT 'Death King' boss (OCBosses 0x8fd3) — so that boss is most likely actually named 'DWARF KING' (an axe-wielding dwarf, not a 'Death King'). PROBABLE NAMING CORRECTION for the build."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Cookie Monster (just spawned, multiple times)"],
+ "mechanics": "DOCUMENTED: (1) Stonetaker = a new stone-hoarder boss with a full taunt arc (admire -> warn -> death-panic). (2) NAMING CORRECTION lead: 'Dwarf King' speaks 'You'll taste my axe!' — the line I attached to 'Death King' (0x8fd3); the boss is likely 'Dwarf King'. (3) Coin-analyze -> Fame reconfirmed ('You have analyzed the coin, discovering [Fame]'). (4) 'You have been granted an additional [...]' reward line. Client X1.1.",
+ "uncertain": "Stonetaker's attacks/HP/dungeon not isolated (only taunts); some lines truncated at crop edge. Dwarf-King-vs-Death-King: high-confidence it's 'Dwarf King' (axe + the matching taunt) but worth a second confirmation before renaming the built boss. ~100 entries not individually named.",
+ "confidence": "HIGH for the Stonetaker taunt set (new boss) + the Dwarf King taunt (verbatim). MEDIUM-HIGH that 'Death King' (built) should be renamed 'Dwarf King'. LOW for dungeon mapping/drops."
+}

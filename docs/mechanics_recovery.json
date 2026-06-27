@@ -1,0 +1,2127 @@
+{
+  "_doc": "MECHANICS RECOVERY LOOP tracker. Upgrades non-taunt layers (attacks/maps/loot/stats) from already-prepped frames. Sprites NOT recoverable from video. Regenerate with scripts/mechanics_recovery_ledger.py (preserves verdicts).",
+  "summary": {
+    "bosses": 88,
+    "attacks_documented": 0,
+    "attacks_partial": 30,
+    "attacks_reconstructed": 11,
+    "attacks_no_footage": 20,
+    "attacks_ADDRESSABLE_now": 32,
+    "map_documented": 69,
+    "map_undocumented": 0,
+    "map_no_footage": 19,
+    "map_ADDRESSABLE_now": 0,
+    "attacks_unknown": 9,
+    "loot_designed": 62,
+    "loot_observed": 23,
+    "attacks_unverifiable": 18
+  },
+  "bosses": [
+    {
+      "boss": "Archdemon Malphas",
+      "file": "BehaviorDb.Abyss.cs",
+      "source_tags": [
+        "ShatteredLoot",
+        "disc_-9_o5EilupU",
+        "disc_61_b9zF-2_E",
+        "disc_NsKbqLJgUfA",
+        "disc_PE04BhHHyBk",
+        "disc_SXgeJh2Ao6U",
+        "disc_rUsOS8maIww",
+        "disc_rzoDJKwwSOU",
+        "disc_uFUNEp1GwPM"
+      ],
+      "bossends_tags": [
+        "disc_-9_o5EilupU",
+        "disc_61_b9zF-2_E",
+        "disc_PE04BhHHyBk",
+        "disc_rUsOS8maIww",
+        "disc_rzoDJKwwSOU",
+        "disc_uFUNEp1GwPM"
+      ],
+      "minimap_tags": [
+        "ShatteredLoot",
+        "disc_-9_o5EilupU",
+        "disc_61_b9zF-2_E",
+        "disc_NsKbqLJgUfA",
+        "disc_PE04BhHHyBk",
+        "disc_SXgeJh2Ao6U",
+        "disc_rUsOS8maIww",
+        "disc_rzoDJKwwSOU",
+        "disc_uFUNEp1GwPM"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "loot_wiki_drops": [
+        "Destructor Dagger"
+      ]
+    },
+    {
+      "boss": "Anubis",
+      "file": "BehaviorDb.AnubisLair.cs",
+      "source_tags": [
+        "disc_AAQEUfbwkyQ",
+        "disc_DFSTBqwKT-E",
+        "disc_Fx5_2g1_1O4",
+        "disc_TkraL4lSyDw",
+        "disc_XGl3pTaNmTM",
+        "disc_t8v5IlBPPJk"
+      ],
+      "bossends_tags": [
+        "disc_AAQEUfbwkyQ",
+        "disc_DFSTBqwKT-E"
+      ],
+      "minimap_tags": [
+        "disc_AAQEUfbwkyQ",
+        "disc_DFSTBqwKT-E",
+        "disc_Fx5_2g1_1O4",
+        "disc_TkraL4lSyDw",
+        "disc_XGl3pTaNmTM",
+        "disc_t8v5IlBPPJk"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "none-observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": ""
+    },
+    {
+      "boss": "Heimdall",
+      "file": "BehaviorDb.Asgard.cs",
+      "source_tags": [
+        "disc_9vQughNZIX0",
+        "disc__1He_TVKDuw"
+      ],
+      "bossends_tags": [
+        "disc_9vQughNZIX0"
+      ],
+      "minimap_tags": [
+        "disc_9vQughNZIX0",
+        "disc__1He_TVKDuw"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "verified_at": "2026-06-24",
+      "map_notes": "Asgard castle boss chamber: large rectangular+arched room, fine small-square grid floor tiles (white/light gray), two tall dark-stone PURPLE PILLAR structures flanking top entry corridor, narrow vertical entry corridor at top center, Asgard Guardian enemies. Dungeon palette olive-green/tan on minimap = dungeon confirmed. Arena SHARED with Loki (same minimap source, same room). DOCUMENTED disc__1He_TVKDuw minimap_00002 + f_00001/f_00005.",
+      "loot_wiki_drops": [
+        "Enchanted Uru Sword"
+      ],
+      "attacks_notes": "Bullet shape DOCUMENTED: large blue elongated lance/diamond (disc_9vQughNZIX0 f_00115). Slow debuff observed on player f_00108 (attribution uncertain \u2014 Asgard Guardians also shoot nearby). Radial spread: ~3-4 lances visible in 90\u00b0 arc, total count RECONSTRUCTED (current count:5 shootAngle:18). PARTIAL."
+    },
+    {
+      "boss": "Loki",
+      "file": "BehaviorDb.Asgard.cs",
+      "source_tags": [
+        "disc_9vQughNZIX0",
+        "disc__1He_TVKDuw"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_9vQughNZIX0",
+        "disc__1He_TVKDuw"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "MECH-LOOP 2026-06-24: attacks upgraded no-footage \u2192 partial. disc_9vQughNZIX0 f_00220: TRIDENT (proj-0, teal/aqua) bullet CONFIRMED during Loki fight. Loki XML has only proj-0 (Trident); both Shoot() calls fire Trident. count:8/4 + angles RECONSTRUCTED. Taunt correction: 'Now you see me! Now you die!' (was 'Now you don't!' \u2014 chat_00056 clearly shows 'die'). New taunt: 'How did you manage to see me?' (VERIFIED-partial chat_00057-58, 1 char truncated). Pending stem 'For my next trick, I will make...' off-screen \u2014 NOT injected. Arena: shared Asgard castle boss chamber (same room as Heimdall) \u2014 large rectangular+arched room, fine small-square grid floor tiles (white/light gray), two tall dark-stone PURPLE PILLAR structures flanking top entry corridor, narrow vertical corridor entry at top center; olive-green/tan dungeon minimap. DOCUMENTED disc__1He_TVKDuw minimap_00002 + f_00001/f_00005.",
+      "loot_wiki_drops": [
+        "Loki's Dagger"
+      ]
+    },
+    {
+      "boss": "Hela",
+      "file": "BehaviorDb.Asgard.cs",
+      "source_tags": [
+        "disc_9vQughNZIX0",
+        "disc_HzO8vU8xmgo",
+        "disc_cu6l3YQR608"
+      ],
+      "bossends_tags": [
+        "disc_HzO8vU8xmgo"
+      ],
+      "minimap_tags": [
+        "disc_9vQughNZIX0",
+        "disc_HzO8vU8xmgo",
+        "disc_cu6l3YQR608"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "loot_wiki_drops": [
+        "Hela's power"
+      ]
+    },
+    {
+      "boss": "Odin",
+      "file": "BehaviorDb.Asgard.cs",
+      "source_tags": [
+        "GeneralStream",
+        "disc_HhwYZGR0M3s",
+        "disc_IZ2Z7AUhb8s",
+        "disc__1He_TVKDuw",
+        "disc_cu6l3YQR608"
+      ],
+      "bossends_tags": [
+        "disc_HhwYZGR0M3s"
+      ],
+      "minimap_tags": [
+        "GeneralStream",
+        "disc_HhwYZGR0M3s",
+        "disc_IZ2Z7AUhb8s",
+        "disc__1He_TVKDuw",
+        "disc_cu6l3YQR608"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "Throne Room DOCUMENTED disc_cu6l3YQR608 f_00150(Odin 26%)/f_00160(29%)/f_00170(35%)/f_00180(47%) + minimap_00150. Floor: large alternating gray stone + orange/amber diamond tiles (diagonal checkerboard). Shape: large D-shaped/semicircular chamber with concentric rectangular terrace structure (minimap). Throne Room name verbatim from Odin taunt (intruders in the Throne Room). Two new taunts added: I have awaited you. Prepare to die! + You should be long gone, but you are still here! verified_at 2026-06-14 00:10",
+      "loot_wiki_drops": [
+        "Gungnir"
+      ],
+      "attacks_notes": "Bullet shape DOCUMENTED: small rounded/oval ORANGE projectiles (disc_HhwYZGR0M3s f_00145/f_00148/f_00152, Throne Room section). Wide arena distribution consistent with radial-ring spread. Two Shoot() params \u2014 count:10 shootAngle:36 (full ring) + count:6 predictive burst \u2014 both RECONSTRUCTED counts/angles. verified_at 2026-06-24.",
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Thor",
+      "file": "BehaviorDb.Asgard.cs",
+      "source_tags": [
+        "RunesNodes",
+        "disc_-N3MH_woifQ",
+        "disc_9vQughNZIX0"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "RunesNodes",
+        "disc_-N3MH_woifQ",
+        "disc_9vQughNZIX0"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "Arena DOCUMENTED disc_-N3MH_woifQ minimap_00080 + f_00500/f_00550/f_00600. Large CIRCULAR golden room: bright yellow/gold stone ring walls, white/cream tile floor with scattered small gold/amber diamond accent tiles, narrow golden corridor entry below. Asgard dungeon exterior = snowy outdoor theme (pine trees, snow). Radial white lightning-bolt burst visible in f_00500 (bossends absent, not used for attack recovery). attacks: no-footage (bossends_tags empty). verified_at 2026-06-14 00:30 PARTIAL 2026-06-24: Thunder Swirl (proj-0, yellow/gold) scatter CONFIRMED disc_9vQughNZIX0 f_00295 (Thor 2% HP). Taunt corrected: \"You fight good, mortal, but I am better!\" (was \"stronger\").",
+      "loot_wiki_drops": [],
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Treesmasher",
+      "file": "BehaviorDb.CollapsedWoods.cs",
+      "source_tags": [
+        "disc_AUiz1LBnNJg"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_AUiz1LBnNJg"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "Arena DOCUMENTED disc_AUiz1LBnNJg f_00120 + chat_00030. Open FOREST dungeon: large open area, sandy/tan earthy floor with scattered dark olive-green grass patches; many large dead-autumn trees with bright YELLOW/GOLD leaf canopies and brown trunks scattered throughout. Minimap: irregular organic dungeon boundary (tan floor, orange/yellow squares = tree positions). Boss entity: boxy brown/wooden pile (dormant log appearance). Side: Treesmasher taunt stem confirmed again on-screen chat_00030. bossends_tags empty -> attacks no-footage. verified_at 2026-06-14 00:55 PARTIAL: Trident (proj-0, teal) radial spray CONFIRMED disc_AUiz1LBnNJg f_00122; Demon Blade (proj-1, SLOWS) rampage/fall RECONSTRUCTED.",
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Craig the Mad Intern",
+      "file": "BehaviorDb.Craig.cs",
+      "source_tags": [
+        "GeneralStream",
+        "disc_3eM07g4Ly5k",
+        "disc_Fx5_2g1_1O4",
+        "disc_SPBkDdC5JGM",
+        "disc_XGl3pTaNmTM",
+        "disc_YC4vDxWTAyc",
+        "disc_awf8n3A7KOk",
+        "disc_wsRSijbExRI"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "GeneralStream",
+        "disc_3eM07g4Ly5k",
+        "disc_Fx5_2g1_1O4",
+        "disc_SPBkDdC5JGM",
+        "disc_XGl3pTaNmTM",
+        "disc_YC4vDxWTAyc",
+        "disc_awf8n3A7KOk",
+        "disc_wsRSijbExRI"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "Arena DOCUMENTED GeneralStream minimap_00160 (boss room shape) + minimap_00240 (full dungeon) + f_00210 (floor). Craig Castle dungeon: complex multi-room tan/cream castle with branching corridors. Boss chamber: large rounded-rectangular room with horizontal stripe banding (alternating light/medium tan rows = office carpet tile rows). Floor: warm tan/cream large sandstone tiles with grid seam lines. Narrow top entry corridor. NOTE: footage (disc_3eM07g4Ly5k) shows boss name Craig The Worst Nightmare \u2014 possible earlier alias; X3.1.1 client XML = Craig the Mad Intern. bossends empty -> attacks no-footage. verified_at 2026-06-14 01:20 | ATTACK PARTIAL: GeneralStream f_00198/f_00202/f_00205 show orange fire in CROSS pattern (cardinal+diagonal 8-directional star); yellow star secondary bullets. Phase1/2 Shoot params updated from RECONSTRUCTED 5-bullet spread to observed 4x90\u00b0 cardinal + 4x90\u00b0 diagonal cross geometry. Cooldowns remain RECONSTRUCTED. Phase3 unchanged."
+    },
+    {
+      "boss": "Mysterious Crystal",
+      "file": "BehaviorDb.Crystal.cs",
+      "source_tags": [
+        "disc_akLcdL1MzZg"
+      ],
+      "bossends_tags": [
+        "disc_akLcdL1MzZg"
+      ],
+      "minimap_tags": [
+        "disc_akLcdL1MzZg"
+      ],
+      "attacks_status": "documented",
+      "map_status": "no-footage",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "BASE-GAME non-combat entity. No Shoot() calls \u2014 Mysterious Crystal heals itself unless players deal sufficient DPS within 5 seconds. No projectile attacks to document. attacks_status: no-footage -> documented (no attacks by design).",
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Crystal Prisoner",
+      "file": "BehaviorDb.Crystal.cs",
+      "source_tags": [
+        "disc_65DNPf-aCOQ",
+        "disc_EM9Uba-Nv08",
+        "disc_LuUwzl6KwCY"
+      ],
+      "bossends_tags": [
+        "disc_65DNPf-aCOQ"
+      ],
+      "minimap_tags": [
+        "disc_65DNPf-aCOQ",
+        "disc_EM9Uba-Nv08",
+        "disc_LuUwzl6KwCY"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "ATTACKS UPGRADED 2026-06-24: small ROUND BLUE/CYAN projectile dots CONFIRMED disc_65DNPf-aCOQ b012_72s_003/b012_72s_010. Large white crystal entity in icy/snowy blue-floor dungeon (Crystal Cavern). Quadforce rotating cross pattern (count:4, shootAngle:90, 8-state rotation) CONSISTENT with observed blue dot distribution. attacks_status: unverifiable-illegible -> partial.",
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Crystal Prisoner Clone",
+      "file": "BehaviorDb.Crystal.cs",
+      "source_tags": [
+        "disc_EM9Uba-Nv08",
+        "disc_LuUwzl6KwCY"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_EM9Uba-Nv08",
+        "disc_LuUwzl6KwCY"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "Arena: same Crystal Cavern as Crystal Prisoner \u2014 spawned by parent via TossObject range 5-7, StayCloseToSpawn range:5. Crystal Cavern layout DOCUMENTED via Crystal Prisoner (disc_65DNPf-aCOQ mm_00010\u2013mm_00070): dark navy/blue floor, white-outlined rooms, 6-8 rooms branching linear, teal/cyan boss area center-right. Minimap frames from disc_EM9Uba-Nv08/disc_LuUwzl6KwCY unusable (extractor misaligned: EM9Uba all-black, LuUwzl6KwCY captured PROD-STUFF text overlay). Attacks: bossends_tags empty \u2192 no-footage. ATTACKS UPGRADED 2026-06-24: small ROUND RED/CRIMSON projectile dots confirmed disc_LuUwzl6KwCY f_00198 (active Clone fight; multiple purple-square Clone entities visible; colored dots scattered outward in directional pattern consistent with bullets, not blood effects). Taunt \"I am everywhere and nowhere!\" repeated in boss-color f_00195-200. Shoot(10, coolDown:1400) single-aimed bullet; count/coolDown RECONSTRUCTED. attacks_status: no-footage -> partial.",
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Breathing Encounter",
+      "file": "BehaviorDb.Encounters.cs",
+      "source_tags": [
+        "disc_fnAwkbaB_0c"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_fnAwkbaB_0c"
+      ],
+      "attacks_status": "no-footage",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "Arena: open REALM event \u2014 no dungeon; spawns anywhere in realm; floor varies by biome (sandy/tan, dark stone, white/snowy biome all visible in disc_fnAwkbaB_0c f_00325-00345). Realm minimap confirmed (scattered colored dots; minimap_00325/328). DOCUMENTED-from-frames disc_fnAwkbaB_0c. Attacks: bossends_tags empty \u2192 no-footage.",
+      "verified_at": "2026-06-16"
+    },
+    {
+      "boss": "Smashing Encounter",
+      "file": "BehaviorDb.Encounters.cs",
+      "source_tags": [
+        "disc_fnAwkbaB_0c"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_fnAwkbaB_0c"
+      ],
+      "attacks_status": "no-footage",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "Arena: open REALM event \u2014 same as Breathing Encounter; no dungeon; floor varies by biome. Realm minimap DOCUMENTED disc_fnAwkbaB_0c minimap_00325/328. Attacks: bossends_tags empty \u2192 no-footage.",
+      "verified_at": "2026-06-16"
+    },
+    {
+      "boss": "Shadow Encounter",
+      "file": "BehaviorDb.Encounters.cs",
+      "source_tags": [
+        "disc_fnAwkbaB_0c"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_fnAwkbaB_0c"
+      ],
+      "attacks_status": "no-footage",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "Arena: open REALM event \u2014 same as Breathing Encounter; no dungeon; floor varies by biome. Realm minimap DOCUMENTED disc_fnAwkbaB_0c minimap_00325/328. Attacks: bossends_tags empty \u2192 no-footage.",
+      "verified_at": "2026-06-16"
+    },
+    {
+      "boss": "Flying Encounter",
+      "file": "BehaviorDb.Encounters.cs",
+      "source_tags": [
+        "disc_fnAwkbaB_0c"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_fnAwkbaB_0c"
+      ],
+      "attacks_status": "no-footage",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "Arena: open REALM event \u2014 same as Breathing Encounter; no dungeon; floor varies by biome. Realm minimap DOCUMENTED disc_fnAwkbaB_0c minimap_00325/328. Attacks: bossends_tags empty \u2192 no-footage.",
+      "verified_at": "2026-06-16"
+    },
+    {
+      "boss": "Firebreather",
+      "file": "BehaviorDb.FlamingHearth.cs",
+      "source_tags": [
+        "disc_rzoDJKwwSOU",
+        "disc_AUiz1LBnNJg"
+      ],
+      "bossends_tags": [
+        "disc_rzoDJKwwSOU"
+      ],
+      "minimap_tags": [
+        "disc_rzoDJKwwSOU"
+      ],
+      "attacks_status": "partial",
+      "map_status": "no-footage",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": " PARTIAL: Demon Blade (proj-0, orange/red) radial spray CONFIRMED disc_AUiz1LBnNJg f_00123/f_00127. Wake taunt \"You have awoken the spirit of fire!\" VERIFIED f_00125.",
+      "loot_wiki_drops": [
+        "Firebreather's Tail",
+        "Head of the Firebreather",
+        "The Searing Blood"
+      ],
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Ice Queen",
+      "file": "BehaviorDb.IcyPeaks.cs",
+      "source_tags": [
+        "IcyPeaks",
+        "IcyPeaks_tutorial"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "IcyPeaks"
+      ],
+      "attacks_status": "no-footage",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "map_notes": "Compact Icy Peaks dungeon: narrow tan/brown stone entry corridor \u2192 large rectangular boss chamber with light-blue ice-tile floor. Exterior: outdoor snowy biome (dark pine trees). Dungeon minimap (in-game top-right) shows L/T-shaped layout: narrow entry above, wide boss room below. NOTE: the tan/brown floor in f_00100 is the entry corridor (cheese-strategy position), NOT the boss room \u2014 the actual boss room floor is light blue ice (confirmed f_00130/f_00140). Ice Queen's Towers are blue ice-cube entities inside boss chamber. DOCUMENTED IcyPeaks f_00130/f_00140 (active Ice Queen fight, light-blue floor visible) + minimap f_00145 (clean minimap: compact 2-room layout).",
+      "verified_at": "2026-06-16",
+      "loot_wiki_drops": [
+        "Ice Shatter"
+      ]
+    },
+    {
+      "boss": "Dwarf King",
+      "file": "BehaviorDb.Midland.cs",
+      "source_tags": [
+        "disc_PRzNeGfRR00",
+        "disc_TkraL4lSyDw",
+        "disc_fjgne_X74s8"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_PRzNeGfRR00",
+        "disc_TkraL4lSyDw",
+        "disc_fjgne_X74s8"
+      ],
+      "attacks_status": "no-footage",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "Arena: Midland dungeon \u2014 large circular/octagonal boss chamber; floor: red/crimson large stone tiles with dark grid seam lines; thick dark gray walls. DOCUMENTED-from-frames disc_fjgne_X74s8 f_00190 (fight frame confirming red-tile floor + boss entity) + minimap_00030/00040/00050 (circular chamber shape, dark gray walls). Attacks: bossends_tags empty \u2192 no-footage.",
+      "verified_at": "2026-06-16",
+      "map_notes": "Large circular/octagonal boss chamber confirmed from minimap_00030/040/050 (thick dark gray walls, circular room ~8-12 tiles diameter). Floor: red/crimson large stone tiles with dark grid seam lines (f_00190). Dungeon minimap confirmed (distinct room shape, not realm scatter). disc_fjgne_X74s8 chat_00050 shows Dwarf King taunts + Drake Baby death."
+    },
+    {
+      "boss": "Drake Baby",
+      "file": "BehaviorDb.Midland.cs",
+      "source_tags": [
+        "disc_kZl_YV0-aVQ"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_kZl_YV0-aVQ"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "Arena: open REALM event \u2014 Drake Baby + Horned Drake spawn in open realm; terrain: green grass/trees biome visible in f_02790/02795; in-game realm minimap (amber, scattered dots) confirmed in f_02795; extracted minimap frames all-black (extractor misaligned for this source). Spawn chat 'Drake Baby has just spawned!' confirmed f_02790. Attacks: bossends_tags empty \u2192 no-footage. ATTACKS UPGRADED 2026-06-24: small ROUND WHITE projectile dots CONFIRMED disc_kZl_YV0-aVQ f_02806/f_02807. Chat f_02807 \"Christie: drake baby has just spawned!\" confirms entity. White round dots scattered in realm arena consistent with Shoot(8) single-shot; coolDown:1500 RECONSTRUCTED. attacks_status: no-footage -> partial.",
+      "verified_at": "2026-06-24",
+      "map_notes": "Open realm event confirmed. f_02790: 'Drake Baby has just spawned!' in chat, green grass realm terrain. f_02795: in-game minimap amber/realm with scattered colored dots. Extracted minimap frames disc_kZl_YV0-aVQ unusable (all-black for full 2286-frame set)."
+    },
+    {
+      "boss": "Desert Werewolf",
+      "file": "BehaviorDb.Midland.cs",
+      "source_tags": [],
+      "bossends_tags": [],
+      "minimap_tags": [],
+      "attacks_status": "no-footage",
+      "map_status": "no-footage",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "verified_at": "2026-06-24",
+      "note": "NO-FOOTAGE \u2014 not found in any recovery spec or frame directory. All attacks and taunts DESIGNED/RECONSTRUCTED. Needs Loop C (media discovery)."
+    },
+    {
+      "boss": "Gravedigger",
+      "file": "BehaviorDb.Necropolis.cs",
+      "source_tags": [
+        "TwilightNecropolis",
+        "disc_2nyUJDNu9Cs",
+        "disc_ZEnAhsvDzKY"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "TwilightNecropolis",
+        "disc_2nyUJDNu9Cs",
+        "disc_ZEnAhsvDzKY"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "Arena: Necropolis dungeon \u2014 large square/octagonal boss chamber (chamfered corners); floor: dark gray/black stone tiles; tombstone/grave decoration entities scattered around chamber. DOCUMENTED-from-frames disc_2nyUJDNu9Cs f_00050 (Gravedigger name label + floor + taunts 'Let's see how you handle this.' + 'MINIONS, SAVE ME!!!') + minimap_00020 (square/octagonal chamber, boss red dot + player blue dot) + minimap_00015 (players clustered during fight). Attacks: bossends_tags empty \u2192 no-footage. ATTACKS UPGRADED 2026-06-24: crescent/SWOOSH-shaped white projectiles confirmed disc_2nyUJDNu9Cs f_00050 (grayscale frame \u2014 shape visible, color unverifiable). Radial spread pattern from boss center. Both P1+P2 taunts visible simultaneously \u2192 fight at/below 60% HP (summon state). Count/angle RECONSTRUCTED.",
+      "verified_at": "2026-06-24",
+      "map_notes": "Square/octagonal boss chamber confirmed minimap_00020 (chamfered corners, dark stone walls). Floor: dark gray/black stone tiles confirmed f_00050 (fight frame with 'Gravedigger' entity label above boss). TwilightNecropolis source is a multi-dungeon marathon; disc_2nyUJDNu9Cs is a focused Necropolis run used for primary documentation.",
+      "loot_wiki_drops": [
+        "Gravedigger's Shovel"
+      ]
+    },
+    {
+      "boss": "Diagon",
+      "file": "BehaviorDb.Necropolis.cs",
+      "source_tags": [
+        "disc_MszcvkbWED8"
+      ],
+      "bossends_tags": [
+        "disc_MszcvkbWED8"
+      ],
+      "minimap_tags": [],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "loot_wiki_drops": [
+        "Wand of Bone"
+      ],
+      "attacks_notes": "PARTIAL disc_MszcvkbWED8 f_00155/f_00160/f_00162 (active Necropolis fight): Diagon entity = large RED SKULL with glowing red eyes (taunt BEHOLD... DIAGON ETERNAL confirmed). Small round RED/CRIMSON bullets visible in dark arena; multi-entity room so coverage may include other Necropolis enemies. Proj-14 red sprite CONFIRMED. Shoot(14,count:6,shootAngle:60) CONSISTENT. Arena: dark charcoal/black stone floor confirmed.",
+      "map_notes": "Dark charcoal/black stone dungeon (Necropolis) \u2014 confirmed from disc_MszcvkbWED8 f_00155/f_00162 (dark stone tile floor visible during active fight).",
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Troll Matriarch",
+      "file": "BehaviorDb.Necropolis.cs",
+      "source_tags": [
+        "disc_sTTSEekkX1o",
+        "disc_wwhGYuiu_9U"
+      ],
+      "bossends_tags": [
+        "disc_wwhGYuiu_9U"
+      ],
+      "minimap_tags": [
+        "disc_sTTSEekkX1o",
+        "disc_wwhGYuiu_9U"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "loot_wiki_drops": [
+        "Undead's Gross Bow"
+      ]
+    },
+    {
+      "boss": "Nyx of Fire",
+      "file": "BehaviorDb.NyxOfFire.cs",
+      "source_tags": [],
+      "bossends_tags": [],
+      "minimap_tags": [],
+      "attacks_status": "no-footage",
+      "map_status": "no-footage",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": ""
+    },
+    {
+      "boss": "Ortar",
+      "file": "BehaviorDb.OCBosses.cs",
+      "source_tags": [
+        "disc_1uD9wcqfVUQ",
+        "disc_ed9YjhhonUU",
+        "disc_fFKeD2EZFSg",
+        "disc_n7RZ1JzWXXw",
+        "disc_pGEVj9uJLFw",
+        "disc_qheTDTNSp-A",
+        "disc_tyG-KT533DA"
+      ],
+      "bossends_tags": [
+        "disc_qheTDTNSp-A"
+      ],
+      "minimap_tags": [
+        "disc_1uD9wcqfVUQ",
+        "disc_ed9YjhhonUU",
+        "disc_fFKeD2EZFSg",
+        "disc_n7RZ1JzWXXw",
+        "disc_pGEVj9uJLFw",
+        "disc_qheTDTNSp-A",
+        "disc_tyG-KT533DA"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "ATTACKS PARTIAL 2026-06-24: small spherical white projectile dots confirmed disc_qheTDTNSp-A f_00070 (active magenta/pink dungeon fight). Ortar has no minion spawns -> all arena bullets attributable to Ortar. Count/angle RECONSTRUCTED. TAUNT CORRECTED: \"Highest of Staffords\" \u2192 \"Highest of Trollords\" (Ring of Ortar tooltip f_00085 reads verbatim \"The ring once worn by the Highest of Trollords, Ortar\"). NEW TAUNT CONFIRMED f_00085: \"Me want to go! Me angry!\" (already in BehaviorDb as \"Me angery!\" \u2014 actual spelling uncertain at f_ resolution).",
+      "loot_wiki_drops": [
+        "Hornshot"
+      ],
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Cracked Core",
+      "file": "BehaviorDb.OCBosses.cs",
+      "source_tags": [
+        "GalacticLoot",
+        "disc_CgZC3OpXVhU",
+        "disc_ZgpUWDff7Ns",
+        "disc_rQseJUyAHU0"
+      ],
+      "bossends_tags": [
+        "disc_ZgpUWDff7Ns"
+      ],
+      "minimap_tags": [
+        "GalacticLoot",
+        "disc_CgZC3OpXVhU",
+        "disc_ZgpUWDff7Ns",
+        "disc_rQseJUyAHU0"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "loot_wiki_drops": [
+        "Deepspace Veil",
+        "Flask of Stardust"
+      ]
+    },
+    {
+      "boss": "God of Reptilians",
+      "file": "BehaviorDb.OCBosses.cs",
+      "source_tags": [
+        "disc_XGl3pTaNmTM",
+        "disc_3eM07g4Ly5k"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "verified_at": "2026-06-24",
+      "note": "PARTIAL disc_XGl3pTaNmTM f_00039/f_00041/f_00043: dense small round ORANGE ring spray; proj-13 CONFIRMED. count:6 RECONSTRUCTED (density suggests may be higher). Arena: green-grass realm with brown/dirt patches.",
+      "loot_wiki_drops": [
+        "Staff of Nature"
+      ]
+    },
+    {
+      "boss": "Twilight Archmage",
+      "file": "BehaviorDb.OCBosses.cs",
+      "source_tags": [
+        "disc_I-LLUiWJE5I",
+        "disc_SXgeJh2Ao6U",
+        "disc__WkTRDW_vQ0",
+        "disc_g1Ce99YlFrI",
+        "disc_hl-ETK3d42A",
+        "disc_wwhGYuiu_9U"
+      ],
+      "bossends_tags": [
+        "disc_I-LLUiWJE5I",
+        "disc_wwhGYuiu_9U"
+      ],
+      "minimap_tags": [
+        "disc_I-LLUiWJE5I",
+        "disc_SXgeJh2Ao6U",
+        "disc__WkTRDW_vQ0",
+        "disc_g1Ce99YlFrI",
+        "disc_hl-ETK3d42A",
+        "disc_wwhGYuiu_9U"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": ""
+    },
+    {
+      "boss": "Epic Ghost of Skuld",
+      "file": "BehaviorDb.OCBosses.cs",
+      "source_tags": [
+        "disc_HvB7mdTTE4E",
+        "disc_IBEp1CbA00Q",
+        "disc_UZQBOayvNVE",
+        "disc_ZEnAhsvDzKY",
+        "disc_bk4dygntBZ8",
+        "disc_x2rMJdHL4Jc"
+      ],
+      "bossends_tags": [
+        "disc_IBEp1CbA00Q",
+        "disc_UZQBOayvNVE",
+        "disc_bk4dygntBZ8"
+      ],
+      "minimap_tags": [
+        "disc_HvB7mdTTE4E",
+        "disc_IBEp1CbA00Q",
+        "disc_UZQBOayvNVE",
+        "disc_ZEnAhsvDzKY",
+        "disc_bk4dygntBZ8",
+        "disc_x2rMJdHL4Jc"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": ""
+    },
+    {
+      "boss": "Stonetaker",
+      "file": "BehaviorDb.OCBosses.cs",
+      "source_tags": [
+        "GalacticLoot",
+        "disc_PRzNeGfRR00",
+        "disc_Q4c9_KWBey4",
+        "disc_zDnBF0EgLNI"
+      ],
+      "bossends_tags": [
+        "disc_zDnBF0EgLNI"
+      ],
+      "minimap_tags": [
+        "GalacticLoot",
+        "disc_PRzNeGfRR00",
+        "disc_Q4c9_KWBey4",
+        "disc_zDnBF0EgLNI"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": ""
+    },
+    {
+      "boss": "Marble Colossus",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_VFAOCb9EQJ4",
+        "disc_gTBwT-tVZ78",
+        "disc_v6HXKS92zAI",
+        "disc_xEFLSmxIpSA",
+        "disc_zDnBF0EgLNI"
+      ],
+      "bossends_tags": [
+        "disc_v6HXKS92zAI",
+        "disc_xEFLSmxIpSA",
+        "disc_zDnBF0EgLNI"
+      ],
+      "minimap_tags": [
+        "disc_VFAOCb9EQJ4",
+        "disc_gTBwT-tVZ78",
+        "disc_v6HXKS92zAI",
+        "disc_xEFLSmxIpSA",
+        "disc_zDnBF0EgLNI"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "documented",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": ""
+    },
+    {
+      "boss": "Marble Defender",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_wsuYBdiueK0"
+      ],
+      "bossends_tags": [
+        "disc_wsuYBdiueK0"
+      ],
+      "minimap_tags": [
+        "disc_wsuYBdiueK0"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": ""
+    },
+    {
+      "boss": "Legon the Weather God",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_VZDxttR2LMk",
+        "disc__k2I-JV1ztQ",
+        "disc_SWYl0ULzh4s"
+      ],
+      "bossends_tags": [
+        "disc_VZDxttR2LMk"
+      ],
+      "minimap_tags": [
+        "disc_VZDxttR2LMk",
+        "disc__k2I-JV1ztQ"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": " PARTIAL 2026-06-24: Thunder Swirl (proj-0, yellow/gold X-shape) ring of ~12 bullets CONFIRMED disc_SWYl0ULzh4s f_00205. Ring confirms count:12 reconstruction. Grey Missile (proj-1) aimed RECONSTRUCTED. ALSO: disc_VZDxttR2LMk f_00282 (second Legon run, 98.81% HP): white X/cross Thunder Swirl bullets scattered in arena + both taunts in chat + \"Ring of the Storm Gods\" drop.",
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Euryale the Snake Goddess",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_VZDxttR2LMk",
+        "disc__oNRwi83bLU"
+      ],
+      "bossends_tags": [
+        "disc_VZDxttR2LMk",
+        "disc__oNRwi83bLU"
+      ],
+      "minimap_tags": [
+        "disc_VZDxttR2LMk",
+        "disc__oNRwi83bLU"
+      ],
+      "attacks_status": "unverifiable-illegible",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "verified_at": "2026-06-13"
+    },
+    {
+      "boss": "Legendary Dragon Kakashi",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_SWYl0ULzh4s"
+      ],
+      "bossends_tags": [
+        "disc_SWYl0ULzh4s"
+      ],
+      "minimap_tags": [
+        "disc_SWYl0ULzh4s"
+      ],
+      "attacks_status": "unverifiable-illegible",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "SIDE FIND: disc_SWYl0ULzh4s also has Legon fight footage at ~100s (f_00200 + b008_128s f018 show X/star bullets in Legon moated-palace arena) \u2014 new Legon attack source for future recovery"
+    },
+    {
+      "boss": "Masha, the God of War",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [],
+      "bossends_tags": [],
+      "minimap_tags": [],
+      "attacks_status": "no-footage",
+      "map_status": "no-footage",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": ""
+    },
+    {
+      "boss": "Resthla, The Twisted Mermaid",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_VZDxttR2LMk"
+      ],
+      "bossends_tags": [
+        "disc_VZDxttR2LMk"
+      ],
+      "minimap_tags": [
+        "disc_VZDxttR2LMk"
+      ],
+      "attacks_status": "unverifiable-illegible",
+      "map_status": "documented",
+      "loot_status": "partially_observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "MECH-LOOP 2026-06-24: BOSS CHAMBER UPDATED. Arena now has TWO documented zones: (1) dungeon approach = narrow stone-block corridor (DOCUMENTED f_00025 + minimap_00005: L-shaped network, water pool markings); (2) BOSS CHAMBER = BLUE TEARDROP arena (CONFIRMED disc_VZDxttR2LMk f_00280 post-kill: blue/water tile floor, distinctive teardrop/droplet shape, minimap matches). Loot UPDATE: 'Coral Bow' Untiered (f_00280, 2 copies dropped = likely signature loot) + 'Three Tiny S[?]' truncated (f_00025, NOT in XML). Attacks: f_00010 chains+nova attribution uncertain (marathon stream).",
+      "verified_at": "2026-06-13 22:10"
+    },
+    {
+      "boss": "Ascended Septavius the Ghost Goddess",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_VZDxttR2LMk"
+      ],
+      "bossends_tags": [
+        "disc_VZDxttR2LMk"
+      ],
+      "minimap_tags": [
+        "disc_VZDxttR2LMk"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "partially_observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "MECH-LOOP 2026-06-24: attacks upgraded unverifiable-illegible \u2192 partial. disc_VZDxttR2LMk f_00210 (~83% HP): dense simultaneous ring of THUNDER SWIRL (proj-0, yellow/gold X-shape) + DEMON BLADE (proj-1, red/orange blade) confirmed in ghost-circle tile arena. Both proj types visible in same frame. count:12/5 + angles RECONSTRUCTED. Boss shows as '????' (name hidden ghost mechanic) during fight. Arena: large rectangular boss room ghost-circle tiles (DOCUMENTED b002_010/f_00220/f_00230 + minimap_00010/14). 2 new taunts added (mid-fight). Loot: Ring of Buttons/Razzmatazz Armor/Ring of Fortune post-kill b002_019 NOT in XML (attribution uncertain).",
+      "verified_at": "2026-06-13 22:30"
+    },
+    {
+      "boss": "Infused Elven King",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_iBUg7V_Eq0A"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_iBUg7V_Eq0A"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "Arena: Elven Forest dungeon \u2014 large oval/circular boss arena with organic/jagged boundary; floor: dark green forest tiles with grass/leaf texture; blue water/pond patches visible; large dark tree trunk decorations at edges; dungeon minimap is GREEN/TEAL oval (distinct from stone dungeons). DOCUMENTED-from-frames disc_iBUg7V_Eq0A f_00240 (green floor, tree trunks, water, death-feed 'crushed by Infused Elven King' in chat) + minimap_00025/030 (green oval forest dungeon, organic boundary). Attacks: no-footage (bossends_tags empty). ATTACKS UPGRADED 2026-06-24: green CRESCENT/LEAF-SHAPED projectiles in FULL RING (360 deg) CONFIRMED disc_iBUg7V_Eq0A f_00195/f_00200. ~16-20 evenly-spaced crescent bullets in complete circle around boss in dark green forest arena. Ring pattern INCONSISTENT with current Shoot(14, count:12, shootAngle:30) \u2014 ring needs shootAngle:360 + ~16-20 count; ring-geometry re-pass pending. TAUNT CORRECTED: \"unlocked, you shall be my first victims.\" (not \"unleashed\"). attacks_status: no-footage -> partial.",
+      "verified_at": "2026-06-24",
+      "map_notes": "Green forest dungeon oval arena confirmed minimap_00025/030 (green/teal color, organic boundary ~oval). Floor confirmed f_00240: dark green leaf/grass tiles, water patches, dark tree trunks at edges. minimap_00035 shows red dungeon = player moved to different dungeon after fight."
+    },
+    {
+      "boss": "White Dragon Lord",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_iIkWGzE1404"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_iIkWGzE1404"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "Arena: sandy/desert-themed dungeon \u2014 oval/circular boss chamber; floor: sandy/tan large square tiles, orange-brown dungeon palette; boss (massive white entity) fires blue ice projectiles. DOCUMENTED-from-frames disc_iIkWGzE1404 f_00100 (huge white boss on sandy floor; chat 'I had double white') + f_00105 (blue ice projectiles on sandy tile floor) + minimap_00080 (oval/circular sandy dungeon room, tan/brown color, scattered enemy orange dots). Attacks: bossends_tags empty \u2192 no-footage. ATTACKS UPGRADED 2026-06-24: blue elongated ice-shard/teardrop projectiles CONFIRMED f_00100 (wide scatter in sandy arena w/ huge white boss) + f_00105 (multiple blue bullets spread across sandy floor). Bullet shape: elongated teardrop/ice-shard, light blue. Count/angle RECONSTRUCTED. attacks_status: no-footage \u2192 partial.",
+      "verified_at": "2026-06-24",
+      "map_notes": "Oval/circular sandy dungeon boss chamber confirmed minimap_00080 (tan/brown color, organic oval shape, scattered orange dots = dungeon enemies). Floor: sandy/tan large square tile pattern (f_00100/00105). Boss fires blue ice projectiles (ice/air element, f_00105). chat_00150 shows 'White Dragon:' text in chat confirming boss."
+    },
+    {
+      "boss": "Suspicious Looking Dragon",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_XGl3pTaNmTM",
+        "disc_p-f3qDjrVDY"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_XGl3pTaNmTM",
+        "disc_p-f3qDjrVDY"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "MECH-LOOP 2026-06-24: attacks upgraded no-footage \u2192 partial. disc_XGl3pTaNmTM f_00079: dense WHITE/SILVER ring of GREY MISSILE (proj-0, grey elongated \u2014 appears silver/white at video scale) confirmed around boss in open green grass realm. Wide radial ring pattern consistent with count:12 shootAngle:30. Demon Blade (proj-1) NOT isolated. Defeat feed confirmed 'The Suspicious Looking Dragon has been defeated!' at f_00082.",
+      "map_notes": "open REALM event \u2014 green grass biome, mushrooms + trees; no dungeon. DOCUMENTED-from-frames disc_XGl3pTaNmTM f_00079-082 (defeat notification + green grass realm fight) + minimap_00010 (organic petal-shaped realm, bright yellow boss dot). disc_p-f3qDjrVDY minimap contested (no isolated SLD fight frame found).",
+      "verified_at": "2026-06-16",
+      "loot_wiki_drops": [
+        "Windcutter"
+      ]
+    },
+    {
+      "boss": "Putin",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_hGSSP2J3gcQ"
+      ],
+      "bossends_tags": [
+        "disc_hGSSP2J3gcQ"
+      ],
+      "minimap_tags": [
+        "disc_hGSSP2J3gcQ"
+      ],
+      "attacks_status": "unverifiable-illegible",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "Map: large oval boss chamber + narrow entrance corridor + starting antechamber (DOCUMENTED minimap_00008/00012). Fight confirmed in b001_2s_001 (red/dark organic arena, 10+ players clustered, crowded \u2014 no bullet geometry isolatable). Bossend b002_27s heavily contaminated (wide 27s window captured DIFFERENT boss: Mystery Mad God \u2014 re-reading b002_27s_016/018 shows 'Mystery Mad God:' prefix, NOT 'nd> Putin'; those taunts belong to Mystery Mad God, not Putin and have NOT been added to Putin). Attacks: crowded kill frame, no geometry isolatable.",
+      "verified_at": "2026-06-13 22:50"
+    },
+    {
+      "boss": "Wind Elemental",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_E03Je5EgiZQ"
+      ],
+      "bossends_tags": [
+        "disc_E03Je5EgiZQ"
+      ],
+      "minimap_tags": [
+        "disc_E03Je5EgiZQ"
+      ],
+      "attacks_status": "unverifiable-illegible",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "verified_at": "2026-06-13 23:10"
+    },
+    {
+      "boss": "Asylum Guard",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_ONFXatmUVNI"
+      ],
+      "bossends_tags": [
+        "disc_ONFXatmUVNI"
+      ],
+      "minimap_tags": [
+        "disc_ONFXatmUVNI"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": " PARTIAL 2026-06-24: Grey Missile (proj-0, grey elongated) radial scatter CONFIRMED disc_ONFXatmUVNI f_00048/f_00095. Thunder Swirl (proj-1) aimed RECONSTRUCTED.",
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Bloodsworn Knight",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_l8s6Dho3WM4"
+      ],
+      "bossends_tags": [
+        "disc_l8s6Dho3WM4"
+      ],
+      "minimap_tags": [],
+      "attacks_status": "partial",
+      "map_status": "partial",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "Fight confirmed disc_l8s6Dho3WM4 f_00195/f_00198/f_00200. TAUNTS (all verified): (1) \"You dare challenge the Bloodsworn?\" \u2014 f_00195 boss-colored chat. (2) \"The gate is sealed! Prepare to die!\" \u2014 f_00198/f_00200 boss-colored chat. (3) \"The gate opens...\" \u2014 chat_00056 (bossend). (4) \"My watch... has... ended...\" \u2014 chat_00056 death line. ATTACKS PARTIAL: dense red CROSS/PLUS-shaped projectiles confirmed f_00198/f_00200 \u2014 wide radial scatter covering full arena, ~25-30 bullets visible per frame at 7-10% boss HP. Cross/plus sprite shape clearly identifiable (thick cross, not star or diamond). Count/angle RECONSTRUCTED (count:10 shootAngle:36 in code). MAP PARTIAL: dark stone tile dungeon floor (dark grey stone tiles), boss arena has irregular stone-block walls, confirmed from f_00195/f_00198/f_00200 fight frames.",
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Wizzard Clone",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_EM9Uba-Nv08",
+        "disc_LuUwzl6KwCY"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_EM9Uba-Nv08",
+        "disc_LuUwzl6KwCY"
+      ],
+      "attacks_status": "no-footage",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "map_notes": "dark dungeon \u2014 near-black floor tiles, dark stone walls, irregular organic cave-room. DOCUMENTED disc_EM9Uba-Nv08 f_00094/095 + minimap_00010/00013. disc_LuUwzl6KwCY minimap unusable (PROD STUFF overlay).",
+      "verified_at": "2026-06-16"
+    },
+    {
+      "boss": "The Beekeeper",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_1mU5uHE6DXE"
+      ],
+      "bossends_tags": [
+        "disc_1mU5uHE6DXE"
+      ],
+      "minimap_tags": [
+        "disc_1mU5uHE6DXE"
+      ],
+      "attacks_status": "unverifiable-illegible",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": " ARENA CORRECTED 2026-06-24: honeycomb dungeon (yellow/amber hex tiles, orange-brown walls) from f_00045 \u2014 prior \"bubbly stone\" was wrong. New taunt added: \"You... You will not stop me again!\". Taunt corrected: \"WILL NOT STAND BEFORE ME\" (was \"WILL kneel\"). Bee minion (purple winged sprite) summoning confirmed.",
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Urios, God of Elements",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_VZDxttR2LMk"
+      ],
+      "bossends_tags": [
+        "disc_VZDxttR2LMk"
+      ],
+      "minimap_tags": [
+        "disc_VZDxttR2LMk"
+      ],
+      "attacks_status": "unverifiable-illegible",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "verified_at": "2026-06-13 20:37",
+      "map_notes": "ghost-circle-pattern tile dungeon (dark gray, Septavius-family), large open central boss chamber with 4 shrine/altar objects at cardinal positions. DOCUMENTED-from-frames disc_VZDxttR2LMk f_00276 (138s fight frame); minimap_00034 (gray dungeon rectangular layout)",
+      "attacks_notes": "only 1-2 bullet shapes visible in f_00276 \u2014 count/angle not determinable. UNVERIFIABLE-ILLEGIBLE"
+    },
+    {
+      "boss": "Lycaon",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_XQUmPL07sFY",
+        "disc_Yx0kTFEixbA",
+        "disc_koXrDxguF7o"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_XQUmPL07sFY",
+        "disc_Yx0kTFEixbA",
+        "disc_koXrDxguF7o"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "map_notes": "dark stone dungeon \u2014 large boss chamber; dark gray/charcoal stone tile floor (regular square grid), thick dark stone walls, orange/red fire/lava glow near boss. DOCUMENTED disc_koXrDxguF7o f_00595-605 (name + taunt + arena). Extracted minimap unusable (Flash Player window frame captured). disc_XQUmPL07sFY/disc_Yx0kTFEixbA: Lycaon fight not surfaced in frame scan (consistent with prior note). disc_Yx0kTFEixbA f_00022-f_00025 CORROBORATES: same dark charcoal stone floor, purple walls, large chamber.",
+      "verified_at": "2026-06-24",
+      "attacks_notes": "PARTIAL disc_Yx0kTFEixbA f_00022-f_00025 (Lycaon 2% HP): small scatter projectiles visible in spread pattern; bullet shape/color unresolvable at video resolution. Existing Shoot(3, count:7, shootAngle:18) consistent with observed spread burst. Taunts FLESH AND BLOOD/FRESH MEAT frame-confirmed in f_00022/f_00025 chat.",
+      "loot_wiki_drops": [
+        "Lycaon's Hide"
+      ]
+    },
+    {
+      "boss": "Arcanica",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_Kei9ksQxGl4",
+        "disc_VFAOCb9EQJ4"
+      ],
+      "bossends_tags": [
+        "disc_Kei9ksQxGl4"
+      ],
+      "minimap_tags": [
+        "disc_Kei9ksQxGl4",
+        "disc_VFAOCb9EQJ4"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "map_notes": "mixed-element dungeon \u2014 blue/icy crystalline floor tiles + orange/red lava sections, dark cave walls, large dark navy boss entity. DOCUMENTED disc_Kei9ksQxGl4 f_01665-01670 (boss name + taunts + arena). Extracted minimap sliver only; lava presence consistent with prior recovery note.",
+      "verified_at": "2026-06-24",
+      "loot_wiki_drops": [
+        "Wand Full of Mana"
+      ],
+      "attacks_notes": "PARTIAL disc_Kei9ksQxGl4 f_01665 (Arcanica 25% HP): large PINK/MAGENTA CROSS/STAR-shaped projectiles clearly visible (~6-8 large X-shapes radiating from boss + smaller pink dots scattered). Proj-14 pink cross sprite CONFIRMED. Mana-drain aesthetic confirmed. count:8 shootAngle:45 RECONSTRUCTED. Angel Touch player ability also visible \u2014 boss bullets identified by outward trajectory."
+    },
+    {
+      "boss": "Cookie Monster",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_OROH0lDrGTg",
+        "disc_YC4vDxWTAyc"
+      ],
+      "bossends_tags": [
+        "disc_OROH0lDrGTg"
+      ],
+      "minimap_tags": [
+        "disc_OROH0lDrGTg",
+        "disc_YC4vDxWTAyc"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "map_notes": "colorful checkerboard dungeon \u2014 alternating yellow/gold + green + blue rainbow tile grid, dark gray stone walls. DOCUMENTED disc_OROH0lDrGTg f_00755 (defeat + floor) + f_00759 (active fight + boss panel). Extracted minimap unusable. Bonus: taunt now VERIFIED (was UNVERIFIABLE \u2014 chat_00190 + f_00759 confirm \"Candy...\" / \"CANDY!!!!\" in boss colour).",
+      "verified_at": "2026-06-24",
+      "loot_wiki_drops": [
+        "A trap made of cookies",
+        "Flesh Trap"
+      ],
+      "attacks_notes": "PARTIAL disc_OROH0lDrGTg f_00759 (fight+defeat frame): dense cloud of small round WHITE/CREAM bullets clearly visible against colorful checkerboard floor (15-20+ white dots in radial scatter). Proj-13 white bullet CONFIRMED. count:10 shootAngle:36 RECONSTRUCTED (too dense to count). Cookie Monster defeat in chat."
+    },
+    {
+      "boss": "Carrot God",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_MFpI_mW1jYM"
+      ],
+      "bossends_tags": [
+        "disc_MFpI_mW1jYM"
+      ],
+      "minimap_tags": [
+        "disc_MFpI_mW1jYM"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "map_notes": "Forest/Garden dungeon \u2014 green grass clearing, brown/dirt cross-shaped corridor paths, large trees at edges, organic petal-leaf dungeon shape. DOCUMENTED disc_MFpI_mW1jYM f_00281 (fight + floor) + minimap_00035 (clean green petal minimap, cross corridors, red boss dot).",
+      "verified_at": "2026-06-24",
+      "attacks_notes": "PARTIAL disc_MFpI_mW1jYM f_00278/f_00280/f_00283 (active fight): small round ORANGE/YELLOW bullets scattered in radial spread across green-grass arena; consistent across 3 frames (~8-15 orange dots per frame). Proj-13 orange/carrot sprite CONFIRMED. Both taunts frame-confirmed. count:8 shootAngle:45 RECONSTRUCTED."
+    },
+    {
+      "boss": "Mewtwo",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_akLcdL1MzZg",
+        "disc_hp_dAXf_alY",
+        "disc_t4BuOE5nwBE"
+      ],
+      "bossends_tags": [
+        "disc_akLcdL1MzZg",
+        "disc_hp_dAXf_alY"
+      ],
+      "minimap_tags": [
+        "disc_akLcdL1MzZg",
+        "disc_hp_dAXf_alY",
+        "disc_t4BuOE5nwBE"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "verified_at": "2026-06-13 20:45",
+      "attacks_notes": "bullet shape DOCUMENTED: X/cross-shaped (4-pointed star), disc_akLcdL1MzZg b001_117s_019/025/037. Pattern: wide scatter/Confused. Exact count+angle RECONSTRUCTED (not isolatable from frozen frames)",
+      "map_notes": "open REALM event; diamond/diagonal-checker tile floor with dark central boss-spawn square, white-dotted diamond border. DOCUMENTED-from-frames disc_akLcdL1MzZg b001_117s f_001/003; minimap_00001/00004/00007 (amber realm)",
+      "loot_observations": "Cookie (all-stat pot 2ATK/2DEF/2SPD/2VIT/2WIS/2DEX/10HP/10MP) visible in b001_117s_007 loot pickup frame \u2014 probable drop, not yet added to threshold (verify item ID first)"
+    },
+    {
+      "boss": "God of Luck",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_OROH0lDrGTg",
+        "disc_rk0RkuuDu9g"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [],
+      "attacks_status": "unverifiable-illegible",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "verified_at": "2026-06-24",
+      "note": "UNVERIFIABLE for attacks \u2014 disc_OROH0lDrGTg f_00655/f_00656: boss entity is LARGE RAINBOW UNICORN in pink/pastel dungeon room (pink walls, tan checkerboard floor). Fight too brief for active bullet capture. Arena CONFIRMED. Entity CONFIRMED (rainbow unicorn sprite)."
+    },
+    {
+      "boss": "Giant Oryx Chicken",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_EMgDk9BDwOE",
+        "disc_IZ2Z7AUhb8s",
+        "disc_hfhcXPoJq1U"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_EMgDk9BDwOE",
+        "disc_IZ2Z7AUhb8s",
+        "disc_hfhcXPoJq1U"
+      ],
+      "attacks_status": "unverifiable-illegible",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "map_notes": "Chicken Coop dungeon \u2014 brown/earthy large stone tile floor (dark edge lines), yellow/gold decoration items on floor, dark brown stone walls. DOCUMENTED disc_EMgDk9BDwOE f_00440-450 (dungeon interior) + f_00460 (boss fight area, Golden Oryx Effigy entity visible \u2014 GOC entity not isolated). Extracted minimap unusable (streamer overlay captured).",
+      "verified_at": "2026-06-24",
+      "attacks_notes": "2026-06-24 scan: f_00440-465 all show crowded fight with multiple entities (Giant Oryx Chicken + Golden Oryx Effigy simultaneously). No cluck taunts isolated in chat frames. Bullet patterns unresolvable \u2014 entity-specific attribution impossible in crowded frame. Prior comment confirms f_00460 entity is Golden Oryx Effigy not chicken."
+    },
+    {
+      "boss": "The Mysterious Card",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "LongRPE",
+        "disc_JbQvbkBLRjE"
+      ],
+      "bossends_tags": [
+        "disc_JbQvbkBLRjE"
+      ],
+      "minimap_tags": [
+        "LongRPE",
+        "disc_JbQvbkBLRjE"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "map_notes": "open REALM event \u2014 green grass biome, red mushrooms, trees; no dungeon. DOCUMENTED disc_JbQvbkBLRjE f_00100 (card sprite + taunt + arena + defeat notification). Bonus: taunt completed from truncated \"With my sleight of hand...\" to full \"With my sleight of hand, I will make you disappear!\"",
+      "verified_at": "2026-06-24",
+      "attacks_notes": "PARTIAL disc_JbQvbkBLRjE f_00098 (active fight): small white cross/X-shaped or diamond-shaped projectiles clearly visible (~8-12 radially around card entity in green realm). Proj-13 white cross sprite CONFIRMED. count:8 shootAngle:45 fixedAngle ring pattern plausible. f_00102: defeat confirmed (10/25)."
+    },
+    {
+      "boss": "MH Wave Controller",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_MFpI_mW1jYM"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [],
+      "attacks_status": "unverifiable-illegible",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "verified_at": "2026-06-24",
+      "note": "UNVERIFIABLE disc_MFpI_mW1jYM f_00040-f_00070: dark red brick dungeon (Mad House, curved/arched walls). Small projectiles visible but unresolvable in dark arena. 2 new taunts grounded: 'I guess I'll let any left over tricks in my hat take care of you' + 'And don't bother fighting back, you won't want to face me and my magical army.' (both waves-state, f_00040/f_00060)."
+    },
+    {
+      "boss": "Creepy Talking Jack-O-Lantern",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_iFlpCUkcjvY"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [],
+      "attacks_status": "unverifiable-illegible",
+      "map_status": "no-footage",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "verified_at": "2026-06-24",
+      "note": "UNVERIFIABLE for attacks \u2014 fight at f_00520-f_00550 covered by streamer giveaway overlay. Taunt CORRECTED from f_00534 chat: 'skeletons wandering the realm, they're' (was 'in the...They're'). Attacks RECONSTRUCTED."
+    },
+    {
+      "boss": "Uvuvwuwuwe",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_DtB0_zeZVEQ",
+        "disc_bT-s0N7PZR0",
+        "disc_ed9YjhhonUU",
+        "IcyPeaks_tutorial"
+      ],
+      "bossends_tags": [
+        "disc_bT-s0N7PZR0",
+        "disc_ed9YjhhonUU"
+      ],
+      "minimap_tags": [],
+      "attacks_status": "no-footage",
+      "map_status": "no-footage",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "partial",
+      "verified_at": "2026-06-24",
+      "note": "NO-FOOTAGE for attacks \u2014 all 3 disc sources only have event-feed spawn/defeat announcements; player was in dungeon when boss was active in realm. Taunt 'You disappoint me.' confirmed disc_DtB0_zeZVEQ chat. Attacks RECONSTRUCTED. SPRITE PARTIAL: IcyPeaks_tutorial f_00079 shows Uvuvwuwuwe at 0% HP \u2014 large grey/dark STONE GOLEM-LIKE entity visible in a brown stone dungeon context. General appearance confirmed: chunky grey stone creature, not humanoid (more golem/elemental type).",
+      "loot_wiki_drops": [
+        "Throwing Spear"
+      ]
+    },
+    {
+      "boss": "Smiling Dragon",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_DtB0_zeZVEQ",
+        "disc_EfO-XlNpe6A"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_DtB0_zeZVEQ",
+        "disc_EfO-XlNpe6A"
+      ],
+      "attacks_status": "unverifiable-illegible",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "map_notes": "open REALM event \u2014 sandy/desert biome; tan/sandy floor with small cacti decorations; no dungeon walls. Boss: large purple/violet dragon entity. DOCUMENTED disc_DtB0_zeZVEQ f_00195 (purple dragon in sandy desert realm fight, open terrain) + minimap_00022 (realm scatter, yellow/amber dots). disc_EfO-XlNpe6A confirms name 'Smiling Dragon' verbatim per spec; fight section not re-isolated this pass. bossends_tags empty \u2192 attacks no-footage.",
+      "verified_at": "2026-06-24",
+      "attacks_notes": "2026-06-24 scan: disc_DtB0_zeZVEQ f_00195-f_00205 \u2014 game window too small; fight area ~40% of screen. Scattered colored dots visible near purple/violet dragon entity but bullet shape unresolvable vs blood effects/player shots. Shoot(14,...) params remain RECONSTRUCTED."
+    },
+    {
+      "boss": "Warbringer",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_Yx0kTFEixbA"
+      ],
+      "bossends_tags": [
+        "disc_Yx0kTFEixbA"
+      ],
+      "minimap_tags": [],
+      "attacks_status": "partial",
+      "map_status": "no-footage",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "verified_at": "2026-06-24",
+      "note": "PARTIAL disc_Yx0kTFEixbA f_00165/f_00167 (Warbringer 51% HP): small round ORANGE/RED bullets, proj-15 CONFIRMED; count:10 shootAngle:36 RECONSTRUCTED. 6 new/completed taunts grounded from f_00165 boss-colored chat."
+    },
+    {
+      "boss": "Shade of Novus",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_MszcvkbWED8"
+      ],
+      "bossends_tags": [
+        "disc_MszcvkbWED8"
+      ],
+      "minimap_tags": [
+        "disc_MszcvkbWED8"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "map_notes": "blood/ritual dungeon \u2014 narrow vertical entry corridor \u2192 large rectangular boss chamber; floor: red/orange lava-tile pattern (large red-orange stone tiles, dark grid seams); dark stone walls. Boss entity: large dark-red/crimson. DOCUMENTED disc_MszcvkbWED8 f_00050 (boss entity + red lava floor) + f_00100 (red lava tiles across full fight area) + minimap_00020 (corridor + boss chamber layout). Marathon: Diagon/Necropolis fight begins ~f_00150. bossends_tags empty \u2192 attacks no-footage.",
+      "verified_at": "2026-06-24",
+      "loot_wiki_drops": [
+        "The Apex Bulwark"
+      ],
+      "attacks_notes": "PARTIAL disc_MszcvkbWED8 f_00218/f_00220/f_00222 (late fight): small round RED-ORANGE bullets in radial scatter across dark/lava-border arena. proj-15/16 red sprite CONFIRMED. Kill attribution reads Novus (f_00230 death screen). count/angle RECONSTRUCTED. Taunt discrepancy: chat_00055 reads RICHTUS WILL FALL vs chat_00058/build RICHTUS WILL PAY \u2014 unresolved."
+    },
+    {
+      "boss": "Pulse",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_SlVLi0h14UQ"
+      ],
+      "bossends_tags": [
+        "disc_SlVLi0h14UQ"
+      ],
+      "minimap_tags": [],
+      "attacks_status": "unverifiable-illegible",
+      "map_status": "no-footage",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "verified_at": "2026-06-24",
+      "note": "UNVERIFIABLE \u2014 disc_SlVLi0h14UQ farming session; Pulse spawned/died within a few seconds (chat_00010). Fight too brief for bullet isolation. Taunt already VERIFIED from this tag in prior pass. Attacks RECONSTRUCTED."
+    },
+    {
+      "boss": "Skeletal Monstrosity",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_Yx0kTFEixbA",
+        "disc__WkTRDW_vQ0"
+      ],
+      "bossends_tags": [
+        "disc_Yx0kTFEixbA"
+      ],
+      "minimap_tags": [
+        "disc_Yx0kTFEixbA",
+        "disc__WkTRDW_vQ0"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "map_notes": "purple/violet-floor dungeon \u2014 large rectangular rooms connected by corridors; floor: dark purple/violet stone tiles; dark stone walls. DOCUMENTED disc__WkTRDW_vQ0 minimap_00005 (purple multi-room dungeon layout, boss chamber + corridor layout clearly readable) + f_00040/f_00050 (purple tile floor in corridors). disc_Yx0kTFEixbA minimap unusable (thermometer streamer overlay). Marathon: Twilight Archmage fight follows in same video (disc__WkTRDW_vQ0 chat_00015+). BONUS: f_00170 (disc_Yx0kTFEixbA) revealed complete taunts \u2014 2 partials corrected + 1 new summon-phase taunt added. bossends_tags empty \u2192 attacks no-footage.",
+      "verified_at": "2026-06-24",
+      "attacks_notes": "PARTIAL disc_Yx0kTFEixbA f_00169/f_00171: small round RED-ORANGE/CRIMSON bullets visible across arena in radial spread (~10-15 dots); proj-15 red sprite CONFIRMED. count:10 shootAngle:36 + predictive burst RECONSTRUCTED. f_00171: Necrotic Token item seen (attribution unclear \u2014 not added to loot)."
+    },
+    {
+      "boss": "The Puppet Master",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_1mU5uHE6DXE",
+        "disc_AaMomuk2Vpk",
+        "disc_IBEp1CbA00Q"
+      ],
+      "bossends_tags": [
+        "disc_1mU5uHE6DXE",
+        "disc_AaMomuk2Vpk",
+        "disc_IBEp1CbA00Q"
+      ],
+      "minimap_tags": [
+        "disc_1mU5uHE6DXE",
+        "disc_AaMomuk2Vpk",
+        "disc_IBEp1CbA00Q"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": " 2026-06-24: full final taunt recovered disc_1mU5uHE6DXE f_00022 (\"NO! This cannot be how my story ends! I WILL HAVE MY ENCORE, HERO!\"); \"Lucky guess\" taunt now fully readable (\"Lucky guess hero, but Ive run out of time to play games with you. It is time that you die.\").",
+      "verified_at": "2026-06-13 20:52",
+      "attacks_notes": "bullet shape DOCUMENTED: small white squares. Aimed behavior DOCUMENTED: b014_130s_002 vertical aimed column of white squares toward player. Radial component (b009_77s_001 scattered) \u2014 count/angle RECONSTRUCTED",
+      "map_notes": "Puppet Theatre dungeon (gray minimap_00003/00005). Stage floor: diagonal-stripe/woven-fabric pattern. Corridor/loot areas: white-bordered dark square tiles. DOCUMENTED-from-frames disc_IBEp1CbA00Q b005_41s, b009_77s_001, b014_130s_003"
+    },
+    {
+      "boss": "Oryx Puppet",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_LJzfb9Y4ok0",
+        "disc_YEGMcwgmGTM"
+      ],
+      "bossends_tags": [
+        "disc_LJzfb9Y4ok0",
+        "disc_YEGMcwgmGTM"
+      ],
+      "minimap_tags": [
+        "disc_LJzfb9Y4ok0",
+        "disc_YEGMcwgmGTM"
+      ],
+      "attacks_status": "unverifiable-illegible",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "verified_at": "2026-06-13 20:59",
+      "attacks_notes": "Oryx Puppet and Puppet Master fight simultaneously on same stage; bullets from both present in all fight frames (disc_LJzfb9Y4ok0 f_00144, b002_74s_015) \u2014 cannot attribute to this entity specifically",
+      "map_notes": "Same Puppet Theatre dungeon as Puppet Master. Stage floor: diagonal-stripe/woven pattern (active fight floor). Central boss room: cross/diamond shape with white polka-dot floor. DOCUMENTED disc_LJzfb9Y4ok0 f_00138, f_00144, b002_74s_001"
+    },
+    {
+      "boss": "God of Amber Stones",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "GeneralStream",
+        "disc_CnZQkLsjBVI",
+        "disc_Fx5_2g1_1O4",
+        "disc_IZ2Z7AUhb8s",
+        "disc_YC4vDxWTAyc",
+        "disc_awf8n3A7KOk",
+        "disc_hGSSP2J3gcQ",
+        "disc_wsRSijbExRI"
+      ],
+      "bossends_tags": [
+        "disc_CnZQkLsjBVI",
+        "disc_hGSSP2J3gcQ"
+      ],
+      "minimap_tags": [
+        "GeneralStream",
+        "disc_CnZQkLsjBVI",
+        "disc_Fx5_2g1_1O4",
+        "disc_IZ2Z7AUhb8s",
+        "disc_YC4vDxWTAyc",
+        "disc_awf8n3A7KOk",
+        "disc_hGSSP2J3gcQ",
+        "disc_wsRSijbExRI"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "verified_at": "2026-06-13 21:10",
+      "attacks_notes": "bullet shape DOCUMENTED (small white diamond/rotated-square, b004_72s_032/037); count+angle RECONSTRUCTED (wide radial scatter unresolvable from crowded fight frame); new taunt added from b004_72s_037",
+      "map_notes": "open realm event, diagonal checkerboard tile floor (large white squares at 45deg diagonal grid, dark bg); minimap_00010 amber confirms realm. DOCUMENTED-from-frames disc_CnZQkLsjBVI b004_72s_032/024/037"
+    },
+    {
+      "boss": "Queen of Hearts",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_EM9Uba-Nv08"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_EM9Uba-Nv08"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "ATTACKS UPGRADED 2026-06-24: green ELONGATED DART/ARROW projectiles CONFIRMED disc_EM9Uba-Nv08 f_00060 (active Queen of Hearts fight in Wonderland multicolor checkerboard dungeon; green dart/arrow shaped bullets scattered in multiple directions around arena). Fight already documented at this frame. Shoot(13, count:10, shootAngle:36) CONSISTENT with wide radial scatter observed. attacks_status: no-footage -> partial.",
+      "map_notes": "Wonderland dungeon \u2014 multiple distinctly-colored rectangular rooms in grid/cross layout; floor: large alternating RED + GREEN + PURPLE + WHITE tile squares (rainbow checkerboard, each room a different color); dark outlined walls. DOCUMENTED disc_EM9Uba-Nv08 f_00060 (multi-color checkerboard fight floor + Queen of Hearts fight active, VoltiPlay run) + minimap_00008 (multi-room Wonderland dungeon, rooms colored red/green/orange/blue/purple in grid). Marathon: Oryx at chat_00005, QoH at chat_00015, Wizzard Clone at minimap_00010+. bossends_tags empty \u2192 attacks no-footage.",
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Jon Bilgewater the Pirate King",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_M0KXJV3pdKc",
+        "disc_x2rMJdHL4Jc"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_M0KXJV3pdKc",
+        "disc_x2rMJdHL4Jc"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "arena: pirate cave dungeon \u2014 large rectangular open boss chamber; floor: brownish/sandy tan stone tiles with dark border grid (warm tan/sand color); dark brownish-gray stone block walls. DOCUMENTED-from-frames disc_M0KXJV3pdKc f_00230+f_00240. NOTE: minimap UNRECOVERABLE \u2014 both DRAGSTAR channel sources have Subscribe/Leave-a-Like overlay covering minimap widget throughout; dungeon layout unverifiable. ATTACKS UPGRADED 2026-06-24: orange/tan ROUND CANNONBALL-style projectiles CONFIRMED disc_M0KXJV3pdKc f_00235-245 (active fight; boss-colored taunts \"PEWPEWPEW!\", \"AWESOME CANNON CLUSTER!\", \"CANNON BARRAGE!\" + colored round dots scattered in brownish-tan pirate cave arena). Crowded arena (many players) prevents exact count/angle confirmation. Cannonball round shape PARTIAL; count:8/angle:45 RECONSTRUCTED. attacks_status: no-footage -> partial.",
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Kestora the Lava God",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_LJzfb9Y4ok0",
+        "disc_h2kSWfp0nX8",
+        "disc_n3i45dx58vU"
+      ],
+      "bossends_tags": [
+        "disc_LJzfb9Y4ok0",
+        "disc_h2kSWfp0nX8",
+        "disc_n3i45dx58vU"
+      ],
+      "minimap_tags": [
+        "disc_LJzfb9Y4ok0",
+        "disc_h2kSWfp0nX8",
+        "disc_n3i45dx58vU"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "verified_at": "2026-06-13 21:22",
+      "attacks_notes": "large rectangle/beam bullet shape DOCUMENTED (h2k b002_10s_002: isolated wide-rectangle bullet between boss and player, projectileIndex:1 type); standard radial projectile not isolated; count+angle RECONSTRUCTED",
+      "map_notes": "hexagonal/honeycomb tile lava dungeon (amber palette); stone wall archway entrance; h2k b002_10s_001 (entry), b002_10s_002 (hex floor fight), n3i b002_62s_003/005 (hex floor + death); n3i minimap_00002 amber lava-dungeon rooms",
+      "loot_notes": "Ring of Doom UT (+5DEF +140HP +40MP FP900) observed h2k b004_67s_005 probable drop \u2014 not attributed (not added to threshold)"
+    },
+    {
+      "boss": "Strange Magician",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_mHY6O5kMU1I"
+      ],
+      "bossends_tags": [
+        "disc_mHY6O5kMU1I"
+      ],
+      "minimap_tags": [
+        "disc_mHY6O5kMU1I"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "verified_at": "2026-06-13 21:35",
+      "attacks_notes": "small white bar/rectangle projectiles partially visible in b002_3s_012 (2 downward bars \u2014 standard shape, not uniquely identifiable); count+angle RECONSTRUCTED; new taunt \"You are food for my minions!\" documented from same frame (prefix cut off, flagged for verify)",
+      "map_notes": "open REALM event \u2014 dark realm mushroom-tree scenery; b002_3s_001 (fight, mushroom trees), b002_3s_006 (\"Strange Magician spawned in Realm!\" chat), minimap_00002 (amber = open realm)"
+    },
+    {
+      "boss": "Strange Priest",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_tbG9HBrXyI8"
+      ],
+      "bossends_tags": [
+        "disc_tbG9HBrXyI8"
+      ],
+      "minimap_tags": [
+        "disc_tbG9HBrXyI8"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "verified_at": "2026-06-13 21:45",
+      "attacks_notes": "crescent/arc-shaped bullets DOCUMENTED from b003_42s_005 (many small crescent/boomerang projectiles in all directions around boss); count+angle RECONSTRUCTED",
+      "map_notes": "abbey/church DUNGEON \u2014 ribbed striped stone walls, chain-link/dotted borders, T-shaped dark corridors + light cross-grid inner fight chamber; b003_42s_005 (inner chamber fight), b003_42s_018 (corridor + boss); minimap_00002 (dark=dungeon)",
+      "loot_notes": "Wand of Pain (Legendary Item, 16% damage) looted in b003_42s_018 \u2014 probable Strange Priest UT drop; not added to threshold yet"
+    },
+    {
+      "boss": "Mad Jester",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc__oNRwi83bLU",
+        "disc_lHWOmAlg-ag"
+      ],
+      "bossends_tags": [
+        "disc__oNRwi83bLU",
+        "disc_lHWOmAlg-ag"
+      ],
+      "minimap_tags": [
+        "disc__oNRwi83bLU",
+        "disc_lHWOmAlg-ag"
+      ],
+      "attacks_status": "unverifiable-illegible",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "verified_at": "2026-06-13 21:58",
+      "attacks_notes": "bossend groups contaminated \u2014 both sources are marathon videos; Mad Jester fight frames cannot be isolated from Ghost Goddess/Beast/Berikao/Colossus/Pumpkin King frames \u2192 unverifiable-illegible",
+      "map_notes": "wavy/ripple tile DUNGEON (circus/theater) \u2014 wavy ripple floor + cross-shaped room + rectangular altar in upper chamber; oNRwi f_00156 (post-fight Mad Jester dungeon); lHWOmAlg minimap_00002 (dark=dungeon)"
+    },
+    {
+      "boss": "Nikad the Defiler",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_wwhGYuiu_9U"
+      ],
+      "bossends_tags": [
+        "disc_wwhGYuiu_9U"
+      ],
+      "minimap_tags": [
+        "disc_wwhGYuiu_9U"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "verified_at": "2026-06-13 22:15",
+      "attacks_notes": "large white cloud/puff bullets in radial nova/ring DOCUMENTED-from-frames b022_183s_003/005 (ring of ~12 at equal angular spacing); count ~12 PARTIALLY-DOCUMENTED (frame edges clip ring); exact count+angle RECONSTRUCTED. Bat-type minion observed in b022_183s_005 \u2014 entity name unconfirmable (no bare 'Bat' XML id); Spawn wired out pending verification.",
+      "map_notes": "small 2-room dark stone brick DUNGEON with diagonal-stripe floor tiles \u2014 b022_183s_002 (two-room minimap), b022_183s_007 (diagonal stripe floor post-fight); minimap dark=dungeon. DOCUMENTED-from-frames disc_wwhGYuiu_9U b022_183s."
+    },
+    {
+      "boss": "Mushroom",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_E03Je5EgiZQ",
+        "disc_M04fBHBpodE"
+      ],
+      "bossends_tags": [
+        "disc_E03Je5EgiZQ",
+        "disc_M04fBHBpodE"
+      ],
+      "minimap_tags": [
+        "disc_E03Je5EgiZQ",
+        "disc_M04fBHBpodE"
+      ],
+      "attacks_status": "unverifiable-illegible",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "",
+      "verified_at": "2026-06-13 22:35",
+      "attacks_notes": "Mushroom sprite confirmed in M04 b002_21s_010 (large mushroom-cap shape, health bar visible, open realm wavy-water floor). White sparkle entities near sprite in same frame possibly its projectiles but unattributable \u2014 Marble Colossus, Fire Elemental, Ghost Ship all active simultaneously in same realm. Attacks UNVERIFIABLE-ILLEGIBLE.",
+      "map_notes": "open REALM event \u2014 wavy water floor M04 b002_21s_010, hexagonal circle realm floor E03 b002_17s_001/012; E03 minimap_00001 scattered dots = realm portals/enemies, M04 minimap_00003 dark = realm. DOCUMENTED."
+    },
+    {
+      "boss": "Bedlam - God of Chaos",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_EM9Uba-Nv08"
+      ],
+      "bossends_tags": [
+        "disc_EM9Uba-Nv08"
+      ],
+      "minimap_tags": [
+        "disc_EM9Uba-Nv08"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "arena: asylum/madhouse dungeon \u2014 floor: very dark gray/charcoal stone tiles with visible grid seams; Asylum Guard enemies confirmed. DOCUMENTED-from-frames disc_EM9Uba-Nv08 f_00100 (taunts + floor visible) + f_00104 (Asylum Guard death spam x3). Minimap_00013 layout best-effort (at boundary with Crystal Prisoner Clone section).",
+      "verified_at": "2026-06-24",
+      "attacks_notes": "PARTIAL disc_EM9Uba-Nv08 f_00100+f_00102: small round WHITE/CREAM projectiles clearly visible in wide spread (~12 white dots in f_00100). Proj-index 13 CONFIRMED matches small white bullet. Enrage phase also shows same white round bullets. count:12 shootAngle:30 RECONSTRUCTED; bullet type CONFIRMED. Both taunts frame-confirmed in f_00100 chat."
+    },
+    {
+      "boss": "The Magical lord of sky",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_Fb0zINzmQ1s"
+      ],
+      "bossends_tags": [
+        "disc_Fb0zINzmQ1s"
+      ],
+      "minimap_tags": [
+        "disc_Fb0zINzmQ1s"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "arena: sky/magic dungeon \u2014 single open rectangular boss room; floor: dark gray/greenish-gray rounded cobblestone tiles. Boss: large dark blue/purple main body + Right hand + Left hand sub-entities. DOCUMENTED-from-frames disc_Fb0zINzmQ1s f_00305 (active fight) + f_00320 (Quest Complete + taunts confirmed). Minimap minimap_00038/40: single open room, no corridors.",
+      "verified_at": "2026-06-24",
+      "attacks_notes": "PARTIAL disc_Fb0zINzmQ1s f_00303/f_00308 (active fight): elongated thin WHITE/SILVER needle/lance-shaped projectiles clearly visible (~10-12 per burst). Distinctive shape confirmed. Source may be hands + body simultaneously; proj attribution uncertain. count:12 shootAngle:30 RECONSTRUCTED. Arena dark green rounded cobblestone CONFIRMED."
+    },
+    {
+      "boss": "Time Lord",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_hp_dAXf_alY"
+      ],
+      "bossends_tags": [
+        "disc_hp_dAXf_alY"
+      ],
+      "minimap_tags": [
+        "disc_hp_dAXf_alY"
+      ],
+      "attacks_status": "unverifiable-illegible",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "Arena: small single-room dark stone-brick dungeon (dark purple floor, yellow brick border trim). DOCUMENTED from bossend b002_43s_014/015 (purple CUBE entity = Time Lord) + chat_00019 (boss-colored \"<Time Lord> Do you know what time it is?\" + \"Its time for you to die!\"). f_00075 shows active fight with Time Lord boss-colored chat + purple cube visible. DISCOVERY: \"Kaster\" entity speaks in boss-colored chat at f_00090-092 (\"Kaster: You better be worthy of my time!\") in the same dungeon -- Kaster appears to be a subboss/minion in the Time Lord dungeon (not standalone). Kaster not in BehaviorDb -- needs sub-boss entry. ATTACKS: f_00096-100 shows purple cube entity in fight; small round dots visible around boss but unresolvable (movement vs loot unclear at 2fps). Bullet shape remains unverifiable-illegible.",
+      "verified_at": "2026-06-24",
+      "attacks_notes": "Boss sprite DOCUMENTED: large white/silver cube entity in b002_43s_014/015 (fight active, damage numbers +8/+17 visible). Small projectiles present near boss but too small and scattered at 2fps to trace ring count or angular distribution. UNVERIFIABLE-ILLEGIBLE. Both taunts re-confirmed on-screen in chat_00019 (boss-colored '<Time Lord>' prefix). Loot: 'Cyclops Dagger UT' in b002_43s_016 tooltip + 'time blade' in VoltiPlay chat \u2014 neither in XML, not added.",
+      "map_notes": "small single-room dark stone-brick DUNGEON \u2014 dark crisscross-grid tile floor, gray stone block corner columns. minimap_00008 shows tiny blue rectangle on black = small single-room dungeon confirmed. DOCUMENTED-from-frames disc_hp_dAXf_alY b002_43s_013/014/015 (fight frames) + minimap_00008."
+    },
+    {
+      "boss": "Helios",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_l8s6Dho3WM4"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_l8s6Dho3WM4"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "arena: galactic solar/sun dungeon \u2014 large open boss chamber; floor: sandy/amber-tan stone tiles (warm sand-colored square tiles); dark stone block walls. Boss: large golden entity. DOCUMENTED-from-frames disc_l8s6Dho3WM4 f_00301+f_00305 (SUPERNOVA taunt in chat + golden Helios entity + blue spiral bullets) + minimap_00037 (single large open chamber). ATTACKS UPGRADED 2026-06-24: blue SPIRAL/SWIRL projectiles confirmed f_00305 (SUPERNOVA state burst; swirling blue projectiles fill arena during \"Witness the SUPERNOVA!\" volley). Count/angle RECONSTRUCTED in code. attacks_status: no-footage \u2192 partial.",
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Ruins of the Mad God Core",
+      "file": "BehaviorDb.OCBosses2.cs",
+      "source_tags": [
+        "disc_l8s6Dho3WM4"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [
+        "disc_l8s6Dho3WM4"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "arena: galactic void/space dungeon \u2014 single large circular/oval open boss chamber in pitch-black void; floor: very dark gray/near-black stone tiles (space aesthetic). Boss: large dark rocky entity; bullets: GOLDEN RING-SHAPED projectiles. DOCUMENTED-from-frames disc_l8s6Dho3WM4 f_00240 (taunt 'DODGE THIS!' + dark floor + gold rings) + minimap_00030 (single circular open room in void). BONUS: taunt corrected from 'DODGE...' to 'DODGE THIS!' ATTACKS UPGRADED 2026-06-24: golden ring-shaped projectiles CONFIRMED f_00240 (DODGE THIS! volley \u2014 gold ring bullets clearly visible throughout pitch-black void arena). attacks_status: no-footage \u2192 partial.",
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "The Illusionist",
+      "file": "BehaviorDb.ROTF.cs",
+      "source_tags": [],
+      "bossends_tags": [],
+      "minimap_tags": [],
+      "attacks_status": "no-footage",
+      "map_status": "no-footage",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "verified_at": "2026-06-24",
+      "note": "NO-FOOTAGE \u2014 not found in any recovery spec. Illusion dungeon boss fully DESIGNED (Shoot(13) + Spawn Illusion Mirage + enrage). Needs Loop C (media discovery)."
+    },
+    {
+      "boss": "Riverborn",
+      "file": "BehaviorDb.Riverside.cs",
+      "source_tags": [
+        "disc_wsRSijbExRI"
+      ],
+      "bossends_tags": [
+        "disc_wsRSijbExRI"
+      ],
+      "minimap_tags": [
+        "disc_wsRSijbExRI"
+      ],
+      "attacks_status": "unverifiable-illegible",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "arena: Riverside Refuge dungeon \u2014 outdoor open swamp/river dungeon; floor: dark teal/blue-gray water tiles; green reed decorations at edges. DOCUMENTED-from-frames disc_wsRSijbExRI f_00173 (Riverborn boss label + water tile floor + reed decorations) + minimap_00022 (green swamp + blue water section, outdoor style). BONUS: both taunts verified verbatim from chat_00043.",
+      "verified_at": "2026-06-24",
+      "loot_wiki_drops": [
+        "The Seaweed Sword",
+        "The Winged Wand"
+      ],
+      "attacks_notes": "2026-06-24 re-scan: all captured frames f_00169/f_00171/f_00172 show Riverborn 0% HP \u2014 no active bullet patterns visible. Multi-phase behavior (wade\u2192wind\u2192dive\u2192surface) remains RECONSTRUCTED. Taunt discrepancy: frame reads \"rain\" but build says \"river\" \u2014 prior careful correction trusted."
+    },
+    {
+      "boss": "Devoted Shaman",
+      "file": "BehaviorDb.SacrificialGrounds.cs",
+      "source_tags": [],
+      "bossends_tags": [],
+      "minimap_tags": [],
+      "attacks_status": "no-footage",
+      "map_status": "no-footage",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": ""
+    },
+    {
+      "boss": "Shadowscale",
+      "file": "BehaviorDb.ShroudedSanctum.cs",
+      "source_tags": [
+        "disc_-9_o5EilupU",
+        "disc_OpvS02UXO-I"
+      ],
+      "bossends_tags": [
+        "disc_-9_o5EilupU"
+      ],
+      "minimap_tags": [
+        "disc_-9_o5EilupU",
+        "disc_OpvS02UXO-I"
+      ],
+      "attacks_status": "partial",
+      "map_status": "documented",
+      "loot_status": "observed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "MECH-LOOP 2026-06-24: UPGRADED unverifiable-illegible \u2192 partial. disc_OpvS02UXO-I f_00166: Shadowscale visible at top of frame doing radial spray of RED/ORANGE DEMON BLADE (proj-0) bullets. Prior illegible footage had Shade minion interference; this clean fight frame isolates boss bullet. proj-1 Thunder Swirl/Blind (strike burst) RECONSTRUCTED \u2014 white X-shapes in f_00168 ambiguous with dungeon decorations.",
+      "verified_at": "2026-06-24",
+      "attacks_notes": "PARTIAL: disc_OpvS02UXO-I f_00166: Shadowscale (large reddish/purple entity) with RED/ORANGE Demon Blade (proj-0) radial spray CONFIRMED in fight state. count:8 shootAngle:45 RECONSTRUCTED from density. proj-1 Thunder Swirl/Blind fires in strike state burst \u2014 not definitively isolated (f_00168 shows white X-shapes but dungeon decorations similar). Prior disc_-9_o5EilupU b002_4s_001 illegible (Shade minion interference resolved by new source).",
+      "map_notes": "dark multi-room DUNGEON \u2014 dark purple vine/plant walls, dark grey stone floor tiles (disc_OpvS02UXO-I f_00166/f_00168); minimap_00001 narrow dark corridor confirms dungeon; minimap_00002 scattered dark rooms = multi-room layout. DOCUMENTED.",
+      "loot_wiki_drops": [
+        "Shadow Scales",
+        "Shadowbone Sword",
+        "Shadowscale's Horn"
+      ]
+    },
+    {
+      "boss": "The Zuck",
+      "file": "BehaviorDb.Starforce.cs",
+      "source_tags": [],
+      "bossends_tags": [],
+      "minimap_tags": [],
+      "attacks_status": "no-footage",
+      "map_status": "no-footage",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": ""
+    },
+    {
+      "boss": "Gem Gem",
+      "file": "BehaviorDb.Starforce.cs",
+      "source_tags": [],
+      "bossends_tags": [],
+      "minimap_tags": [],
+      "attacks_status": "no-footage",
+      "map_status": "no-footage",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": ""
+    },
+    {
+      "boss": "Tombstone Carrier",
+      "file": "BehaviorDb.ToDD.cs",
+      "source_tags": [],
+      "bossends_tags": [],
+      "minimap_tags": [],
+      "attacks_status": "no-footage",
+      "map_status": "no-footage",
+      "loot_status": "designed",
+      "stats_status": "designed-placeholder",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": ""
+    },
+    {
+      "boss": "The Forgotten Sentinel",
+      "file": "UNBUILT",
+      "source_tags": [
+        "disc_M04fBHBpodE",
+        "disc_VZDxttR2LMk"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [],
+      "attacks_status": "no-footage",
+      "map_status": "documented",
+      "loot_status": "documented",
+      "stats_status": "no-footage",
+      "sprite_status": "no-footage",
+      "note": "NEWLY DISCOVERED 2026-06-24. NOT YET BUILT (no XML, no behavior). CONTEXT: Appears as GUARDIAN PRE-BOSS in Ascended Septavius's dungeon (ghost-circle tile dungeon). The Ascended Septavius behavior comment already notes this guardian phase exists \u2014 but the entity itself has never been built. Arena: dark PURPLE hexagonal tile floor (CONFIRMED disc_VZDxttR2LMk f_00240). Large pink/magenta boss sprite. Guardian archetype \u2014 protects Ascended Septavius. VERIFIED TAUNTS (5 total): \"Go.\" | \"You live still? DO NOT TEMPT FATE!\" | \"CONSUME!\" | \"FOOLS! YOU DO NOT UNDERSTAND!\" | \"I tried to protect you... I have failed. You release a great evil upon this realm...\" Sources: disc_M04fBHBpodE f_00040/f_00042, disc_VZDxttR2LMk chat_00060/f_00240. Loot: \"Bracer of the Guardian\" (Legendary, disc_M04fBHBpodE f_00042). Needs build: XML entity + behavior in Ascended Septavius dungeon context.",
+      "loot_wiki_drops": [
+        "Bracer of the Guardian (Legendary)"
+      ],
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "The Dark Sorcerer",
+      "file": "UNBUILT",
+      "source_tags": [
+        "disc_VZDxttR2LMk"
+      ],
+      "bossends_tags": [],
+      "minimap_tags": [],
+      "attacks_status": "no-footage",
+      "map_status": "no-footage",
+      "loot_status": "observed",
+      "stats_status": "no-footage",
+      "sprite_status": "no-footage",
+      "note": "NEWLY DISCOVERED 2026-06-24. NOT YET BUILT (no XML, no behavior file). CONTEXT: Confirmed ROTF boss via f_00098 HP bar 'The Dark Sorcerer \u2014 9.68%' + 'Quest Complete!' banner (is a Quest boss). Boss sprite: dark purple/dark mage humanoid entity with magical glow effects. Arena: dark dungeon floor with purple/magical ambient lighting (exact tile type unclear at this HP \u2014 too dark). VERIFIED TAUNTS (3): 'Why must you tear my creations I conjured apart?' | 'This will stop now.' | 'I must leave my friends...' ('creations' taunt implies minion/golem spawner mechanic). LOOT (Untiered drops observed at kill): 'Dirk of Benevolence', 'Siphon of Courage', 'Bow of the Lonesome Wraith' (disc_VZDxttR2LMk f_00100). Source: disc_VZDxttR2LMk f_00098/f_00100, chat_00025.",
+      "loot_wiki_drops": [
+        "Dirk of Benevolence (Untiered)",
+        "Siphon of Courage (Untiered)",
+        "Bow of the Lonesome Wraith (Untiered)"
+      ],
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Edson the Deviling",
+      "file": "UNBUILT",
+      "source_tags": [
+        "disc_hp_dAXf_alY"
+      ],
+      "attacks_status": "no-footage",
+      "map_status": "partial",
+      "loot_status": "observed",
+      "stats_status": "unknown",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "NEWLY DISCOVERED 2026-06-24. NOT YET BUILT. CONFIRMED from disc_hp_dAXf_alY f_00010-015 (VoltiPlay recording): large dark/armored boss entity in sandy desert realm biome. ROTF realm event boss (not base-game \u2014 name and style are ROTF-custom). TAUNTS (4 confirmed): (1) 'I have been humiliated over and over again!' \u2014 VERBATIM from f_00015 in-game speech bubble. (2) 'You dare to have followed me this [far]!' \u2014 from f_00015 chat, end slightly off-screen. (3) 'If I GOT MY [way]...' \u2014 from f_00015 chat, partial. (4) 'NO, NO I DON'T WA[NT TO]...' \u2014 from chat_00010, partial. LOOT: 'Earth Gun' UT visible at f_00025 post-fight \u2014 POSSIBLE drop but unconfirmed (could be from earlier fight). Arena: sandy desert REALM (realm event boss). No bullet pattern isolated yet.",
+      "map_notes": "Sandy desert realm biome arena CONFIRMED disc_hp_dAXf_alY f_00010-015.",
+      "loot_wiki_drops": [
+        "Earth Gun (Untiered, UNCONFIRMED \u2014 may be from different fight)"
+      ],
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Thusala",
+      "file": "UNBUILT",
+      "source_tags": [
+        "TwilightNecropolis"
+      ],
+      "attacks_status": "no-footage",
+      "map_status": "partial",
+      "loot_status": "unknown",
+      "stats_status": "unknown",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "NEWLY DISCOVERED 2026-06-24. NOT IN BehaviorDb. ROTF Twilight Necropolis boss \u2014 confirmed from TwilightNecropolis chat_00010 (<Thusala>: prefix boss-colored) and f_00020 death feed 'MAGS (0/8, 12) has been killed by Thusala'. TAUNTS (1 verbatim): 'None shall enter this City of the Dead.' \u2014 shared with Bel (twin-pair bosses). Co-exists with Bel, Gravedigger, Djinn herald, Lord of the Lost Lands, Shade of Novus. Large red entity visible in f_00020.",
+      "map_notes": "Twilight Necropolis: dark gray/black stone tile floor, tombstone decorations. Same dungeon as Gravedigger (TwilightNecropolis f_00009/f_00020).",
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Bel",
+      "file": "UNBUILT",
+      "source_tags": [
+        "TwilightNecropolis"
+      ],
+      "attacks_status": "no-footage",
+      "map_status": "partial",
+      "loot_status": "partial",
+      "stats_status": "unknown",
+      "sprite_status": "placeholder-unrecoverable-from-video",
+      "note": "NEWLY DISCOVERED 2026-06-24. NOT IN BehaviorDb as .Init(). ROTF Twilight Necropolis boss \u2014 confirmed from TwilightNecropolis chat_00010 (<Bel>: prefix boss-colored). TAUNTS (1 verbatim): 'None shall enter this City of the Dead.' \u2014 shared with Thusala. LOOT: 'Bel's Decapitator' UT exists in BehaviorDb.ROTF.cs under The Illusionist loot \u2014 named after Bel but currently not Bel's own drop; Bel needs its own .Init() and loot table when built.",
+      "map_notes": "Twilight Necropolis: dark gray/black stone tile floor. Same arena as Thusala and Gravedigger.",
+      "loot_wiki_drops": [
+        "Bel's Decapitator (Untiered, currently in Illusionist loot \u2014 intended for Bel)"
+      ],
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Mystery Mad God",
+      "file": "UNBUILT",
+      "source_tags": [
+        "disc_hGSSP2J3gcQ"
+      ],
+      "bossends_tags": [
+        "disc_hGSSP2J3gcQ"
+      ],
+      "minimap_tags": [],
+      "attacks_status": "no-footage",
+      "map_status": "partial",
+      "loot_status": "unknown",
+      "stats_status": "observed",
+      "sprite_status": "no-footage",
+      "note": "NEWLY DISCOVERED 2026-06-24. NOT IN BehaviorDb. Found in disc_hGSSP2J3gcQ bossend b002_27s_016 and b002_27s_018 (previously misread as 'nd>' prefix \u2014 now confirmed as 'Mystery Mad God:' boss-colored prefix). HP: 56253 (spoken verbatim in taunt). TAUNTS (2 confirmed): (1) 'Puny mortals! My 56253 HP will annihilate you!' \u2014 verbatim b002_27s_016 and b002_27s_018, boss-colored. (2) 'Can\u2019t... keep... henchmen...alive... ARGHHH!!!' \u2014 b002_27s_016, boss-colored; implies minion/henchman spawner mechanic. Arena: dark earthy/organic dungeon floor (dark brownish-grey soil tiles), accessed through grey stone corridor entrance (b002_27s_014 shows grey stone transition room with black circular pit). Dungeon appears distinct from Putin\u2019s red-grass arena. Attacks: no bullet geometry isolatable from contaminated bossend frames (crowded, wide capture window).",
+      "map_notes": "Dark organic/earthy soil dungeon floor confirmed disc_hGSSP2J3gcQ b002_27s_016/018. Grey stone corridor entry room confirmed b002_27s_014 (black circular pit visible). Dungeon tile texture: dark brownish-grey irregular soil pattern.",
+      "stats_notes": "HP 56253 spoken verbatim in taunt 'Puny mortals! My 56253 HP will annihilate you!'",
+      "verified_at": "2026-06-24"
+    },
+    {
+      "boss": "Horrific Creation",
+      "file": "UNBUILT",
+      "source_tags": [
+        "disc_LJzfb9Y4ok0"
+      ],
+      "bossends_tags": [
+        "disc_LJzfb9Y4ok0"
+      ],
+      "minimap_tags": [],
+      "attacks_status": "unverifiable-illegible",
+      "map_status": "partial",
+      "loot_status": "unknown",
+      "stats_status": "unknown",
+      "sprite_status": "partial",
+      "note": "NEWLY DISCOVERED 2026-06-24. NOT IN BehaviorDb. Found in disc_LJzfb9Y4ok0 fight frames f_00195/f_00200/f_00205/f_00210 and bossends b002_74s_001. Located in the Puppet Theatre dungeon (same yellow/black diagonal-stripe tiles visible). Appears AFTER Puppet Master and Oryx Puppet fight \u2014 taunt 'WHO KILL MASTER!' implies it spawns when the Puppet Master is killed (its 'master'). SPRITE: large PURPLE CUBE/BLOCK entity \u2014 clearly visible at f_00200/f_00205/f_00210. TAUNTS (2 confirmed): (1) 'Attacks no hurt me!!!' \u2014 disc_LJzfb9Y4ok0 b002_74s_001 / chat_00020. (2) 'WHO KILL MASTER! RAGHHH!' \u2014 f_00200/f_00205/f_00210/chat_00050. Possible 3rd (prefix truncated, UNCONFIRMED): 'Can't... keep... henchman... alive... anymore! ARGHHH!!!' from b002_74s_010 (could be Horrific Creation or Oryx Puppet). ATTACKS: pink/magenta projectile effects visible in f_00200 area around the boss, but can't isolate bullet geometry vs. player spell effects \u2014 UNVERIFIABLE-ILLEGIBLE.",
+      "sprite_notes": "Large purple/magenta cube/block entity \u2014 square-shaped boss sprite, clearly distinct from Puppet Master and Oryx Puppet. Confirmed from f_00200/f_00205/f_00210 (disc_LJzfb9Y4ok0).",
+      "map_notes": "Puppet Theatre dungeon \u2014 yellow/black diagonal-stripe tile floor (same as Puppet Master/Oryx Puppet stage). Boss visible at f_00195-210 area. Appears post-Puppet-Master-death.",
+      "verified_at": "2026-06-24"
+    }
+  ]
+}

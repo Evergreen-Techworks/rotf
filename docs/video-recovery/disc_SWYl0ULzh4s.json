@@ -1,0 +1,40 @@
+{
+ "dungeon": "GENUINE ROTF multi-dungeon run (~128s, 7 entries, creator 'RuinedBow'). KEY find: a NEW custom MEME boss 'Legendary Dragon Kakashi' (lava arena) with 2 clean VERBATIM taunts. Also base-game The Void Entity (void arena, 'MY POWER HAS NO END!') + a Pentaract Tower Ultra event + damage-contribution lootbox drops. Galactic VOID arenas (radial-bullet) + lava arenas.",
+ "map": "DOCUMENTED-from-transitions+bossends: a 7-entry hop dominated by dark GALACTIC VOID arenas (purple/blue starfields with RADIAL bullet rings — the Void Entity fight, b008) + RED/LAVA-brick arenas (the Legendary Dragon Kakashi fight) + a grey structured area. Open arena geometry; no tight room sequence (multi-dungeon/galactic).",
+ "bosses": [
+  {
+   "name": "Legendary Dragon Kakashi",
+   "phases": [],
+   "attacks": ["not cleanly isolated (lava arena, scattered bullets; the b008 window's clean radial rings belong to the Void Entity void arena, not Kakashi) -> approximate"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "YOU SHOULD HAVE NEVER DONE THIS!",
+    "YOU'VE MADE A GRAVE MISTAKE!"
+   ],
+   "note": "DOCUMENTED-from-chat VERBATIM (boss-coloured '<Legendary Dragon Kakashi>' prefix, frame-read b008_128s_008 wide grayscale-pull). NEW custom MEME dragon boss (Kakashi = Naruto meme, fits the ROTF meme-boss roster: Mewtwo/Cookie Monster/Uvuvwuwuwe/The Zuck). NOT built as a boss (only a 'Legendary Dragon' ITEM exists in EmbeddedData_EquipCXML.xml — likely its drop) and NOT in other specs -> genuinely NEW, BUILDABLE (2 clean verbatim taunts; lava arena). base-vs-custom: clearly ROTF-CUSTOM (meme name, not base)."
+  },
+  {
+   "name": "The Void Entity",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (b008 void arena): concentric RADIAL RINGS / NOVA of evenly-spaced purple/blue bullets -> radial ring/nova"],
+   "minions": [],
+   "colorFlashes": "purple/blue",
+   "taunts": ["MY POWER HAS NO END!"],
+   "note": "DOCUMENTED-from-chat (boss-coloured '<The Void Entity>'). BASE-GAME Lost Halls Void Entity -> 'MY POWER HAS NO END!' is a canonical base line; CORROBORATION/NO-BUILD (consistent with the prior boss-void-entity DEFERRED no-build: base Lost Halls, not built). Player RuinedBow notes 'I soloed void earlier for some pots'."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Conductive Shield (RuinedBow just got 'Conductive Shield' with 36.3% damage dealt!)",
+  "VonAxcess Shield (... with 16.3% damage dealt!)",
+  "Rainbow's End! (lootbox unbox)",
+  "(damage-contribution loot: 'X just got <item> with N% damage dealt!')"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Pentaract Tower Ultra"
+ ],
+ "mechanics": "DOCUMENTED: (1) NEW custom meme boss 'Legendary Dragon Kakashi' (lava arena; 2 verbatim taunts; drops 'Legendary Dragon' equip + shields). (2) base The Void Entity (void arena, radial-ring/nova attack, 'MY POWER HAS NO END!') -> corroboration/no-build. (3) DAMAGE-CONTRIBUTION loot ('X just got <item> with N% damage dealt!'). (4) Pentaract Tower Ultra event. Galactic void + lava arenas; RuinedBow creator.",
+ "uncertain": "Legendary Dragon Kakashi attack NOT cleanly isolated (lava arena, scattered; the clean radial rings in b008 are the Void Entity's void arena) -> approximate/reconstructed. The Void Entity = BASE-game (no-build). 'Conductive Shield'/'VonAxcess Shield'/'Rainbow's End' are lootbox/drop items. Low chat red-density overall; the 2 Kakashi taunts + Void Entity line are the clean reads (boss-prefix confirmed).",
+ "confidence": "MEDIUM-HIGH (Legendary Dragon Kakashi) / corroboration (Void Entity). GENUINE ROTF. Strong NEW find: custom meme boss 'Legendary Dragon Kakashi' with 2 clean VERBATIM taunts ('YOU SHOULD HAVE NEVER DONE THIS!' / 'YOU'VE MADE A GRAVE MISTAKE!') -> BUILDABLE (flag for dev queue; lava arena, drops Legendary-Dragon items). Plus base Void Entity corroboration (no-build) + damage-contribution loot. Recorded honestly: Kakashi attack approximate (not isolated), Void Entity = base. Best follow-up: a clean Kakashi fight for its attack pattern + any more taunts."
+}

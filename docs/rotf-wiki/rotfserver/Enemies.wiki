@@ -1,0 +1,14 @@
+# Enemies
+# https://rotfserver.fandom.com/api.php?action=parse&page=Enemies&prop=wikitext
+
+'''''Apart from normal RotMG enemies, RotF has a few unique types of enemies.'''''
+
+'''''<u>Epic Gods:These are buffed versions of the regular Godland enemies. Currently,the Epic Gods available are:Epic Brain,Epic Medusa,Epic Ent,Epic Septavius,Epic White Demon,Epic Beholder,Epic Djinn.They have more damage,perform debuffs ranging from stuns to paralyze, and are where Illusions drop from</u>'''''
+
+'''''<u>Epic Elite Gods:These are epic versions of the already elite gods. eEgods as they are called,are much bigger than eGods,deal more damage, and drop Nodestones and Special Crates. Currently the only eEgods are:Medusa,Brain,Ent and Beholder.</u>'''''
+
+<u>'''''Epic Bosses:Epic versions of bosses,they generally shoot more shots,deal more damage,and drop better loot than their normal counterparts.'''''</u>
+
+'''''<u>Epic midland/lowland enemies:These are buffed versions of lowland and midland mobs that have a chance to drop Special Crates.</u>'''''
+
+'''''<u>TL;DR-Almost all enemies have a chance to be epic.</u>'''''{{Infobox_item}}

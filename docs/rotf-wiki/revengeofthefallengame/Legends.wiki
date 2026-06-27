@@ -1,0 +1,4 @@
+# Legends
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Legends&prop=wikitext
+
+asdf

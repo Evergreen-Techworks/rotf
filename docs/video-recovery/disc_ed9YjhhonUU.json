@@ -1,0 +1,23 @@
+{
+ "dungeon": "ROTF realm run (178 frames, X1.0.1) — Ortar taunts confirmed + Ortar is a STARFORCE boss; Uvuvwuwuwe meme boss; Undead Lair/Lucky-box opens; Instability mechanic. GENUINE ROTF.",
+ "source": "video disc_ed9YjhhonUU (178 f_, 44 chat, no transitions = single continuous area). Server 'X1.0.1'. Biomes (contact sheet): dominant GREY-TILED diagonal labyrinth (Shatters/marble-machine style), an ORANGE-BRICK gold-floor boss arena, a pink/lavender tiled area, blue water, dark-maroon room. Chat-feed heavy.",
+ "bosses": [
+  {"name":"Ortar","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["why you serious, why you no fun!","Me want to go! Me angery!","Me serious now too."],"note":"DOCUMENTED-from-chat. CONFIRMS the built Ortar taunts (BehaviorDb.OCBosses.cs). KEY: 'StarForce - the Ortar has been defeated!' -> Ortar is a STARFORCE-zone boss. Starforce roster now: The Zuck, Gem Gem, Cracked Core, Ortar (3 of these are already-built OCBosses!)."},
+  {"name":"Uvuvwuwuwe","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat: 'Cyclops - The uvuvwuvwevwe has been defeated'. The long-name meme boss (Uvuvwevwevwe Onyetenyevwe...). Realm event boss; ledger-noted, now confirmed live."},
+  {"name":"Golden Oryx Effigy","phases":[],"attacks":[],"minions":["guardians"],"colorFlashes":"","taunts":["You destroy my guardians..."],"note":"DOCUMENTED-from-chat (base RotMG boss; already has the 'My protectors!'/'You destroy my guardians' taunt set)."},
+  {"name":"(realm feed: Skull Shrine / Hermit God / Lord of the Lost Lands / Riverborn)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat event feed (Orc/Cube/Giant/Phoenix announcers): Skull Shrine defeated, Hermit God defeated, Lord of the Lost Lands spawned, Riverborn spawned."}
+ ],
+ "minions": [],
+ "drops": ["normal nodestone (extracted — D2 rune material)", "Special Crate unboxes (Loot Notifier)", "Lucky box (opened by player)"],
+ "event_bosses_seen_in_global_feed": [
+  "StarForce - the Ortar has been defeated!",
+  "The Skull Shrine has been defeated",
+  "The Hermit God has been defeated",
+  "A Lord of the Lost Lands has just spawned",
+  "A Riverborn has just spawned",
+  "The Uvuvwuwuwe has been defeated"
+ ],
+ "mechanics": "DOCUMENTED: (1) STARFORCE roster grows — 'StarForce - the Ortar has been defeated!' confirms Ortar (built OCBoss) is a Starforce-zone boss; Starforce now has Zuck + Gem Gem + Cracked Core + Ortar (Cracked Core + Ortar are already coded -> Starforce Zone is increasingly buildable from existing content). (2) UVUVWUWUWE meme boss confirmed live. (3) KEY/BOX-OPENED content — 'Undead Lair opened by <player>', 'Lucky box opened by <player>' (key-gated dungeon + lucky-box loot). (4) 'Instability!?' mechanic (a realm instability event — name only). (5) NODESTONE extraction ('extracted a normal nodestone' — D2 rune-material system live). (6) /16 star counter (death notifier [8/16, fame], [15/16, 2327]). (7) Identify-receipt + Special Crate recur. Server X1.0.1.",
+ "uncertain": "Ortar taunt 'why you serious, why you no fun!' is a variant of the built 'Why you serious, why you serious?' (both plausibly real). 'Instability!?' meaning unconfirmed (realm instability event?). Grey-tiled labyrinth = Shatters-style inferred (no entry name; no transitions captured). Uvuvwuwuwe exact spelling truncated.",
+ "confidence": "HIGH for the verbatim chat: Ortar taunts (confirm built) + 'StarForce - the Ortar has been defeated!' (Ortar=Starforce boss), Uvuvwuwuwe, Undead-Lair/Lucky-box opens, nodestone extraction. MEDIUM for 'Instability!?' + the Shatters biome ID. GENUINE ROTF (X1.0.1)."
+}

@@ -1,0 +1,4 @@
+# Skull of the Eagle Sentry
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Skull%20of%20the%20Eagle%20Sentry&prop=wikitext
+
+asdf

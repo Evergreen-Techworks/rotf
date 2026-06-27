@@ -1,0 +1,30 @@
+{
+ "dungeon": "FACECAM stream (creator 'The Mothership' — outro card 'MOTHRSHIP / Join the Fleet by Subscribing!' + discord/twitch links; 'MOTHRSHIP' watermark on gameplay) running BASE-GAME RotMG endgame — LOST HALLS / ORYX'S SANCTUARY (O3): the Avatar of the Forgotten King + Oryx the Mad God, plus a checkered-grid arena (Shatters-style). The webcam covers the chat box (mostly unreadable), but boss taunts float on-screen. NO ROTF-custom boss content — all canonical base-game. Value = CORROBORATION that 'Avatar of the Forgotten King' = base-game (reinforces the dev-queue flag).",
+ "map": "DOCUMENTED-from-frames+minimaps: a dark O3-style arena with a giant SKULL boss sprite + green-grass edges (the Avatar of the Forgotten King room), a colourful CHECKERED GRID arena (red/blue/grey tiles — Shatters-style), and a green REALM/forest with blue water (minimaps show green+water+white-grey rooms). Long session (~700s). Base-game Lost-Halls/O3 + Shatters-style layouts, not a ROTF-custom dungeon.",
+ "bosses": [
+  {
+   "name": "Oryx the Mad God (realm announcer)",
+   "phases": [],
+   "attacks": ["not isolated (facecam, edited) -> not traced"],
+   "minions": ["4 Ghost Kings (announced)"],
+   "colorFlashes": "",
+   "taunts": ["Pathetic humans! My 4 Ghost Kings shall destroy you utterly!"],
+   "note": "DOCUMENTED-from-chat (read across f_00515+f_00520). BASE-GAME Oryx realm-announcer line (announces his Ghost King minions) -> canonical, NOT ROTF-custom."
+  },
+  {
+   "name": "Avatar of the Forgotten King",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-bossends but APPROXIMATE: scattered bullets in the dark skull arena -> no clean single pattern isolated (facecam/edited). Base-game O3 final-boss patterns."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["Foolish whelps... leave me be...", "BURN!!", "HAHAHAHAHAH", "LEAVE THIS PLACE"],
+   "note": "DOCUMENTED-from-chat (read across f_00515+f_00520+f_00525). *** BASE-GAME Lost Halls / Oryx's Sanctuary (O3) FINAL BOSS *** -> these are CANONICAL RotMG taunts, NOT ROTF-custom. CORROBORATES that the dev-queue 'boss-the-forgotten-king' candidate is base-game (do NOT build as a custom object; cf. the Forgotten King = base Shatters/O3 flags). The giant-skull arena = the Avatar's room."
+  }
+ ],
+ "minions": ["4 Ghost Kings (Oryx-announced)"],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: a FACECAM stream (creator 'The Mothership') of BASE-GAME RotMG endgame (Lost Halls / O3 + a Shatters-style grid arena). The webcam covers the bottom-left chat -> relied on floating boss taunts + bossends + minimaps. Boss taunts captured are ALL base-game canonical (Oryx 'My 4 Ghost Kings...' + Avatar of the Forgotten King 'Foolish whelps... leave me be...' / 'BURN!!' / 'HAHAHAHAHAH' / 'LEAVE THIS PLACE'). NO ROTF-custom content. Player chat fragments seen ('PLEASE TP IF YOU HAVE SPARE PALLY GEAR!', 'Oh yeah nice wand'). Server identity (ROTF vs other RotMG) NOT positively confirmed — but the content is base-game regardless.",
+ "uncertain": "SERVER IDENTITY not positively confirmed (RotMG-engine, but no ROTF-specific marker seen; could be ROTF running base Lost Halls, or another server). Either way the bosses are BASE-GAME canonical, not ROTF-custom. ATTACKS not cleanly traced (facecam + edited). Chat largely webcam-covered; taunts read from on-screen floating text.",
+ "confidence": "MEDIUM. Clear that the captured bosses (Oryx + Avatar of the Forgotten King) are BASE-GAME canonical (correct names + canonical taunts + O3/Shatters arenas). LOW new-content value -> NO ROTF-custom boss/taunt to build. HIGH-value as CORROBORATION: 'Avatar of the Forgotten King' = base-game (reinforces the boss-the-forgotten-king = base-game / do-not-build-as-custom flag). Recorded honestly: base-game flagged, attacks not traced, server-identity uncertain. Best follow-up: prefer ROTF-custom-dungeon footage over base-game O3/Shatters runs."
+}

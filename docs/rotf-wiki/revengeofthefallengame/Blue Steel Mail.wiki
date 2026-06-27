@@ -1,0 +1,4 @@
+# Blue Steel Mail
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Blue%20Steel%20Mail&prop=wikitext
+
+asdf

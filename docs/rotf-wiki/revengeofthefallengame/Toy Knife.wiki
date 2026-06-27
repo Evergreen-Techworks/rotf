@@ -1,0 +1,4 @@
+# Toy Knife
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Toy%20Knife&prop=wikitext
+
+asdf

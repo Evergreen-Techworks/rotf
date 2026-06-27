@@ -1,0 +1,4 @@
+# Tome of Holy Guidance
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Tome%20of%20Holy%20Guidance&prop=wikitext
+
+asdf

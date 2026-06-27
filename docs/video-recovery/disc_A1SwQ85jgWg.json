@@ -1,0 +1,15 @@
+{
+ "dungeon": "GENUINE ROTF run across white/SNOW-ICE + grey-tiled VAULT dungeons (+ a cyan hexagonal arena, lava, grass). LOW taunt yield: the snow-biome background washes out the chat box so boss lines are only fragments and NOT reliably readable. Players reference 'SHATTERS' (in rotation). Best recovered content = map + one clear attack pattern + abilities-HUD note.",
+ "map": "DOCUMENTED-from-transitions+frames: WHITE/SNOW-ICE biome rooms; grey/white BRICK-TILED VAULT dungeons packed with chests (rows); a CYAN HEXAGONAL/octagonal arena (open, ringed); plus lava and green-grass entries. Multi-entry run; per-dungeon room sequence not traced.",
+ "bosses": [
+  {"name":"(snow-biome boss — lines washed out, NOT reliably read)","phases":[],"attacks":["DOCUMENTED-from-frames: a diagonal WAVE/LINE of blue bullets across a grey arena (wave/sweeping or aimed-line class); reconstruct as a rotating fixedAngle line"],"minions":[],"colorFlashes":"blue","taunts":["(fragments only, UNCERTAIN: '...will fall just... but you', '...FELL!' — washed out by snow background, NOT confirmed verbatim)"],"note":"DOCUMENTED-from-frames for the attack; taunts NOT reliably readable (white-snow biome washes out the chat box even after contrast-enhancement). Do NOT treat the fragments as verbatim. The 'ENCORE!' line in chat is a PLAYER ('Robo', star/guild prefix) — NOT attributed to a boss."}
+ ],
+ "minions": [],
+ "drops": [
+  "treasure-vault chests (rows; specific loot not legible)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED-limited (snow washout): a ROTF run through snow-ice + grey-tiled treasure-vault dungeons + a cyan hexagonal arena. ATTACK recovered: a diagonal BLUE BULLET WAVE/LINE across a grey arena (wave/aimed-line). HUD shows an ability HOTKEY bar (SHIFT + A/S/D/F + CTRL keybinds) — corroborates the abilities/keybind system seen in other tags. Players ask for 'SHATTERS' (The Shatters in rotation). NO reliably-readable boss taunts (snow biome obscures chat); the 'ENCORE!' chat line is a player (Robo), not a boss.",
+ "uncertain": "Boss taunts NOT reliably readable (white-snow background washes out the chat box; fragments only, not verbatim). Snow-biome boss unnamed. 'ENCORE!' is a player (Robo), explicitly NOT a boss taunt. Cyan hexagonal arena not name-identified. Attack-line angle/count approximate.",
+ "confidence": "LOW for taunts (snow washout — fragments only, nothing committed). MEDIUM for MAP (snow-ice + vault + cyan hex arena) and one ATTACK (blue bullet wave, DOCUMENTED-from-frames) + abilities-HUD corroboration. GENUINE ROTF. Not a source of new buildable boss taunts; useful for biome/attack/system data."
+}

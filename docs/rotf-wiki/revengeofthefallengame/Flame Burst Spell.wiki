@@ -1,0 +1,4 @@
+# Flame Burst Spell
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Flame%20Burst%20Spell&prop=wikitext
+
+asdf

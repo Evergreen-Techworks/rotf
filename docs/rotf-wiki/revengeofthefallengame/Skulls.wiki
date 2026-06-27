@@ -1,0 +1,135 @@
+# Skulls
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Skulls&prop=wikitext
+
+The skull is the ability of the necromancer. It causes damage in a chosen area and steals health.
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = SkullOfVampirism.png
+| link = Skull of Vampirism
+| text = Skull of Vampirism
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge2
+| file = SkullOfEndlessTorment.png
+| link = Skull of Endless Torment
+| text = Skull of Endless Torment
+}}
+| {{ImageBlackLarge2
+| file = SkullishRemainsOfEsben.png
+| link = Skullish Remains of Esben
+| text = Skullish Remains of Esben
+}}
+| {{ImageBlackLarge2
+| file = SkullOfCorruptedSouls.png
+| link = Skull of Corrupted Souls
+| text = Skull of Corrupted Souls
+}}
+| {{ImageBlackLarge1
+| file = HeadFullOfBrains.png
+| link = Head Full of Brains
+| text = Head Full of Brains
+}}
+| {{ImageBlackLarge1
+| file = HeadOfTheMedusa.png
+| link = Head of the Medusa
+| text = Head of the Medusa
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = WoodenHeadFromTheTotem.png
+| link = Wooden Head from the Totem
+| text = Wooden Head from the Totem
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = MementoMori.png
+| link = Memento Mori
+| text = Memento Mori
+}}
+| {{ImageBlackLarge2
+| file = ASkullCoveredInChocolate.png
+| link = A Skull Covered in Chocolate
+| text = A Skull Covered in Chocolate
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Unique</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = CrackedCrystalSkull.png
+| link = Cracked Crystal Skull
+| text = Cracked Crystal Skull
+}}
+| {{ImageBlackLarge1
+| file = SkullOfTheEagleSentry.png
+| link = Skull of the Eagle Sentry
+| text = Skull of the Eagle Sentry
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = ExtraterrestrialSkull.png
+| link = Extraterrestrial Skull
+| text = Extraterrestrial Skull
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = LifedrinkerSkull.png
+| link = Lifedrinker Skull
+| text = Lifedrinker Skull
+}}
+| {{ImageBlackLarge1
+| file = BloodsuckerSkull.png
+| link = Bloodsucker Skull
+| text = Bloodsucker Skull
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = NecroticSkull.png
+| link = Necrotic Skull
+| text = Necrotic Skull
+}}
+| {{ImageBlackLarge1
+| file = BreathtakerSkull.png
+| link = Breathtaker Skull
+| text = Breathtaker Skull
+}}
+| {{ImageBlackLarge1
+| file = HeartstealerSkull.png
+| link = Heartstealer Skull
+| text = Heartstealer Skull
+}}
+| {{ImageBlackLarge1
+| file = SoulSiphonSkull.png
+| link = Soul Siphon Skull
+| text = Soul Siphon Skull
+}}
+| {{ImageBlackLarge1
+| file = EssenceTapSkull.png
+| link = Essence Tap Skull
+| text = Essence Tap Skull
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

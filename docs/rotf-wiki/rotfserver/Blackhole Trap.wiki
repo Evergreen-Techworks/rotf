@@ -1,0 +1,27 @@
+# Blackhole Trap
+# https://rotfserver.fandom.com/api.php?action=parse&page=Blackhole%20Trap&prop=wikitext
+
+{{ItemInfo
+| name = Blackhole Trap
+| desc = The first object to ever survive a blackhole, now imbued with it's powerful gravity. 
+| slot = trap
+| tier = GL
+| rarity = g
+| soulbound = yes
+
+| cost = 110
+| damage = 4370
+| radius =6.8
+| triggerradius = 3.4
+| armtime = 20
+| cooldown = 0
+| fameb = 6
+| bonuses = {{Stat|att|3}}{{Stat|vit|3}}{{Stat|wis|3}}
+| effects = yes
+| slowed = 6.5
+| lootbag = white
+| dropsFrom = can be found in a White Bag dropped by 
+}}
+<noinclude>
+{{NavTraps}}
+</noinclude>

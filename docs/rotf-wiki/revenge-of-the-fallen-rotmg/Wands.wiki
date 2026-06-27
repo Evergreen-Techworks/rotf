@@ -1,0 +1,153 @@
+# Wands
+# https://revenge-of-the-fallen-rotmg.fandom.com/api.php?action=parse&page=Wands&prop=wikitext
+
+This page includes both custom wands and old wands that have been edited from how they appear on the predicting RotMG server.
+{| class="article-table"
+!Wands
+!Damage
+!Range
+!RoF
+!Shots
+!Stats
+!Pierce
+!Armor Pierce
+!Obstacle Pierce
+!Fame Bonus
+!Tier
+!Legendary/Primal Effect
+|-
+|Wand of Evocation
+|105-145
+|9.36
+|
+|
+|
+|yes
+|
+|
+|5%
+|T13
+|
+|-
+|Wand of Retribution
+|115-155
+|9.36
+|
+|
+|
+|yes
+|
+|
+|6%
+|T14
+|
+|-
+|Celestial Caduceus
+|125-170
+|9.36
+|
+|
+|
+|yes
+|
+|
+|6%
+|GL
+|
+|-
+|Wand of the Rising Star
+|70-115
+|8
+|60%
+|3
+|
+|
+|
+|
+|1%
+|Heroic
+|
+|-
+|The Winged Wand
+|55-110
+|7.01
+|95%
+|2
+|<nowiki>+2att</nowiki>
++4dex
+|yes
+|
+|yes
+|5%
+|Artifact
+|
+|-
+|Wand Full of Mana
+|25-45
+|7
+|140%
+|5
+|<nowiki>-75hp</nowiki>
++200mp
+
+-8wis
+|
+|
+|yes
+|8%
+|Heroic
+|
+|-
+|Radiant Wand of Royalism
+|55-75
+|8
+|150%
+|2
+|
+|yes
+|
+|
+|6%
+|Legendary
+|Curse
+|-
+|Realm Power
+|150-175
+|8.25
+|105%
+|
+|
+|yes
+|yes
+|
+|6%
+|Legendary
+|Last Hope
+|-
+|Wand of the Bulwark
+|350-450
+|3
+|33%
+|
+|
+|yes
+|
+|yes
+|6%
+|Legendary
+|Curse
+|-
+|Conducting Wand
+|80-160
+|8.01
+|125%
+|
+|<nowiki>+4dex</nowiki>
++4wis
+|
+|
+|
+|4%
+|Legendary
+|Curse
+|}

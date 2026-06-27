@@ -1,0 +1,20 @@
+{
+ "dungeon": "GENUINE ROTF GIVEAWAY/PROMO video (overlay: 'To enter the giveaway, you need to like, subscribe, share the video with friends, and comment...'), set mostly in the OPEN REALM (grass+desert), not a dungeon run. The realm event-feed is visible (announcer personas + /30 counter + base event bosses). LOW buildable yield: no dungeon, no boss taunts — useful only to corroborate the announcer/counter system + realm layout.",
+ "map": "DOCUMENTED-from-minimaps: the OPEN REALM landmass — GREEN GRASS/FOREST to the north, TAN DESERT to the south (standard RotMG realm biome split), player marker roaming. A small RED room/arena glimpsed in one minimap. No structured dungeon layout (this is the realm, plus giveaway-overlay scenes).",
+ "bosses": [
+  {"name":"(none fought on-screen — realm/giveaway video)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"No boss FIGHT captured (open-realm roaming + giveaway overlays). The 'bossends' frames are desert rooms with skeleton enemies + annotation-card cuts (blackdetect false-positives on overlay transitions), not boss climaxes. Bosses below are EVENT-FEED mentions only, all base/event bosses."}
+ ],
+ "minions": ["skeletal/tan desert enemies (open-realm desert)"],
+ "drops": [
+  "Special Dust ('[Naixor] used a Special Dust...' — consumable/buff item)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Pentaract ('Harpy/Gorgon: A Pentaract has spawned!' + 'Gorgon: (11/30) Pentaract has been defeated')",
+  "Wind Elemental ('Gorgon: (10/30) Wind Elemental has been defeated')",
+  "Skull Shrine ('Gargoyle: (10/30) Skull Shrine has been defeated')"
+ ],
+ "event_bosses_note": "all base/event bosses, not ROTF-custom",
+ "mechanics": "DOCUMENTED: a ROTF giveaway/promo video in the open realm. Corroborates the MULTI-PERSONA EVENT ANNOUNCER + /30 COUNTER system — different NPC personas (Harpy, Gorgon, Gargoyle, Death Notifier) announce realm-event spawns/defeats with a shared (N/30) counter (e.g. 'Gorgon: (11/30) Pentaract has been defeated'). Item 'Special Dust' used by a player (consumable/buff). Giveaway mechanic (like/subscribe/share/comment to enter) is meta, not in-game. No dungeon, no boss taunts, no attack patterns captured.",
+ "uncertain": "No boss taunts or dungeon. Event bosses are base/event (Pentaract/Wind Elemental/Skull Shrine), not ROTF-custom. 'Special Dust' exact effect not described. The red room glimpsed not identified. 'bossends' are overlay-cut false-positives, not fights.",
+ "confidence": "LOW buildable value (giveaway/realm video; no dungeon, no boss taunts, only base-event-feed mentions). MEDIUM for corroborating the announcer-persona + /30 counter system and the open-realm grass/desert layout. GENUINE ROTF. Not a source of new bosses/taunts/attacks."
+}

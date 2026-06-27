@@ -1,0 +1,4 @@
+# Force Wand
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Force%20Wand&prop=wikitext
+
+asdf

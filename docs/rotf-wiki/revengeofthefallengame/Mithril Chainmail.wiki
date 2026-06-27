@@ -1,0 +1,4 @@
+# Mithril Chainmail
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Mithril%20Chainmail&prop=wikitext
+
+asdf

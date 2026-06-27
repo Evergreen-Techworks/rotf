@@ -1,0 +1,19 @@
+# Traps
+# https://rotfserver.fandom.com/api.php?action=parse&page=Traps&prop=wikitext
+
+traps are the ability of the huntress, they often paralyze or slow enemies as the quiver does, but in an area of effect and less damage
+
+== Production Traps ==
+'''''For production Traps please follow this [https://www.realmeye.com/wiki/traps link].'''''
+
+==Custom {{PAGENAME}}==
+{|
+| {{ItemDisplay|A trap made of cookies|a}}
+| {{ItemDisplay|Arcane Bait|h}}
+| {{ItemDisplay|A Precious Rock|h}}
+| {{ItemDisplay|Flesh Trap|p}}
+|}
+===Starforce {{PAGENAME}}===
+{|
+| {{ItemDisplay|Blackhole Trap|g}}
+|}

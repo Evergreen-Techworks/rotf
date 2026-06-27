@@ -1,0 +1,4 @@
+# Colossus Shield
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Colossus%20Shield&prop=wikitext
+
+asdf

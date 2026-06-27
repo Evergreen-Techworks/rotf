@@ -1,0 +1,34 @@
+# Dagger of the Endless Void
+# https://rotfserver.fandom.com/api.php?action=parse&page=Dagger%20of%20the%20Endless%20Void&prop=wikitext
+
+{{ItemInfo
+| name = Dagger of the Endless Void
+| desc = Ths dagger was long lost,before it was found in some old,dark ruins of an cursed place. Wielders of this weapon will suffer,and then die. Thanks to: BeeEasy
+| slot = dagger
+| tier = UT
+| rarity = l
+
+| rof = 100
+| shots = 2
+| arcgap = 10
+| range = 
+| minDmg = 95
+| maxDmg = 135
+| projSpeed = 10
+| lifetime = 500
+| amplitude = 0.24
+| frequency = 0.88
+| fameb = 7
+| feedp = 900
+
+| legendary = 2
+
+| lootbag = white
+| dropsFrom = can be found in a White Bag dropped in: Sprite World from 1st and 2nd Boss.
+|range2 = 5.5|effects = yes|multihit = yes}}
+
+<noinclude>
+{{NavDaggers}}
+</noinclude><noinclude>
+[[Category: Daggers]]</noinclude><noinclude>
+[[Category:Tiered weapons]]</noinclude>

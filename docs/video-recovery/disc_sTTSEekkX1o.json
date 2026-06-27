@@ -1,0 +1,37 @@
+{
+ "dungeon": "GENUINE ROTF long FACECAM realm-roaming stream (~18min, 1076 f_, facecam top-right + subscribe banner). KEY find: a NEW boss 'Troll Matriarch' (forest/summoner) with 3 recovered taunts + a sustained-by-minions gimmick. Also: Ghost of Skuld spawn line + base Sprite God death notifier. Realm event-feed on the RIGHT side (not the usual bottom-left). Single long realm session (1 transition).",
+ "map": "DOCUMENTED-from-f_+transition: open GREEN GRASS realm roaming (scattered enemies, players, item pickups) with brief GOLD/checkered SPRITE-WORLD floor segments (the 'killed by Sprite God' death feed + orange-tile floor). Realm-style open layout (event bosses spawn in the realm), not a tight dungeon; facecam top-right + event-feed panel right-side. No single room sequence.",
+ "bosses": [
+  {
+   "name": "Troll Matriarch",
+   "phases": [],
+   "attacks": ["not isolated (facecam realm-roam, no bossends; summoner-type — leans on minions)"],
+   "minions": ["'warriors past' / 'lost warriors' (summoned; boss is 'invincible with my minions here')"],
+   "colorFlashes": "",
+   "taunts": [
+    "This forest will be your tomb!",
+    "I call upon the aid of warriors past! Sm...",
+    "I feel invincible with my minions here..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Troll Matriarch:' prefix, frame-read chat_00080 full-width grayscale-pull). NEW boss lead. 'This forest will be your tomb!' = VERBATIM full; the other two are tail-CUT ('...past! Sm[...]', '...minions here[...]'). GIMMICK: a forest summoner that calls 'warriors past' minions and is INVINCIBLE while minions are alive (sustained-by-minions, like Ghost King/Hades/Septavius). base-vs-custom: 'Troll Matriarch' is NOT a base-game RotMG name (base Forest Maze has trolls but no 'Troll Matriarch' boss) -> likely ROTF-CUSTOM forest boss; verify before building. BUILDABLE lead (1 clean line + clear gimmick; finish the 2 cut tails first)."
+  },
+  {
+   "name": "Ghost of Skuld",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["Look sharp! A mighty foe is approaching..."],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Ghost of Skuld'). 'Look sharp! A mighty foe is approaching' is the base realm GOD-SPAWN ANNOUNCER line (here a Skuld spawn announcement). Ghost of Skuld = the BUILT Epic Ghost of Skuld -> corroboration of its presence; the announcer line is base-ish (no new Skuld taunt). No build."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [
+  "(death notifier) <player> died at level 20, killed by Sprite God (base Sprite World)",
+  "Ghost of Skuld spawn ('Look sharp! A mighty foe is approaching')"
+ ],
+ "mechanics": "DOCUMENTED: (1) NEW boss 'Troll Matriarch' — forest summoner: 'This forest will be your tomb!' + 'I call upon the aid of warriors past!' + 'I feel invincible with my minions here' -> sustained/empowered WHILE its summoned 'warriors past' minions live (destroy minions to make it killable). (2) base Sprite God death notifier (Sprite World, base). (3) Ghost of Skuld (built) spawn announcer. Realm-roaming event bosses (right-side event feed). Facecam stream.",
+ "uncertain": "Troll Matriarch base-vs-custom UNCONFIRMED (likely ROTF-custom forest boss; not a base name) -> verify. 2 of its 3 lines are TAIL-CUT ('...warriors past! Sm[...]', '...minions here[...]') -> only 'This forest will be your tomb!' is full verbatim; do NOT guess the cut tails. Attack geometry NOT isolated (facecam realm-roam, no bossends). 'Look sharp!...' is a base announcer line (not a unique Skuld taunt). High chat red-density was the SPRITE-WORLD gold floor, not text. Most chat = realm roaming / item tooltips.",
+ "confidence": "MEDIUM-HIGH (Troll Matriarch) / corroboration (Skuld/Sprite God). GENUINE ROTF. Strong NEW find: boss 'Troll Matriarch' (forest summoner) with a VERBATIM line ('This forest will be your tomb!') + a clear sustained-by-minions gimmick -> BUILDABLE lead (flag base-vs-custom + finish the 2 cut tails). Recorded honestly: 2 lines tail-cut (not guessed), attacks not isolated (facecam), Skuld/Sprite God = base/corroboration. Best follow-up: a clean Troll Matriarch fight for the full taunts + attack pattern + base-vs-custom confirm."
+}

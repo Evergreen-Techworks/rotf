@@ -1,0 +1,4 @@
+# Ghastly Drape
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Ghastly%20Drape&prop=wikitext
+
+asdf

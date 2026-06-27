@@ -1,0 +1,4 @@
+# Candyland Hunting Grounds
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Candyland%20Hunting%20Grounds&prop=wikitext
+
+asdf

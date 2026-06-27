@@ -1,0 +1,4 @@
+# Fire Spray Spell
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Fire%20Spray%20Spell&prop=wikitext
+
+asdf

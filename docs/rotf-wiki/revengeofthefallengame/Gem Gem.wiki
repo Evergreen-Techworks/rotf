@@ -1,0 +1,4 @@
+# Gem Gem
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Gem%20Gem&prop=wikitext
+
+asdf

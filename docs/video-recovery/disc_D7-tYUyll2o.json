@@ -1,0 +1,13 @@
+{
+ "dungeon": "Necromancer RPE group stream — Tomb of the Ancients + many dungeons (~26 entries, 16-player party)",
+ "map": "DOCUMENTED biomes from transitions/contact: grey diagonal-walled stone halls (Lost-Halls-style, recurring), red/orange LAVA boss arenas, brown caverns, a dark VOID boss arena (black w/ red core), blue water dungeon, purple diagonal crypt, and a GOLD-tiled pyramid temple with a yellow X-cross floor = Tomb of the Ancients arena.",
+ "bosses": [
+   {"name":"Geb (Tomb of the Ancients)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["YOU HAVE AWAKENED US!","Impudence! I am an immortal!"]},
+   {"name":"Bes (Tomb of the Ancients)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["THIS WILL NOW BE YOUR TOMB!"]},
+   {"name":"Nut (Tomb of the Ancients)","phases":[],"attacks":[],"minions":["commands the other bosses ('...divide your foes!')"],"colorFlashes":"","taunts":["ENOUGH OF YOUR VANDALISM!","My artifacts shall make your [...]","My artifacts shall prove t[oo much...]","This earth shall be your imm[ortal grave...]"]}
+ ],
+ "drops": [],
+ "mechanics": "DOCUMENTED: ROTF includes the TOMB OF THE ANCIENTS (vanilla 3-boss pyramid: Geb, Bes, Nut) with the standard vanilla taunts — confirmed verbatim from chat. NOTE: this is the vanilla Tomb of the Ancients, NOT the ROTF-custom 'Tomb of Decaying Death'. Players track white-bag loot in chat ('2/3 WHITE AND BLUE'). 16-player group run (party counter 13/16, 16/16). Stream title 'Necromancer RPE' (RPE = a public group event/run).",
+ "uncertain": "Taunt endings clipped at chat right edge (bracketed). Boss-name->taunt attribution inferred from the colored name prefixes (Geb/Bes/Nut). None of the 26 entries clearly matched a no-footage dungeon (Craig's Castle / Gate to Underworld / ToDD / Broken Forest / Showcase) at thumbnail resolution.",
+ "confidence": "HIGH for Tomb of the Ancients taunts (Geb/Bes/Nut, VERBATIM where unclipped); MEDIUM for biome inventory. Tomb = vanilla content confirmed present in ROTF."
+}

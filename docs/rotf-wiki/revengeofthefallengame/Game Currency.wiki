@@ -1,0 +1,4 @@
+# Game Currency
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Game%20Currency&prop=wikitext
+
+asdf

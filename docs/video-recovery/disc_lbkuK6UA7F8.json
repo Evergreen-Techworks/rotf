@@ -1,0 +1,21 @@
+{
+ "dungeon": "GENUINE ROTF target-server FACECAM stream (~10min, 9 dungeon entries) — the streamer's WEBCAM covers the bottom-left chat box, so taunts/loot chat are UNREADABLE. Relied on transitions/minimaps/f_-frames (per the facecam protocol). Multi-dungeon: an ABYSS-OF-DEMONS-style lava dungeon (player died here to 'Brute of the Abyss'), SPACE/VOID galactic zones, a large white structured hub/dungeon, green realm, tan dungeons, vault. LOW boss-content yield (no readable chat, no bossends) but the death screen + biomes/layout are documented.",
+ "map": "DOCUMENTED-from-minimaps+transitions: (1) SPACE/VOID galactic zones — open dark maps (some with a dark GRID/tiled 'station' floor) with enemies scattered loosely across the void (no tight room walls); (2) an ABYSS cave — brown/tan BLOB-shaped cavern outline with lava chambers (the red-lava boss arena where the player died); (3) a large WHITE/GREY structured area with green edges + blue markers (vault/Nexus-style hub or an ice/white dungeon, room-partitioned); (4) tan/brown corridor dungeons + a green realm. Run hops hub <-> dungeons <-> space across 9 entries (1s..616s).",
+ "bosses": [
+  {
+   "name": "Brute of the Abyss",
+   "phases": [],
+   "attacks": ["RECONSTRUCTED-from-name (facecam, no bossends, no clean trace): a 'Brute' = a melee/CHARGE/dive bruiser in the Abyss lava arena. NOT frame-traced -> reconstructed, flagged."],
+   "minions": [],
+   "colorFlashes": "red/orange (lava arena)",
+   "taunts": [],
+   "note": "DOCUMENTED-from-DEATH-SCREEN: the death summary reads 'died ... killed by Brute of the Abyss' (player = Level 20 Paladin, 8779 fame). The boss/enemy of the red-lava ABYSS dungeon. NO taunt (facecam covers chat). BASE-GAME-vs-ROTF-CUSTOM UNCERTAIN: the Abyss of Demons is base-game RotMG and 'Brute' enemies exist there, but 'Brute of the Abyss' as a named boss is not a confirmed base name -> flag, verify against base XML before treating as custom. Attack reconstructed from the 'Brute' archetype only."
+  }
+ ],
+ "minions": ["space/void enemies (scattered orange/yellow mobs in the galactic zones)"],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED (limited — facecam stream): (1) the bottom-left CHAT BOX is covered by the streamer's WEBCAM -> taunts/loot UNREADABLE (recovery relied on transitions/minimaps/f_-frames). (2) DEATH SCREEN captured: 'You died! / died on September 25, killed by Brute of the Abyss / Level 20 Paladin / Total Fame Earned 8779' + a stat-bonus breakdown -> standard RotMG fame/death summary. (3) SPACE/VOID galactic zones present (cf. the 'Ruins of the Mad God' galactic content in disc_l8s6Dho3WM4 + the spaceship lines in disc_KF5X3ylt3C0) -> the Galactic-Zones system is recurring. No bossends -> no attack geometry traced.",
+ "uncertain": "CHAT UNREADABLE (facecam) -> zero taunts/loot recovered. 'Brute of the Abyss' is the only named boss (from the death screen); its base-game-vs-custom status + its attack are UNCONFIRMED (attack reconstructed from the 'Brute' archetype, NOT frame-traced -> flagged). Space-zone enemies seen but not boss-identified. Specific dungeon names not captured on entry (biomes only).",
+ "confidence": "MEDIUM-LOW. GENUINE ROTF (RotMG-engine, galactic zones, ROTF-style UI) but a FACECAM stream -> low recoverable boss content. Solid: the biome/dungeon set + layouts (Abyss cave, space/void, white hub) + the death-screen-confirmed enemy 'Brute of the Abyss'. Weak/honest gaps: NO taunts (facecam), NO traced attacks (no bossends), 'Brute of the Abyss' base-vs-custom unconfirmed. Recorded honestly rather than guessing. Best follow-up: a non-facecam clip of the Abyss boss + the galactic zone for taunts + attack geometry."
+}

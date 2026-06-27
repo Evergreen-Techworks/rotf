@@ -1,0 +1,15 @@
+{
+ "dungeon": "NON-ROTF / DIFFERENT private server (mis-pull) — this is 'THE FORGOTTEN REALM' (TFR v1.7.9), NOT ROTF (Revenge of the Fallen). Identified by MOTD 'Welcome to The Forgotten Realm!' + client banner 'TFR v1.7.9 Connected!' + a 'gems' currency ('N gem(s) have been added to your account'). It runs the base-game-derived Ghost King boss (canonical lines, also built in ROTF) -> corroboration only; no NEW ROTF content. Giveaway/loadout promo overlays + crate-grid + lava arenas.",
+ "map": "N/A for ROTF — TFR-server biomes only: a tan SANDY/crate-grid staging floor, RED/LAVA arenas, and dark VOID/space (promo-card backgrounds). Not a ROTF dungeon layout.",
+ "bosses": [],
+ "minions": [],
+ "drops": [
+  "(TFR-server) 'gems' currency: 'N gem(s) have been added to your account'"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "(on the TFR server) Ghost King — 'Misery loves company!' / 'I cannot be defeated while my loyal subjects sustain me!' (base-game-derived; ALREADY built in ROTF, BehaviorDb.GhostKing.cs -> corroboration of canonical lines, not new)"
+ ],
+ "mechanics": "NONE new for ROTF. This is the TFR ('The Forgotten Realm') server (v1.7.9): gems currency, MOTD/connect banners, giveaway/loadout promo overlays. It runs the Ghost King (base-game-derived boss, also in ROTF's build) with the canonical 'Misery loves company!' / 'I cannot be defeated while my loyal subjects sustain me!' lines -> CORROBORATION of the already-built Ghost King, NOT new content. 'GaZap' chat ('u wanna get rekt') = a player, not a boss.",
+ "uncertain": "Server is unambiguously 'The Forgotten Realm' (TFR v1.7.9), a DIFFERENT private server from ROTF (Revenge of the Fallen; ROTF MOTD = 'Welcome to Revenge of the Fallen', X-version banners) -> non-target mis-pull. The Ghost King lines are base-game-derived/canonical (already built in ROTF) -> corroboration regardless of server. No ROTF-custom boss/dungeon/taunt content here. 'GaZap' = player banter, not a boss.",
+ "confidence": "HIGH that this is a NON-ROTF mis-pull (the 'The Forgotten Realm'/TFR private server). NO new ROTF boss/dungeon/taunt content (bosses=[]); the only boss seen (Ghost King) is base-game-derived + ALREADY built in ROTF (corroboration). Recorded honestly as a different-server exclusion (joins the 'Valor' server + official-DECA + other-games mis-pulls). Recommend a discovery-side filter to drop non-ROTF private-server (TFR/Valor) videos. See discovery-mispull-nonrotf-sources."
+}

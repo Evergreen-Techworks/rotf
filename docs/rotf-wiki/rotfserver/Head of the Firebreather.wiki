@@ -1,0 +1,4 @@
+# Head of the Firebreather
+# https://rotfserver.fandom.com/api.php?action=parse&page=Head%20of%20the%20Firebreather&prop=wikitext
+
+{{ItemInfo|name = Head of the Firebreather|desc = The resurrected head of the fallen Firebreather attached to a wooden stick allows for full control over the Firebreather's flames.|rarity = a|slot = staff|tier = ST|minDmg = 40|maxDmg = 70|shots = 4|rof = 120|range2 = 9|fameb = 5|pierce = yes|dropsFrom = drops from the Firebreather}}

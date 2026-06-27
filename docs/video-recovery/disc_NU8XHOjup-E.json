@@ -1,0 +1,11 @@
+{
+ "dungeon": "*** NON-TARGET MIS-PULL — NOT ROTF / NOT RotMG. *** This is THE BINDING OF ISAAC (Rebirth/Afterbirth) — a SEPARATE roguelike dungeon crawler. The frames show an Isaac floor name 'DEPTHS II', the Isaac STAT PANEL (hearts/coins/bombs/keys + damage/tears/speed/luck readouts like 0.95/19.75/31/1.16/6.59), a TRAPDOOR portal, a run 'Time/Score' HUD, and Isaac item icons. ZERO RotMG/ROTF content. The discovery loop grabbed an Isaac run (keyword coincidence); the 168 'transitions' (56 entries) were Isaac room/floor changes, the 'portals' were trapdoors. Recorded as an EXCLUSION.",
+ "map": "NON-TARGET (not a ROTF dungeon): Binding-of-Isaac rooms — dark stone chambers with rocks, blood, a central trapdoor, skull/monster enemies; floor 'DEPTHS II'. This is Isaac's procedural room layout, NOT a RotMG dungeon. Catalogued only to confirm non-target.",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "NON-TARGET (The Binding of Isaac). Frames show the Isaac HUD (hearts/coins/bombs/keys, damage/tears/range/speed/luck stat column, Time+Score), procedural rooms with trapdoors, and Isaac item pickups -> a roguelike, not an MMO. The 386 'chat' crops are the Isaac room floor / stat area (no RotMG chat box; the red-detection found dark-room + trapdoor/blood red, not boss text). No boss, taunt, loot, or ROTF dungeon. Nothing mined.",
+ "uncertain": "Exact Isaac edition (Rebirth vs Afterbirth(+) vs Repentance) not pinned, but the genre/game is unambiguous (DEPTHS floor name + Isaac stat panel + trapdoor + Time/Score HUD). Either way it is NON-TARGET. Confident the whole tag is unrelated to ROTF.",
+ "confidence": "HIGH that this is NON-TARGET (The Binding of Isaac, a roguelike — on-screen 'DEPTHS II' floor + Isaac stat HUD + trapdoor). ZERO ROTF-buildable content. Net value = a documented EXCLUSION preventing cross-game attribution. No boss/taunt/attack recorded by design. *** 5th non-target mis-pull this session (after 'Faer' disc_KBzHN9gFmGg + Cities:Skylines disc_KhLRNM2XluY + official-DECA-RotMG disc_KQfmUbCQOVY + a MOBA/LoL disc_mBHThGYDed8) *** -> a discovery-side genre/keyword pre-filter (drop non-RotMG-engine footage) would stop these wasting recovery slots."
+}

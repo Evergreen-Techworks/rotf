@@ -1,0 +1,4 @@
+# Leather Armors
+# https://rotfserver.fandom.com/api.php?action=parse&page=Leather%20Armors&prop=wikitext
+
+Leather Armors are armors that usually don't have much def but make up for it in the Dexterity Category

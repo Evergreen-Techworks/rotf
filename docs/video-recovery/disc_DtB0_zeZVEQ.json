@@ -1,0 +1,24 @@
+{
+ "dungeon": "ROTF realm/dungeon run (1095 frames, ~12 entries) — Uvuvwuwuwe taunt recovered + Grand Sphinx; a 'smiling dragon' line; rich realm feed. GENUINE ROTF.",
+ "source": "video disc_DtB0_zeZVEQ (1095 f_, 274 chat, 137 minimap, ~12 entries). Server '13.0' (or v3.0). Biomes (contact sheet): sandstone realm, grey-TILED dungeons with red bosses, purple/lavender areas, green realm, brown caves, snow patch. Chat-feed heavy.",
+ "bosses": [
+  {"name":"Uvuvwuwuwe (Uvuvwevwevwe)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You disappoint me."],"note":"DOCUMENTED-from-chat. FIRST recovered TAUNT for the long-name meme boss (ledger TODO). 'Uvuvwevwevwe - You disappoint me.' verbatim. (Spawn/defeat seen in prior tags; now it has a line.)"},
+  {"name":"Grand Sphinx","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You all rejoice these creatures..."],"note":"DOCUMENTED-from-chat. Base RotMG Tomb boss (Grand Sphinx) — base taunt; do not duplicate."},
+  {"name":"(smiling dragon — uncertain)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["it feels like time to rock 'n roll once more!"],"note":"DOCUMENTED-from-chat but speaker prefix garbled ('Spunsacha smiling dragon' — possibly a player name + the word 'dragon', OR a 'Smiling Dragon' / Suspicious-Looking-Dragon variant). LOW confidence on whether this is a boss taunt."},
+  {"name":"(realm feed: Ghost Ship / Shadowscale / Suspicious Looking Dragon / Lord of the Lost Lands / Riverborn / Cube God)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-chat (Demon/Skeleton/Orc announcers): spawn/defeat lines for the usual realm roster."}
+ ],
+ "minions": [],
+ "drops": ["Fplate (armor — sold in AH ~1.5k)", "'Warbringer Flacpool' (a Warbringer-themed item sold ~43k — name uncertain)", "free armor/silver giveaways"],
+ "event_bosses_seen_in_global_feed": [
+  "Ghost Ship has just spawned!",
+  "Grand Sphinx has just spawned!",
+  "The Shadowscale has been defeated",
+  "The Suspicious Looking Dragon has been defeated",
+  "The Lord of the Lost Lands ...",
+  "Riverborn has just spawned!",
+  "The Cube God has been defeated"
+ ],
+ "mechanics": "DOCUMENTED: (1) UVUVWUWUWE meme boss now has a verbatim taunt 'You disappoint me.' (first line recovered for the ledger's Uvuvwuwuwe). (2) Grand Sphinx base taunt 'You all rejoice these creatures...'. (3) A 'smiling dragon' line 'it feels like time to rock n roll once more!' (uncertain boss attribution). (4) Stat-pot caps recur (Wisdom/Dexterity/Speed/Vitality 'N left to max'). (5) Items: Fplate armor, a 'Warbringer Flacpool' item. Server 13.0.",
+ "uncertain": "'smiling dragon' line speaker uncertain (player vs a Smiling/Suspicious Dragon boss). 'Warbringer Flacpool' item name partial. Server version '13.0' vs 'v3.0' read. Only the chat sampled (274 crops) — boss attack patterns not isolated.",
+ "confidence": "HIGH for 'Uvuvwevwevwe - You disappoint me.' (first Uvuvwuwuwe taunt) + Grand Sphinx base line + the realm feed. MEDIUM for the smiling-dragon line + item names. GENUINE ROTF."
+}

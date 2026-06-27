@@ -1,0 +1,4 @@
+# Cloudflash Scepter
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Cloudflash%20Scepter&prop=wikitext
+
+asdf

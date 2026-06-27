@@ -1,0 +1,24 @@
+{
+ "dungeon": "GENUINE ROTF — a LARGE multi-dungeon HUNT/portal-hop stream (~370s, 35 dungeon entries / ~20 bossend groups, fast hub-hopping). Most fights are brief and chat is player-banter-dominated, but THREE solid finds: (1) a MYSTERY-BOX SHOP economy (named purchasable boxes w/ prices), (2) The Forgotten King base-game taunts (corroboration), (3) a 'Potion of Vitality Consumed ++' stat-pot line (fills the Vitality-naming gap). No priority no-footage dungeon (Craig's Castle / Gate to Underworld / ToDD / Broken Forest / Showcase) was clearly identifiable in the fast transitions.",
+ "map": "DOCUMENTED-from-transitions+minimaps: a rapid 35-ENTRY portal-hop across many biomes — dark SPACE/VOID arenas, RED/LAVA arenas, GREY/GOLD CHECKERED (Shatters-style) grid arenas, GREEN grass realms, BROWN/desert dungeons, and PURPLE/magenta zones. Many entries are seconds apart (t001-t007 within 11s = a hub/portal room). No single contiguous dungeon layout (it's a hunt across many short dungeons); arena geometry varies per biome. The big b033_246s window resolves to the player opening a SHOP/box menu in a green-realm + a red-bullet boss arena.",
+ "bosses": [
+  {
+   "name": "The Forgotten King",
+   "phases": [],
+   "attacks": ["not isolated this tag (hub-hop; red radial/scattered bullets in the green-realm b033 window, approximate)"],
+   "minions": ["Guards (summons them — 'Guards. Come to my...')"],
+   "colorFlashes": "",
+   "taunts": ["You'll surely challenge...", "Guards. Come to my..."],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'The Forgotten King', grayscale-pull; lines right-edge cut -> PARTIAL). BASE-GAME RotMG (Shatters / realm Forgotten King, summons Guards) -> CANONICAL, NOT ROTF-custom (cf. prior boss-the-forgotten-king NO-BUILD). Corroboration only."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Mystery-box SHOP items (named, w/ prices — likely Fame/premium currency): 'Art Contest Trials Box', \"Craig's Fame Box\" (100), 'Hula Box' (160), 'The Spectacular Ambrosia Box' (99), 'Skuld Redux' (149)",
+  "Potion of Vitality (consumed -> 'Potion of Vitality Consumed ++')"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED-from-frames: (1) a MYSTERY-BOX / gacha SHOP (overlay 'rolling some mystery ... packs!') selling NAMED boxes at fixed prices — 'Art Contest Trials Box', \"Craig's Fame Box\" (100), 'Hula Box' (160), 'The Spectacular Ambrosia Box' (99), 'Skuld Redux' (149). Boss/event-themed boxes (Craig=the Mad Intern, Skuld=Epic Ghost of Skuld, Ambrosia) -> a box-rolling economy distinct from the in-realm 'Special Crate'/Lootbox unboxes. (2) Vitality stat-pot in THIS build is VANILLA-named with a '++' increment: 'Potion of Vitality Consumed ++' (fills the previously-unseen Vitality slot). (3) The Forgotten King base-game guard-summon flavour. Hunt/hub-hop overall.",
+ "uncertain": "35 transitions are fast hub-hops -> individual dungeon NAMES not readable (no priority no-footage dungeon positively identified). Forgotten King taunts are PARTIAL (right-edge cut) + base-game (corroboration). Box prices (100/160/99/149) are a number-only read -> the CURRENCY (Fame vs gold vs premium) not labelled in-frame. The 'Potion of Vitality ++' is one build's naming (build-dependent, like the fruit/vanilla split). Attacks not isolated (hub-hop; only approximate red radial/scattered bullets in b033). Most chat = player banter (excluded).",
+ "confidence": "MEDIUM. GENUINE ROTF hunt stream. Solid NEW economy content: a NAMED MYSTERY-BOX SHOP (Art Contest Trials / Craig's Fame 100 / Hula 160 / Spectacular Ambrosia 99 / Skuld Redux 149) + a 'Potion of Vitality Consumed ++' line (fills the Vitality gap). Boss = Forgotten King base-game corroboration (partial, no-build). Recorded honestly: 35 dungeons un-named (fast hops), box currency unlabelled, attacks approximate. Best follow-up: a clean shop clip for the full box list + prices/currency + contents."
+}

@@ -1,0 +1,13 @@
+{
+ "dungeon": "Flaming Hearth (Medium-rank; elemental-dragon Lord)",
+ "source": "aced.gg dev blog 2021-03-28 (Dragons/Midgame, Quaximi) — DOCUMENTED (concept art stage)",
+ "map": "Realm biome = rocky WASTELAND with patches of FIERY GRASS and scalding LAVA LAKES ('scorching plains'). After defeating the Lord you descend BELOW into a dungeon to reach the titular 'Hearth'.",
+ "bosses": [
+   {"name":"Firebreather (fire dragon, Lord of the Flaming Hearth)","phases":["realm Lord — explore to find his den","dungeon descent after the Lord"],"attacks":[],"minions":["speedy salamanders","armored armadillos","firespitting flowers","flaming tumbleweeds (hazard)"],"colorFlashes":"fire orange/red","taunts":[],"note":"One of the FOUR elemental dragons returning from legacy as realm Lords."}
+ ],
+ "minions": ["salamanders (fast)","armadillos (armored)","firespitting flowers","flaming tumbleweeds"],
+ "drops": [],
+ "mechanics": "DOCUMENTED (dev blog, concept stage): Flaming Hearth is a Medium-rank fire world. Lord = FIREBREATHER (fire dragon). Realm-Lord pattern: explore the realm to find his den, defeat him, then descend into the dungeon below to the Hearth. NOTE: this fire 'scorching plains' wasteland matches the 'Scorched Plains' title-card teaser recovered from video.",
+ "uncertain": "Concept-art stage in 2021 ACED build; exact patterns/stats/drops TBD. Was it in the original 2019 server? (Firebreather dragon is 'from legacy' so yes, in some form.)",
+ "confidence": "MEDIUM for biome + Lord + enemy concepts (DOCUMENTED); LOW for stats."
+}

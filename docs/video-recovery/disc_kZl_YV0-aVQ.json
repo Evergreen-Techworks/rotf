@@ -1,0 +1,20 @@
+{
+ "dungeon": "(HUGE MULTI-DUNGEON STREAM ~36 entries, streamer 'imnoop') ROTF — event-boss /30 feed + Drake Baby taunt + loot/stat-pot details",
+ "source": "video disc_kZl_YV0-aVQ (3048 frames, 108 transitions = ~36 entries, 4571 chat; streamer webcam overlay). Chat = event/death/loot feed + a couple boss/enemy taunts.",
+ "map": "DOCUMENTED biomes: green grass realm, ORANGE/LAVA arenas, BROWN-BRICK dungeons, RED/MAGENTA zones, blue ICE, grey stone, tan desert. Heavy fire/lava + brick-dungeon content.",
+ "bosses": [
+  {"name":"Drake Baby","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Awwwwk! Awwwwk!"],"note":"DOCUMENTED VERBATIM (entity-colored chat). A baby-drake enemy with a squawk taunt."},
+  {"name":"Oryx the Mad God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You are food for my minions!"],"note":"DOCUMENTED from startup chat (re-confirmed)."}
+ ],
+ "minions": [],
+ "drops": ["legendary loot (a 'legendary' loot TIER — '<Loot Notifier> [player] just got some legendary loot ... with 100% damage dealt!')"],
+ "event_bosses_seen_in_global_feed": [
+   "The Uvuvwuwuwe (defeated 9/30 — meme name)",
+   "The Grand Sphinx (defeated 16/30)",
+   "Ghost Ship (spawned + defeated 25/30)",
+   "Hermit God (just spawned)"
+ ],
+ "mechanics": "DOCUMENTED: (1) /30 event-counter feed continues (Uvuvwuwuwe 9/30, Grand Sphinx 16/30, Ghost Ship 25/30). (2) LOOT: a 'legendary loot' TIER exists (matches dev-blog 'Legendary/Primal items'), awarded 'with 100% damage dealt!' (reconfirms the damage-contribution loot rule). (3) STAT-POT NAMING IS BUILD-DEPENDENT: this X1.5 build uses VANILLA 'Potion of Defense consumed. 19 left to max.' / 'Potion of Attack consumed. 33 left to max.' (NOT the fruit names 'Defense Coconut/Attack Blackberry' seen on the other build disc_iBUg7V_Eq0A) — so the fruit-named stat-pots are a specific build's flavor, while other builds keep vanilla 'Potion of X'. All builds use the 'N left/more to max' stat-cap counter. (4) MOTD 'Welcome to Revenge of the Fallen'; controls WASDQE; client X1.5.",
+ "uncertain": "Boss attacks/HP/drops not isolated. The fruit-vs-vanilla pot-name split is now clearly BUILD-DEPENDENT (correcting the earlier assumption that HP/MP=Potion & others=fruit universally). ~36 entries not individually named.",
+ "confidence": "HIGH for: the /30 event roster, the 'legendary loot'+100%-damage rule, the Drake Baby taunt, and the build-dependent stat-pot naming. LOW for biome->dungeon mapping."
+}

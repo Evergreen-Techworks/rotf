@@ -1,0 +1,30 @@
+{
+ "dungeon": "ROTF FACECAM stream (~657s+, 691 f_, 6 dungeon entries) — LOW yield. The facecam sits TOP-RIGHT and covers the MINIMAP, and the chat box is mostly empty/covered (only '[Enter] To Chat' + death notifiers like 'X died at level 20, killed by Lava'). No boss is named or tauntED. Fights occur in lava + grey-checkered grid arenas; ends on a 'Thanks for Watching!' outro. Recoverable: map biomes + approximate attack class only.",
+ "map": "DOCUMENTED-from-transitions+f_ (minimaps facecam-covered): the run alternates RED/LAVA arenas (orange lava-brick floors, players die to 'Lava' hazard) and grey/tan CHECKERED GRID arenas (Shatters-style square-tile floors with green enemies). 6-entry multi-dungeon hop. No single contiguous layout; minimaps unusable (face covers them).",
+ "bosses": [
+  {
+   "name": "(unidentified — lava-arena boss)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (f_00561): scattered/loose RED+WHITE bullets around a central boss in a lava arena -> spread/scattered (no clean ring/spiral isolated; the red lava floor obscures red bullets). Approximate."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "NO NAME captured (facecam covers minimap; chat empty -> no boss-prefix line). Unidentified lava-arena boss with a scattered-bullet attack. NOT attributed/guessed."
+  },
+  {
+   "name": "(unidentified — grid-arena boss)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (f_00241): a loose SPREAD of blue/white bullets in a grey-checkered grid arena -> spread/scattered. Approximate."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "NO NAME captured. Unidentified grid-arena boss; scattered/spread bullets. NOT attributed/guessed."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED (limited — facecam stream): LAVA is a hazard that kills players ('X died at level 20, killed by Lava' death notifier) in the lava arenas. Otherwise no boss/taunt/loot content is readable (facecam covers the minimap + the chat box shows only '[Enter] To Chat' + death notifiers). Two unnamed boss fights with scattered/spread bullet attacks (lava arena + grey-grid arena).",
+ "uncertain": "Facecam TOP-RIGHT covers the MINIMAP (unusable) and the chat is empty/covered -> NO boss names, NO taunts recoverable. Both bosses UNIDENTIFIED (not attributed/guessed). Attack geometry only APPROXIMATE (scattered/spread; lava floor obscures red bullets; no bossends to trace). A faint f_00561 top-left label was not legibly a boss name -> NOT claimed. Map biomes (lava + grey-grid) are clear but room layout is not (minimap covered).",
+ "confidence": "LOW. GENUINE ROTF facecam stream but minimal recoverable content: 2 UNIDENTIFIED bosses (lava-arena + grid-arena) with approximate scattered/spread attacks, a 'killed by Lava' hazard, and lava + grey-checkered-grid biomes. NO boss names or taunts (facecam covers minimap, chat empty). Recorded honestly (bosses unnamed, attacks approximate, no fabrication). Best follow-up: a non-facecam clip of these lava/grid bosses to get names + taunts + clean bullet geometry."
+}

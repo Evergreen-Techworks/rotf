@@ -1,0 +1,4 @@
+# Thousand Shot
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Thousand%20Shot&prop=wikitext
+
+asdf

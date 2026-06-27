@@ -1,0 +1,14 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM ~59 entries) ROTF — Mewtwo meme boss + Cloth Bazaar vendor",
+ "source": "video disc_t4BuOE5nwBE (1032 frames, 177 transitions = ~59 entries, 1549 chat; streamer with a Subscriber-Goal overlay that covers the chat box in many frames). Diverse dungeons. Chat captured a Mewtwo boss + event feed.",
+ "map": "DOCUMENTED biomes: dark SPACE arena, blue water + sand, green grass + structures, tan DESERT, red LAVA, grey stone, PURPLE/MAGENTA dungeon (Mewtwo's arena?), white-tile palace. A 'Cloth Bazaar' vendor/shop area.",
+ "bosses": [
+  {"name":"Mewtwo","phases":[],"attacks":[],"minions":[],"colorFlashes":"purple","taunts":["You think you can beat me?","So you are trying to kill me?"],"note":"DOCUMENTED VERBATIM (boss-colored chat). A MEME boss (Pokémon reference — Mewtwo, the psychic legendary). Cocky/menacing taunts. Likely a purple/magenta-arena meme event boss (fits the ROTF meme-boss family: Cookie Monster, Carrot God, The Zucc, etc.)."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Treesmasher (defeated 12/25)","Lord of the Lost Lands (just spawned)"],
+ "mechanics": "DOCUMENTED: (1) NEW meme boss 'Mewtwo' (Pokémon reference) with taunts 'You think you can beat me?' / 'So you are trying to kill me?'. (2) 'CLOTH BAZAAR' — a vendor/shop area (cloth = likely a cosmetics/skin/dye vendor hub). (3) Event feed (Treesmasher 12/25, Lord of the Lost Lands).",
+ "uncertain": "Mewtwo's attacks/HP/arena not isolated (sub-goal overlay covered chat/HUD in many frames). 'Cloth Bazaar' exact function (cosmetics vendor?) inferred. No dungeon names captured (overlay-obscured).",
+ "confidence": "HIGH for the Mewtwo meme-boss taunts (verbatim) + the Cloth Bazaar vendor area. LOW for boss arena/attacks (streamer overlay obscured much of the HUD/chat)."
+}

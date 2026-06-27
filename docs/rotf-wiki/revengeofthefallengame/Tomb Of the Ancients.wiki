@@ -1,0 +1,4 @@
+# Tomb Of the Ancients
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Tomb%20Of%20the%20Ancients&prop=wikitext
+
+asdf

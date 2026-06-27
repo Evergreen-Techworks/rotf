@@ -1,0 +1,4 @@
+# Essence Tap Skull
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Essence%20Tap%20Skull&prop=wikitext
+
+asdf

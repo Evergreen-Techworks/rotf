@@ -1,0 +1,4 @@
+# Rings
+# https://rotfserver.fandom.com/api.php?action=parse&page=Rings&prop=wikitext
+
+Rings are equipment that can be worn throughout all classes.

@@ -1,0 +1,4 @@
+# Frozen Wand
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Frozen%20Wand&prop=wikitext
+
+asdf

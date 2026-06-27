@@ -1,0 +1,4 @@
+# The Shatters
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=The%20Shatters&prop=wikitext
+
+asdf

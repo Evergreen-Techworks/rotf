@@ -1,0 +1,4 @@
+# Himura's Katana
+# https://rotfserver.fandom.com/api.php?action=parse&page=Himura%27s%20Katana&prop=wikitext
+
+{{ItemInfo|name = Himura's Katana|desc = A powerful blade, wielded by only the greatest of magical swordsmen, this blade has been lost to obsidian dragon for many ages, lost it is no more...|rarity = u|slot = katana|tier = UT|minDmg = 120|maxDmg = 160|shots = 1|rof = 130|range2 = 4|fameb = 5|dropsFrom = no idea}}

@@ -1,0 +1,4 @@
+# Shadowscale
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Shadowscale&prop=wikitext
+
+asdf

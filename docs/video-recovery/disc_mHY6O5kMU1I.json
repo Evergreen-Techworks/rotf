@@ -1,0 +1,26 @@
+{
+ "dungeon": "GENUINE ROTF/RotMG single-dungeon clip (~132s + a 'thanks for watching' outro card, likely same creator as disc_M04fBHBpodE) — a grey-STONE dungeon with a FORGE room, boss = STRANGE MAGICIAN (combat-overlay confirmed 'Enemy: Strange Magician'), a mystic/immunity-themed boss with verbatim taunts. Chat readable (boss-coloured). One new boss candidate + an immunity mechanic.",
+ "map": "DOCUMENTED-from-transitions+f_frames: a grey-STONE dungeon (square stone rooms + corridors) with a 'Forge' room (on-screen 'Forge' labels = a crafting/forge station), a dark SPACE/VOID start area, and loot rooms (Misc/Rings labels). The Strange Magician is fought in the grey-stone arena. Single dungeon; 'entry' at 134s is the OUTRO card, not a dungeon. No clean boss-fight bossend (b002_3s = dark start area; b003_136s = outro).",
+ "bosses": [
+  {
+   "name": "Strange Magician",
+   "phases": ["immunity gimmick: 'impervious to non-mystic attacks'"],
+   "attacks": ["NOT cleanly traced (no clean bossend — b002_3s is the start area, b003_136s is the outro). Mechanic-level: IMMUNE to non-mystic attacks ('We are impervious to non-mystic attacks!') -> an immunity/resist phase, not a bullet pattern. Geometry reconstructed/unknown -> flagged."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["We are impervious to non-mystic attacks!", "...it ascends you... EXPLODE!", "ARRRG! THIS IS IMPOSSIBLE!"],
+   "note": "DOCUMENTED-from-chat + combat-overlay ('Enemy: Strange Magician'). A mystic/magician boss. 'We are impervious to non-mystic attacks!' (f_00122, CLEAR) = an IMMUNITY mechanic (only mystic/certain damage works; note 'We are' — plural/royal). '...it ascends you... EXPLODE!' = DOCUMENTED-PARTIAL (chat_30 + f_00122 bottom; exact joining uncertain). 'ARRRG! THIS IS IMPOSSIBLE!' = death cry (chat_30/33). BASE-vs-CUSTOM UNCERTAIN: 'Strange Magician' is not a standard base-game RotMG boss -> likely ROTF-CUSTOM (verify before building). A 4th fragment 'after you drink it you hav[e]...' near the fight is UNCERTAIN-attribution (could be the boss explaining a potion mechanic OR player chat about a 'supreme potion') -> NOT firmly attributed."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Misc/Rings loot (on-screen labels; specifics not isolated)",
+  "Potion of Attack (from a Potion Dust)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Strange Magician has been defeated! (26/30)"
+ ],
+ "mechanics": "DOCUMENTED: (1) STRANGE MAGICIAN boss with an IMMUNITY gimmick — 'We are impervious to non-mystic attacks!' (only mystic/certain damage hurts it) + a death cry 'ARRRG! THIS IS IMPOSSIBLE!' + an 'it ascends you... EXPLODE!' attack-announce. (2) a FORGE room/station present (crafting). (3) POTION DUST -> POTION (player 'Used a Potion Dust and obtained a Potion of Attack') + a 'supreme potion -> 16/16 (instant-max)' player-chat reference. GENUINE ROTF. Boss attack geometry NOT traced (no clean bossend).",
+ "uncertain": "Strange Magician base-vs-custom UNCONFIRMED (likely custom — not a standard base boss; verify). '...it ascends you... EXPLODE!' is PARTIAL (exact wording/joining uncertain). The 'after you drink it you hav[e]...' fragment is UNCERTAIN-attribution (boss vs player chat) -> not firmly assigned. ATTACK geometry not captured (b002_3s=start, b003_136s=outro -> no clean fight bossend). The 'supreme potion 16/16' line is player chat (a mechanic reference, not confirmed in-game).",
+ "confidence": "MEDIUM-HIGH for the Strange Magician TAUNTS: 'We are impervious to non-mystic attacks!' (CLEAR, f_00122) + 'ARRRG! THIS IS IMPOSSIBLE!' (death) are solid; '...ascends you... EXPLODE!' partial. Combat-overlay confirms the name. MEDIUM for base-vs-custom (likely custom, flagged). LOW for ATTACK (immunity mechanic noted; bullet geometry not traced). Net value: a NEW mystic/magician boss candidate (Strange Magician) with a distinctive IMMUNITY gimmick + 2-3 taunts — IF confirmed custom. Best follow-up: a clean single-boss clip for the full 'EXPLODE' line + attack geometry + base-vs-custom check."
+}

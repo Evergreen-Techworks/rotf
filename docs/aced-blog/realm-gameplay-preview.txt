@@ -1,0 +1,32 @@
+entry-content">
+
+ Hey! At the end of the month of June, we uploaded a quick preview of our vision for the new realms in Revenge of the Fallen. We’d discussed our plans loosely during a Q&A session, but it was the first time we’ve shown gameplay of it publicly. 
+
+ Most of you guys have already seen it, but to be clear, the video does NOT represent a finished product–not even remotely. We’re getting closer to closed testing, so we wanted to show where we were at + what we’ve been working on so that y’all could get excited. We didn’t do a good enough job communicating that “close to testing” did NOT mean “close to a finished product.” Oops. 
+
+ I’ll be linking the video below so that anyone who hasn’t seen it can do so, but, just to address some common questions/concerns: 
+
+ The biome areas that are seen in the video are placeholder. We intend to fully populate each biome with thematic minions, decorative objects, etc. Dungeons and keys are still core features of the game. The lords of the biomes are meant to drop the portals to their respective dungeons. Since these biomes were placeholder, most of the lords were just the bosses from their dungeons, but that’s not a permanent thing! Each dungeon in the game is meant to have a unique biome, tileset, minionset, and a lord to match it in the Realm. More work will be done to make the transitions between each biome feel natural. Each class is meant to have a unique Defensive ability. The two that are shown in the video, deflection + ghosting, will not be used as-is. The Defensive resource bar will also not be used as-is. We know how overpowered those abilities are in the video. They were just there for testing. There will be several different world bosses–not just the one seen in the video. The world boss featured in the video will have several more phases, and will be more challenging. “Beta keys” are now being called “closed testing keys” to more accurately reflect development state. 
+
+ Happy pride. Black lives matter. 
+
+ From now on, each blog post will include a closed testing key, which can be used at https://rotf.io/register . Each key is one-time use, so keep your eyes peeled. If you redeem a key successfully, once testing begins, you’ll receive an email with instructions on how to download the testing client and play. 
+
+ Key: FDG9-XSQO-SGEM-6WRM 
+
+ More to come, soon. Thanks for sticking with us. 
+ Share this: Twitter Facebook Like this: Like Loading... 
+
+ Related 
+
+ Tagged aced aced games beta closed download fallen key of preview register revenge rotf rotf.io the 
+
+ Published by Miniguy 
+
+ I’m one of the lead developers at ACED. We’re currently working on porting RotF to Unity! 
+ View all posts by Miniguy 
+
+ Published 
+ July 13, 2020 July 13, 2020 
+
+</article

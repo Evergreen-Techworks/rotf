@@ -1,0 +1,4 @@
+# Pot Head
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Pot%20Head&prop=wikitext
+
+asdf

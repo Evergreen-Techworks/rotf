@@ -1,0 +1,288 @@
+# Swords
+# https://revenge-of-the-fallen-rotmg.fandom.com/api.php?action=parse&page=Swords&prop=wikitext
+
+This page includes both custom swords and old swords that have been edited from how they appear on the predicting RotMG server.
+{| class="article-table"
+!Swords
+!Damage
+!Range
+!RoF
+!Shots
+!Stats
+!Pierce
+!Armor Pierce
+!Obstacle Pierce
+!Fame Bonus
+!Tier
+!Legendary/Primal Effect
+|-
+|Sword of Splendor
+|235-295
+|4.3
+|
+|
+|
+|
+|
+|
+|5%
+|T13
+|
+|-
+|Sword of Majest
+|245-310
+|4.3
+|
+|
+|
+|
+|
+|
+|6%
+|T14
+|
+|-
+|Starbuster Blade
+|255-320
+|4.3
+|
+|
+|
+|
+|
+|
+|6%
+|GL
+|
+|-
+|Sword of the Fallen
+|275-340
+|5.2
+|90%
+|
+|<nowiki>+2att</nowiki>
++2dex
+|
+|
+|
+|6%
+|Heroic
+|
+|-
+|Blade of the Fallen Sky
+|170-235
+|5.3
+|120%
+|
+|
+|yes
+|
+|
+|5%
+|Heroic
+|
+|-
+|Fang of Frost
+|115-155
+|4.5
+|130%
+|
+|
+|
+|yes
+|
+|6%
+|Unique
+|
+|-
+|Sword of the Demon Lord
+|220-260
+|4.1
+|80%
+|
+|<nowiki>+50hp</nowiki>
++5vit
+|
+|yes
+|
+|5%
+|Unique
+|
+|-
+|The Seaweed Sword
+|75-145
+|5
+|120%
+|3
+|<nowiki>+4vit</nowiki>
+|
+|
+|
+|5%
+|Artifact
+|
+|-
+|Shadowbone Sword
+|123-166
+|4.8
+|
+|3
+|<nowiki>+4att</nowiki>
++2vit
+|yes
+|
+|
+|5%
+|Artifact
+|
+|-
+|Dreadstump's Rapier
+|140-175
+|3.6
+|175%
+|
+|
+|
+|
+|
+|0%
+|Unique
+|
+|-
+|Omega Ancient Sword
+|180-240
+|4.95
+|
+|3
+|<nowiki>+2def</nowiki>
+|
+|
+|
+|6%
+|Legendary
+|Last Hope
+|-
+|Shattered War Axe
+|200-300
+|6.5
+|75%
+|
+|
+|
+|
+|
+|6%
+|Legendary
+|Angel's Touch
+|-
+|Trowing Spear
+|280
+|9.75
+|50%
+|
+|
+|
+|yes
+|
+|6%
+|Legendary
+|Angel's Touch
+|-
+|Enchanted Uru Sword
+|180-240
+|4.48
+|75%
+|2
+|<nowiki>+4def</nowiki>
++6wis
+|yes
+|yes
+|
+|7%
+|Legendary
+|Angel's Touch
+|-
+|Gungnir 
+|235-295
+|7
+|95%
+|
+|
+|
+|yes
+|
+|7%
+|Legendary
+|Throwback
+|-
+|Warbringer's Flagpole
+|90-260
+|3
+|50%
+|5
+|<nowiki>+80hp</nowiki>
++8def
+
++8vit
+
+-4dex
+|
+|
+|yes
+|6%
+|Legendary
+|Curse
+|-
+|Sword of Oryx
+|345-420
+|4.56
+|120%
+|
+|
+|yes
+|yes
+|
+|7%
+|Legendary
+|Curse
+|-
+|Rotting Arm
+|175-200
+|2.9
+|55%
+|5
+|<nowiki>+40hp</nowiki>
++4def
+|
+|
+|
+|6%
+|Legendary
+|Throwback
+|-
+|Ancient Stone Sword
+|350-400
+|5
+|60%
+|
+|
+|
+|
+|
+|4%
+|Legendary
+|Throwback
+|-
+|Sword of the Collosus
+|350-375
+|5
+|110%
+|
+|
+|
+|
+|
+|6%
+|Legendary
+|Throwback
+|}

@@ -1,0 +1,13 @@
+{
+ "dungeon": "GENUINE ROTF target-server but a VAULT / LOOT SHOWCASE video (facecam + 'LEAVE A LIKE' CTA + a YouTube-creator overlay 'DODI agantto'), NOT a dungeon/boss run. The creator tours their VAULT + pets. Target confirmed (ROTF vault layout + a 'Pet Stasis' feature) but ZERO boss content — no bosses, dungeons, taunts, or clean loot names. Recorded honestly as a low-yield showcase (feature-confirmation only).",
+ "map": "DOCUMENTED-from-f_frames but NON-DUNGEON: the ROTF VAULT — a white/light-tiled room filled with a GRID of brown VAULT CHESTS (storage), plus a 'PET STASIS' labeled pet-yard area, and a vault-claim UI hint ('Click/Limit To Claim'). A storage/hub layout, NOT a dungeon/arena. The minimap shows the structured vault/hub region.",
+ "bosses": [],
+ "minions": [],
+ "drops": [
+  "(vault/equipment items shown — purple/orange tier gear in the panel — but NOT cleanly named/isolated; not transcribed to avoid guessing)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED (feature-confirmation, no combat): (1) ROTF VAULT — a grid of vault chests for item storage. (2) 'PET STASIS' — a pet-yard / pet-stasis feature (store/swap pets) is present and labeled. (3) a vault-claim UI ('Click To Claim'-style hint). (4) FACECAM video with a 'LEAVE A LIKE' CTA + creator overlay -> the bottom-left chat is covered/irrelevant (vault floor), so no boss taunts. This is a loot/vault SHOWCASE, not a dungeon clear -> no boss/attack content to recover.",
+ "uncertain": "Facecam + vault-showcase -> NO boss/taunt/attack content exists to recover. Equipment/vault item NAMES not legible at this resolution -> deliberately NOT transcribed (no guessing). 'Pet Stasis' read is clear; exact mechanics (slot count etc.) not captured.",
+ "confidence": "HIGH that this is GENUINE ROTF (target server: ROTF vault + Pet Stasis feature) but a VAULT/LOOT SHOWCASE with ZERO buildable boss content. Net value: confirms the Pet-Stasis feature + the vault layout exist on the ROTF server; no boss/taunt/attack. Distinct from the non-target mis-pulls (Faer/Cities:Skylines/official-DECA) — this IS the ROTF server, just non-combat showcase footage. Recorded honestly; nothing fabricated. Best use of future slots: prefer dungeon-run footage over vault-tour footage."
+}

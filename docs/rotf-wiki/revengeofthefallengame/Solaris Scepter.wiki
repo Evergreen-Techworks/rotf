@@ -1,0 +1,4 @@
+# Solaris Scepter
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Solaris%20Scepter&prop=wikitext
+
+asdf

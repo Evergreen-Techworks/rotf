@@ -1,0 +1,14 @@
+{
+ "dungeon": "GENUINE ROTF server clip but a BASE-GAME farming MEME video (~80s, heavily edited; player 'Ricest'). Subject = farming THESSAL the Mermaid Goddess (base-game Ocean Trench boss) for DOOM BOWS ('DBOWS'). Title/caption cards: 'RICEST DBOWS', 'RICEST NEVER SPENDING MONEY ON THIS SHIT', 'I JUST F***ED THESSAL', 'DBOWS, DBOWS, DBOWS, DBOWS', 'Thanks for watching'. NO ROTF-custom boss/taunt — base-game content + creator commentary captions.",
+ "map": "DOCUMENTED-from-frames: grey STONE/CHECKERED dungeon rooms (rapid-cut montage of 16 entries 29-54s) with orange/red bullet scatter. (Base Thessal's lair is normally blue-water Ocean Trench; the grey-stone rooms shown are edited cuts / other rapid hops in the montage.) No single contiguous layout captured (heavy editing + big caption overlays).",
+ "bosses": [],
+ "minions": [],
+ "drops": [
+  "Doom Bow ('DBow' — the farm target; base-game Thessal drop)",
+  "Mystery Boxes (a reward/box screen shown mid-video)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "NONE new/ROTF-custom. A base-game DOOM BOW farming run on Thessal the Mermaid Goddess (base Ocean Trench boss). The big on-screen text is CREATOR CAPTION commentary ('I JUST F***ED THESSAL' / 'DBOWS x4' / 'RICEST NEVER SPENDING MONEY'), NOT boss taunts. Thessal is BASE-GAME (EmbeddedData_OceanTrenchCXML.xml + BehaviorDb.OceanTrench.cs; not in any OrdinaryClient_* custom file).",
+ "uncertain": "Heavily EDITED meme video: the in-game CHAT box is obscured by large white CAPTION overlays (creator commentary, not taunts) -> NO boss taunt recoverable, and none expected (Thessal is base-game). Bullets are scattered orange in grey-stone rooms across rapid cuts -> no clean attack geometry traceable, and not needed (base boss). The grey-stone arenas don't match Thessal's usual blue-water lair -> likely other rapid-hop dungeons in the montage, not isolated. No ROTF-custom boss/dungeon present.",
+ "confidence": "HIGH that this is a BASE-GAME Doom-Bow farming MEME video (Thessal the Mermaid Goddess) with NO ROTF-custom content -> bosses=[] (no-build). GENUINE ROTF server, but the only 'content' is a base boss + a Doom Bow drop + creator captions. Recorded honestly: bosses empty, captions identified as commentary (not taunts), Thessal confirmed base-game, no fabrication. No follow-up needed (no buildable ROTF content)."
+}

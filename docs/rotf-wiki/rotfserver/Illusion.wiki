@@ -1,0 +1,4 @@
+# Illusion
+# https://rotfserver.fandom.com/api.php?action=parse&page=Illusion&prop=wikitext
+
+Illusion is a Mid-Tier dungeon dropped by Beholders in the Godlands. It holds various White Bag drops and is a source for Potions.

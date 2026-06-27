@@ -1,0 +1,4 @@
+# Golden Shield
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Golden%20Shield&prop=wikitext
+
+asdf

@@ -1,0 +1,4 @@
+# Puppet Master's Encore
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Puppet%20Master%27s%20Encore&prop=wikitext
+
+asdf

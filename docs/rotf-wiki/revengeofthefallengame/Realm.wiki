@@ -1,0 +1,249 @@
+# Realm
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Realm&prop=wikitext
+
+One of the most important areas in the game is The Realm. Here you will find a huge map with a wide variety of enemies and bosses.
+
+The realm is divided in areas, and progresses in difficulty the deepest you get inside of it. Meaning that the enemies in the first area are meant for lvl 1 characters and the enemies in the last area are for lvl 20 characters.
+
+The most important part of the realm is that it's the main source of dungeons. Some enemies and bosses have determined chance of dropping a dungeon that you can join. Learn about dungeons here ==> Dungeons <==
+
+The other most important part is the bosses and gods (the enemies in the godlands/mountains). Each realm has 30 bosses that spawn a limited amount of times. After this the realm closes and a new one opens. Everyone that remains in the realm when in closes will be sent to Oryx's castle.
+
+Among other ways, by killing gods and bosses you increase your base fame. The godlands is known for being an easy way of farming base fame.
+
+Here is a list of the different gods and bosses you can find in the realm.
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Enemies</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Bosses</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| style="width: auto;" align="center"
+|-  
+| {{ImageBlack
+| file = CubeGod.png
+| link = Cube God
+| text = Cube God
+}}
+|{{ImageBlack
+| file = SkullShrine.png
+| link = Skull Shrine
+| text = Skull Shrine
+}}
+|{{ImageBlack
+| file = Pentaract.png
+| link = Pentaract
+| text = Pentaract
+}}
+|{{ImageBlackLarge1
+| file = Uvuvwevwevwe.png
+| link = Uvuvwevwevwe
+| text = Uvuvwevwevwe
+}}
+|{{ImageBlack
+| file = Ghost Ship.png
+| link = Ghost Ship
+| text = Ghost Ship
+}}
+|-
+| {{ImageBlackLarge1
+| file = LordOfTheLostLands.png
+| link = Lord Of The Lost Lands
+| text = Lord Of The Lost Lands
+}}
+|{{ImageBlack
+| file = Grand Sphinx.png
+| link = Grand Sphinx
+| text = Grand Sphinx
+}}
+|{{ImageBlack
+| file = RealmGiant.png
+| link = Realm Giant
+| text = Realm Giant
+}}
+|{{ImageBlack
+| file = Mad Jester.png
+| link = Mad Jester
+| text = Mad Jester
+}}
+|{{ImageBlack
+| file = Hermit God.png
+| link = Hermit God
+| text = Hermit God
+}}
+|-
+| {{ImageBlackLarge2
+| file = Suspicious Looking Dragon.png
+| link = Suspicious Looking Dragon
+| text = Suspicious Looking Dragon
+}}
+|{{ImageBlack
+| file = Lucky Ent God.png
+| link = Lucky Ent God
+| text = Lucky Ent God
+}}
+|{{ImageBlack
+| file = LuckyDjinn.png
+| link = Lucky Djinn
+| text = Lucky Djinn
+}}
+|{{ImageBlack
+| file = Firebreather.png
+| link = Firebreather
+| text = Firebreather
+}}
+|{{ImageBlack
+| file = Riverborn.png
+| link = Riverborn
+| text = Riverborn
+}}
+|-
+|{{ImageBlack
+| file = Shadowscale.png
+| link = Shadowscale
+| text = Shadowscale
+}}
+| {{ImageBlack
+| file = Treesmasher.png
+| link = Treesmasher
+| text = Treesmasher
+}}
+|{{ImageBlackLarge1
+| file = GodOfReptilians.png
+| link = God Of Reptilians
+| text = God Of Reptilians
+}}
+|{{ImageBlackLarge1
+| file = AsgardGuardian.png
+| link = Asgard Guardian 
+| text = Asgard Guardian 
+}}
+|{{ImageBlackLarge1
+| file = MysteriousCard.png
+| link = Mysterious Card
+| text = Mysterious Card
+}}
+|-
+|{{ImageBlack
+| file = CookieMonster.png
+| link = Cookie Monster
+| text = Cookie Monster
+}}
+| {{ImageBlack
+| file = Pulse.png
+| link = Pulse
+| text = Pulse
+}}
+|{{ImageBlack
+| file = Warbringer.png
+| link = Warbringer
+| text = Warbringer
+}}
+|{{ImageBlackLarge1
+| file = Shade Of Novus.png
+| link = Shade Of Novus
+| text = Shade Of novus
+}}
+|{{ImageBlack
+| file = Yeti.png
+| link = Yeti
+| text = Yeti
+}}
+|}
+</div>
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Gods</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| style="width: auto;" align="center"
+|-  
+|{{ImageBlack
+| file = WhiteDemon.png
+| link = White Demon
+| text = White Demon
+}}
+|{{ImageBlack
+| file = SlimeGod.png
+| link = Slime God
+| text = Slime God
+}}
+|{{ImageBlack
+| file = GhostGod.png
+| link = Ghost God
+| text = Ghost God
+}}
+| {{ImageBlack
+| file = Medusa.png
+| link = Medusa
+| text = Medusa
+}}
+|{{ImageBlack
+| file = EntGod.png
+| link = Ent God
+| text = Ent God
+}}
+|-
+|{{ImageBlack
+| file = Djinn.png
+| link = Djinn
+| text = Djinn
+}}
+|{{ImageBlack
+| file = Beholder.png
+| link = Beholder
+| text = Beholder
+}}
+|{{ImageBlack
+| file = Leviathan.png
+| link = Leviathan
+| text = Leviathan
+}}
+|{{ImageBlack
+| file = SpriteGod.png
+| link = Sprite God
+| text = Sprite God
+}}
+| {{ImageBlack
+| file = Flying Brain.png
+| link = Flying Brain
+| text = Flying Brain
+}}
+|}
+</div>
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Others</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| style="width: auto;" align="center"
+|-  
+| {{ImageBlackLarge1
+| file = HeadlessHorseman.png
+| link = Headless Horseman
+| text = Headless Horseman
+}}
+| {{ImageBlackLarge1
+| file = CrystalPrisoner.png
+| link = Crystal Prisoner
+| text = Crystal Prisoner
+}}
+| {{ImageBlack
+| file = SpectralSentry.png
+| link = Spectral Sentry
+| text = Spectral Sentry
+}}
+| {{ImageBlack
+| file = TombCarrier.png
+| link = Tomb Carrier
+| text = Tomb Carrier
+}}
+|}
+</div>
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;"></div>
+
+=== Different areas ===
+
+==== Shoreline ====
+In this area, the enemies pose minimal threat. They don’t hit hard and their attacks are easy to dodge. Beach is the only biome found in this area. This area includes a single type of wandering quest enemy (the Bandit leader) along with a “stay in place” quest enemy (the Scorpion Queen).
+
+==== Lowlands ====
+In this area, enemies are relatively easy but are more numerous. In certain locations, swarms of enemies can be seen. This biome is divided from driest to wettest into desert, grassland, forest, and swampland. All quest enemies found in this elevation are wandering quest enemies.
+
+==== Midlands ====
+In this area, the enemies are the most erratic, and it can be very hard to dodge their attacks. Being careless in this region can be fatal for lone low-level adventurers, but it’s still acceptable to fight enemies here with basic equipment. Reasonably well-equipped level-20 players will have little trouble in this area. This area includes both wandering quest enemies and quest area enemies. Biomes in this region (from driest to wettest) are desert, savanna, grasslands and forests. Desert biome is rather rare in this area.
+
+==== Highlands ====
+While the attacks of the enemies in this area are not as erratic as in midlands, and though they can be dodged with some care, it’s still easy to die here. Attacks here pack a lot of punch, and proper equipment is recommended to travel alone. All quest enemies in this area are located in specific structures. Biomes in this region are the same as in midlands, except that desert is rarer. Lesser gods spawn in this area and drop Snake Pits, a good source of speed potions and the elusive Bulwark Wand. Also, Urgles, infamous for their ability to armor break, spawn here. Players should be aware of Urgles, especially when eventing in the midlands.
+
+==== Mountains ====
+This area is most commonly called Godlands by players. This area harbours the strongest monsters (mainly Gods) found in the main Realm. Travelling alone or with poor stats may lead to death without caution. Many enemies in this region have elaborate bullet patterns. The mountains include a snowy area and a rocky area sometimes known as the Godlands. Lava fissures are present in this area with chests in the middle of each fissure.
+
+====== (yes, this section is copied from rotmg wiki, nobody minds) ======

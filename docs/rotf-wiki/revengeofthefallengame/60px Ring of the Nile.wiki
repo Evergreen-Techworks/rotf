@@ -1,0 +1,4 @@
+# 60px Ring of the Nile
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=60px%20Ring%20of%20the%20Nile&prop=wikitext
+
+#REDIRECT [[Ring of the Nile]]

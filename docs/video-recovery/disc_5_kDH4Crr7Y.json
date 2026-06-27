@@ -1,0 +1,9 @@
+{
+ "dungeon": "(none — player Vault / intro monologue)",
+ "map": "ROTF VAULT aesthetic (DOCUMENTED from video): golden/yellow floor tiles, brown-brick walls and pillars, wall torch sconces; rows of blue VAULT CHESTS + GIFT CHESTS. Symmetric multi-room storage layout.",
+ "bosses": [],
+ "drops": [],
+ "mechanics": "NO COMBAT. Entire (very short) video is the streamer (cMstman) sitting in their Vault giving a YouTube intro: 'Hey youtube, Mst here, today im playing Rotf', 'ish back after christmas', 'big updates', 'Sorry for the last videos i been busy with school', 'Remember to like subscribe'. Loading splash = streamer's red-winged logo overlay (not a RotMG dungeon name). Confirms Vault/gift-chest UI exists in ROTF.",
+ "uncertain": "No boss/drop/taunt data present in this clip.",
+ "confidence": "LOW value — Vault visuals only (DOCUMENTED), no dungeon. Marked processed so the cron advances."
+}

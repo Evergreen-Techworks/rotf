@@ -1,0 +1,44 @@
+# Priest
+# https://rotfserver.fandom.com/api.php?action=parse&page=Priest&prop=wikitext
+
+{{Classbox
+| desc = The priest attacks at long range and can heal himself and his allies.
+| weaponSlot = Wand
+| weapon = Fire Wand
+| abilitySlot = Tome
+| ability = Healing Tome
+| armor = Robe
+| armorLink = Robes
+
+| hpStart = 100
+| hpLevel = 20 - 30
+| hpCap = 670
+
+| mpStart = 100
+| mpLevel = 5 - 15
+| mpCap = 385
+
+| attStart = 12
+| attLevel = 0 - 2
+| attCap = 50
+
+| defStart = 0
+| defLevel = 0
+| defCap = 25
+
+| spdStart = 12
+| spdLevel = 1 - 2
+| spdCap = 55
+
+| dexStart = 12
+| dexLevel = 0 - 2
+| dexCap = 55
+
+| vitStart = 10
+| vitLevel = 0 - 1
+| vitCap = 40
+
+| wisStart = 15
+| wisLevel = 1 - 2
+| wisCap = 75
+}}

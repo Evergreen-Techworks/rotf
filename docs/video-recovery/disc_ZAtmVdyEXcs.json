@@ -1,0 +1,41 @@
+{
+ "dungeon": "GENUINE ROTF long multi-dungeon FARM STREAM (~26 min, 1564s; subscriber-goal overlay '791 (79.10%)'; readable chat). MOTD 'Welcome to Realm of the Mad God!' but ROTF-confirmed by Septavius/Mysterious Card + multi-persona announcers + /8 + XP## systems. MEDIUM-LOW yield: mostly base/built event bosses (corroboration) + 1 NEW name-only lead (Mad Aztec); chat is event-feed + trade heavy.",
+ "map": "DOCUMENTED-from-frames+minimaps (19-dungeon tour, no single layout): a long hop through a YELLOW/GOLD-tile structured arena, grey CHECKERED dungeons, GREEN grass realms, a circular grey/tan CRATER/colosseum arena (dark center), TAN/SANDY grids, PURPLE/PINK cosmic arenas, and brown dirt. Standard ROTF dungeon biomes; quick cuts between 19 entries.",
+ "bosses": [
+  {
+   "name": "Septavius the Ghost God",
+   "phases": ["weakening end-phase ('I am weak... I cannot stay immortal forever!') + wave phase ('Enough! You shall not survive another wave of my deadly attacks!')"],
+   "attacks": ["not cleanly isolated (long multi-dungeon, crowded; bossends transition-heavy). Built behavior = summon + grenade + waves."],
+   "minions": ["Lair Ghost minions (built)"],
+   "colorFlashes": "",
+   "taunts": [
+    "Enough! You shall not survive another wave of my deadly attacks!",
+    "I am weak... I cannot stay immortal forever!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix 'Septavius the Ghost God'). ALREADY BUILT (UndeadLair.cs). CORROBORATION of 2 built taunts (verbatim). I also read a 'How about you grovel...' line -> FLAGGED UNCERTAIN: likely a MISREAD of the built 'Hahaha! How about a few grenades?!' (same 'How about' opening) -> NOT asserted as a new taunt, NOT built. Conservative."
+  },
+  {
+   "name": "Mad Aztec",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-feed ('Medusa - A Mad Aztec has just spawned!'). NEW name-only event-boss lead (0 prior specs, 0 build). Aztec theme. Flagged -> needs fought-footage for taunt/arena/attack before building."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "maxed potions auto-routed to storage ('You're already maxed. Potion of Attack/Mana/Wisdom has been sent to...')",
+  "B+ Tier Sword / mythical items (player trade chatter)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Mysterious Card (spawned/defeated; built; announcer Medusa) — corroboration",
+  "Warbringer ('crushed'; built; announcer Harpy) — corroboration",
+  "The Lord of the Lost Lands (defeated; base; announcer Harpy) — corroboration",
+  "Mad Aztec (spawned; NEW name-only lead)"
+ ],
+ "mechanics": "DOCUMENTED ROTF SYSTEMS (corroboration): (1) multi-persona event ANNOUNCERS (Medusa, Harpy, Starforce, Drath Notifier, Notification). (2) the /8 dungeon-challenge counter in death lines + XP## epic-tier suffix. (3) MAXED-POTION auto-routing to potion storage. (4) subscriber-goal stream overlay. Bosses: built Septavius (Undead Lair) + built/base event bosses (Mysterious Card / Warbringer / Lord of the Lost Lands). 1 NEW name lead (Mad Aztec).",
+ "uncertain": "Long (26-min) multi-dungeon FARM: chat is EVENT-FEED + TRADE heavy -> the only boss-prefix TAUNTS are Septavius's (built, corroboration). The 'How about you grovel...' Septavius read is FLAGGED as a probable misread of the built 'How about a few grenades?!' -> NOT treated as new (conservative). 'Mad Aztec' is a spawn-feed name only (no taunt/arena). Attacks NOT cleanly traced (19 fights, crowded, bossends transition-heavy). MOTD is generic 'Realm of the Mad God' but the announcer + /8 + XP## + Septavius/Mysterious-Card systems confirm ROTF (NOT TFR/Valor — no gems banner).",
+ "confidence": "MEDIUM-LOW. GENUINE ROTF farm stream. Value: corroborates built Septavius (2 taunts verbatim) + built/base event bosses (Mysterious Card / Warbringer / Lord of the Lost Lands) + ROTF systems (announcers / /8 / XP## / maxed-pot routing); 1 NEW name-only lead 'Mad Aztec'. Recorded honestly: built-boss corroboration, the 'grovel' read flagged as a likely misread (NOT a fabricated new taunt), Mad Aztec name-only, attacks not fabricated, ROTF-confirmed (not TFR). Best follow-up: fought-footage of Mad Aztec for a buildable taunt/arena."
+}

@@ -1,0 +1,8 @@
+# Staff of Nature
+# https://rotfserver.fandom.com/api.php?action=parse&page=Staff%20of%20Nature&prop=wikitext
+
+{{ItemInfo|name = Staff of Nature|desc = A staff which holds the power of nature. Losing this staff might severely pollute the realm|rarity = a|slot = staff|tier = ST|minDmg = 65|maxDmg = 140|shots = 2|rof = 120|range2 = 9|fameb = 5|dropsFrom = drops from the god of reptilians}}
+
+<noinclude>
+{{NavStaves}}
+</noinclude>

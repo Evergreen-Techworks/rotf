@@ -1,0 +1,4 @@
+# Gravedigger's Shovel
+# https://rotfserver.fandom.com/api.php?action=parse&page=Gravedigger%27s%20Shovel&prop=wikitext
+
+{{ItemInfo|name = Gravedigger's Shovel|desc = Despite looking like an ordinary shovel, it is not, in fact it contains the limitless power of thousands of souls|rarity = l|slot = staff|tier = UT|minDmg = 100|maxDmg = 105|shots = 5|rof = 80|range2 = 7|fameb = 6|effects = yes|pierce = yes|passthrough = yes|bonuses = {{Stat|def|-5}}{{Stat|spd|4}}|legendary = 2|dropsFrom = drops from the gravedigger}}

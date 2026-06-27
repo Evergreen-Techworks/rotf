@@ -1,0 +1,44 @@
+# Paladin
+# https://rotfserver.fandom.com/api.php?action=parse&page=Paladin&prop=wikitext
+
+{{Classbox
+| desc = The paladin can deal damage at close range, wear armor and heal himself and his allies.
+| weaponSlot = Sword
+| weapon = Short Sword
+| abilitySlot = Seal
+| ability = Seal of the Initiate
+| armor = HeavyArmor
+| armorLink = Heavy Armors
+
+| hpStart = 250
+| hpLevel = 20 - 30
+| hpCap = 855
+
+| mpStart = 100
+| mpLevel = 2 - 8
+| mpCap = 252
+
+| attStart = 12
+| attLevel = 1 - 2
+| attCap = 50
+
+| defStart = 0
+| defLevel = 0
+| defCap = 35
+
+| spdStart = 12
+| spdLevel = 0 - 2
+| spdCap = 55
+
+| dexStart = 10
+| dexLevel = 0 - 2
+| dexCap = 45
+
+| vitStart = 10
+| vitLevel = 0 - 1
+| vitCap = 40
+
+| wisStart = 10
+| wisLevel = 1 - 2
+| wisCap = 75
+}}

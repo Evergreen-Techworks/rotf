@@ -1,0 +1,44 @@
+entry-content">
+
+ Hello everyone! I’m Shmitty, a (newly promoted) senior designer here at Revenge of the Fallen. I work alongside the other designers on the sprites for dungeons, items, classes, etc. Some work you may recognize me by would be the animations for the mage and summoner abilities . In today’s weekly blog post, I’m going to be bringing you through some of the work I’ve been doing for one of our upcoming world bosses, the Demon Lady . 
+
+ First things first, I should probably note that the name “Demon Lady” is a placeholder name . If you have suggestions for what we should name her, let us know! We want to hear from you. As most of you may already know, RotF’s realms culminate in a special type of enemy dubbed a world boss . These tough foes appear when every lord in the realm has been defeated. World bosses appear in the center of the realm, and take over the landscape around them, transforming it to one more befitting of themselves. The Demon Lady thrives in a rocky, hellish landscape littered with protruding spikes, pools of lava and fiery volcanoes! Below are some examples of the environment you’ll see. 
+
+ Is it just me, or is it getting hot in here? 
+
+ The Demon Lady herself is just what you’d expect: a demon lady. Below you can see few of the animations she will use! 
+
+ The idle animation, a special animation used in the fight, and a jumping animation! 
+
+ Of course, these aren’t all of her animations — the rest aren’t shown here ;). This world boss has been bit different from the things I regularly work on. Most of the time, Quaximi, (our lead designer) makes docs and concept art for everything in a biome/dungeon pair (the design pipeline is actually pretty involved! If you’re interested, you can learn more about it in our Q&A at 51:40). But this time, I was making everything from scratch — no docs, just my ideas. I went through a few different iterations of ideas (and a few different iterations of Demon Ladies) before eventually landing on this world boss, and I’m glad I did because it’s been pretty fun making her! Animating a larger scale entity (a 32×32 humanoid at that) is pretty tough, especially compared to lots of the other animations I’ve done. Take the mage abilities as an example: for those animations, there wasn’t really any clearly defined shape that I needed to keep throughout the animation. Even in the case of the earth sword, making it fall down in one direction as it did in the animation wasn’t a very hard thing to do. Animating the Demon Lady was much harder because I needed to keep the exact proportions throughout every frame, while still keeping it from looking robotic or awkward. I wanted to give her smooth and fleshed out animations, and although it took a lot of work, that’s what I did! 🙂 Thank you all for reading, I hope you enjoyed my little rant about world boss design and I hope you enjoyed the sprites themselves! Now, what you’ve all been waiting for: the key! 
+
+ This week’s Closed Testing key will work the same as the last. This post will be updated within 10 minutes of its publication, so keep your eyes peeled! 
+
+ Closed Testing key: 
+
+ VU [1] X-V [2] YE-WT [3] Y- [4] YED 
+
+ [1] This orange rune gave mana upon killing an enemy. What’s the first letter of the *second word* of this rune? 
+
+ [2] Last weeks blog post featured a new biome. What is the first letter of the name of this biome/dungeon pair? 
+
+ [3] How many different colors of runes are there? 
+
+ [4] The first letter of the name of the wolf boss in the Twilight Necropolis. 
+
+ Use at https://rotf.io/register . Good luck! 
+ Share this: Twitter Facebook Like this: Like Loading... 
+
+ Related 
+
+ Tagged aced aced games aced.gg Demon Design Lady revenge of the fallen rotf rotf.io Shmitty World Boss 
+
+ Published by Shmitty 
+
+ I am a senior designer here at RotF! I do pixel art and if I had to say, I specialize in animation. 
+ View all posts by Shmitty 
+
+ Published 
+ January 10, 2021 January 10, 2021 
+
+</article

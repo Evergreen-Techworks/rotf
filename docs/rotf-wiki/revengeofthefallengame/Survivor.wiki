@@ -1,0 +1,4 @@
+# Survivor
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Survivor&prop=wikitext
+
+asdf

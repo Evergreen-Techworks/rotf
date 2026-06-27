@@ -1,0 +1,16 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM incl. an ASGARD run, player Edgy) ROTF — NEW Odin/Heimdall (Asgard) + Giant Oryx Chicken taunts + skill-tree UI",
+ "source": "video disc_IZ2Z7AUhb8s (477 frames, 6 transitions, 119 chat). Diverse dungeons incl. an Asgard run; a Skill-Tree UI panel is shown. Chat captured Asgard boss taunts + a chicken-boss taunt + event feed.",
+ "map": "DOCUMENTED biomes: green grass realm/arenas, blue water + island, white SNOW, grey CASTLE STONE arenas (Asgard), ORANGE/LAVA brick dungeon, magenta/colorful complex rooms. UI: a SKILL-TREE panel (grid of ability/skill icons) + a HUD with 4 stat/rune icons and an 'N/8' stats-maxed counter (and an '82/82' counter elsewhere).",
+ "bosses": [
+  {"name":"Odin (Asgard)","phases":[],"attacks":[],"minions":["mortals (commands minions)"],"colorFlashes":"","taunts":["I have awaited you. Prepare to die!","Defeat the mortals."],"note":"DOCUMENTED VERBATIM (boss-colored chat). NEW Odin taunts that ENRICH the existing Asgard build (which had 'Only a matter of time, before you fall.' / 'A guard composed of gods.'). 'Defeat the mortals.' = minion-summon command."},
+  {"name":"Giant Oryx Chicken","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Cluck cluck BOCK!!"],"note":"DOCUMENTED VERBATIM. A meme Oryx-chicken boss (Chicken Coop / Evil Chicken God family) — squawk taunt."},
+  {"name":"Heimdall (Asgard)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED from death feed: 'Opay (8/8, 1606) has been crushed by Heim[dall]' — confirms Heimdall (an Asgard boss in the build) as an active death-causer in this Asgard run."}
+ ],
+ "minions": [],
+ "drops": ["Potion (from an 'old dusty bottle' container — 'You have opened the old dusty bottle! Obtaining a [Potion of ...]')"],
+ "event_bosses_seen_in_global_feed": ["Cube God (defeated 18/35 — /35 counter variant)","Asgard Guardian (just spawned)"],
+ "mechanics": "DOCUMENTED: (1) ASGARD dungeon featured — Odin + Heimdall + Asgard Guardian all appear (validates/enriches the Asgard build). (2) EVENT-COUNTER denominator VARIES: Cube God here is '(18/35)' (cf. '/30' in other videos) — so the realm-event goal count differs by build/event. (3) 'old dusty bottle' = an openable CONTAINER item that yields a Potion. (4) A SKILL-TREE UI panel (grid of ability icons) is shown; HUD has 4 stat/rune icons + an 'N/8' stats-maxed counter (and an '82/82' counter — likely skill-node or wave count).",
+ "uncertain": "The '82/82' counter's exact meaning (skill-tree nodes vs wave clear) unconfirmed. Giant Oryx Chicken's dungeon (Chicken Coop?) not entered/named. Boss attacks/HP/drops not isolated. The skill-tree panel's nodes not read in detail.",
+ "confidence": "HIGH for the NEW Odin taunts + the Giant Oryx Chicken taunt + Heimdall death-causer + the /35 counter variant + the 'old dusty bottle' container. MEDIUM for the skill-tree UI; LOW for the 82/82 meaning."
+}

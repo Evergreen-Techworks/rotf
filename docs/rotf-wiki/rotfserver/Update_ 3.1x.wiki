@@ -1,0 +1,4 @@
+# Update: 3.1x
+# https://rotfserver.fandom.com/api.php?action=parse&page=Update%3A%203.1x&prop=wikitext
+
+#REDIRECT [[Update: 3.1]]

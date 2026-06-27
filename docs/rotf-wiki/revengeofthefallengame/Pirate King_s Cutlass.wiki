@@ -1,0 +1,4 @@
+# Pirate King’s Cutlass
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Pirate%20King%E2%80%99s%20Cutlass&prop=wikitext
+
+asdf

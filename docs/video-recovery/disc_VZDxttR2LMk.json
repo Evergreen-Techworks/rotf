@@ -1,0 +1,106 @@
+{
+ "dungeon": "GENUINE ROTF edited episodic compilation ('PREVIOUSLY ON AVALAR...' title card) by player RuinedBow. HIGH yield: 2 clear NEW boss arenas with verbatim taunts (The Twisted Memory, The Weather God) + a documented ROTF-custom Oryx HP-ANNOUNCE taunt system + 2 partial boss leads (Euryale the Snake Goddess, Ascended Sepiseus the Ghost Goddess) + event/death-cause name leads (Frost Guardian, Wizard of Evil Souls XP10). Edited cuts -> attacks mostly approximate.",
+ "map": "DOCUMENTED-from-transitions+minimaps (per boss): (1) THE WEATHER GOD's PALACE = a STRUCTURED grey-walled fortress — rectangular rooms + connecting CORRIDORS + a central long RED-FLOORED chamber, ringed by a BLUE-WATER moat (minimap 5/15); teal/cyan interior floor with pillar marks. Choke-point corridors between rooms ('Infiltrating my palace'). (2) THE TWISTED MEMORY = a small round BLUE/TEAL watery cavern (single blobby arena, minimap blob). (3) ORYX chamber = a brown/tan CASTLE arena, roughly circular with a dark center (bossend b002). Multi-dungeon edit; no single contiguous layout.",
+ "bosses": [
+  {
+   "name": "Resthla, The Twisted Mermaid",
+   "phases": [],
+   "attacks": [
+    "not cleanly traced (edited; b001@2s only 5 frames). Reconstructed: scattered/aimed bullets in the small watery cavern."
+   ],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "She is... Silly.",
+    "Mother always preferred her. Mother always was a fool. Bah."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'The Twisted Memory:', t001@22s entry, clear). NEW likely-ROTF-custom boss (memory/family theme). 'Maria... Joh...' is right-CUT (partial). Loot 'Piece of the Realm' crafting material. NEW (0 prior specs, 0 build). Attack reconstructed only. [DEV-LOOP name correction: boss-coloured prefix frame-read f_00023-25 is 'Resthla, The Twisted Mermaid' (recovery mis-read 'Mermaid'->'Memory' + dropped 'Resthla,'). Built as 0x8ffc. Taunt2 full-read. Taunt1 'Maria... Joh...' still cut -> verify; possible alt line 'She is... Silly' glimpsed.] [VERIFY-LOOP: recovery's 1st taunt 'Maria... Joh...' NOT locatable -> the boss's actual 1st line is 'She is... Silly.' (f_00023, boss-coloured); corrected.]"
+  },
+  {
+   "name": "Legon the Weather God",
+   "phases": [],
+   "attacks": [
+    "not cleanly traced (edited; b004@288s only 2 frames). Reconstructed: storm/elemental spread + aimed, fitting the weather/storm theme."
+   ],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "Infiltrating my palace will get you killed. How brave.",
+    "Time to get completely obliterated!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'The Weather God:', t002@281s entry, clear; 3rd line partial/cut at 'the elements all...'). NEW likely-ROTF-custom boss (weather/storm/elements god in a moated palace). Loot 'Ring of the Storm Gods' + 'Ancient Fire [Crystal?]' crafting material. Corroborated by 1 prior spec, 0 build. SHRINE-power phase mechanic flagged. [VERIFY-LOOP: full prefix read 'legon the Weather God' (entry t002@281s) -> renamed from 'The Weather God'. Taunts 1&2 VERIFIED exact. The old 3rd taunt 'The time is come...SHRINE WILL GIVE ME POWER!' was MIS-ATTRIBUTED -> it belongs to a SEPARATE boss '<Urios, God of Elements>' (see new entry) -> removed from this boss; no shrine phase for the Weather God.]"
+  },
+  {
+   "name": "Oryx the Mad God (ROTF-custom HP-announce taunts)",
+   "phases": [],
+   "attacks": [
+    "DOCUMENTED-from-frames (b002@130s climax frame 1): a RADIAL RING/NOVA of orange/red bullets (concentric rings) in the circular castle arena."
+   ],
+   "minions": [],
+   "colorFlashes": "orange/red nova",
+   "taunts": [
+    "I own this realm, I WILL DESTROY YOU...",
+    "Puny mortals! My 39540 HP will annihilate...",
+    "Puny mortals! My 123232 HP will annihilate...",
+    "Puny mortals! My 41915 HP will annihilate..."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Oryx the Mad God'). Oryx is BASE-GAME, but these taunts are a ROTF-CUSTOM DYNAMIC-HP ANNOUNCE system: the line states Oryx's LIVE current HP (39540 / 123232 / 41915 across frames). 'I own this realm, I WILL DESTROY YOU...' + 'Puny mortals! My <currentHP> HP will annihilate...' are right-cut. Documented as a custom Oryx-taunt MECHANIC, NOT claimed as a new boss. Radial-nova attack traced from b002."
+  },
+  {
+   "name": "Euryale the Snake Goddess",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "This is where I make my stand!",
+    "You will regret this for many years to come."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Euryale the Snake Goddess', grayscale-pull, PARTIAL). Likely ROTF-custom Snake-Pit/Gorgon variant (Euryale = a Gorgon sister; base game has Stheno/Medusa). Lines garbled/right-cut ('I show I mine my star...' illegible; 'You will regret this for trying my pa[lace]...'). PARTIAL lead — verify with cleaner footage. 1 prior spec, 0 build. [VERIFY-LOOP: the recorded 'You will regret this for trying my pa...' was a MIS-READ; wide f_ re-crop f_~159 shows the real lines 'This is where I make my stand!' (recovery's garbled 'I show I mine my star...') + 'You will regret this for many years to come.']"
+  },
+  {
+   "name": "Ascended Septavius the Ghost Goddess",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "You'll regret what you did to my king.",
+    "Prepare yourselves, and face me!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Ascended Sepiseus the Ghost Goddess', grayscale-pull, PARTIAL). 'Ascended' tier prefix (epic/ascended variant). Both lines right-cut. PARTIAL lead — verify before building. NEW (0 prior specs). [DEV-LOOP name correction: 'Sepiseus' was a mis-read of 'Septavius' (base 'Septavius the Ghost God' + clear frame-read). Built as 0x8ffd. Taunts still right-cut -> verify wide-re-crop.] [VERIFY-LOOP: wide f_ re-crop f_00168 completed both cut taunts -> 'You'll regret what you did to my king.' + 'Prepare yourselves, and face me!'. Name 'Septavius' re-confirmed.]"
+  },
+  {
+   "name": "Urios, God of Elements",
+   "phases": [
+    "DOCUMENTED-from-chat: a SHRINE-empower phase ('THE SHRINE WILL GIVE ME POWER!')"
+   ],
+   "attacks": [
+    "not cleanly traced (shares the RUINS arena window); reconstruct as elemental nova+aimed"
+   ],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "THE POWER EMERGES WITHIN ME. PREPARE TO BECOME ONLY ANOTHER BLOODSTAIN IN THE RUINS!",
+    "The time is come...the elements are ME! THE SHRINE WILL GIVE ME POWER!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured '<Urios, God of Elements>', f_~280-300 wide re-crop, VERIFY-LOOP). NEW ROTF boss in 'the RUINS' — distinct from Legon the Weather God (same compilation). The SHRINE-empower line was previously mis-attributed to the Weather God. NOT built -> dev build-lead."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Piece of the Realm (crafting material — Twisted Memory; repeated)",
+  "Ring of the Storm Gods (Weather God loot)",
+  "Ancient Fire [Crystal?] (crafting material — partial name)",
+  "Aspect of Vamp[ire?] (crafting material — partial name)",
+  "Blades of Hidden Power (sold for 1740 +512 tax gold)",
+  "marketplace fragment/mark currency ('you have gained 1 fragment, you currently have X mar...')"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "[ANNOUNCEMENT] The Frost Guardian seems to inhabit a place where it... (NEW name-only event lead)",
+  "Wizard of Evil Souls (XP10) Blademaster — death-cause (NEW name-only lead; XP## = epic-tier suffix)"
+ ],
+ "mechanics": "DOCUMENTED ROTF-CUSTOM SYSTEMS: (1) ORYX DYNAMIC-HP ANNOUNCE taunt — 'Puny mortals! My <currentHP> HP will annihilate...' states Oryx's live HP (39540/123232/41915). (2) CRAFTING-MATERIAL drop economy — bosses drop named crafting materials ('Piece of the Realm', 'Ancient Fire [Crystal]', 'Aspect of Vamp[ire]') with a per-player 'with X% damage deal' contribution tag. (3) MARKETPLACE + FRAGMENT/MARK currency (sell-for-gold + 'gained 1 fragment, you have X marks'). (4) XP## EPIC-TIER enemy suffix (Wizard of Evil Souls XP10). (5) Weather God SHRINE-power phase ('SHRINE WILL GIVE ME POWER!'). Edited episodic series ('PREVIOUSLY ON AVALAR...').",
+ "uncertain": "EDITED compilation (quick cuts, recap title) -> attack geometry mostly NOT cleanly traceable: only Oryx's radial ring-nova (b002) is DOCUMENTED-from-frames; Twisted Memory + Weather God attacks are RECONSTRUCTED (b001/b004 too few frames). Several taunts right-CUT/partial (Twisted Memory 'Maria... Joh...'; Weather God 3rd line; Euryale + Sepiseus all partial). 'Maria'/'Mother' family-memory theme and 'Avalar' may be the series/lore name, not a dungeon. Boss names are clear for Twisted Memory + Weather God (clean entry frames); Euryale/Sepiseus are grayscale-pull partials -> verify. Frost Guardian + Wizard of Evil Souls are name-only feed/death leads (no arena/attack).",
+ "confidence": "MEDIUM-HIGH for the 2 NEW bosses (The Twisted Memory, The Weather God) — clear boss-coloured names + verbatim taunts from clean transition-entry frames + documented palace/cavern layouts. MEDIUM for the Oryx HP-announce custom taunt system (clear, repeated, + traced radial-nova attack). LOW/PARTIAL for Euryale + Ascended Sepiseus (garbled grayscale-pull partials -> leads). GENUINE ROTF (RuinedBow). Recorded honestly: verbatim where clean, partials flagged, attacks marked DOCUMENTED vs reconstructed, base-Oryx-vs-custom-taunt distinguished, name-only leads flagged. Best build candidates: Twisted Memory + Weather God (collision-check first); follow-up: cleaner Euryale/Sepiseus footage + attack geometry."
+}

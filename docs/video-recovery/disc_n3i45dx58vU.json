@@ -1,0 +1,21 @@
+{
+ "dungeon": "GENUINE ROTF target-server footage (player = VoltiPlay, the server OWNER; Level 20 Paladin, death screen dated April 21 2018). A LAVA dungeon with boss RESTORA THE LAVA GOD (defeat sequence captured). The run ends on a death screen (VoltiPlay killed — feed/screen reads 'by Oryx the Mad God'). One new lava-god boss + owner-run confirmation.",
+ "map": "DOCUMENTED-from-transitions+bossends: a RED/LAVA-BRICK arena with scattered GREEN/YELLOW tile patches (Restora the Lava God's room) — open lava floor, the boss + green minions + orange bullets fill it. One main dungeon (entry 8s, climax ~62s, death screen ~212s). No tight room geometry (open lava arena).",
+ "bosses": [
+  {
+   "name": "Restora the Lava God",
+   "phases": ["defeat sequence: 'ARGHH' -> 'You defeated me...' -> 'Good bye.'"],
+   "attacks": ["DOCUMENTED-from-frames (bossend b002_62s) but APPROXIMATE: scattered ORANGE/RED bullets across the lava arena (spread/scattered, no clean single geometric pattern isolated) + SUMMONS green minions. Class: spread + summon."],
+   "minions": ["green minions (summoned in the lava arena)"],
+   "colorFlashes": "orange/red (lava)",
+   "taunts": ["ARGHH", "You defeated me...", "Good bye."],
+   "note": "DOCUMENTED-from-chat VERBATIM (boss-coloured 'Restora the Lava God:' prefix, read across chat_00003/19-21/39-40). A LAVA GOD boss. ONLY the DEFEAT sequence was captured ('ARGHH' death scream -> 'You defeated me...' -> 'Good bye.' — gracious-loser lines); the ATTACK-phase taunts were NOT captured. BASE-vs-ROTF-CUSTOM UNCERTAIN: 'Restora the Lava God' is not a standard base-game RotMG boss -> likely ROTF-CUSTOM (verify before building). Attack = spread + green-minion summons (frames; geometry approximate)."
+  }
+ ],
+ "minions": ["green minions (Restora the Lava God)"],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: GENUINE ROTF (owner VoltiPlay). RESTORA THE LAVA GOD — a lava-arena boss that summons green minions + sprays scattered orange/red bullets, and on death delivers a gracious-loser DEFEAT sequence: 'ARGHH' -> 'You defeated me...' -> 'Good bye.' (repeated in chat). The run ends with VoltiPlay (Lvl 20 Paladin) dying (death screen, 'by Oryx the Mad God'). Only the boss's DEFEAT taunts captured (no attack-phase lines).",
+ "uncertain": "Restora the Lava God base-vs-custom UNCONFIRMED (likely custom — not a standard base boss; verify). Only the DEFEAT sequence captured -> attack-phase taunts unknown. Attack GEOMETRY approximate (scattered/spread + summon; no clean single pattern). The death-screen killer 'Oryx the Mad God' is base-game flavour (VoltiPlay's death, not a recovered custom boss). Drops not isolated.",
+ "confidence": "MEDIUM-HIGH for RESTORA THE LAVA GOD's defeat taunts ('ARGHH' / 'You defeated me...' / 'Good bye.' — clear, boss-prefix confirmed, multi-frame) + its lava arena + spread/summon attack class. MEDIUM for base-vs-custom (likely custom, flagged). GENUINE ROTF (owner VoltiPlay). Net value: a NEW lava-god boss candidate (Restora the Lava God) with a gracious-loser defeat sequence + lava-arena/summon mechanic — IF confirmed custom. Best follow-up: a clean fight clip for the ATTACK-phase taunts + bullet geometry + base-vs-custom check."
+}

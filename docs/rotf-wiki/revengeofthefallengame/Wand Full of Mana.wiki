@@ -1,0 +1,4 @@
+# Wand Full of Mana
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Wand%20Full%20of%20Mana&prop=wikitext
+
+asdf

@@ -1,0 +1,4 @@
+# Trickster
+# https://rotfserver.fandom.com/api.php?action=parse&page=Trickster&prop=wikitext
+
+Trickster is a bad class and doesn't deserve a page.

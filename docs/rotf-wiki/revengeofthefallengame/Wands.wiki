@@ -1,0 +1,240 @@
+# Wands
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Wands&prop=wikitext
+
+The wand is the main weapon of the priest and the sorcerer. It is focused in average dps at really high range.
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = WandOfBone.png
+| link = Wand of Bone
+| text = Wand of Bone
+}}
+| {{ImageBlackLarge1
+| file = TheApexBulwark.png
+| link = The Apex Bulwark
+| text = The Apex Bulwark
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = StAbrahamsWand.png
+| link = St. Abraham’s Wand
+| text = St. Abraham’s Wand
+}}
+| {{ImageBlack
+| file = CrystalWand.png
+| link = Crystal Wand
+| text = Crystal Wand
+}}
+| {{ImageBlackLarge1
+| file = ConductingWand.png
+| link = Conducting Wand
+| text = Conducting Wand
+}}
+| {{ImageBlackLarge1
+| file = WandOfTheBulwark.png
+| link = Wand of the Bulwark
+| text = Wand of the Bulwark
+}}
+| {{ImageBlackLarge1
+| file = RadiantWandOfRoyalism.png
+| link = Radiant Wand of Royalism
+| text = Radiant Wand of Royalism
+}}
+| {{ImageBlackLarge1
+| file = WandOfTheFrozenQueen.png
+| link = Wand of the Frozen Queen
+| text = Wand of the Frozen Queen
+}}
+| {{ImageBlack
+| file = RealmPower.png
+| link = Realm Power
+| text = Realm Power
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = WandOfTheFallen.png
+| link = Wand of the Fallen
+| text = Wand of the Fallen
+}}
+| {{ImageBlackLarge1
+| file = SpiceWandOfSpice.png
+| link = Spice Wand of Spice
+| text = Spice Wand of Spice
+}}
+| {{ImageBlackLarge1
+| file = LethargicSentience.png
+| link = Lethargic Sentience
+| text = Lethargic Sentience
+}}
+| {{ImageBlack
+| file = FrozenWand.png
+| link = Frozen Wand
+| text = Frozen Wand
+}}
+| {{ImageBlackLarge2
+| file = EternalSnowflakeWand.png
+| link = Eternal Snowflake Wand
+| text = Eternal Snowflake Wand
+}}
+| {{ImageBlackLarge1
+| file = WandFullOfMana.png
+| link = Wand Full of Mana
+| text = Wand Full of Mana
+}}
+| {{ImageBlackLarge1
+| file = WandOfTheRisingStar.png
+| link = Wand of the Rising Star
+| text = Wand of the Rising Star
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = AbominationsWrath.png
+| link = Abomination’s Wrath
+| text = Abomination’s Wrath
+}}
+| {{ImageBlack
+| file = WandOfGeb.png
+| link = Wand of Geb
+| text = Wand of Geb
+}}
+| {{ImageBlackLarge1
+| file = TheWingedWand.png
+| link = The Winged Wand
+| text = The Winged Wand
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Unique</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = SpriteWand.png
+| link = Sprite Wand
+| text = Sprite Wand
+}}
+| {{ImageBlackLarge2
+| file = WandOfBuddingRomance.png
+| link = Wand of Budding Romance
+| text = Wand of Budding Romance
+}}
+| {{ImageBlackLarge2
+| file = PresentDispensingWand.png
+| link = Present Dispensing Wand
+| text = Present Dispensing Wand
+}}
+| {{ImageBlackLarge1
+| file = WandOfAncientTerror.png
+| link = Wand of Ancient Terror
+| text = Wand of Ancient Terror
+}}
+| {{ImageBlackLarge1
+| file = WandOfEggCellence.png
+| link = Wand of Egg-Cellence
+| text = Wand of Egg-Cellence
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = CelestialCaduceus.png
+| link = Celestial Caduceus
+| text = Celestial Caduceus
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge2
+| file = WandOfAncientWarning.png
+| link = Wand of Ancient Warning
+| text = Wand of Ancient Warning
+}}
+| {{ImageBlackLarge1
+| file = WandOfRecompense.png
+| link = Wand of Recompense
+| text = Wand of Recompense
+}}
+| {{ImageBlackLarge1
+| file = WandOfEvocation.png
+| link = Wand of Evocation
+| text = Wand of Evocation
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = FireWand.png
+| link = Fire Wand
+| text = Fire Wand
+}}
+| {{ImageBlack
+| file = ForceWand.png
+| link = Force Wand
+| text = Force Wand
+}}
+| {{ImageBlack
+| file = PowerWand.png
+| link = Power Wand
+| text = Power Wand
+}}
+| {{ImageBlack
+| file = MissileWand.png
+| link = Missile Wand
+| text = Missile Wand
+}}
+| {{ImageBlack
+| file = EldritchWand.png
+| link = Eldritch Wand
+| text = Eldritch Wand
+}}
+| {{ImageBlackLarge1
+| file = HellsFireWand.png
+| link = Hell’s Fire Wand
+| text = Hell’s Fire Wand
+}}
+|-
+| {{ImageBlackLarge1
+| file = WandOfDarkMagic.png
+| link = Wand of Dark Magic
+| text = Wand of Dark Magic
+}}
+| {{ImageBlackLarge1
+| file = WandOfArcaneFlame.png
+| link = Wand of Arcane Flame
+| text = Wand of Arcane Flame
+}}
+| {{ImageBlack
+| file = WandOfDeath.png
+| link = Wand of Death
+| text = Wand of Death
+}}
+| {{ImageBlackLarge1
+| file = WandOfDeepSorcery.png
+| link = Wand of Deep Sorcery
+| text = Wand of Deep Sorcery
+}}
+| {{ImageBlackLarge1
+| file = WandOfShadow.png
+| link = Wand of Shadow
+| text = Wand of Shadow
+}}
+| {{ImageBlackLarge1
+| file = WandOfRetribution.png
+| link = Wand of Retribution
+| text = Wand of Retribution
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

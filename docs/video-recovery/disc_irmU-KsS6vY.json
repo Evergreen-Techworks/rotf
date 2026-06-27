@@ -1,0 +1,15 @@
+{
+ "dungeon": "(LAVA/FIRE-BRICK DUNGEON run + sand realm) ROTF — orange-brick lava dungeon exploration; chat confirmed event bosses + version + Starforce gating",
+ "source": "video disc_irmU-KsS6vY (193 frames, 22 transitions, 48 chat). Focus = a large ORANGE-BRICK + LAVA fire dungeon (multi-room); also a tan sand-desert realm. Dungeon NAME not printed in the captured chat.",
+ "map": "DOCUMENTED biomes: a big ORANGE/RED-BRICK + LAVA-floor fire dungeon (dark stone + orange brick walls, lava pools — resembles an Abyss-of-Demons-style fire dungeon); a tan SAND-DESERT realm with green bushes. An inventory/loot screen + a '2489' number (HP/score) shown.",
+ "bosses": [
+  {"name":"Oryx the Mad God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You are food for my minions!"],"note":"DOCUMENTED VERBATIM from startup chat (re-confirms the taunt found in disc_dGfPcmb49iQ)."},
+  {"name":"Cookie Monster (event boss)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED from feed: '<Orc> A Cookie Monster has just spawned!' — CONFIRMS Cookie Monster is a real spawnable REALM EVENT BOSS (was on the TODO Tier-2 list)."},
+  {"name":"God of Reptilians (event)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED from feed: 'The God of Reptilians has been defe[ated]'."}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "DOCUMENTED: client version banner 'X1.8.1'. MOTD on this build = 'Welcome to Realm of the Mad God' (vanilla MOTD here, vs the 'Welcome to Revenge of the Fallen' MOTD seen on other builds — version/build difference). Controls hint 'Use [WASDQE] to move; click to shoot!' — confirms Q and E are ABILITY keys (2 ability slots). Player line 'starforce only for 8/8 char' CONFIRMS 'Starforce' is endgame content GATED to 8/8 (fully stat-maxed) characters (ties to the Starforce Nodestones built in D2). Event-boss feed narrated by '<Orc>'.",
+ "uncertain": "The lava/fire-brick dungeon's NAME was not printed in the captured chat/entries (could be Abyss of Demons or a ROTF fire dungeon). Boss attacks/drops not isolated. Cookie Monster only confirmed as a spawn announcement (no fight/taunt captured).",
+ "confidence": "HIGH for: Cookie Monster being a real event boss, the Starforce-8/8 gating, client version X1.8.1, WASDQE controls, and the Oryx taunt (verbatim). LOW for the lava dungeon's identity."
+}

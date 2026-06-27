@@ -1,0 +1,4 @@
+# Spectral Cloak
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Spectral%20Cloak&prop=wikitext
+
+asdf

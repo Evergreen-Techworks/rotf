@@ -1,0 +1,4 @@
+# Stardust Cutter
+# https://rotfserver.fandom.com/api.php?action=parse&page=Stardust%20Cutter&prop=wikitext
+
+{{ItemInfo|name = Stardust Cutter|desc = A blade stardust, wielded only by the greatest shinobi, able to slice through the veil of reality itself.|rarity = g|slot = katana|tier = GL|minDmg = 170|maxDmg = 210|shots = 1|range2 = 5.01|fameb = 6}}

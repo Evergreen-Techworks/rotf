@@ -1,0 +1,32 @@
+# A triangular cookie
+# https://rotfserver.fandom.com/api.php?action=parse&page=A%20triangular%20cookie&prop=wikitext
+
+{{ItemInfo
+| name = A triangular cookie
+| slot = prism
+| tier = ST
+| desc = This blue balloon, the month of june!
+
+| cost = 90
+| feedp = 700
+| fameb = 5
+| minDmg = 100
+| maxDmg = 250
+| shots = 15
+| range = yes
+| lifetime = 600
+| projSpeed = 80
+| decoyDistance = 7
+| decoySpeed = 0.93
+
+| effects = yes
+| decoy = 2
+
+| bonuses = {{Stat|hp|18}} {{Stat|mp|18}} {{Stat|att|4}} {{Stat|vit|4}} {{Stat|wis|4}}
+
+| lootbag = white
+}}
+<noinclude>
+{{NavPrisms}}
+</noinclude><noinclude>
+[[Category:Prisms]]</noinclude>

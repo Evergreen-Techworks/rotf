@@ -1,0 +1,44 @@
+# Wizard
+# https://rotfserver.fandom.com/api.php?action=parse&page=Wizard&prop=wikitext
+
+{{Classbox
+| desc = The wizard deals damage from a long distance and blasts enemies with powerful spells.
+| weaponSlot = Staff
+| weapon = Energy Staff
+| abilitySlot = Spell
+| ability = Fire Spray Spell
+| armor = Robe
+| armorLink = Robes
+
+| hpStart = 100
+| hpLevel = 20 - 30
+| hpCap = 670
+
+| mpStart = 100
+| mpLevel = 5 - 15
+| mpCap = 385
+
+| attStart = 12
+| attLevel = 1 - 2
+| attCap = 75
+
+| defStart = 0
+| defLevel = 0
+| defCap = 25
+
+| spdStart = 10
+| spdLevel = 0 - 2
+| spdCap = 50
+
+| dexStart = 15
+| dexLevel = 1 - 2
+| dexCap = 75
+
+| vitStart = 12
+| vitLevel = 0 - 1
+| vitCap = 40
+
+| wisStart = 12
+| wisLevel = 0 - 2
+| wisCap = 60
+}}

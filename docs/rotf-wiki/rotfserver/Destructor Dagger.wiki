@@ -1,0 +1,32 @@
+# Destructor Dagger
+# https://rotfserver.fandom.com/api.php?action=parse&page=Destructor%20Dagger&prop=wikitext
+
+{{ItemInfo
+| name = Destructor Dagger
+| desc = A dagger obtainted from the Master Destructor himself...
+| slot = dagger
+| tier = UT
+| rarity = h
+
+| rof = 90
+| shots = 1
+| minDmg = 105
+| maxDmg = 175
+| range = 
+| projSpeed = 10
+| lifetime = 510
+| fameb = 6
+| feedp = 500
+
+| effects = yes
+| multihit = yes
+| pierce = yes
+
+| lootbag = white
+| dropsFrom = can be found in a White Bag dropped by: [[Archdemon Malphas]].
+|range2 = 5.3}}
+
+<noinclude>
+{{NavDaggers}}
+</noinclude><noinclude>
+[[Category:Daggers]]</noinclude>

@@ -1,0 +1,17 @@
+{
+ "dungeon": "GENUINE ROTF marathon stream (~13 dungeon entries). The clearly-readable boss content is BASE-GAME RotMG (Haunted Cemetery / Lich's Lair): Oryx's Lich-announce line + the Lich + Haunted Spirit. These ALREADY EXIST in base content (the ROTF server runs base dungeons too) -> NOT new ROTF-custom content to build. Chat is visible but heavy with spam/player banter. Biomes: desert, grey/stone dungeons, a dark purple Lich arena, white/grey treasure vaults.",
+ "map": "DOCUMENTED-from-frames+transitions (multi-dungeon marathon): white/grey BRICK-TILED TREASURE VAULTS (rows of chests), tan DESERT + water, grey STONE rooms, and a DARK PURPLE BOSS ARENA (the Lich's Lair final room — open dark floor, purple/magenta bullets). Per-dungeon room sequence not traceable (stream).",
+ "bosses": [
+  {"name":"Lich","phases":[],"attacks":["DOCUMENTED-from-frames (approx): scattered PURPLE/MAGENTA bullets in a dark arena (base Lich behavior — radial/aimed mix)"],"minions":["(base: skeletons/spirits)"],"colorFlashes":"purple/magenta","taunts":["My minions have stolen your life force and fed it [to me/...]"],"note":"DOCUMENTED-from-chat (partial). BASE-GAME RotMG boss (Lich's Lair / Haunted Cemetery final) — already exists in base content; do NOT build new. Line is the standard base Lich taunt; partial read."},
+  {"name":"Haunted Spirit","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Hungry..."],"note":"DOCUMENTED-from-chat. BASE-GAME Haunted Cemetery enemy. Not ROTF-custom."},
+  {"name":"Oryx the Mad God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["My final Lich shall consume your so[ul]..."],"note":"DOCUMENTED-from-chat (partial). BASE-GAME Oryx Lich-announce line (Haunted Cemetery). Not ROTF-custom; do not build."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [
+  "Warrior of Oryx ('Kynisaweso died at level 9, killed by Warrior of Oryx' — base Oryx minion)"
+ ],
+ "mechanics": "DOCUMENTED (base-game content): a ROTF-server marathon that passes through the BASE-GAME Haunted Cemetery / Lich's Lair (Oryx announces 'My final Lich shall consume your soul', the Lich taunts 'My minions have stolen your life force...', Haunted Spirit 'Hungry...'). ATTACK: Lich = scattered purple/magenta bullets (base behavior, DOCUMENTED-approx). Chat is cluttered with SPAM (fake 'hacks'/'sell your package' site links) and player banter -> no ROTF-CUSTOM boss taunts recovered from this tag. Confirms the ROTF server includes base RotMG dungeons.",
+ "uncertain": "All readable bosses are base-game (Lich/Haunted Spirit/Oryx) — no ROTF-custom content here. Taunts are partial base lines. No dungeon names off loading screens. The purple arena assumed to be the Lich's Lair from the taunt context.",
+ "confidence": "MEDIUM for identification (clearly base-game Haunted Cemetery/Lich content), but LOW BUILD VALUE — these bosses already exist in base data; nothing new to build. Map = base Lich's Lair + generic vault/desert biomes. Useful mainly to confirm base-dungeon coverage; not a source of new ROTF taunts/attacks."
+}

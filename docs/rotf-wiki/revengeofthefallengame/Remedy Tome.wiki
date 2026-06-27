@@ -1,0 +1,4 @@
+# Remedy Tome
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Remedy%20Tome&prop=wikitext
+
+asdf

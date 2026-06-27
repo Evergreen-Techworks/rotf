@@ -1,0 +1,9 @@
+{
+ "dungeon": "(none — NOT ROTF; anime/manhwa narration video)",
+ "map": "N/A",
+ "bosses": [],
+ "drops": [],
+ "mechanics": "FALSE POSITIVE from discovery search. This is a ~23-HOUR anime/manhwa STORY-NARRATION video (illustrated webtoon/light-novel about a young man in an ancient Egyptian/Roman setting — pharaoh robes, magic staff, burning city). Matched the search on 'fallen/revenge' but contains ZERO RotMG/ROTF gameplay: no HUD, chat box, map, or fight footage. All 16 contact-sheet samples spread across the full 23h runtime are anime illustrations. 0 black-loading transitions detected (continuous illustrated video, no dungeon loads).",
+ "uncertain": "",
+ "confidence": "N/A — non-game video. Marked processed so the cron advances. (Discovery filter should also exclude anime/manhwa/webtoon/'episode'/'chapter' narration videos and very-long >6h non-stream durations.)"
+}

@@ -1,0 +1,43 @@
+# Archer
+# https://rotfserver.fandom.com/api.php?action=parse&page=Archer&prop=wikitext
+
+{{Classbox
+| desc = The archer has a long-range attack and can acquire very powerful weapons.
+| weaponSlot = Bow
+| weapon = Shortbow
+| abilitySlot = Quiver
+| ability = Magic Quiver
+| armor = LeatherArmor
+| armorLink = LeatherArmors
+
+| hpStart = 130
+| hpLevel = 20 - 30
+| hpCap = 700
+
+| mpStart = 100
+| mpLevel = 2 - 8
+| mpCap = 252
+
+| attStart = 12
+| attLevel = 1 - 2
+| attCap = 75
+
+| defStart = 0
+| defLevel = 0
+| defCap = 25
+
+| spdStart = 12
+| spdLevel = 0 - 2
+| spdCap = 50
+
+| dexStart = 12
+| dexLevel = 0 - 2
+| dexCap = 50
+
+| vitStart = 12
+| vitLevel = 0 - 1
+| vitCap = 40
+
+| wisStart = 10
+| wisCap = 50
+}}

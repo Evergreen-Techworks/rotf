@@ -1,0 +1,15 @@
+{
+ "dungeon": "Twilight Necropolis",
+ "map": "(see main TwilightNecropolis spec: green entrance -> gothic stone -> purple rooms -> red cross-pattern final arena)",
+ "bosses": [
+   {"name":"Necropolis final/lich boss (cryptic seer)","phases":[],"attacks":[],"minions":[],"colorFlashes":"",
+    "taunts":["All things shall be revealed","Revealed things shall be hidden"]},
+   {"name":"Necropolis undead boss","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["The body dies."]}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "",
+ "event_bosses_seen_in_global_feed": ["Asgard Guardian (just spawned — realm event, drops Heavy Bow of the Asgard Guardian)","Hermit God (spawned)","Pentaract Tower Ultra (spawned)"],
+ "uncertain": "Which exact Necropolis boss owns each taunt isn't pinned (chat shows the lines + players echoing 'The body dies.'). 'All things shall be revealed'/'Revealed things shall be hidden' are clearly a paired boss-dialogue mechanic.",
+ "confidence": "HIGH for the taunt lines (verbatim) — they merge into the Twilight Necropolis dungeon. Plus the Asgard Guardian realm-event confirmation."
+}

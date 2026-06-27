@@ -1,0 +1,13 @@
+{
+ "dungeon": "(TITLE SCREEN ONLY) ROTF 'The Hour of Twilight' title card (duplicate)",
+ "source": "video disc_OYWspLf80hQ (154 frames, 0 transitions, 39 chat). The ENTIRE video sits on the ROTF main-menu/title screen — no gameplay.",
+ "map": "N/A — title screen: dark red cavern background framing the logo.",
+ "bosses": [
+  {"name":"(Hour of Twilight red-demon mascot)","phases":[],"attacks":[],"minions":[],"colorFlashes":"red","taunts":[],"note":"The title-card mascot: a red demonic-SKULL face with horns. Art only (already recorded)."}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "BRANDING (DUPLICATE): the title screen reads 'RotF — THE HOUR OF TWILIGHT' with the red demonic-skull mascot — the SAME season title card already recovered in disc_KBRdy-jzRyY. (ROTF's named seasons so far: 'The Hour of Twilight' [red demon] + 'The Icy Peaks' [blue yeti, disc_LMJhrbhZCjg].) No new info.",
+ "uncertain": "Nothing new — title screen only, no gameplay/chat.",
+ "confidence": "HIGH that this is the 'Hour of Twilight' title screen (duplicate of disc_KBRdy-jzRyY). Zero new recovery value."
+}

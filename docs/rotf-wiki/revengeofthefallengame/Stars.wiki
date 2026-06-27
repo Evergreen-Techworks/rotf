@@ -1,0 +1,110 @@
+# Stars
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Stars&prop=wikitext
+
+The star is the ability of the ninja. While the ability usage key is pressed, it gives speedy. When released, it throws a star that deals damage to a single target
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = StarOfBones.png
+| link = Star of Bones
+| text = Star of Bones
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = MidnightStar.png
+| link = Midnight Star
+| text = Midnight Star
+}}
+| {{ImageBlack
+| file = Starfish.png
+| link = Starfish
+| text = Starfish
+}}
+| {{ImageBlack
+| file = Traceless.png
+| link = Traceless
+| text = Traceless
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = Kageboshi.png
+| link = Kageboshi
+| text = Kageboshi
+}}
+| {{ImageBlack
+| file = AcidStar.png
+| link = Acid Star
+| text = Acid Star
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = TreesmashersTail.png
+| link = Treesmasher's Tail
+| text = Treesmasher's Tail
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = CosmicShuriken.png
+| link = Cosmic Shuriken
+| text = Cosmic Shuriken
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = IceStar.png
+| link = Ice Star
+| text = Ice Star
+}}
+| {{ImageBlack
+| file = DoomCircle.png
+| link = Doom Circle
+| text = Doom Circle
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = BasicStar.png
+| link = Basic Star
+| text = Basic Star
+}}
+| {{ImageBlack
+| file = FourPointStar.png
+| link = Four-Point Star
+| text = Four-Point Star
+}}
+| {{ImageBlack
+| file = SpiralShuriken.png
+| link = Spiral Shuriken
+| text = Spiral Shuriken
+}}
+| {{ImageBlack
+| file = SilverStar.png
+| link = Silver Star
+| text = Silver Star
+}}
+| {{ImageBlack
+| file = WindCircle.png
+| link = Wind Circle
+| text = Wind Circle
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

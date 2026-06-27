@@ -1,0 +1,11 @@
+{
+ "dungeon": "*** NON-TARGET MIS-PULL — NOT ROTF / NOT RotMG. *** This is a MOBA (League of Legends or near-identical): the frames show a green JUNGLE/LANE map with dirt paths, champion characters mid-map, a MOBA HUD (champion portraits + ability bar + item slots) along the bottom, a circular LANE MINIMAP (bottom-right), and a streamer facecam. Zero RotMG/ROTF content. The discovery loop grabbed an unrelated MOBA clip (keyword coincidence). Recorded as an EXCLUSION so the auto-bridge never treats it as ROTF content.",
+ "map": "NON-TARGET (not a dungeon): a MOBA jungle/lane map — green terrain, dirt lane paths, brush, a river/teal area, champions clustered mid-map. This is MOBA terrain, NOT a ROTF dungeon/arena. Catalogued only to confirm non-target.",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "NON-TARGET (MOBA, League-of-Legends-style). Frames show lane/jungle terrain + champion-vs-champion + a MOBA ability/item HUD + a lane minimap + facecam — a MOBA, not an MMO dungeon crawler. The 7 'chat' crops are just the game terrain (no RotMG chat box). No boss, taunt, loot, or ROTF dungeon. Nothing mined — there is no ROTF content to recover.",
+ "uncertain": "Exact title (League of Legends vs a similar MOBA) not 100% pinned, but the genre is unambiguous (lane/jungle map + champion HUD + lane minimap + facecam). Either way it is NON-TARGET. Confident the whole tag (27 f_, short clip) is unrelated to ROTF.",
+ "confidence": "HIGH that this is NON-TARGET (a MOBA, not RotMG/ROTF). ZERO ROTF-buildable content. Net value = a documented EXCLUSION preventing cross-game attribution. No boss/taunt/attack recorded by design. *** 4th non-target mis-pull this session (after 'Faer' disc_KBzHN9gFmGg + Cities:Skylines disc_KhLRNM2XluY + official-DECA-RotMG disc_KQfmUbCQOVY) *** — a discovery-side genre/keyword pre-filter (drop non-RotMG-engine footage: MOBAs, city-builders, other games) would stop these wasting recovery slots."
+}

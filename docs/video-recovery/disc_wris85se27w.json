@@ -1,0 +1,15 @@
+{
+ "dungeon": "(NOT ROTF) 'Void-Realm' private-server stream — multi-dungeon admin/troll session, mostly base-game content",
+ "source": "video disc_wris85se27w (LARGE: 623 f_ frames, 934 chat crops, 467 minimaps, 25 transition entries). The server INTRO message reads verbatim: 'Welcome to Void-Realm! ... You are food for my minions! Use [WASDQE] to move; click to shoot! Type /help or /commands for more help' -> this is a DIFFERENT RotMG private server ('Void-Realm'), NOT ROTF. Pulled by the ROTF discovery search but is off-target.",
+ "map": "25 dungeon entries across mixed biomes (read from transitions/): desert/sandstone, red cross/diamond brick arena, blue/cyan icy area, green forest, orange/brown brick rooms, dark void rooms. Dungeon NAMES not legible in transition frames (this client prints entry text in the chat log, not a center banner; not captured cleanly).",
+ "bosses": [
+  {"name":"Skull Shrine (BASE-GAME event boss)","phases":[],"attacks":["dense orange bullet-hell (fire) visible in the fight frame"],"minions":[],"colorFlashes":"orange","taunts":["I'd never kill you while [TRUNCATED at chat edge]"],"note":"Skull Shrine is a vanilla RotMG event boss; this is a base-game taunt, not ROTF-specific."},
+  {"name":"(unidentified green-forest NPC/boss)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["...time to meet your future brav[e]... it's a small family, but you'll... before me. I am the m[...] [partial, truncated]"],"note":"Unidentified NPC dialogue seen in a forest frame; server is Void-Realm so likely not ROTF content."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Thessal (player-requested 'THESSAL PLEASE' — base Mermaid Goddess)"],
+ "mechanics": "ADMIN-SPAWN / TROLL STREAM on Void-Realm: chat is dominated by players asking an admin to spawn things ('SPAWN BOSHYS', 'SPAWN A FINISH FX!', 'pls reset the portals', 'ban these op af ppl', 'I CANT TAKE THE WHITE') + an admin notice 'Server will be restarted in 1 minute.' No ROTF custom-boss taunts or ROTF dungeon names recovered. Bosses seen are base-game (Skull Shrine, Thessal).",
+ "uncertain": "Server identity is the key point: greeting says 'Void-Realm', so this is almost certainly NOT ROTF. The 25 dungeon biomes could overlap with standard RotMG/pserver dungeons but no entry NAMES were legible to confirm. The green-forest NPC line is partial/unidentified.",
+ "confidence": "LOW for ROTF relevance — flag this tag as off-target (Void-Realm, not ROTF). HIGH only that the footage is base-game content + admin spawns. Recommend EXCLUDING from ROTF reconstruction; nothing actionable for the ROTF port here."
+}

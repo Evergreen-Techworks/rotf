@@ -1,0 +1,4 @@
+# Muramasa
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Muramasa&prop=wikitext
+
+asdf

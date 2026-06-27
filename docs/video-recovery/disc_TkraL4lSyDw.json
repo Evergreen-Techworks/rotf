@@ -1,0 +1,15 @@
+{
+ "dungeon": "(BIG ~94-entry stream) ROTF — RE-CONFIRMS Dwarf King + Anubis (solidifies two prior recoveries)",
+ "source": "video disc_TkraL4lSyDw (928 frames, 282 transitions = ~94 entries, 1392 chat; sub-goal overlay; client X1.7.8). Grey-stone-maze + sandstone + grass + snow biomes. Chat re-confirmed two bosses' taunts.",
+ "map": "DOCUMENTED biomes: grey STONE MAZE rooms (many), tan SANDSTONE temple (Anubis/Anubi's Lair), green grass, white snow, brown brick, purple/magenta arena, blue ice.",
+ "bosses": [
+  {"name":"Dwarf King","phases":[],"attacks":["axe melee"],"minions":[],"colorFlashes":"","taunts":["You'll taste my axe!"],"note":"DOCUMENTED VERBATIM — 2nd INDEPENDENT CONFIRMATION (also disc_PRzNeGfRR00). CONFIRMS the boss is 'Dwarf King' — the built 'Death King' (OCBosses 0x8fd3, which carries this exact taunt) SHOULD BE RENAMED 'Dwarf King'. No longer just a guess."},
+  {"name":"Anubis","phases":["calls Pillars"],"attacks":[],"minions":["Pillars"],"colorFlashes":"gold","taunts":["Pillars... please help me!"],"note":"DOCUMENTED VERBATIM — 2nd CONFIRMATION (also disc_t8v5IlBPPJk). Solidifies ANUBIS (Anubi's Lair, gold sandstone temple) + the destructible-PILLARS mechanic (Ra-Staves parallel). Buildable."}
+ ],
+ "minions": ["Pillars (Anubis)"],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Lord of the Lost Lands (defeated)","Grand Sphinx (just spawned)"],
+ "mechanics": "DOCUMENTED (high-value RE-CONFIRMATIONS): (1) 'Dwarf King' = the boss built as 'Death King' (0x8fd3) — 2nd confirmation of 'You'll taste my axe!' => CONFIDENTLY RENAME. (2) Anubis 'Pillars... please help me!' 2nd confirmation => Anubi's Lair (Anubis + Pillars) is solidly recoverable. Vanilla stat-pots; Special Crate unbox; client X1.7.8.",
+ "uncertain": "No NEW bosses/taunts (these are corroborations). Boss attacks/HP not isolated. Many of the 94 entries are grey-stone mazes (names not captured).",
+ "confidence": "HIGH — two independent re-confirmations (Dwarf King rename CONFIRMED; Anubis/Pillars solidified). LOW novelty otherwise."
+}

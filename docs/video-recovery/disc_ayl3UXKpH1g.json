@@ -1,0 +1,13 @@
+{
+ "dungeon": "GENUINE ROTF but an EDITED CINEMATIC MONTAGE/TRAILER — heavily color-graded (dark, stylized) rapid-cut highlights across many biomes, with effect overlays (a 'STAR[...]' overlay seen, possibly Starforce/creator). NO readable chat (chat box hidden/empty under the grading) -> no taunts. The 219 bossends + 36 transitions fire on EDITING CUTS, not real dungeon loads (montage caveat). Low buildable yield; biome catalog only.",
+ "map": "DOCUMENTED-from-frames (biome catalog only — cinematic cuts, no traceable layout): dark-graded RotMG biomes flashed — PURPLE/MAGENTA void, BLUE/SPACE zone, RED/LAVA caverns, GREEN forest, DARK STONE dungeons, WATER. Heavy color-grading; no room/arena geometry traceable (edited montage, not a continuous run).",
+ "bosses": [
+  {"name":"(none recoverable — edited cinematic montage)","phases":[],"attacks":["NOT classifiable: bossends are color-graded editing-cut frames (bullets present but geometry obscured by the dark grading + rapid cuts); no clean boss-fight climax to trace"],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED: no boss names/taunts recoverable. Chat box is not legible (cinematic grading); bossends/transitions are editing-cut false-positives (blackdetect fires on the montage's cuts), NOT real fights/loads. Same limitation as other edited montage tags (cf. disc_179wvlch3jA)."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED-limited: an EDITED CINEMATIC ROTF montage/trailer. Dark color-grading + effect overlays (a 'STAR[...]' text overlay). No readable chat -> no taunts / event feed / drops. The biomes (purple void / blue space / red lava / green forest / dark stone / water) confirm broad ROTF content but nothing name-identifiable from this edit. PROCESS NOTE: heavily-graded montage/trailer videos yield biome catalog only; bossends/transitions are editing-cut false-positives (the boss-fight capture works on RAW gameplay, not edited cinematics).",
+ "uncertain": "No chat/taunts (cinematic grading hides the chat box). No boss names. Attack geometry not classifiable (graded + cut). The 'STAR[...]' overlay unread (Starforce? a creator/server name?). Biomes are color-graded so even biome IDs are approximate.",
+ "confidence": "LOW. GENUINE ROTF but an EDITED CINEMATIC montage/trailer -> biome catalog only, NO taunts/attacks/drops recoverable. Recorded to mark the tag analyzed + flag it as a heavily-graded montage (low value, like disc_179wvlch3jA). Real boss data comes from RAW gameplay tags, not edited cinematics."
+}

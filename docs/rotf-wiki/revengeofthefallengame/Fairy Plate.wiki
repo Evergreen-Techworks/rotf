@@ -1,0 +1,4 @@
+# Fairy Plate
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Fairy%20Plate&prop=wikitext
+
+asdf

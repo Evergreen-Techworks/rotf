@@ -1,0 +1,13 @@
+# Vault
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Vault&prop=wikitext
+
+[[File:Vault-0.png|thumb|80x80px]]
+The vault is the private room for every player. It's main function is storing your items in chests, but a lot of other things can be done here:
+[[File:Chests.png|thumb|104x104px]]
+* Change your skin
+* Join galaxies
+* Use your potion storage
+* Design your skill tree
+* Customize your runes setup
+
+Here you will also find the Spaceship, which is used to join galaxies, but has some other interactions (check Spaceship for further info).

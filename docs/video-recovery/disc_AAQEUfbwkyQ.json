@@ -1,0 +1,37 @@
+{
+ "dungeon": "GENUINE ROTF play session (intro card frame-verified: 'REVENGE [of the] FALLEN' flame logo + play button). An OWNER/ADMIN viewer-interactive stream — chat shows the streamer taking requests ('say in comments what class should I [play]', 'to op admin sword') and ADMIN-SPAWNING bosses for content. Multi-room run: green-grass ROTF realm (diagonal-path layout, XP-area unlocks 'You unlocked XP Fox Area!' / 'XP Ghost Area!') + a class-select screen + several interior rooms, culminating in an ANUBIS boss fight in a cross/plus-shaped sandstone TOMB arena. 12 transitions (t001 7s .. t012), 11 bossend groups (b001 2s .. b012 536s). The Anubis fight = b010_341s. NOT a clean single-dungeon clear; admin-spawn session.",
+ "map": "DOCUMENTED-from-minimaps+frames. ANUBIS ARENA = a symmetric CROSS / PLUS-shaped sandstone-tomb room: a central combat square with 4 rectangular arms radiating N/S/E/W, each arm bordered by dark-brown tomb walls (the diagonal brown borders read as an X framing the +). The 4 arms are where the PILLAR adds sit (matches the boss's 'PILLARS ACTIVATE/PROTECT/KILL' commands). Open radial approach, few choke points — players orbit the centre while pillars anchor the arms. Surrounding session rooms: green-grass ROTF realm with diagonal walking paths (XP-area events), tan/brown tiled rooms, a blue-water/ice room with red enemies, and a brown desert open area with scattered blue water pools.",
+ "bosses": [
+  {
+   "name": "Anubis",
+   "phases": [
+    "DOCUMENTED-from-frames: a GOLD/YELLOW scarab/sphinx-like main form that shifts to a BLUE/PURPLE form mid-fight (color-shift correlates with the heal/enrage taunts 'I have been healed' / 'I am slowly dying') — pillar-driven phase: pillars heal/protect Anubis, and when pillars are active vs destroyed the boss alternates between aggressive (gold) and weakened/healing (blue) states"
+   ],
+   "attacks": [
+    "DOCUMENTED-from-frames (bossends b010_341s): radial/nova burst of orange-red bullets from the boss (~8-12 count)",
+    "DOCUMENTED-from-frames: a long DIAGONAL sweeping orange-red bullet STREAM/WALL drawn across the cross-arena (wave/sweeping line along an arm axis)",
+    "summon/pillar mechanic: 4 PILLAR adds occupy the cross arms; boss commands them to 'ACTIVATE', 'PROTECT ME' (heal/shield), and 'KILL THEM FOR ME' (pillars fire at players) — DOCUMENTED-from-chat taunts + cross-arena pillar positions"
+   ],
+   "minions": [
+    "Pillars (4, in the cross arms; heal/protect/attack on Anubis's command) — DOCUMENTED-from-chat"
+   ],
+   "colorFlashes": "gold/yellow <-> blue/purple body color-shift (DOCUMENTED-from-frames; tied to pillar heal/enrage phase)",
+   "taunts": [
+    "I will take care of YOU!",
+    "I am losing strength... I am slowly dying...",
+    "Pillars... Please help me!",
+    "You have awoken me.",
+    "You shall now feel my wrath...",
+    "PILLARS ACTIVATE!",
+    "PILLARS PROTECT ME!"
+   ],
+   "note": "Boss-coloured '<Anubis>' prefix on all lines. CONFIDENCE TIERS (transcription honesty): HIGH (individually zoomed, clean complete) = 'I will take care of YOU!', 'I am losing strength... I am slowly dying...', 'Pillars... Please help me!'. MEDIUM (montage-readable, boss-coloured, not individually re-zoomed this pass) = 'You have awoken me.', 'You shall now feel my wrath...', 'PILLARS ACTIVATE!', 'PILLARS PROTECT ME!'. TWO MORE lines were boss-coloured but RIGHT-TAIL CUT by the narrow chat crop and are NOT included verbatim above (see uncertain): 'I have been healed. I will now make you dis...' and 'I NEED A BREAK... PILLARS, KILL THEM FOR...'. No base-RotMG 'Anubis' exists (Tomb of the Ancients = Bes/Nut/Geb) -> treat as ROTF/admin-custom; DEV loop must collision-check before building."
+  }
+ ],
+ "drops": [
+  "loot NOT clearly captured for Anubis (admin-spawn session; chat dominated by viewer-interaction + inventory 'Item' lines, no confident '<player> has looted' boss-drop line read) — recorded honestly as uncaptured, nothing fabricated"
+ ],
+ "mechanics": "ROTF systems observed: XP-AREA unlock events ('You unlocked XP Fox Area!', 'You unlocked XP Ghost Area!'); OWNER/ADMIN interactive stream (admin-spawned bosses, 'op admin sword', viewer class-vote in comments); ANUBIS PILLAR mechanic (4 pillar adds that heal/protect/attack on the boss's command — a kill-the-pillars-to-damage-the-boss fight). Realm diagonal-path layout. Class-select screen captured.",
+ "uncertain": "Anubis taunts: 3 HIGH-confidence (zoomed clean), 4 MEDIUM (montage-read, boss-coloured but not individually re-zoomed), 2 RIGHT-TAIL CUT and therefore excluded from verbatim taunts[] ('I have been healed. I will now make you dis...' [likely 'disappear'] and 'I NEED A BREAK... PILLARS, KILL THEM FOR...' [likely 'ME']) — kept here as partials, NOT fabricated completions. A further glimpsed line '...if they didn't kill you, then I CAN!!!' was too cut/illegible to attribute confidently -> NOT recorded. 'Anubis' identity is from the boss-coloured chat prefix (no boss healthbar name frame captured). Attack counts approximate from bossend frames. Loot uncaptured. Phase color-shift documented but exact HP thresholds not readable.",
+ "confidence": "MEDIUM-HIGH that this is genuine ROTF (intro logo frame-verified) and that ANUBIS is a real ROTF boss with a 4-PILLAR heal/protect/attack mechanic in a cross/plus sandstone tomb arena (taunts + arena + minimap all corroborate). HIGH on 3 taunts, MEDIUM on 4, partials flagged. Attacks DOCUMENTED-from-frames (orange radial nova + diagonal sweep). Admin-spawn session so 'dungeon' context is a realm+admin spawn, not a standard dungeon entry. Recorded with explicit per-taunt confidence tiers; no fabrication."
+}

@@ -1,0 +1,18 @@
+{
+ "dungeon": "GENUINE ROTF edited HIGHLIGHTS MONTAGE (~14 entries; PREVIOUS/RANDOM overlay) with a boss-taunt-rich global feed. NEW boss names recovered: Void Entity + Nikad the Defiler. Corroborates The Puppet Master + Ghost of Skuld. Multi-boss feed -> careful attribution; taunts mostly chat-cut partials. Attacks not attributable (montage cuts).",
+ "map": "DOCUMENTED-from-transitions (montage, biome catalog only): desert, green FOREST, grey-stone VAULTS, candy/checker-tiled, brown dungeons, lava. Fast-cut highlights -> no single dungeon's room sequence traceable.",
+ "bosses": [
+  {"name":"Void Entity","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You fools... You can never [defeat me/...]","I am the embodiment of your [...]","Naivety! You really think you[...]","...One day you shall all be slain, an[d]..."],"note":"DOCUMENTED-from-chat (boss-coloured; PARTIAL — lines chat-cut). NEW void/cosmic boss with a substantial menacing taunt set. Strong build/enrich candidate once fuller lines are found. Brackets = cut/unconfirmed."},
+  {"name":"Nikad the Defiler","phases":["'Noooooo! This cannot be...' on death"],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You cannot handle the [...]","Noooooo! This cannot [be]..."],"note":"DOCUMENTED-from-chat (PARTIAL). NEW 'Defiler' boss. Lines cut. Build/enrich candidate."},
+  {"name":"The Puppet Master","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Lucky guess hero[...] when this is over[...]"],"note":"DOCUMENTED-from-chat. CORROBORATES the built/recovered Puppet Master ('Lucky guess hero...'). NOTE: two other lines near it ('Little mortals, your years are...', 'I will rend your soul...') could NOT be confidently attributed to Puppet Master (multi-boss feed) -> NOT assigned to him."},
+  {"name":"Ghost of Skuld","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["A SWIFT DEATH!!!","Congratulations on your[...]"],"note":"DOCUMENTED-from-chat. 'A SWIFT DEATH!!!' CORROBORATES the built Epic Ghost of Skuld line. 'Congratulations on your...' is a candidate-new line (partial)."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [
+  "Void Entity, Nikad the Defiler, The Puppet Master, Ghost of Skuld (taunts above); Thessal (death feed)"
+ ],
+ "mechanics": "DOCUMENTED: an edited ROTF highlights montage with a boss-taunt-rich feed. NEW boss names Void Entity (cosmic/void menace: 'You fools... You can never...', 'I am the embodiment of your...', 'Naivety!...', '...you shall all be slain...') + Nikad the Defiler ('You cannot handle the...', death 'Noooooo! This cannot be...'). Puppet Master ('Lucky guess hero...') + Ghost of Skuld ('A SWIFT DEATH!!!') corroborate built/recovered content. ATTACKS: bossends are montage editing-cut frames across many bosses -> NOT attributable, left blank. Two lines near Puppet Master deliberately NOT attributed (multi-boss feed).",
+ "uncertain": "All NEW boss taunts (Void Entity, Nikad the Defiler) are chat-cut PARTIALS -> leads, not build-ready verbatim. 'Little mortals, your years are...' + 'I will rend your soul...' NOT attributed (could be Void Entity, Nikad, Puppet Master, or another). Ghost of Skuld 'Congratulations on your...' partial. Attacks not attributable (edited montage).",
+ "confidence": "MEDIUM. GENUINE ROTF. Two NEW boss names recovered (Void Entity — sizable taunt set; Nikad the Defiler) as partial leads. Puppet Master + Ghost of Skuld corroborated. Attribution kept careful (unassigned lines flagged). Biome catalog only (montage). Best follow-up: single-fight videos for Void Entity / Nikad the Defiler to complete their taunts."
+}

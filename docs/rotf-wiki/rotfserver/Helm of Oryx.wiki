@@ -1,0 +1,16 @@
+# Helm of Oryx
+# https://rotfserver.fandom.com/api.php?action=parse&page=Helm%20of%20Oryx&prop=wikitext
+
+Helm of Oryx is a [https://rotfserver.wikia.com/wiki/Helms Ability for the Warrior] .
+
+"''A Helm which once was owned by Oryx himself. It has recently been stolen by a group of Leechers''"
+
+'''<u>Stats:</u>'''
+* Party Effect: Within 10 squares Berserk for 7.5 seconds
+* Party Effect: Within 2 sqrs Damaging for 4 seconds
+
+* On Equip: +7 ATT +20 DEF +8 SPD +8 VIT +8 DEX
+* MP Cost: 100
+* Fame Bonus 7%
+* Cooldown 7 seconds
+It is Dropped by [[Oryx the Mad God 3]] after dealing 13% Damage to him.

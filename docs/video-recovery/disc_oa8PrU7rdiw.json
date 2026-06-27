@@ -1,0 +1,43 @@
+{
+ "dungeon": "GENUINE ROTF/RotMG multi-dungeon run (7 entries, ~201s) across lava / green realm / desert / blue-VOID / brown biomes, with a DAILY-BATTLE + CRATE reward mechanic. 49 bossends / 7 groups. Most bosses UNNAMED (chat is daily-battle/crate + partial lines), but ONE clean attack documented (radial ring/nova) + a 'Greatfish' boss spawn + a partial 'Inquisitor' critical-enemy line.",
+ "map": "DOCUMENTED-from-transitions+bossends: 7-entry hop — a RED LAVA arena, GREEN grass realms, tan DESERT + a checkered area, a blue/purple VOID arena (b003_23s, the radial-ring boss), and a brown dungeon. No single room-sequence (multi-dungeon).",
+ "bosses": [
+  {
+   "name": "(unidentified blue-void-arena boss)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (bossend b003_23s): TWO concentric RADIAL RINGS / NOVAS of evenly-spaced blue/white bullets expanding from the boss (~16-20 bullets per ring). Class: radial ring/nova (multi-ring)."],
+   "minions": [],
+   "colorFlashes": "blue",
+   "taunts": [],
+   "note": "DOCUMENTED-from-frames: a boss in a blue/purple VOID arena with a clean MULTI-RING radial-nova attack (2 concentric rings, ~16-20 bullets each). NAME NOT captured (chat is daily-battle/crate-dominated) -> UNIDENTIFIED (no guessing). The cleanest attack-geometry of this tag."
+  },
+  {
+   "name": "Greatfish",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-chat: 'Matt: Greatfish has just spawned!' -> a boss/event named 'Greatfish' (likely a meme giant-fish boss). SPAWN announcement only -> no taunt/attack/arena isolated. Name-only lead."
+  },
+  {
+   "name": "Inquisitor (partial / possible critical-enemy)",
+   "phases": [],
+   "attacks": [],
+   "minions": ["minions (guard the boss)"],
+   "colorFlashes": "",
+   "taunts": ["My minions will keep guarding me..."],
+   "note": "DOCUMENTED-from-chat (PARTIAL): '<Inquisitor> My minions will keep guarding me...' -> matches the base-game CRITICAL-ENEMY taunt pattern (cf. Oryx.cs CriticalEnemies 'My {COUNT} X give me more than enough protection'). UNCERTAIN if 'Inquisitor' is a distinct custom boss or a critical-enemy variant -> flagged, NOT firmly attributed/built. Line is partial."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Daily-battle CRATE rewards (Special Crate / 'Obtaining a [...] Crate')"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Greatfish has just spawned! (Matt)"
+ ],
+ "mechanics": "DOCUMENTED: (1) DAILY BATTLE + CRATE system — 'You have started the daily battle!' + 'Obtaining a [...] Crate' / 'Special Crate' (repeated) -> a daily-quest/crate reward mechanic. (2) one blue-void-arena boss with a clean MULTI-RING radial-nova attack (~16-20 bullets/ring, b003_23s). (3) 'Greatfish' boss spawn (name-only). (4) a partial 'Inquisitor: My minions will keep guarding me...' (matches critical-enemy taunt pattern). Multi-dungeon (lava/green/desert/void/brown). Most bosses unnamed.",
+ "uncertain": "Most bosses UNNAMED (daily-battle/crate-dominated chat) -> only attack-class + 2 name-leads (Greatfish spawn-only; Inquisitor partial). 'Inquisitor' base-critical-enemy vs custom UNCONFIRMED. The radial-ring boss is unnamed. Crate drop-table not enumerated. Multi-dungeon -> no single layout.",
+ "confidence": "LOW-MEDIUM. GENUINE ROTF/RotMG. Concrete: a clean MULTI-RING radial-nova attack (DOCUMENTED b003_23s) + a DAILY-BATTLE/CRATE mechanic + a 'Greatfish' spawn lead + a partial 'Inquisitor' critical-enemy line. NO boss fully named+tauntED -> recorded honestly (unidentified boss for the ring attack; Greatfish name-only; Inquisitor flagged partial/possible-critical-enemy). Best follow-up: clean single-boss clips for the void-arena boss + Greatfish names/taunts."
+}

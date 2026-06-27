@@ -1,0 +1,21 @@
+{
+ "dungeon": "GENUINE ROTF crate/potion-GRIND run — mostly the OPEN REALM (grass+desert) plus a grey-stone dungeon. Economy/unboxing heavy; NO boss taunts (grind video). Build value = SYSTEMS + ITEMS intel (crate→stat-pot economy, Potion Storage) + event-feed corroboration; not a source of new bosses/attacks.",
+ "map": "DOCUMENTED-from-transitions+frames: the OPEN REALM landmass (green GRASS + tan DESERT, blue water edges, a grassy hub with structures) and a GREY-STONE DUNGEON — boxy grey-tile rooms with diagonal walls + corridors (vault/labyrinth-style). Multi-entry; no single dungeon followed (grind run).",
+ "bosses": [
+  {"name":"(none with taunts — crate/potion grind)","phases":[],"attacks":["not cleanly captured: grey-stone rooms with sparse bullets across the bossends; no dense boss climax to classify (grind video, not a focused boss fight)"],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED: no boss FIGHT taunts (the run is crate/potion grinding). Bosses below are EVENT-FEED mentions only (base/event). Attack geometry not classifiable from the grey-room bossends."}
+ ],
+ "minions": [],
+ "drops": [
+  "Magical Crate (unboxed)",
+  "Orb of Sweet Demise (from Magical Crate)",
+  "Seal of the Enchanted Forest (from Magical Crate)",
+  "Potion of Vitality / Speed / Defense / Wisdom / Attack (stat pots, from crates)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Firebreather (Modnus announcer: 'Firebreather has just been defeated/spawned')",
+  "Cube God (Mommy announcer: 'Cube God has just spawned!')"
+ ],
+ "mechanics": "DOCUMENTED ROTF ECONOMY SYSTEMS (high value): CRATE-OPENING -> stat pots + items ('You have opened a crate! Obtaining a Potion of X'; Magical Crate yields Orb of Sweet Demise / Seal of the Enchanted Forest). MAX-TRACKING: unboxed pots show 'X left to max' (e.g. 'Potion of Defense ... 14 left to max'); when a stat is maxed, further pots auto-route to POTION STORAGE ('You're already maxed. Potion of X sent to your potion storage!'). POTION STORAGE AUTO-SELL: when storage is full, excess auto-sells for fame ('Potion Storage Full! Potion of Vitality sold for 2 fame!'). MULTI-PERSONA ANNOUNCERS corroborated: Modnus, Mommy, Loot Notifier (event spawns/defeats: Firebreather, Cube God). No boss taunts/attack patterns (grind run).",
+ "uncertain": "No boss taunts (crate/potion grind, not a boss-fight video). Crate-item names (Orb of Sweet Demise, Seal of the Enchanted Forest) read off fast unbox lines — spellings approximate. Attack patterns not classifiable (sparse grey-room bossends). Grey dungeon not name-identified.",
+ "confidence": "LOW for bosses/attacks (grind video, no taunts, base/event bosses only). MEDIUM-HIGH for ECONOMY SYSTEMS intel — the crate→stat-pot→Potion-Storage(auto-sell) loop with 'X left to max' tracking is clearly documented and is genuine ROTF progression mechanics. Map MEDIUM (open realm + grey dungeon). Not a source of new buildable bosses."
+}

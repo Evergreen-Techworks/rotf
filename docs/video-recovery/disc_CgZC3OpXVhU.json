@@ -1,0 +1,14 @@
+{
+ "dungeon": "Large group-farming stream (16-player party) — Galactic/event bosses + many dungeons (~17 entries)",
+ "map": "DOCUMENTED biomes from transitions/contact: grey caves w/ red boss, brown/tan caverns, a purple dungeon with bridges, sandy DESERT dungeon (NPC), teal WATER dungeon, dark diagonal crypt, a bright PINK/MAGENTA dungeon, and boss arenas with circular enemy-ring formations (white-ring + orange-ring). Vault/pet-yard UI shown.",
+ "bosses": [
+   {"name":"Cracked Core","phases":["glitch/corruption theme"],"attacks":[],"minions":["'These creatures are...' (summons creatures)"],"colorFlashes":"","taunts":["D---le w-a-rr-l-o-r! (glitched 'Die warrior!')","H-h-h-h-h-h-h-h-h (glitchy laugh)","DOOOOOOOOOOOOOOOOOOOM!!!","These creatures are [...]"]},
+   {"name":"Lord of the Lost Lands","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["NOOOOO!! (death cry)"],"note":"Spawned + defeated via announcer ('Harpy> The Lord of the Lost Lands has been defeated'). 'Lost Lands' boss."},
+   {"name":"Hermit God (event)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"'<Pirate> A Hermit God has just spawned'."},
+   {"name":"Oryx the Mad God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["No... not this t[ime]..."]}
+ ],
+ "drops": [],
+ "mechanics": "DOCUMENTED: Cracked Core is a GLITCH/CORRUPTION-themed boss with deliberately corrupted text taunts (letters hyphenated/scrambled: 'D---le w-a-rr-l-o-r!' = 'Die warrior!', stutter-laugh, drawn-out 'DOOOOM!!!'). DAMAGE-THRESHOLD LOOT confirmed: '<Loot Notifier> [Tiiveee] just got so[mething] with 9% damage dealt!' (drops announced with the % damage the player dealt — soulbound/min-damage system). 'Your loot drop boost has been activated' = a temporary LOOT-DROP-BOOST buff. Event bosses announced: Ortar, Hermit God, Pentaract Tower Ultra, Lord of the Lost Lands. Announcer PERSONAS this stream: Starforce, Pirate, Spider, Harpy, plus 'Death Notifier' (player deaths w/ party tuple e.g. 'yerxaz (16/16, 182...)') and 'Loot Notifier' (drops). 16-player party (16/16).",
+ "uncertain": "Lines clipped at chat right edge (bracketed reconstructions). Pink/magenta dungeon + ring-formation arenas not name-identified. Cracked Core's exact glitch-letters approximate.",
+ "confidence": "HIGH for Cracked Core glitch taunts + Lord of the Lost Lands + Loot-Notifier damage-% system + loot-boost buff (all DOCUMENTED); MEDIUM for biomes; event-boss names DOCUMENTED."
+}

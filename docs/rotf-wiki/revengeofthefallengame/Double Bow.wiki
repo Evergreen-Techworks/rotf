@@ -1,0 +1,4 @@
+# Double Bow
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Double%20Bow&prop=wikitext
+
+asdf

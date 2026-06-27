@@ -1,0 +1,44 @@
+# Ninja
+# https://rotfserver.fandom.com/api.php?action=parse&page=Ninja&prop=wikitext
+
+{{Classbox
+| desc = The ninja relies on speed and skill, using katanas and ninja stars to deal big damage.
+| weaponSlot = Katana
+| weapon = Rusty Katana
+| abilitySlot = Star
+| ability = Basic Staff
+| armor = LeatherArmor
+| armorLink = Leather Armors
+
+| hpStart = 175
+| hpLevel = 20 - 30
+| hpCap = 770
+
+| mpStart = 100
+| mpLevel = 2 - 8
+| mpCap = 252
+
+| attStart = 15
+| attLevel = 1 - 2
+| attCap = 70
+
+| defStart = 0
+| defLevel = 0
+| defCap = 25
+
+| spdStart = 10
+| spdLevel = 0 - 2
+| spdCap = 60
+
+| dexStart = 12
+| dexLevel = 1 - 2
+| dexCap = 70
+
+| vitStart = 12
+| vitLevel = 0 - 1
+| vitCap = 45
+
+| wisStart = 12
+| wisLevel = 1 - 2
+| wisCap = 70
+}}

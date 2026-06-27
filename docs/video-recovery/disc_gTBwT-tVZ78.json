@@ -1,0 +1,13 @@
+{
+ "dungeon": "VALOX multi-content stream — Shatters (Marble Colossus) + meme event-bosses",
+ "map": "DOCUMENTED biomes: red/blue MARBLE COLOSSUS arena (Shatters final room), green realm, grey diagonal Lost-Halls-style dungeons, a multi-color CHECKERED/grid dungeon, sandy/tan dungeons, purple dungeons. Red-flame stream overlay border (Valox).",
+ "bosses": [
+   {"name":"Marble Colossus (The Shatters)","phases":["death phase"],"attacks":[],"minions":[],"colorFlashes":"red/blue","taunts":["I...I am...Dying...","You...YOU WILL [...]"],"note":"Vanilla Shatters final boss — confirmed present in ROTF (red/blue arena)."},
+   {"name":"Flying Encounter (event boss)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["YOU HAVE MADE [A MISTAKE]...","I've seen karate [...]"],"note":"Comedic event boss (Uvuvwevwevwe-meme family — meme taunts)."},
+   {"name":"Smashing Encounter (event boss)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["YOU HAVE M[ADE A MISTAKE]...","I've seen men [...]"],"note":"Comedic event boss (meme taunts)."}
+ ],
+ "drops": ["white/pink-bag items (shown in loot)"],
+ "mechanics": "DOCUMENTED: ROTF includes the SHATTERS (vanilla Marble Colossus, death taunts 'I...I am...Dying...' / 'You...YOU WILL...'). New comedic EVENT BOSSES 'Flying Encounter' + 'Smashing Encounter' (Uvuvwevwevwe-meme family) with joke taunts ('YOU HAVE MADE A MISTAKE', 'I've seen karate', 'I've seen men'). Realm events: Riverborn defeated, Cube God spawned, Asgard Guardian defeated (announcer personas: Scorpion, Snake). ~9 dungeon entries.",
+ "uncertain": "Encounter-boss taunts partly clipped (meme references). Marble Colossus = vanilla Shatters (not ROTF-custom). Multi-color grid dungeon not name-identified.",
+ "confidence": "MEDIUM — Marble Colossus/Shatters confirmed + new 'Flying/Smashing Encounter' meme event-bosses DOCUMENTED; biomes documented."
+}

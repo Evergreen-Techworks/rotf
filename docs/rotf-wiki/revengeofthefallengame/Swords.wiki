@@ -1,0 +1,293 @@
+# Swords
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Swords&prop=wikitext
+
+The sword is the main weapon of the warrior, the knight and the paladin. It is focused on high dps at low range
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = BelsDecapitator.png
+| link = Bel's Decapitator
+| text = Bel's Decapitator
+}}
+| {{ImageBlackLarge1
+| file = Thusala's Slasher.png
+| link = Thusala's Slasher
+| text = Thusala's Slasher
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = AncientStoneSword.png
+| link = Ancient Stone Sword
+| text = Ancient Stone Sword
+}}
+| {{ImageBlackLarge1
+| file = SwordOfTheColossus.png
+| link = Sword of the Colossus
+| text = Sword of the Colossus
+}}
+| {{ImageBlackLarge1
+| file = ShatteredWarAxe.png
+| link = Shattered War Axe
+| text = Shattered War Axe
+}}
+| {{ImageBlackLarge1
+| file = OmegaAncientSword.png
+| link = Omega Ancient Sword
+| text = Omega Ancient Sword
+}}
+| {{ImageBlackLarge1
+| file = ThrowingSpear.png
+| link = Throwing Spear
+| text = Throwing Spear
+}}
+|-
+| {{ImageBlackLarge1
+| file = EnchantedUruSword.png
+| link = Enchanted Uru Sword
+| text = Enchanted Uru Sword
+}}
+| {{ImageBlack
+| file = Gungnir.png
+| link = Gungnir
+| text = Gungnir
+}}
+| {{ImageBlackLarge1
+| file = WarbringersFlagpole.png
+| link = Warbringer's Flagpole
+| text = Warbringer's Flagpole
+}}
+| {{ImageBlack
+| file = RottingArm.png
+| link = Rotting Arm
+| text = Rotting Arm
+}}
+| {{ImageBlack
+| file = SwordOfOryx.png
+| link = Sword of Oryx
+| text = Sword of Oryx
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = CrystalSword.png
+| link = Crystal Sword
+| text = Crystal Sword
+}}
+| {{ImageBlack
+| file = DemonBlade.png
+| link = Demon Blade
+| text = Demon Blade
+}}
+| {{ImageBlackLarge1
+| file = DoctorSwordsworth.png
+| link = Doctor Swordsworth
+| text = Doctor Swordsworth
+}}
+| {{ImageBlackLarge1
+| file = UnstableAnomaly.png
+| link = Unstable Anomaly
+| text = Unstable Anomaly
+}}
+| {{ImageBlackLarge1
+| file = EnchantedIceBlade.png
+| link = Enchanted Ice Blade
+| text = Enchanted Ice Blade
+}}
+| {{ImageBlackLarge1
+| file = SwordOfIllumination.png
+| link = Sword of Illumination
+| text = Sword of Illumination
+}}
+| {{ImageBlackLarge1
+| file = SwordOfTheFallen.png
+| link = Sword of the Fallen
+| text = Sword of the Fallen
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge2
+| file = PixieEnchantedSword.png
+| link = Pixie-Enchanted Sword
+| text = Pixie-Enchanted Sword
+}}
+| {{ImageBlack
+| file = Indomptable.png
+| link = Indomptable
+| text = Indomptable
+}}
+| {{ImageBlackLarge1
+| file = SwordOfTheMadGod.png
+| link = Sword of the Mad God
+| text = Sword of the Mad God
+}}
+| {{ImageBlackLarge1
+| file = ShadowboneSword.png
+| link = Shadowbone Sword
+| text = Shadowbone Sword
+}}
+| {{ImageBlackLarge1
+| file = TheSeaweedSword.png
+| link = The Seaweed Sword
+| text = The Seaweed Sword
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Unique</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = PirateKingsCutlass.png
+| link = Pirate King’s Cutlass
+| text = Pirate King’s Cutlass
+}}
+| {{ImageBlack
+| file = Vinesword.png
+| link = Vinesword
+| text = Vinesword
+}}
+| {{ImageBlack
+| file = Frostbite.png
+| link = Frostbite
+| text = Frostbite
+}}
+| {{ImageBlackLarge1
+| file = SkullSplitterSword.png
+| link = Skull-splitter Sword
+| text = Skull-splitter Sword
+}}
+| {{ImageBlackLarge1
+| file = SwordOfTheRainbowsEnd.png
+| link = Sword of the Rainbow’s End
+| text = Sword of the Rainbow’s End
+}}
+|-
+| {{ImageBlackLarge1
+| file = ApocalypseFeather.png
+| link = Apocalypse Feather
+| text = Apocalypse Feather
+}}
+| {{ImageBlackLarge1
+| file = DreadstumpsRapier.png
+| link = Dreadstump's Rapier
+| text = Dreadstump's Rapier
+}}
+| {{ImageBlack
+| file = FangOfFrost.png
+| link = Fang of Frost
+| text = Fang of Frost
+}}
+| {{ImageBlackLarge1
+| file = SwordOfTheAquaticGod.png
+| link = Sword of the Aquatic God
+| text = Sword of the Aquatic God
+}}
+| {{ImageBlackLarge1
+| file = SwordOfTheDemonLord.png
+| link = Sword of the Demon Lord
+| text = Sword of the Demon Lord
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = StardustBlade.png
+| link = Stardust Blade
+| text = Stardust Blade
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = SkysplitterSword.png
+| link = Skysplitter Sword
+| text = Skysplitter Sword
+}}
+| {{ImageBlackLarge1
+| file = SwordOfAcclaim.png
+| link = Sword of Acclaim
+| text = Sword of Acclaim
+}}
+| {{ImageBlackLarge1
+| file = SwordOfSplendor.png
+| link = Sword of Splendor
+| text = Sword of Splendor
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = ShortSword.png
+| link = Short Sword
+| text = Short Sword
+}}
+| {{ImageBlack
+| file = BroadSword.png
+| link = Broad Sword
+| text = Broad Sword
+}}
+| {{ImageBlack
+| file = Saber.png
+| link = Saber
+| text = Saber
+}}
+| {{ImageBlack
+| file = LongSword.png
+| link = Long Sword
+| text = Long Sword
+}}
+| {{ImageBlack
+| file = Falchion.png
+| link = Falchion
+| text = Falchion
+}}
+| {{ImageBlack
+| file = FireSword.png
+| link = Fire Sword
+| text = Fire Sword
+}}
+|-
+| {{ImageBlack
+| file = GlassSword.png
+| link = Glass Sword
+| text = Glass Sword
+}}
+| {{ImageBlack
+| file = GoldenSword.png
+| link = Golden Sword
+| text = Golden Sword
+}}
+| {{ImageBlackLarge1
+| file = RavenheartSword.png
+| link = Ravenheart Sword
+| text = Ravenheart Sword
+}}
+| {{ImageBlackLarge1
+| file = DragonsoulSword.png
+| link = Dragonsoul Sword
+| text = Dragonsoul Sword
+}}
+| {{ImageBlack
+| file = ArchonSword.png
+| link = Archon Sword
+| text = Archon Sword
+}}
+| {{ImageBlackLarge1
+| file = SwordOfMajesty.png
+| link = Sword of Majesty
+| text = Sword of Majesty
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

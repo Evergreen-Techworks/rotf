@@ -1,0 +1,4 @@
+# Frimarra
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Frimarra&prop=wikitext
+
+asdf

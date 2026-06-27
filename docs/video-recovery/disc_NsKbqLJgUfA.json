@@ -1,0 +1,15 @@
+{
+ "dungeon": "(MAXING-PROGRESSION STREAM, DerpyDose) ROTF — NEW Cracked Core + Archdemon Malphas taunts, 82-node skill tree, potion storage",
+ "source": "video disc_NsKbqLJgUfA (661 frames, 15 transitions, 165 chat). Tracks a char maxing: 0/8 -> 8/8 (stats) -> 82/82 (skill-tree nodes). Diverse biomes; chat captured fuller taunts for two ALREADY-BUILT bosses + loot/system lines.",
+ "map": "DOCUMENTED biomes: red/dark LAVA arena (Archdemon Malphas fight), green grass, blue ICE zones (Cracked Core fight), purple/tan, orange lava. A SKILL-TREE node-grid panel (colored nodes: green/yellow/purple/blue — by rune colour) shown at the 8/8->82/82 stage.",
+ "bosses": [
+  {"name":"Archdemon Malphas","phases":["death"],"attacks":[],"minions":["demons"],"colorFlashes":"fire red","taunts":["I have been defeated... My demons will crush you!"],"note":"DOCUMENTED VERBATIM (boss-colored chat). FULLER on-death line than disc_N75 ('I have been defeated...' -> '...My demons will crush you!'). Demon minion-commander; defiant even in death. (Lava arena.)"},
+  {"name":"Cracked Core","phases":[],"attacks":[],"minions":[],"colorFlashes":"glitch","taunts":["H h h h h h h h","0000000...OOOOOOM!!!","You... creatures... m[ust]..."],"note":"DOCUMENTED VERBATIM (boss-colored chat). Cracked Core is ALREADY BUILT (OCBosses 0x8fd1). It speaks in GLITCHED/corrupted text — a stuttering laugh 'H h h h h', a glitchy stretched 'OOOOOOM!!!' (cf. the built 'DOOOM!!!'), and broken 'You... creatures... must...'. Enriches the build. (Blue-ice arena.)"}
+ ],
+ "minions": [],
+ "drops": ["Helm of the Juggernaut (LEGENDARY loot — '[player] just got some legendary loot, Helm of the Juggernaut')","Torn Crate (from identifying a scroll — 'You have identified the scroll! Obtaining a Torn Crate')"],
+ "event_bosses_seen_in_global_feed": ["Hermit God (defeated 16/35)","Lucky Djinn (just spawned)"],
+ "mechanics": "DOCUMENTED: (1) SKILL TREE has ~82 NODES — the maxing progression goes 0/8 -> 8/8 (the 8 stats maxed) -> 82/82 (skill-tree nodes filled); a colored node-grid (green/yellow/purple/blue, by rune colour) is the skill-tree UI. (2) POTION STORAGE system — 'Potion Storage full! Potion of Vitality sent to [stash]' (a dedicated potion stash that can fill; this VANILLA-named build uses 'Potion of Vitality'). (3) CRATE TIERS: 'Torn Crate' (from IDing scrolls), alongside Bronze Lootbox / Special Crate. (4) LEGENDARY loot tier (Helm of the Juggernaut). (5) /35 event counter (Hermit God 16/35).",
+ "uncertain": "Skill-tree node count read as '82/82' (interpreted as nodes; could be a different total per class). Boss attacks/HP not isolated. Some Cracked Core lines truncated. Malphas/Cracked Core dungeons not named.",
+ "confidence": "HIGH for: the NEW Cracked Core glitch taunts + the fuller Malphas death taunt (both enrich built bosses) + the 82-node skill tree + Potion Storage + Helm of the Juggernaut + Torn Crate. MEDIUM for the exact 82-node interpretation."
+}

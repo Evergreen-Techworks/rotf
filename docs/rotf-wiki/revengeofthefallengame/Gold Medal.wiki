@@ -1,0 +1,4 @@
+# Gold Medal
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Gold%20Medal&prop=wikitext
+
+asdf

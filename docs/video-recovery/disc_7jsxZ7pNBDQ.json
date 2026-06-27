@@ -1,0 +1,15 @@
+{
+ "dungeon": "GENUINE ROTF clip — main fight is in a DARK-STONE/LAVA dungeon with GOLD-coloured enemies + a gold boss in a circular segmented arena (unidentified by name). Other transitions glimpse a green forest + a dark/space area. LOW boss-taunt yield (chat was player votes + system/level messages, no boss line captured); some systems intel.",
+ "map": "DOCUMENTED-from-minimaps+frames: the main arena is a CIRCULAR ORANGE/LAVA ROOM with radial SEGMENTS around a darker central boss area, set in DARK-STONE grid corridors with lava accents (gold enemies patrol the grid). Other minimaps show a green FOREST landmass and a dark/space area (other entries this clip). Single main fight; per-room sequence not traced (1 loading entry).",
+ "bosses": [
+  {"name":"(gold boss — dark-stone/lava circular arena, unnamed)","phases":[],"attacks":["DOCUMENTED-from-frames: sparse — the 3 bossend frames show a GOLD boss in a circular lava arena but bullets are NOT dense enough to classify a pattern confidently; appears to be scattered/aimed shots. NOT reconstructing a specific geometry from insufficient frames."],"minions":["gold-coloured grid enemies (multiple, patrol the stone corridors)"],"colorFlashes":"gold/yellow","taunts":[],"note":"DOCUMENTED-from-frames only. No boss name or taunt recoverable (chat had no boss line — only player votes + level-up/death notifications). Gold-enemy circular lava arena; identity unknown (could be a treasure/gold-themed or dragon-lair-style dungeon). Honestly low-confidence."}
+ ],
+ "minions": [
+  "gold/yellow grid enemies (dark-stone corridors)"
+ ],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED systems/notifications (no boss taunts): a custom '/<command> <active integer>' with numeric choices ('Choices: 830, 850, 914, 872, 9012, 280...' — looks like a teleport/instance picker); 'Potion of Attack Consumed' (stat-pot use); class-tagged level-ups ('Taiga achieved level 20 as a Rogue!', 'Megavnyga achieved level 20 as a Sorcerer!'); a player yes/no VOTE in chat ('gcache'); a 'Daily 10/27/202x' line. Main fight = a gold boss in a circular lava arena (attack geometry not cleanly captured in 3 frames). Low-yield clip for buildable boss content.",
+ "uncertain": "Gold dungeon/boss NOT identified (no name on loading screen, no taunt). Attack pattern NOT classified (only 3 sparse bossend frames). The '/command <integer> Choices:...' purpose inferred (teleport/instance picker), not confirmed. Other-biome transitions (forest, space) not tied to dungeons.",
+ "confidence": "LOW for boss content (no name, no taunt, attack not classifiable from 3 sparse frames). MEDIUM for the arena description (gold-enemy circular lava arena) + minor systems notes (stat-pot use, class level-ups, a custom integer command). GENUINE ROTF. Best treated as a biome/arena data point, not a buildable boss."
+}

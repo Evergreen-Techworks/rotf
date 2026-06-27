@@ -1,0 +1,27 @@
+# Sword of Oryx
+# https://rotfserver.fandom.com/api.php?action=parse&page=Sword%20of%20Oryx&prop=wikitext
+
+{{ItemInfo
+| name = Sword of Oryx
+| slot = sword
+| tier = UT
+| rarity = l
+| desc = This sword comes from the deepest of mountains, the highest of oceans. Straight from the sky.
+
+| rof = 105
+| range = yes
+| projSpeed = 12
+| lifetime = 350
+| minDmg = 265
+| maxDmg = 340
+| fameb = 7
+| feedp = 1400
+
+| legendary = 4
+
+|lootbag = white
+|dropsFrom = is obtainable via Oryx The Mad God 3.}}
+<noinclude>
+[[Category:Swords]]
+{{NavSwords}}
+</noinclude>

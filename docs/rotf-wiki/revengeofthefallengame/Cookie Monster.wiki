@@ -1,0 +1,4 @@
+# Cookie Monster
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Cookie%20Monster&prop=wikitext
+
+asdf

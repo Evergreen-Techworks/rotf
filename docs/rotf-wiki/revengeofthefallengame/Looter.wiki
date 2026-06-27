@@ -1,0 +1,4 @@
+# Looter
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Looter&prop=wikitext
+
+asdf

@@ -1,0 +1,17 @@
+# Heavy Armors
+# https://rotfserver.fandom.com/api.php?action=parse&page=Heavy%20Armors&prop=wikitext
+
+Heavy Armors are used by Melee Classes, like [[Warrior]], [https://rotfserver.wikia.com/wiki/Knight Knight] and [https://rotfserver.wikia.com/wiki/Paladin Paladin], In almost every occasion Heavy Armors give alot of Defense.
+
+There are Heavy Armors Exclusive to Rotf, These are:
+* [[The Drenched Armor]]
+* [[Armor of Oryx]]
+* [[Armor of the Fallen]]
+* [[Armor of the Aquatic God]]
+* [[Armor of the Demon Lord]]
+* [[Ancient Stone Guardian Armor]]
+* [[Thor's Armor]]
+* [[pD Armor]]
+* [[The Scavenger's Attire]]
+* [[Odin's Attire]]
+* [[Infinity Chestplate]]

@@ -1,0 +1,236 @@
+# Bows
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Bows&prop=wikitext
+
+The bow is the main weapon of the archer and the huntress and it's mostly focused on high dps at medium range.
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = ReapersBow.png
+| link = Reaper's Bow
+| text = Reaper's Bow
+}}
+| {{ImageBlack
+| file = Handcannon.png
+| link = Handcannon
+| text = Handcannon
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = ThousandShot.png
+| link = Thousand Shot
+| text = Thousand Shot
+}}
+| {{ImageBlack
+| file = BowOfTheVoid.png
+| link = Bow of the Void
+| text = Bow of the Void
+}}
+| {{ImageBlackLarge1
+| file = UndeadsGrossBow.png
+| link = Undead's Gross Bow
+| text = Undead's Gross Bow
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = LeafBow.png
+| link = Leaf Bow
+| text = Leaf Bow
+}}
+| {{ImageBlack
+| file = DoomBow.png
+| link = Doom Bow
+| text = Doom Bow
+}}
+| {{ImageBlack
+| file = CoralBow.png
+| link = Coral Bow
+| text = Coral Bow
+}}
+| {{ImageBlackLarge2
+| file = PreciselyCalibratedStringstick.png
+| link = Precisely Calibrated Stringstick
+| text = Precisely Calibrated Stringstick
+}}
+| {{ImageBlack
+| file = Robobow.png
+| link = Robobow
+| text = Robobow
+}}
+| {{ImageBlackLarge1
+| file = BowOfTheMorningStar.png
+| link = Bow of the Morning Star
+| text = Bow of the Morning Star
+}}
+|-
+| {{ImageBlack
+| file = ArcticBow.png
+| link = Arctic Bow
+| text = Arctic Bow
+}}
+| {{ImageBlackLarge2
+| file = HeavyBowOfTheAsgardGuardian.png
+| link = Heavy Bow of the Asgard Guardian
+| text = Heavy Bow of the Asgard Guardian
+}}
+| {{ImageBlackLarge1
+| file = MetalBloodBow.png
+| link = Metal Blood Bow
+| text = Metal Blood Bow
+}}
+| {{ImageBlackLarge1
+| file = BowOfTheLightningGod.png
+| link = Bow of the Lightning God
+| text = Bow of the Lightning God
+}}
+| {{ImageBlack
+| file = IceShatter.png
+| link = Ice Shatter
+| text = Ice Shatter
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = NectarCrossfire.png
+| link = Nectar Crossfire
+| text = Nectar Crossfire
+}}
+| {{ImageBlackLarge1
+| file = WoodenElegance.png
+| link = Wooden Elegance
+| text = Wooden Elegance
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Unique</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = CupidsBow.png
+| link = Cupid's Bow
+| text = Cupid's Bow
+}}
+| {{ImageBlackLarge1
+| file = BowOfEternalFrost.png
+| link = Bow of Eternal Frost
+| text = Bow of Eternal Frost
+}}
+| {{ImageBlackLarge1
+| file = BowOfNightmares.png
+| link = Bow of Nightmares
+| text = Bow of Nightmares
+}}
+| {{ImageBlack
+| file = CloverBow.png
+| link = Clover Bow
+| text = Clover Bow
+}}
+| {{ImageBlack
+| file = HallowsEnd.png
+| link = Hallow's End
+| text = Hallow's End
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = GalaxyLongbow.png
+| link = Galaxy Longbow
+| text = Galaxy Longbow
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = BowOfInnocentBlood.png
+| link = Bow of Innocent Blood
+| text = Bow of Innocent Blood
+}}
+| {{ImageBlackLarge1
+| file = BowOfCovertHavens.png
+| link = Bow of Covert Havens
+| text = Bow of Covert Havens
+}}
+| {{ImageBlackLarge1
+| file = BowOfMysticalEnergy.png
+| link = Bow of Mystical Energy
+| text = Bow of Mystical Energy
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = Shortbow.png
+| link = Shortbow
+| text = Shortbow
+}}
+| {{ImageBlackLarge1
+| file = ReinforcedBow.png
+| link = Reinforced Bow
+| text = Reinforced Bow
+}}
+| {{ImageBlack
+| file = Crossbow.png
+| link = Crossbow
+| text = Crossbow
+}}
+| {{ImageBlack
+| file = GreywoodBow.png
+| link = Greywood Bow
+| text = Greywood Bow
+}}
+| {{ImageBlack
+| file = IronwoodBow.png
+| link = Ironwood Bow
+| text = Ironwood Bow
+}}
+| {{ImageBlack
+| file = FireBow.png
+| link = Fire Bow
+| text = Fire Bow
+}}
+|-
+| {{ImageBlack
+| file = DoubleBow.png
+| link = Double Bow
+| text = Double Bow
+}}
+| {{ImageBlackLarge1
+| file = HeavyCrossbow.png
+| link = Heavy Crossbow
+| text = Heavy Crossbow
+}}
+| {{ImageBlack
+| file = GoldenBow.png
+| link = Golden Bow
+| text = Golden Bow
+}}
+| {{ImageBlack
+| file = VerdantBow.png
+| link = Verdant Bow
+| text = Verdant Bow
+}}
+| {{ImageBlackLarge1
+| file = BowOfFeyMagic.png
+| link = Bow of Fey Magic
+| text = Bow of Fey Magic
+}}
+| {{ImageBlackLarge1
+| file = BowOfDeepEnchantment.png
+| link = Bow of Deep Enchantment
+| text = Bow of Deep Enchantment
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

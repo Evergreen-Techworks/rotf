@@ -1,0 +1,4 @@
+# Staff of Annihilation
+# https://rotfserver.fandom.com/api.php?action=parse&page=Staff%20of%20Annihilation&prop=wikitext
+
+{{ItemInfo|name = Staff of Annihilation|desc = too long cba|rarity = p|slot = staff|tier = UT|minDmg = 80|maxDmg = 120|shots = 10|rof = 150|range2 = 8.55|fameb = 10|soulbound = yes|pierce = yes|slowed = 1|dropsFrom = is made from combining the 4 pieces of the staff found throughout the Realm.|primal = Devastation:<br/>Your shots have a 1.5% chance to apply Armor Broken, Slow and Weak for 3 seconds on hit (6 second cooldown).}}

@@ -1,0 +1,4 @@
+# Edictum Praetoris
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Edictum%20Praetoris&prop=wikitext
+
+asdf

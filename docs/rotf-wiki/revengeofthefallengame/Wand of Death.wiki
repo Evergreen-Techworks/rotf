@@ -1,0 +1,4 @@
+# Wand of Death
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Wand%20of%20Death&prop=wikitext
+
+asdf

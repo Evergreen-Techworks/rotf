@@ -1,0 +1,4 @@
+# Fire Nova Spell
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Fire%20Nova%20Spell&prop=wikitext
+
+asdf

@@ -1,0 +1,4 @@
+# Juggernaut
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Juggernaut&prop=wikitext
+
+Perfect sub class for regen tanks. Best used on high vit classes, like Knight, Warrior, or Sorcerer.

@@ -1,0 +1,14 @@
+{
+ "dungeon": "Undead Lair (Septavius) — brown earthen cave run; re-confirms built boss",
+ "source": "video disc_sfwT-A3RpuE (33 frames, 0 transitions, 8 chat; anime-avatar streamer; client X1.0.1). A single dungeon run through a brown DIRT/CAVE biome with gold ore + gold/yellow bullet-hell. Death feed names Septavius.",
+ "map": "DOCUMENTED: a brown DIRT/EARTHEN CAVE dungeon (brown walls, gold/yellow ORE deposits) with a concentric-square vault arena + open caverns. Boss fires GOLD/YELLOW bullet patterns (= Septavius's GRENADES).",
+ "bosses": [
+  {"name":"Septavius","phases":[],"attacks":["grenades (gold/yellow bullet-hell)"],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED from death feed ('crushed by Septavius!') + the gold/yellow GRENADE bullet patterns in the cave arena. This is the UNDEAD LAIR boss — ALREADY BUILT with verbatim taunts (incl. 'Hahaha! How about a few grenades?!'). Visually confirms the Undead Lair / Septavius fight + his grenade attack. No new taunts here."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Skull Shrine (defeated 17/25)"],
+ "mechanics": "DOCUMENTED: re-confirms the UNDEAD LAIR / Septavius fight (brown earthen cave + gold grenade bullet-hell; Septavius as death-causer) — corroborates the built boss. Skull Shrine /25 event. Client X1.0.1. Death-feed format showed '(8/16, 373)' — possibly a 16-step stat-max counter or a misread '8/8'.",
+ "uncertain": "The '(8/16)' counter format is unusual (16 stat-max steps? or misread). No new boss taunts (Septavius already documented). Short clip (33 frames).",
+ "confidence": "HIGH that this is the Undead Lair / Septavius fight (death feed + grenade bullet-hell) corroborating the built boss. LOW novelty (no new taunts)."
+}

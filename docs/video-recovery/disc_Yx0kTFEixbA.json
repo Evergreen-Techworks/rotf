@@ -1,0 +1,26 @@
+{
+ "dungeon": "ROTF realm/dungeon run (196 frames) — NEW taunts for Warbringer + Heimdallr + Skeletal Monstrosity + Stheno; re-confirms Marble Colossus/Lycaon/Shadowscale. GENUINE ROTF.",
+ "source": "video disc_Yx0kTFEixbA (196 f_, 49 chat, 25 minimap, 0 transitions captured). Biomes (contact sheet): GREY STONE LABYRINTH/maze (purple dotted paths), SANDSTONE RING-arenas, a recurring 'PRIMAL' red/dark boss arena, green grass+water. Chat-feed heavy with verbatim boss taunts.",
+ "bosses": [
+  {"name":"Warbringer","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Weaklings!","You had nothing to defend yourself...","Your attacks have no effect..."],"note":"DOCUMENTED-from-chat. NEW TAUNTS — Warbringer was a ledger TODO Tier-2 boss with NO taunts; now has a war/dominance taunt set. Build-ready boss (verify base collision: 'Warbringer' may exist in some RotMG data)."},
+  {"name":"Heimdallr","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["I will destroy the Bifrost...","Let the sound penetrate..."],"note":"DOCUMENTED-from-chat. NEW TAUNTS for the BUILT Asgard boss Heimdall (BehaviorDb.Asgard.cs) — Bifrost/Gjallarhorn-horn themed. Enrich the existing Heimdall behavior with these verbatim lines."},
+  {"name":"Skeletal Monstrosity","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["NO! They were too [strong/many]...","THE POWER..."],"note":"DOCUMENTED-from-chat (NEW boss): partial taunts. Likely base RotMG 'Skeletal Monstrosity' (Forbidden Jungle) — verify collision before building; enrich if base."},
+  {"name":"Stheno the Snake Queen","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Watch...","I cannot...","Please...","And so..."],"note":"DOCUMENTED-from-chat (partial). Stheno = base RotMG Snake Pit boss (Medusa). Verify collision; enrich base if present."},
+  {"name":"Marble Colossus","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["PAH! The prohibited arts...","Do not think you[r defense is]... [slipping]","You have seen..."],"note":"DOCUMENTED-from-chat. RE-CONFIRMS ledger Marble Colossus taunts (3rd recovery). Build-ready."},
+  {"name":"Lycaon","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["FLESH AND BLOOD!","FRESH MEAT!"],"note":"DOCUMENTED-from-chat. Re-confirms both Lycaon taunts."},
+  {"name":"Shadowscale","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["I will reward you with a swift death..."],"note":"DOCUMENTED-from-chat. Re-confirms the built Shadowscale taunt (BehaviorDb.ShroudedSanctum.cs)."}
+ ],
+ "minions": ["Haunted Armor (enemy seen in feed)"],
+ "drops": ["swords/wands traded (chat: 'sword pog', '2swords 1cloak', 'wand') — no specific UT names captured"],
+ "event_bosses_seen_in_global_feed": [
+  "The Riverborn has been defeated (Chimera)",
+  "Skull Shrine has just spawned (Hydra)",
+  "Pulse has just spawned (Slime/Wynn)",
+  "Shade of Nexus has just spawned (Box)",
+  "The RI Yeti has just spawned / defeated (Gargoyle/Djinn)",
+  "The Ghost Ship is here (Dragon)"
+ ],
+ "mechanics": "DOCUMENTED: (1) NEW boss taunts — Warbringer (war/dominance set), Heimdallr (Bifrost/horn-themed Asgard lines), Skeletal Monstrosity, Stheno. (2) Realm event feed continues with NAMED ANNOUNCERS (Chimera, Hydra, Slime, Box, Gargoyle, Djinn, Dragon, Wynn) prefixing spawn/defeat lines. (3) 'RI Yeti' = a Realm-event Yeti (RI prefix). (4) A 'PRIMAL' boss/arena recurs in the visuals (red/dark arena) — name only, no taunt captured. (5) Controller support mentioned in chat ('Controller device confirmed').",
+ "uncertain": "Stheno + Skeletal Monstrosity taunts partial (truncated). Warbringer/Stheno/Skeletal Monstrosity may collide with base RotMG names (Stheno=Snake Pit, Skeletal Monstrosity=Forbidden Jungle) -> CHECK base data before any build (enrich, don't duplicate). 'PRIMAL' arena boss name not tied to a taunt. No transitions captured so dungeon names not confirmed.",
+ "confidence": "HIGH for the verbatim chat taunts: Warbringer (NEW set), Heimdallr (NEW Asgard lines), Marble Colossus/Lycaon/Shadowscale re-confirms. MEDIUM for Stheno/Skeletal Monstrosity partials + the 'PRIMAL' arena. GENUINE ROTF."
+}

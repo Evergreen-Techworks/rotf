@@ -1,0 +1,4 @@
+# Queen’s Stinger Dagger
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Queen%E2%80%99s%20Stinger%20Dagger&prop=wikitext
+
+asdf

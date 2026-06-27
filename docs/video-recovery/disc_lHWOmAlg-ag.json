@@ -1,0 +1,39 @@
+{
+ "dungeon": "GENUINE ROTF target-server SHORT edited highlight clip (~48s; 'LEGENDARY' drop overlays). Event-heavy realm feed + a lava-brick boss arena. One clear boss taunt (MAD JESTER) + heavy global death/spawn feed + a LEGENDARY/Oryx-Sword drop. Low-volume but one solid taunt; mostly corroboration/base-game event content.",
+ "map": "DOCUMENTED-from-bossends+f_frames: two arenas — (1) a dark open arena (black floor, scattered green/yellow enemies + multicolour bullets) where a LEGENDARY dropped; (2) an ORANGE/RED LAVA-BRICK arena with a central GREEN/YELLOW CHECKERED platform (raised grid pad in the lava) where the climax boss is fought. Short clip -> arenas catalogued, no room-sequence.",
+ "bosses": [
+  {
+   "name": "Mad Jester",
+   "phases": [],
+   "attacks": ["not cleanly traced (edited highlight, multi-mob screen, scattered multicolour bullets) -> not isolated"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["To destroy these humans, all it takes is a bit of little magic and a lot of determination. I have BOTH!"],
+   "note": "DOCUMENTED-from-chat VERBATIM (boss-coloured 'Mad Jester:' prefix, wide-re-cropped f_ read). A clear, complete taunt. BASE-GAME-vs-ROTF-CUSTOM UNCERTAIN: 'Mad Jester' appears as an event boss across several tags' feeds -> likely a base/event boss; verify against base XML before treating as custom. Attack not isolated (edited clip)."
+  },
+  {
+   "name": "(unidentified lava-arena climax boss)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-bossends (b003_35s) but APPROXIMATE: scattered multicolour bullets across the lava-brick arena w/ a green checkered centre platform -> no single clean pattern isolated (edited). Reconstructed class: spread/multi-mob."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-frames: the climax boss (b003_35s) in the lava-brick + green-checkered-platform arena; dropped LEGENDARY-tier loot (+ an Oryx Sword seen). Name NOT captured and NOT guessed. Attack not cleanly traceable (edited highlight)."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Oryx Sword (LEGENDARY-tier; 'ye Oryx Sword' overlay)",
+  "LEGENDARY-tier loot (rarity overlay; specifics not isolated — edited)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "Cube God has just spawned! (Satyr)",
+  "Hermit God has just spawned! (Heden)",
+  "Mysterious Lord has just spawned! (Pirate)",
+  "many 8/8 player deaths (Death Notifier: ZeusAlmighty/Kemmguno/Iblistgsn/llldragon/Lexrk etc.)",
+  "Lexrk (8/8, 1259) crushed by Pokerface (a player)"
+ ],
+ "mechanics": "DOCUMENTED + an IMPORTANT honesty correction:\n*** TRANSCRIPTION CATCH: an initial montage read 'WAKE THE BRIDE' / 'DO NOT WAKE THE BRIDE' as a dramatic boss taunt -> the WIDE re-crop shows it is actually PLAYER CHAT: '<...num of Hate> DO NOT WAKE THE BRIDGE.GU[ARDIAN]' + '<...e> dont even try getting omni[...]' = player banter (and the word is 'BRIDGE', NOT 'BRIDE'). NOT a boss taunt -> deliberately NOT recorded as one. ('Bridge Guardian' may be a real boss the players reference, but only a player-chat mention was captured -> flagged, not a taunt.) ***\n(1) MAD JESTER boss taunt (verbatim, see bosses). (2) Heavy global EVENT FEED: Cube God / Hermit God / Mysterious Lord spawns + many 8/8 player deaths. (3) God-of-Luck 'You can use your Lucky Potion...' spam present (corroborates the built God of Luck). (4) LEGENDARY rarity drop overlays + an Oryx Sword. GENUINE ROTF.",
+ "uncertain": "Short edited highlight -> attacks NOT cleanly traced (recorded honestly, not invented). 'Mad Jester' base-vs-custom unconfirmed. The lava-climax boss NAME not captured (not guessed). 'Bridge Guardian' is a PLAYER-CHAT mention only (the 'BRIDE'->'BRIDGE.GU' fix), NOT a verified boss/taunt. Some feed lines partial.",
+ "confidence": "MEDIUM. GENUINE ROTF. One SOLID verbatim taunt (Mad Jester, wide-re-crop-read). Otherwise base-game event feed + an unidentified LEGENDARY-drop lava boss (attack not isolated). KEY value beyond the Mad Jester line = the honest CATCH that 'WAKE THE BRIDE' was a MISREAD of player chat 'DO NOT WAKE THE BRIDGE.GU[ARDIAN]' -> a fabrication avoided (directly serves the 'how much fake stuff is in our build' concern). Best follow-up: a clean single-boss clip of the lava-arena boss + confirm whether a 'Bridge Guardian' boss exists."
+}

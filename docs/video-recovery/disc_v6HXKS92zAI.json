@@ -1,0 +1,26 @@
+{
+ "dungeon": "GENUINE ROTF Marble Colossus fight (~168s, creator 'RuinedBow', combat-overlay 'Enemy: Marble Colossus'). The boss is the BUILT Marble Colossus (OCBosses2.cs). KEY: a clean full read of its void/death line that CORRECTS the built text -> 'It is so... Dark...' (the build's 'It is soon' is a misread). Marble/grey-checkered catacomb arena.",
+ "map": "DOCUMENTED-from-transition+f_: a MARBLE / grey-checkered tiled CATACOMB arena (the Marble Colossus boss room) — open checkered floor with the Colossus central, scattered bullets fill it. b002_16s climax. Single boss arena.",
+ "bosses": [
+  {
+   "name": "Marble Colossus",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (approximate): scattered bullets across the marble checkered arena (the built Marble Colossus already has its attack set; geometry here not cleanly re-traced)"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "I feel myself... Slipping... Into the void... It is so... Dark..."
+   ],
+   "note": "DOCUMENTED-from-chat VERBATIM (boss-coloured '<Marble Colossus>', wide-frame read of t001_at0s chat region, CLEAR). = the BUILT Marble Colossus (OCBosses2.cs). *** VERIFY/CORRECTION CANDIDATE ***: the built line ends 'It is soon' (a prior pass completed a cut 'so[on]'), but THIS clean wide read shows the full ending is 'It is so... Dark...' -> the built 'soon' is a MISREAD of 'so... Dark...'. The full line: 'I feel myself... Slipping... Into the void... It is so... Dark...'. Flagged for the VERIFY loop to correct (NOT auto-applied here)."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "RuinedBow looted a Legendary item (with damage-contribution %)",
+  "Special Dust (consumable; 'RuinedBow used a Special Dust')"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: the built Marble Colossus boss (marble catacomb arena) with its void/death taunt. KEY recovery value = a CORRECTION CANDIDATE for the built line: 'It is soon' -> 'It is so... Dark...' (clean full read; full line 'I feel myself... Slipping... Into the void... It is so... Dark...'). Plus damage-contribution Legendary loot + a 'Special Dust' consumable. No new boss (Marble Colossus already built).",
+ "uncertain": "Boss = the BUILT Marble Colossus (no new boss). The line-correction ('It is soon' -> 'It is so... Dark...') is flagged for the VERIFY loop, NOT auto-applied in recovery. Attack geometry not cleanly re-traced (build already has it). Other chat = player banter + loot. The built line was a prior 'so[on]' completion; this clean wide read contradicts it ('so... Dark...').",
+ "confidence": "MEDIUM-HIGH. GENUINE ROTF (RuinedBow, Marble Colossus combat-overlay). Main value = a clean CORRECTION CANDIDATE for the built Marble Colossus taunt: 'It is soon' -> 'It is so... Dark...' (full line 'I feel myself... Slipping... Into the void... It is so... Dark...'). No new boss. Recorded honestly: correction flagged for verify (not auto-applied), attacks approximate. Best follow-up: VERIFY-loop apply the 'so... Dark...' correction to Marble Colossus."
+}

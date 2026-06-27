@@ -1,0 +1,23 @@
+# Wands
+# https://rotfserver.fandom.com/api.php?action=parse&page=Wands&prop=wikitext
+
+
+'''Wands''' are used by the [[Priest]], and the [[Sorcerer]]
+==Production {{PAGENAME}}==
+'''''For production {{PAGENAME}} please follow this '''''[https://www.realmeye.com/wiki/wands link]
+
+==Custom {{PAGENAME}}==
+{|
+| {{ItemDisplay|Wand Full of Mana|h}}
+| {{ItemDisplay|Wand of the Rising Star|h}}
+| {{ItemDisplay|The Winged Wand|a}}
+| {{ItemDisplay|Realm Power|l}}
+| {{ItemDisplay|Radiant Wand of Royalism|l}}
+| {{ItemDisplay|Wand of the Frozen Queen|l}}
+| {{ItemDisplay|Wand of Bone|p}}
+| {{ItemDisplay|The Apex Bulwark|p}}
+|}
+===Starforce {{PAGENAME}}===
+{|
+| {{ItemDisplay|Celestial Caduceus|g}}
+|}

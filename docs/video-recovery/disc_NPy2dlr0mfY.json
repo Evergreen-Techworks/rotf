@@ -1,0 +1,21 @@
+{
+ "dungeon": "GENUINE ROTF/RotMG SHORT clip (~36s) — a LAVA-brick boss arena + a grey CHECKERED dungeon, player 'ziplurin' (Heal/Magic-Heal/Electric pet). LOW yield: a lava-arena boss fight (unidentified) + player banter. KEY honesty catch: the 'how am I even alive' line is PLAYER CHAT (ziplurin, ★-prefix), NOT a boss taunt.",
+ "map": "DOCUMENTED-from-transitions+bossends: an ORANGE/RED LAVA-BRICK arena (t001/b002, the boss fight) + a grey/pink CHECKERED-GRID dungeon (t002, where the player runs). Short clip; two arenas catalogued.",
+ "bosses": [
+  {
+   "name": "(unidentified lava-arena boss)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (bossend b002_4s) but APPROXIMATE: scattered RED/ORANGE bullets across the lava-brick arena + green/red minions -> spread/scattered, no clean single geometric pattern isolated."],
+   "minions": ["green/red minions (lava arena)"],
+   "colorFlashes": "red/orange (lava)",
+   "taunts": [],
+   "note": "A boss fought in a lava-brick arena (b002_4s) with scattered red/orange bullets. NAME NOT captured + NO boss taunt -> left UNIDENTIFIED (no guessing). Attack loosely characterised (scattered/spread), flagged."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED (limited — short clip): a lava-brick boss arena (unidentified boss, scattered bullets) + a grey checkered dungeon. Player 'ziplurin' has a Heal/Magic-Heal/Electric PET. *** HONESTY CATCH: the repeated chat line 'how am I even alive' is PLAYER CHAT (speaker '★ ziplurin', a player with a rank-star), NOT a boss taunt -> deliberately NOT recorded as a boss taunt (a montage misread that the wide-frame read corrected). *** No boss name/taunt captured.",
+ "uncertain": "NO boss NAME or taunt captured (the only boss-ish chat line, 'how am I even alive', is PLAYER chat from ziplurin -> excluded). Lava boss UNIDENTIFIED. Attack approximate (scattered/spread, no clean pattern). Server identity = RotMG-engine (ziplurin + pet system); not a non-target.",
+ "confidence": "LOW. GENUINE ROTF/RotMG short clip but minimal boss content: a lava-arena boss (unidentified, scattered-bullet attack) + a grey dungeon. NO boss taunt (the 'how am I even alive' line is PLAYER chat, correctly excluded — avoided recording player banter as a boss taunt). Recorded honestly: boss unidentified, player-chat line flagged-not-attributed, attack approximate. Best follow-up: a clean single-boss clip of the lava arena for the name + taunt + bullet geometry."
+}

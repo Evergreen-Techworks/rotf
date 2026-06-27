@@ -1,0 +1,100 @@
+# Runes
+# https://revenge-of-the-fallen-rotmg.fandom.com/api.php?action=parse&page=Runes&prop=wikitext
+
+This page is for a unique mechanic in RotF, Runes.
+{| class="article-table"
+!Rune
+!Bonuses
+!Drawbacks
+!Color
+|-
+|Blissful Ignorance
+|Imune to Debuffs 
+|Imune to buffs/-10% all stats
+|Green
+|-
+|Biding Time
+|<nowiki>+50% def/Imune to armor broken</nowiki>
+|Health Regen -30%/Mana Regen -30%
+|Green
+|-
+|Blood Pact
+|Health Regen +85%
+|Abilities use 20% Health instead of mana
+|Green
+|-
+|Arcane Surge
+|Mana Regen +135%
+|Health Regen -50%
+|Green
+|-
+|Regeneration of the Brute
+|Health Regen +115%
+|Mana Regen -60%
+|Green
+|-
+|Bulwark of the Surgeon
+|Health +250%
+|Speed -30%, Dexterity -50%, Attack -30%, Enemies will always target you if your in their vision
+|Green
+|-
+|Mana Hunger
+|Hitting bosses/event restores 1.5% of max mana, killing enemies restores 10% of maximum mana
+|Mana Regen -95%, Dexterity -12
+|Orange
+|-
+|Narrow Sighted Magic
+|Ability Damage +75%
+|Mana Regen -75%
+|Orange
+|-
+|Agressive Agitator
+|Attack +75%
+|Speed -15%, Dexterity -50%, Fire Rate -10%, Imune to Berserk
+|Orange
+|-
+|Perfectionist
+|When at full HP, Bonus damage +35%
+|When below full HP, Bonus damage -35%
+|Orange
+|-
+|Adrenaline Rush
+|When below 70% HP, fire rate +35%, health regen +25%
+|When above 70% HP, fire rate -15%, health regen -25%
+|Orange
+|-
+|Consistent Onslaught
+|All shots pierce armor, imune to weak
+|Weapon damage averaged, imune to damaging
+|Orange
+|-
+|Solo Thief
+|<nowiki>+75% loot boost</nowiki>
+|<nowiki>-25% loot boost for each player in an instance(other than you</nowiki>
+|Blue
+|-
+|Rare Obsession 
+|200% fame gain
+|You can't loot anything
+|Blue
+|-
+|Eye for an Eye
+|White Bag drop boost +60%
+|You can't loot any other item
+|Blue
+|-
+|Dreadstump's Greed
+|Loot Drop Boost +33%
+|Cannot boost drop chance by dealing SB damage
+|Blue
+|-
+|Restoration Temptation
+|Health regen +8% for each hp pot in stack, Mana regen +8% for each mp pot in stack
+|Upon using a health or mana potion, you are stunned for 5 seconds
+|Blue
+|-
+|Pot Head
+|Killing bosses/events restores 2 hp/mp potions, drinking a health pot gives +4 att/+4 dex/+10% att/+10% dex for 5 seconds, drinking mana pot gives +6 spd/+15% spd/+15% def for 5 seconds
+|Health pot doesn't restore health, mana pot doesn't restore mana, -12%vit/-12%wis
+|Blue
+|}

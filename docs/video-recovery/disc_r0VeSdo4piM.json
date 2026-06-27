@@ -1,0 +1,13 @@
+{
+ "dungeon": "NON-ROTF / OFFICIAL DECA RotMG video (mis-pull) — a short (~30s, 31 f_) clip about the OFFICIAL DECA 'Lost Halls 2.0' update, NOT the ROTF private server. f_00001 is a Reddit/RealmEye post '[News] Lost Halls 2.0 on Public Testing today!' submitted by DECA's 'Lost Halls Lead' (Nightingale/Swarm Creator). The rest is the official Lost Halls 2.0 PATCH NOTES + base-game death-notifier feed + a facecam + meme overlays ('Don't wake the Bridge Guardian!', 'Blob'). NO ROTF-custom content.",
+ "map": "N/A for ROTF — base-game Lost Halls layout only: minimaps show grey CHAMBERED square rooms (the standard Lost Halls / Cultist Hideout interior) + a green Oryx realm ('of Oryx' overlay). This is DECA Lost Halls geometry, not a ROTF dungeon.",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [
+  "(base-game DEATH NOTIFIERS, not ROTF): killed by Commander of the Crusade / Grotto Blob / Oryx Swordsman / Crusade Soldier / Champion of Oryx"
+ ],
+ "mechanics": "DOCUMENTED but BASE-GAME (official DECA Lost Halls 2.0 patch notes — NOT ROTF-custom, do NOT build as ROTF content): new HAZARD rooms (Water, Ice, Pure Evil, Hole/un-walkable tiles, Destructive Wall, Marble Colossus Pillar=Turret, Marble Colossus Eye=AoE, Arrow Trap, Grenade Trap; 3 variants each) + BONUS rooms (Marble Pillar=Turret, Marble Eye=AoE; 4 variants each); RESPAWN system removed ('once a family is dead it's now gone for good'); Spawn Room now uses a destructible pillar (like the Shatters Switches; HP-scaling) instead of Marble Walls; 'Updated the aesthetic of the harpoon trap'. These are DECA's official Lost Halls 2.0 changes for the BASE-game Marble Colossus dungeon — recorded only as context (ROTF's Marble Colossus derives from this base boss), NOT as recoverable ROTF content.",
+ "uncertain": "None re: classification — this is clearly an OFFICIAL DECA RotMG (Lost Halls 2.0) video, not ROTF (Reddit post by DECA's Lost Halls Lead; base-game enemies in the death feed). The 'Marble Colossus Pillar/Eye' references in the patch notes are the BASE Lost Halls boss, not ROTF-custom. No boss taunts (chat red-density = 0; no boss-coloured text). The patch notes are base-game design, usable only as background context.",
+ "confidence": "HIGH that this is a NON-ROTF / official DECA RotMG mis-pull (Lost Halls 2.0 announcement + base patch notes). NO ROTF-custom boss/dungeon/taunt content to recover (bosses=[]). Recorded honestly as a base-game exclusion (matches the recurring 'official DECA RotMG' discovery mis-pull). The Lost Halls 2.0 room-mechanic notes are logged as base-game context only — NOT to be built as ROTF content. No follow-up; recommend a discovery-side filter to drop official-DECA Lost Halls videos."
+}

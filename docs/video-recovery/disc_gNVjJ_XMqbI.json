@@ -1,0 +1,11 @@
+{
+ "dungeon": "(NOT ROTF — FALSE POSITIVE) Transformers 'Revenge of the Fallen' toy review",
+ "source": "video disc_gNVjJ_XMqbI (1057 frames, 3 transitions, 264 chat). NOT RotMG/ROTF gameplay — it is a physical TRANSFORMERS toy review (hands transforming a blue/gold Transformers figure: truck <-> robot). The discovery search's 'ROTF' term matched the 2009 film/toy line 'Transformers: Revenge of the Fallen'. Only the intro thumbnail shows a RotMG-style pixel sprite (coincidental).",
+ "map": "N/A — physical toy review on a blue backdrop.",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "mechanics": "NONE. This is a discovery FALSE POSITIVE: 'ROTF' is ALSO the abbreviation for the Transformers film 'Revenge of the Fallen', so YouTube 'ROTF' searches pull in Transformers toy/movie content. No RotMG/ROTF game data here.",
+ "uncertain": "Nothing to recover. Flagged so the queue advances and so the discovery script's 'ROTF' query is known to be noisy (Transformers collisions).",
+ "confidence": "HIGH that this is a non-ROTF Transformers toy review (false positive). Zero game-recovery value."
+}

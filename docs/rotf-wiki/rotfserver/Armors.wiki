@@ -1,0 +1,4 @@
+# Armors
+# https://rotfserver.fandom.com/api.php?action=parse&page=Armors&prop=wikitext
+
+Leather Armor is the armor type used by '''''Rogue,Archer,Assassin,Huntress,Trickster,Ninja.'''''

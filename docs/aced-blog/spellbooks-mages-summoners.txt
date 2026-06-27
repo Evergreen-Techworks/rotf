@@ -1,0 +1,42 @@
+entry-content">
+
+ Hello all! In today’s update, we’re showing off a bite-sized preview of some class abilities. A quick primer on rotf2 classes: when you create a character, you choose from one of four “root” classes. As you progress through the game, you’ll earn points towards your Class Skill Tree (NOT the same as your Stat Skill Tree—more on this in a later post), where you’ll be able to subclass, and gain access to new abilities. 
+
+ The Summoner class is a subclass of Mage. This means that the summoner can use Mage abilities! Below is a clip of four different abilities, in-game: two spellbooks , which are Mage abilities, and two scrolls , which are Summoner abilities. Have a look: 
+
+ earth and ice and everything nice! 
+
+ A few notes: For those of you worried about visibility, these abilities will follow GPL rules, meaning that if a player isn’t in your guild/party/locked list, their abilities won’t clog up your vision. Cooldowns, mana costs, damage, etc in the video are placeholder. 
+
+ Something that probably isn’t worth mentioning (but that I spent a *lot* of time on, personally, so I’m going to mention it!) is that all of these abilities are client-predicted. A lot of times on legacy rotf, you’d use an ability, but you’d have to wait for one network RTT for the ability to actually take effect (essentially, latency/ping made some abilities feel really bad). In rotf2, ability effects are instant, and the server figures out how to deal with the latency. It’s hard to show on video, but this is a big deal! 
+
+ We’ll be following the same Closed Testing key giveaway format as in the last post, but as an added fairness measure, we’ll update this post with the key within 10 minutes of its published time. Hit those F5 buttons! 
+
+ Closed Testing key: 
+
+ WUQ [1]- M [2] RE -[3] CVZ – WW7 [4] 
+
+ [1] The first letter of the name of the boss that dropped the primal item Reaper’s Bow. 
+
+ [2] The number of “root” classes in rotf2. 
+
+ [3] The first letter of the name of the unlimited use, consumable item, which gave HP, MP, and loot boost. 
+
+ [4] The first letter of the orange rune that increased your ability projectile damage by 75%, but decreased your mana regen. 
+
+ Use at https://rotf.io/register . Happy holidays, everyone! 
+ Share this: Twitter Facebook Like this: Like Loading... 
+
+ Related 
+
+ Tagged abilities aced games aced.gg class closed key mage preview revenge of the fallen rotf rotf.io scroll spellbook summoner testing 
+
+ Published by Miniguy 
+
+ I’m one of the lead developers at ACED. We’re currently working on porting RotF to Unity! 
+ View all posts by Miniguy 
+
+ Published 
+ December 26, 2020 December 26, 2020 
+
+</article

@@ -1,0 +1,4 @@
+# Abomination’s Wrath
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Abomination%E2%80%99s%20Wrath&prop=wikitext
+
+asdf

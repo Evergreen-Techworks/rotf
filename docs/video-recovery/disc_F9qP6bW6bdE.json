@@ -1,0 +1,9 @@
+{
+ "dungeon": "Overlay stream (coolmchuah / 'Mr Meeseeks') — multi-dungeon RotF session",
+ "map": "DOCUMENTED biomes (game letterboxed in the top-left under a heavy stream overlay): yellow/lime-tile + tan-BRICK temple dungeons (structured rooms), a dark grey CAVERN, green-grass realm with water, a sandy area with a central structure. Standard realm + dungeon mix.",
+ "bosses": [],
+ "drops": [],
+ "mechanics": "Low-yield TAIL video: a webcam/donation OVERLAY stream ('MR. MEESEEKS' border, 'Follower Goal 5/200', donor ticker) compresses the game into the top-left quadrant. 0 black-loading transitions detected (continuous). The in-game chat box could NOT be isolated via proportional crops (overlay shifts the viewport; no chat messages visible in sampled frames), so no taunts/drops/dungeon-names recovered.",
+ "uncertain": "No chat/boss/drop data extractable due to the overlay letterboxing. Biomes only.",
+ "confidence": "LOW — overlay stream, biomes documented but no chat/taunts/drops/dungeon-IDs recoverable. Triaged."
+}

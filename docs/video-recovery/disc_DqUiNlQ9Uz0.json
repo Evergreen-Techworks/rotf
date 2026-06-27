@@ -1,0 +1,12 @@
+{
+ "dungeon": "Large Twitch group-farming stream (v R0.8.1) — Galactic Zones + many dungeons (~41 entries)",
+ "map": "DOCUMENTED biomes from transitions/contact: grey stone halls, a white/orange marble temple, green realm w/ orange boss, blue/cyan ICE crystalline dungeon, brown caverns, orange/red LAVA dungeons, a bright CYAN X-CROSS diagonal dungeon (distinctive), red lava arena, an orange concentric-ring (bullseye) boss arena, and a confetti/multicolor boss-explosion arena. AUCTION HOUSE interior screen also shown.",
+ "bosses": [
+   {"name":"Lucky Ent God (Galactic Zone boss)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"'<Pirate> The Lucky Ent God has been defeated! (21/25)' — a Galactic-zone boss; defeat increments the X/25 counter (here 21/25, near Mothership)."},
+   {"name":"Thor (Asgard)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"Appears in Death Notifier feed: 'Glotvrsh (8, 58) has been killed by Thor' — players dying to Thor confirms Asgard/Thor active this stream."}
+ ],
+ "drops": [],
+ "mechanics": "DOCUMENTED: AUCTION HOUSE economy feature confirmed — an 'Auction House' NPC/screen + a 'Total auctions placed: 2282' counter (players list items for sale). Client version 'R0.8.1'. GALACTIC /25 counter reconfirmed (Lucky Ent God 21/25). DEATH NOTIFIER feed format: '<Death Notifier> <name> (<stars>/8, <fame>) has been killed by <boss>' (e.g. 'PappaSmurf (0/8, 174)', 'PvMDecianx (0/8, 62)', killed by Thor). Announcer persona this stream: Pirate. Twitch overlay (sub goal 809/1000) overlaps the chat box. New Galactic boss name: Lucky Ent God.",
+ "uncertain": "Cyan X-cross dungeon, orange bullseye arena, and confetti arena not name-identified. No boss taunts captured (chat dominated by Twitch subs + Death Notifier feed). Death-tuple second number is total fame (inferred).",
+ "confidence": "MEDIUM-HIGH for features (Auction House w/ 2282 auctions, Lucky Ent God Galactic boss /25, version R0.8.1, Death Notifier format — all DOCUMENTED); MEDIUM for biomes; no taunts; no clear no-footage-dungeon match."
+}

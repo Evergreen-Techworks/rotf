@@ -1,0 +1,4 @@
+# Lifedrinker Skull
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Lifedrinker%20Skull&prop=wikitext
+
+asdf

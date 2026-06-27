@@ -1,0 +1,4 @@
+# Rags of the Host
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Rags%20of%20the%20Host&prop=wikitext
+
+asdf

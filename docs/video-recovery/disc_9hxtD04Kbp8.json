@@ -1,0 +1,9 @@
+{
+ "dungeon": "(none — NOT ROTF; Transformers toy-review video)",
+ "map": "N/A",
+ "bosses": [],
+ "drops": [],
+ "mechanics": "FALSE POSITIVE from discovery search. This is a Transformers 'Revenge of the Fallen' (2009 movie) ACTION-FIGURE REVIEW: 15/16 contact-sheet frames are hands holding/transforming Transformers toys on a tabletop. Shares the 'Revenge of the Fallen' name with the ROTF private server but is unrelated. No game footage, HUD, chat, or dungeon data.",
+ "uncertain": "First frame showed a game-like character sprite (possibly a thumbnail), but the entire body of the video is toy photography.",
+ "confidence": "N/A — non-game video, no dungeon data. Marked processed so the cron advances. (Discovery filter should also exclude toy/figure reviews.)"
+}

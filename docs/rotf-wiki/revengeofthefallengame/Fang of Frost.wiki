@@ -1,0 +1,4 @@
+# Fang of Frost
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Fang%20of%20Frost&prop=wikitext
+
+asdf

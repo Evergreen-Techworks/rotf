@@ -1,0 +1,11 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM) ROTF — economy/systems details: /sell Marketplace cmd, Premium membership, XP-farm enemies, max level 25(?)",
+ "source": "video disc_Td6IRKQed1g (153 frames, 21 transitions, 38 chat; overlays 'Do /sell [inventory slot] to sell items' + 'New video tomorrow'). Ice/snow + grey-maze + grass + red-arena biomes. Chat captured economy/system messages (no boss taunts).",
+ "map": "DOCUMENTED biomes: blue ICE/water dungeons, grey CONCENTRIC-SQUARE maze, brown brick rooms, green grass + water, red/dark arena, a snow XP-FARM area (with 'XP Skeleton'/'XP Chicken' enemies).",
+ "bosses": [],
+ "minions": ["XP Skeleton","XP Chicken (XP-farm enemies in a leveling/snow zone)"],
+ "drops": [],
+ "mechanics": "DOCUMENTED economy/systems: (1) MARKETPLACE /SELL command — overlay 'Do /sell [inventory slot you want to sell] to sell items' (confirms the Market uses a '/sell <slot>' command, matching the built /market sell). (2) PREMIUM membership — '<...> Buying Premium gives you cool bonuses' (a premium/perks system with bonuses). (3) MAX LEVEL possibly 25 — 'AZ achieved the max level of 25! Congratulations!' (CONFLICTS with the Level-20 death screens seen on other builds — either a ROTF max-level change to 25 or build-dependent/misread). (4) XP-FARM enemies 'XP Skeleton' / 'XP Chicken' (a leveling/tutorial snow zone). No boss taunts.",
+ "uncertain": "'max level of 25' conflicts with Level-20 death screens elsewhere (build-dependent? misread?). Premium-bonus specifics not captured. No boss taunts. Dungeon names not printed.",
+ "confidence": "HIGH for the /sell Marketplace command + Premium membership + XP-farm enemies. MEDIUM/UNCERTAIN for 'max level 25' (conflicts with Level-20 elsewhere). No boss recovery."
+}

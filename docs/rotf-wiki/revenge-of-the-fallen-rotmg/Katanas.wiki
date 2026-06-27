@@ -1,0 +1,217 @@
+# Katanas
+# https://revenge-of-the-fallen-rotmg.fandom.com/api.php?action=parse&page=Katanas&prop=wikitext
+
+This page includes both custom katanas and old katanas that have been edited from how they appear on the predicting RotMG server.
+{| class="article-table"
+!Katanas
+!Damage
+!Range
+!RoF
+!Shots
+!Stats
+!Pierce
+!Armor Pierce
+!Obstacle Pierce
+!Fame Bouns
+!Tier
+!Legendary/Primal
+Effects
+|-
+|Sadamune
+|150-190
+|5.01
+|
+|
+|
+|yes
+|
+|
+|5%
+|T13
+|
+|-
+|Kusanagi
+|160-200
+|5.01
+|
+|
+|
+|yes
+|
+|
+|6%
+|T14
+|
+|-
+|Stardust Cutter
+|170-210
+|5.01
+|
+|
+|
+|yes
+|
+|
+|6%
+|GL
+|
+|-
+|Molten Katana
+|180-240
+|4.2
+|75%
+|
+|
+|
+|yes
+|
+|7%
+|Heroic
+|
+|-
+|Himura's Katana
+|120-160
+|4
+|130%
+|
+|
+|
+|
+|
+|5%
+|Unique
+|
+|-
+|Acid Katana
+|100-135
+|4.8
+|160%
+|
+|
+|
+|
+|
+|5%
+|Heroic
+|
+|-
+|Doom Katana
+|250-335
+|5.8
+|55%
+|
+|
+|
+|
+|
+|5%
+|Heroic
+|
+|-
+|Broken Branch
+|85-135
+|5.2
+|70%
+|2
+|<nowiki>+6att</nowiki>
++4dex
+|yes
+|
+|
+|5%
+|Artifact
+|
+|-
+|Windkutter
+|220-255
+|5.6
+|120%
+|
+|<nowiki>+3spd</nowiki>
++3dex
+|yes
+|yes
+|yes
+|6%
+|Legendary
+|Last Hope
+|-
+|Asura
+|125-150
+|5
+|125%
+|3
+|<nowiki>-3def</nowiki>
++3spd
+|yes
+|
+|yes
+|8%
+|Legendary
+|Curse
+|-
+|Useless Katana
+|10-30
+|3.5
+|
+|
+|
+|
+|
+|
+|
+|Legendary
+|Curse
+|-
+|Ray Katana
+|190
+|6.12
+|
+|
+|
+|yes
+|yes
+|
+|3%
+|Legendary
+|Curse
+|-
+|Sullen Blade
+|40-120
+|3.75
+|
+|3
+|
+|
+|
+|
+|4%
+|Legendary
+|Angel's Touch
+|-
+|Void Blade
+|600-700
+|0
+|30%
+|
+|<nowiki>-5dex</nowiki>
+|yes
+|
+|
+|6%
+|Legendary
+|Angel's Touch
+|-
+|Doku no Ken
+|190-240
+|5.2
+|140%
+|
+|
+|yes
+|
+|
+|5%
+|Legendary
+|Curse
+|}

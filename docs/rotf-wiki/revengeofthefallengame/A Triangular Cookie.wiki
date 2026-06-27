@@ -1,0 +1,4 @@
+# A Triangular Cookie
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=A%20Triangular%20Cookie&prop=wikitext
+
+asdf

@@ -1,0 +1,12 @@
+{
+ "dungeon": "(MASSIVE ~280-entry stream) ROTF — Winter Spaceship (D3 variant) + LFG/group system; chat social-dominated",
+ "source": "video disc_RYeeTcfxDEs (2597 frames, 840 transitions = ~280 entries, 3895 chat — the largest yet). Busy populated server; chat is dominated by LFG/trade/social chatter (few boss taunts). Lava + gothic-stone + forest + desert biomes.",
+ "map": "DOCUMENTED biomes: red/orange LAVA crater arenas, tan DESERT grids, grey GOTHIC STONE dungeons (Necropolis-style white-cross markers), blue water, green forest, dark space arenas, treasure-chest brick rooms (spaceship interior/vault).",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Cookie Monster (defeated 21/25)","Asgard Guardian (defeated 4/25)"],
+ "mechanics": "DOCUMENTED: (1) D3 SPACESHIP VARIANT — '<Winter Spaceship> Systems shutting down.' — there are SEASONAL/variant spaceships ('Winter Spaceship' = winter/Icy-Peaks-themed), and a new dialogue line 'Systems shutting down.' (power-down, opposite of 'Systems back online'). Adds to the spaceship arc (Fuel processed -> startup -> online -> Good luck master -> ... -> shutting down). (2) LFG / GROUP system — 'LF GL 1 DPS WIZ', 'HOSTING G L4 LF PPALLY', class-role calls (DPS WIZ / PALLY / WARR / PSTUN). (3) /25 event counters (Cookie Monster 21/25, Asgard Guardian 4/25). Busy social server.",
+ "uncertain": "No boss taunts captured (chat = LFG/trade/social spam despite 280 entries). 'GL' dungeon abbreviation meaning unclear. Winter Spaceship implies the base Spaceship has seasonal reskins.",
+ "confidence": "HIGH for the 'Winter Spaceship' variant + 'Systems shutting down' line (D3) + the LFG/group system + /25 counters. LOW novelty otherwise (no boss taunts); chat social-dominated."
+}

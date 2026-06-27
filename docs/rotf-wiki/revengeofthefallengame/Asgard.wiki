@@ -1,0 +1,4 @@
+# Asgard
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Asgard&prop=wikitext
+
+asdf

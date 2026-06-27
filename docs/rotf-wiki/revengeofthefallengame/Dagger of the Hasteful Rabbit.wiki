@@ -1,0 +1,4 @@
+# Dagger of the Hasteful Rabbit
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Dagger%20of%20the%20Hasteful%20Rabbit&prop=wikitext
+
+asdf

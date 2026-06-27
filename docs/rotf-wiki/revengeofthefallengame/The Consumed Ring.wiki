@@ -1,0 +1,4 @@
+# The Consumed Ring
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=The%20Consumed%20Ring&prop=wikitext
+
+asdf

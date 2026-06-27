@@ -1,0 +1,14 @@
+{
+ "dungeon": "(LONG MULTI-DUNGEON STREAM) ROTF session — heavy lava-dungeon farming + realm; chat yielded a White Dragon Lord taunt",
+ "source": "video disc_iIkWGzE1404 (936 frames, 105 transitions = ~35 dungeon entries, 1405 chat crops). Entries are dominated by repeated runs of an ORANGE/LAVA circular dungeon (farming); chat is mostly player chatter with occasional boss taunts + death feed.",
+ "map": "DOCUMENTED biomes: an ORANGE/LAVA circular dungeon arena (entered many times — the farmed dungeon); a green grass realm (combat leaves red blood-splatter particles); a grey tiled room with white CROSS/grave markers (Twilight-Necropolis-style biome); brown/tan dungeons; a tan/sand DESERT area (where the White Dragon Lord was fought); a dark room with a moon-like circle.",
+ "bosses": [
+  {"name":"White Dragon Lord","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Impudence! I am an immortal Dragon!"],"note":"DOCUMENTED VERBATIM (boss-colored chat line). A DRAGON LORD boss — candidate for one of ROTF's elemental dragon Lords (Firebreather=fire, Riverborn=water are known; White=ice/air?). Seen over tan/desert ground."},
+  {"name":"Oryx the Mad God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED from death feed: 'Ryan died at level 9, killed by Oryx the Mad God'."}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "DOCUMENTED: admin/test commands in use — '/heal <name>' and '/spawn 3 to[...]'. Death feed format '<player> died at level N, killed by <boss>'. The repeated lava-dungeon entries suggest a fast-farmable fire dungeon. (Reinforces prior finds: Twilight-Necropolis grey/cross biome appears here too.)",
+ "uncertain": "The ~35 dungeon entries are mostly the same farmed lava dungeon; entry NAMES not legible at montage resolution. White Dragon Lord's attacks/phases/drops not isolated (only the taunt). Whether 'White Dragon Lord' is a distinct elemental Lord or a reskin/event boss is unconfirmed.",
+ "confidence": "HIGH for the White Dragon Lord taunt (verbatim) + the Oryx death feed + the /heal,/spawn admin commands. LOW for biome->dungeon mapping (montage only) and for drops."
+}

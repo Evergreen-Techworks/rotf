@@ -1,0 +1,15 @@
+{
+ "dungeon": "Asgard (Norse-pantheon boss gauntlet) + Galactic Zones (same stream)",
+ "map": "DOCUMENTED from video: grey STONE Asgard halls (structured rooms, orange-rune floor tiles) transitioning through purple cosmic areas and an undead/skull zone (Hela's realm — white skull enemies swarm). Mixed Norse + cosmic biome. Galactic-zone segments (purple hex floor) also visited.",
+ "bosses": [
+   {"name":"Heimdall","phases":[],"attacks":["summons guardians (adds)","attack-immunity phase ('Your attacks do not hurt...')"],"minions":["guardians"],"colorFlashes":"","taunts":["My blade will eventuall[y...]","I will destroy the Bifrost!","Attack them, guardians!","Your attacks does not h[urt...]"]},
+   {"name":"Loki","phases":[],"attacks":["trickery/illusion theme ('Don't fall for my tricks!')"],"minions":[],"colorFlashes":"","taunts":["Don't fall for my tricks!","Why are you still alive? Die!"]},
+   {"name":"Hela","phases":[],"attacks":["summons vermins (adds)","soul-powered ('Powered by thousands of souls')"],"minions":["vermins"],"colorFlashes":"","taunts":["Deal with the vermins.","Vermins, destroy them!","Powered by thousands of sou[ls...]"]},
+   {"name":"Odin","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You have no chance in this fi[ght...]"]},
+   {"name":"Thor","phases":[],"attacks":["thunder/lightning theme"],"minions":[],"colorFlashes":"","taunts":["Beware my thunder!!","You fight good, mortal. But I[...]"]}
+ ],
+ "drops": ["(NPC reward dialog listed items, partially legible): Cosmic ring, War Axe, Agility potions, Fire sword, Handcannon, 'Fallen sky' (likely a Handcannon named 'Fallen Sky')"],
+ "mechanics": "DOCUMENTED: ASGARD is a Norse-pantheon boss gauntlet — Heimdall, Loki, Hela, Odin, Thor each appear with their own taunts. Heimdall summons 'guardians' and has an attack-immune phase; Hela summons 'vermins' and is 'Powered by thousands of souls'; Loki is trickery-themed; Thor is thunder-themed. The server's global boss-event ANNOUNCER is named 'Harpy' (not 'Oryx'): 'Harpy> The Cube God has been defeated', 'Harpy> Pulse has just spawned!', 'Harpy> The Pulse has been defeated', 'Harpy> The [?] Yeti has been defeated' — confirming Galactic-Zone bosses Cube God, Pulse, and Yeti as spawn/announce events.",
+ "uncertain": "Several taunt lines cut off at the chat-box right edge (35% crop) — endings reconstructed in brackets. Drop list from a partially-legible NPC dialog. Phase order/HP thresholds not captured.",
+ "confidence": "HIGH for taunts (5 Norse bosses, VERBATIM where not edge-clipped) and the 'Harpy' announcer + Galactic bosses (Cube God/Pulse/Yeti); MEDIUM for map; LOW for exact drops."
+}

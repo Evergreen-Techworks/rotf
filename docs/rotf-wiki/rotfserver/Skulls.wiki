@@ -1,0 +1,4 @@
+# Skulls
+# https://rotfserver.fandom.com/api.php?action=parse&page=Skulls&prop=wikitext
+
+Skulls have different abilities with different duration depending on the rarity of the Skull. Skulls are only used by the famous [[Necromancer]] class. The skull is used to drain HP from a group or individual which is then used to heal allies and the Necromancer itself.

@@ -1,0 +1,13 @@
+{
+ "dungeon": "RPE (full realm-event clear) — many dungeons + galactic/event bosses; D2 rune-material mechanic",
+ "map": "DOCUMENTED biomes: realm overview, grey crypt w/ red gore (Septavius-style), green realm, purple/cosmic zones, brown caverns, orange LAVA dungeons, bright-blue ICE dungeons, purple void. Title 'Revenge of the Fallen'; ends 'RPE COMPLETED! I'll upload loot montage soon!'.",
+ "bosses": [
+   {"name":"Ortar (Oryx-parody boss)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Me serious now too.","Me want to go! Me angery!","Ortar make you die. Hehehehe...."],"note":"More broken-English caveman taunts (consistent w/ disc_1uD9wcqfVUQ). Defeated: '<Starforce> The Ortar has been defeated!'."},
+   {"name":"Mad Jester (event)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"'<Snake> The Mad Jester has been defeated!'."},
+   {"name":"Asgard Guardian (spawnable event)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"'<Spectre> A Asgard Guardian has just spawned' — Heimdall/Odin's guard minion can spawn as an announced REALM EVENT, not only inside Asgard."}
+ ],
+ "drops": ["white bag(s)"],
+ "mechanics": "KEY D2 (Runes) MECHANIC: '**Arcane Symbol x 10 consumed, blessing you[r ...]**' — 'Arcane' is one of the 4 rune slots (Arcane/Chrysalis/Impact/Adaptive), so ARCANE SYMBOLS are a rune MATERIAL consumed in batches of 10 to apply a rune 'blessing' (likely Chrysalis/Impact/Adaptive Symbols exist too). Pairs with the NODESTONES found earlier (skill-tree currency) -> Symbols = rune-blessing material, Nodestones = node/skill-tree currency. Also: 'You have analyzed the coin, discovering [...]' (coin-analysis mechanic). Galactic /counter (Pulse 21/x), Mad Jester/Ortar defeats. Trade system ('/trade'). Announcer personas: Snake, Starforce, Djinn, Spectre.",
+ "uncertain": "'blessing you...' line tail clipped (likely 'blessing your <slot/rune>'). Pulse counter total (25 or 30) not visible. Whether other Symbol types (Chrysalis/Impact/Adaptive) exist is inferred from the 4-slot design.",
+ "confidence": "HIGH — Arcane Symbol rune-material mechanic (D2-critical, DOCUMENTED) + fuller Ortar taunts + Asgard Guardian as a spawnable event; biomes documented."
+}

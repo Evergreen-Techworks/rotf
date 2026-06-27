@@ -1,0 +1,63 @@
+{
+ "dungeon": "GENUINE ROTF/RotMG multi-dungeon run (5 entries, ~176s; RuinedBow present) — green realm / desert / purple dungeon / lava / colourful checkered-grid arenas. Several boss lines captured: NEW 'Euryale the Snake Goddess' (snake/Gorgon boss) + a 2nd 'Mad Jester' line + base Oryx/Forgotten-King lines + a 110% Loot-Boost event + a crafting-material drop. Richer than the recent marathon tags.",
+ "map": "DOCUMENTED-from-transitions+bossends: 5-entry hop — GREEN grass realm, tan DESERT, a PURPLE dungeon, a RED LAVA arena, and a colourful CHECKERED-GRID arena (green/yellow/red/purple tiles, Shatters-style; b005_31s, scattered purple bullets). No single room-sequence (multi-dungeon).",
+ "bosses": [
+  {
+   "name": "Euryale the Snake Goddess",
+   "phases": [],
+   "attacks": [
+    "not isolated to this boss (multi-dungeon) -> not traced"
+   ],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "You will regret this for many years to come."
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured 'Euryale the Snake Goddess', chat_39-40). Taunt right-edge cut at 'for many...' -> PARTIAL. A snake/GORGON-sister boss (Euryale = one of the 3 Gorgons w/ Stheno+Medusa). BASE-vs-ROTF-CUSTOM UNCERTAIN: base RotMG has 'Stheno the Snake Queen' (built) + Medusa, but 'Euryale the Snake Goddess' is not a confirmed base name -> possibly ROTF-CUSTOM (a Stheno sister); verify before building. [VERIFY-LOOP: wide f_ re-crop f_00092 -> full line 'You will regret this for many years to come.']"
+  },
+  {
+   "name": "Mad Jester",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "It's time... for the Ultimate Show!"
+   ],
+   "note": "DOCUMENTED-from-chat (f_156). A 2nd Mad Jester line (1st was disc_lHWOmAlg-ag 'To destroy these humans, all it takes is a bit of little magic and a lot of determination. I have BOTH!'). Oryx summons it as the 'TRUE FOOL' (see below). Mad Jester base-vs-custom still UNCERTAIN (event boss). ENRICHES the Mad Jester line set."
+  },
+  {
+   "name": "Oryx the Mad God (realm announcer)",
+   "phases": [],
+   "attacks": [],
+   "minions": [
+    "Mad Jester (the 'TRUE FOOL')"
+   ],
+   "colorFlashes": "",
+   "taunts": [
+    "Silly fools, I have summoned the TRUE FOOL!"
+   ],
+   "note": "DOCUMENTED-from-chat (f_156). BASE-GAME Oryx realm line summoning the Mad Jester ('TRUE FOOL') -> canonical Oryx flavour, not ROTF-custom. Links Oryx -> Mad Jester event."
+  },
+  {
+   "name": "The Forgotten King",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "You have made a grave mistake coming... reclaim my place in the Realm."
+   ],
+   "note": "DOCUMENTED-from-chat. BASE-GAME (Shatters / realm Forgotten King) -> CANONICAL, not ROTF-custom (cf. the boss-the-forgotten-king NO-BUILD). Corroboration only."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "RuinedBow obtained a Crafting Material: Piece of the R[...]",
+  "(110% Loot Boost event active)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: (1) NEW boss 'Euryale the Snake Goddess' (snake/Gorgon, partial taunt 'You will regret this for many...'; base-vs-custom flagged). (2) a 2nd MAD JESTER line 'It's time... for the Ultimate Show!' + Oryx summoning it as the 'TRUE FOOL' ('Silly fools, I have summoned the TRUE FOOL!'). (3) base Forgotten King line (corroboration, no-build). (4) a '110% Loot Boost' EVENT mechanic + a CRAFTING MATERIAL drop ('Piece of the R[...]'). (5) a partial '...CONSUMES ME!' line in the checkered arena (b005_31s) -> UNATTRIBUTED. Multi-dungeon; attacks = checkered-arena scattered purple bullets (approximate).",
+ "uncertain": "Euryale taunt is PARTIAL (cut at 'for many...'); Euryale base-vs-custom UNCONFIRMED (Gorgon sister; verify). Mad Jester base-vs-custom still unconfirmed. The '...CONSUMES ME!' line is UNATTRIBUTED (partial). Attacks not boss-isolated (multi-dungeon). Oryx + Forgotten King = base-game (corroboration). Crafting material name cut ('Piece of the R[...]').",
+ "confidence": "MEDIUM. GENUINE ROTF/RotMG. Genuine NEW content: 'Euryale the Snake Goddess' (partial taunt, snake boss — base-vs-custom flagged) + a 2nd Mad Jester line + the Oryx->Mad-Jester 'TRUE FOOL' summon link + a 110% Loot-Boost event + crafting-material drop. Base corroboration: Oryx + Forgotten King. Recorded honestly: Euryale partial+flagged, '...CONSUMES ME!' unattributed, attacks approximate. Best follow-up: a clean Euryale fight for the full taunt + base-vs-custom check."
+}

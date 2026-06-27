@@ -1,0 +1,19 @@
+{
+ "dungeon": "GENUINE ROTF VoltiPlay video — 2 boss fights (a RED/CRIMSON arena + a GREY-STONE arena) + a treasure vault. NO boss taunts captured (chat is player banter + event feed + booster/system messages). Build value = MAP + attack geometry + booster-SYSTEMS intel + event-feed corroboration; not a source of new boss taunts.",
+ "map": "DOCUMENTED-from-frames+transitions: a RED/CRIMSON flesh/lava ARENA (open red floor, sparse bullets) reached via brown dungeon corridors; a GREY-STONE ARENA (boxy grey rooms with minions); and a treasure VAULT (rows of chests). Two distinct fight rooms; per-dungeon room sequence not traced.",
+ "bosses": [
+  {"name":"(red-arena boss — unnamed)","phases":[],"attacks":["DOCUMENTED-from-frames (approx): scattered/radial bullets in a red/crimson arena; reconstruct as radial Shoots"],"minions":[],"colorFlashes":"red","taunts":[],"note":"DOCUMENTED-from-frames. No name (no boss taunt in chat). Red flesh/lava arena (b001)."},
+  {"name":"(grey-stone-arena boss — unnamed)","phases":[],"attacks":["DOCUMENTED-from-frames (approx): scattered orange/red bullets + minions in a grey-stone arena"],"minions":["(grey-stone enemies)"],"colorFlashes":"orange/red","taunts":[],"note":"DOCUMENTED-from-frames. No name (no boss taunt). Grey-stone arena (b002)."}
+ ],
+ "minions": [],
+ "drops": [
+  "treasure-vault chests (specific loot not legible)"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "The Suspicious Looking Dragon (SCORPION announcer) — relates to the Smiling Dragon / Suspicious-Dragon meme line",
+  "Pentaract Tower Ultra (SCORPION: defeated)"
+ ],
+ "mechanics": "DOCUMENTED ROTF SYSTEMS: a BOOSTER system — status messages 'You have a drop chance boost.', 'You have no tier booster active.', 'You have no XP booster active.' (drop-chance / tier / XP boosters, time-limited buffs). Stat-pot MAX routing ('You're already maxed. Potion of Defense...'). MULTI-PERSONA ANNOUNCERS corroborated (SCORPION, Harpy) with event bosses (The Suspicious Looking Dragon, Pentaract Tower Ultra). ATTACKS: 2 unnamed boss fights — red arena + grey-stone arena, both scattered/radial bullets (DOCUMENTED-from-frames, approx). No boss taunts (VoltiPlay video; player/system chat only).",
+ "uncertain": "No boss names/taunts (chat is player banter + event feed + boosters, no boss lines). Both arena bosses unnamed. Attack geometry approximate (sparse-bullet bossends). 'drop chance boost / tier booster / XP booster' booster system documented from status lines (exact durations/sources not shown).",
+ "confidence": "LOW for bosses/taunts (no boss lines; 2 unnamed arena fights). MEDIUM for MAP (red arena + grey-stone arena + vault) + ATTACK (scattered/radial, approx) + BOOSTER-systems intel (drop/tier/XP boosters). GENUINE ROTF (VoltiPlay). Not a source of new buildable boss taunts."
+}

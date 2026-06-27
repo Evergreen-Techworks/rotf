@@ -1,0 +1,4 @@
+# Lucky Box
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Lucky%20Box&prop=wikitext
+
+asdf

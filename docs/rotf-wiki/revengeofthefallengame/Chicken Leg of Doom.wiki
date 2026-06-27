@@ -1,0 +1,4 @@
+# Chicken Leg of Doom
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Chicken%20Leg%20of%20Doom&prop=wikitext
+
+asdf

@@ -1,0 +1,4 @@
+# Slime God
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Slime%20God&prop=wikitext
+
+asdf

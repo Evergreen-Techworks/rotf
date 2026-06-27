@@ -1,0 +1,4 @@
+# Butcher
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Butcher&prop=wikitext
+
+Top DPS sub class. Most classes going for max dps will go for this.

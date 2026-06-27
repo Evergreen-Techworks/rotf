@@ -1,0 +1,24 @@
+{
+ "dungeon": "GENUINE ROTF short clip — a grey-STONE LABYRINTH/MAZE dungeon run (narrow winding cobblestone corridors through darkness). LOW yield: no boss fight or taunts captured (chat is player banter + a death notice); the only named threat is a 'Stone Mage' enemy ('Mrombro died at level 20, killed by Stone Mage'). No transitions/bossends (short navigation clip).",
+ "map": "DOCUMENTED-from-frames: a LABYRINTH of narrow grey COBBLESTONE CORRIDORS winding through black void, with thin grass edges along the paths — a maze layout (single-tile-wide winding passages, frequent turns, dead-ends), not an open arena. Minimap stays mostly black (long maze, little explored) -> overall shape not mappable. Enemies (Stone Mage + adds) patrol the corridors; choke points = the narrow single-width passages.",
+ "bosses": [
+  {
+   "name": "Stone Mage",
+   "phases": [],
+   "attacks": ["not captured (no boss-fight frames / no bossends) -> a corridor caster enemy; killed a level-20 player, so it hits hard. Geometry not observed."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "DOCUMENTED-from-death-feed only ('killed by Stone Mage'). A maze enemy/mini-boss, not clearly a major boss; no taunt or attack geometry captured. Recorded as the named threat of this stone-labyrinth dungeon."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "gold (player notes '6k gold dropped on that pos')",
+  "'mystry box' / mystery box (player chat mention)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED-limited (short navigation clip): a grey-STONE LABYRINTH/MAZE dungeon of narrow winding cobblestone corridors. Only a 'Stone Mage' enemy is named (via a death notice). Player chat mentions gold drops ('6k gold on that pos') + a 'mystry box'. No boss taunts, no boss-fight, no transitions/bossends captured -> map/biome + one enemy name is the ceiling. A 'Find Power: 156' tooltip seen (item-power UI). Low-yield tag.",
+ "uncertain": "No boss taunts/attacks (no fight captured). 'Stone Mage' is named only via the death feed -> unclear if it is a major boss or a corridor enemy. The maze's full layout is not mappable (minimap mostly black). Dungeon NAME not captured (no entry banner; no transition frames). Could be a custom stone-maze dungeon; not confidently identified.",
+ "confidence": "LOW. GENUINE ROTF but a short stone-labyrinth navigation clip -> map/biome (narrow winding cobblestone maze) + one enemy name ('Stone Mage') only; NO taunts/attacks/boss. Recorded to mark the tag analyzed + catalog the stone-maze layout. Not a source of new named-boss/taunt content."
+}

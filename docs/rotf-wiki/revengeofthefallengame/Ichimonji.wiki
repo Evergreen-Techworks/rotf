@@ -1,0 +1,4 @@
+# Ichimonji
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Ichimonji&prop=wikitext
+
+asdf

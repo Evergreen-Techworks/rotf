@@ -1,0 +1,4 @@
+# Others
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Others&prop=wikitext
+
+asdf

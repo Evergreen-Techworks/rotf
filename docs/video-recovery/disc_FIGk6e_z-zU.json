@@ -1,0 +1,11 @@
+{
+ "dungeon": "Dev teaser — 'ARCANICA' new female boss reveal",
+ "map": "DOCUMENTED: brown/dirt CAVERN boss arena (with a grey/snow area in other shots). Short teaser, not a full run.",
+ "bosses": [
+   {"name":"(ARCANICA 'she' boss — unnamed)","phases":[],"attacks":["CYAN/turquoise CRYSTALLINE projectiles fired in radial STAR + SPIRAL patterns","white star/explosion bursts","described as a chasing/pursuit boss ('you don't want her chasing at you')"],"minions":[],"colorFlashes":"cyan/turquoise crystal on dark body","taunts":[]}
+ ],
+ "drops": [],
+ "mechanics": "Short DEV TEASER (branding 'ARCANICA', pink-serpent logo). Text cards: 'ISN'T SHE BEAUTIFUL?', 'you don't want her chasing at you', 'GOOD LUCK DEVS :)', 'hope you're as hyped as I am'. Featured boss = a dark/purple creature firing CYAN CRYSTALLINE radial-star + spiral bullet patterns in a brown cavern. Concurrent galactic chat visible (Cracked Core taunts + 'The Cracked Core has been defeated! (X/25)') — so this runs on the ROTF/RotMG engine with the galactic counter active. NOTE: 'ARCANICA' + 'GOOD LUCK DEVS' suggests this may be a SEPARATE/SUCCESSOR project or a dev-preview, not necessarily core legacy ROTF content.",
+ "uncertain": "Boss name not given ('she'). Whether ARCANICA = core ROTF or a related/successor server is unclear. Cyan-crystal boss may itself be the teased boss OR an existing one (Cracked Core?) shown alongside.",
+ "confidence": "LOW-MEDIUM — documents a new female boss's attack VISUALS (cyan crystalline radial/spiral) + ARCANICA branding + concurrent galactic counter; no name/taunts/drops for the featured boss."
+}

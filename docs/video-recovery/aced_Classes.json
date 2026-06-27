@@ -1,0 +1,10 @@
+{
+ "dungeon": "(SYSTEM) Classes + Class Skill Tree + abilities",
+ "source": "aced.gg dev blog 2020-12-26 (Spellbooks/Mages/Summoners, Miniguy) — DOCUMENTED",
+ "map": "N/A",
+ "bosses": [],
+ "drops": ["Reaper's Bow (primal item, dropped by a boss)"],
+ "mechanics": "DOCUMENTED class system (ACED rotf2): you pick one of FOUR 'ROOT' classes at character creation. A CLASS SKILL TREE (separate from the Stat/Rune Skill Tree) lets you SUBCLASS and unlock new abilities as you progress. Example: SUMMONER is a SUBCLASS of MAGE (so Summoner can use Mage abilities too). MAGE abilities = SPELLBOOKS; SUMMONER abilities = SCROLLS. Abilities have COOLDOWNS + mana costs and are CLIENT-PREDICTED (instant effect, server reconciles latency — fixes legacy's RTT-delay feel). Ability visibility follows GPL rules (non-guild/party/locked players' ability FX don't clog your screen). Lore: an unlimited-use consumable item gives HP+MP+loot boost; an ORANGE rune gives +75% ability projectile damage but -mana regen.",
+ "uncertain": "The 4 root class names not all given here (Mage is one). Exact abilities/cooldowns placeholder. ACED build = Unity; our Flash base has the vanilla 2019 class set — this is the later redesign.",
+ "confidence": "MEDIUM-HIGH for class-tree/subclass structure + Mage/Summoner + spellbook/scroll split (DOCUMENTED); LOW for specifics."
+}

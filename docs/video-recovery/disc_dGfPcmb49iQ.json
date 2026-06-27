@@ -1,0 +1,20 @@
+{
+ "dungeon": "(LONG REALM/EXPLORATION STREAM) ROTF realm-hub roaming + event/death/loot feed",
+ "source": "gameplay video disc_dGfPcmb49iQ (590 frames, 84 transitions). Most transition frames are the same recurring ROTF REALM/HUB (central red structure ringed by blue water channels + brown wood bridges) — the player returning between runs, not distinct named dungeons. Chat is dominated by the server-wide event/death/loot feed (much of it motion-blurred); clean recoveries below.",
+ "map": "DOCUMENTED biomes in the montage: a recurring tan/brown REALM with a central red-tiled circular structure + radial blue water channels + brown bridges (the hub, entered ~repeatedly); plus orange/yellow desert, green grass + sand-beach shore, blue water, snowy white, dark green forest, a dark-blue checkered boss room, and red/brown crater arenas.",
+ "bosses": [
+  {"name":"Oryx the Mad God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You are food for my minions!"],"note":"DOCUMENTED VERBATIM from the startup chat (alongside MOTD 'Welcome to Revenge of the Fallen')."}
+ ],
+ "minions": [],
+ "drops": ["Special Crate (repeatedly unboxed via <Loot Notifier> '[player] just unboxed a Special Crate, obtaining ...')"],
+ "event_bosses_seen_in_global_feed": [
+   "Firebreather (defeated 5/30 — confirms Firebreather is a /30 realm EVENT boss / Lord, matching the Flaming Hearth Lord)",
+   "Ghost God (death-feed: players 'killed by Ghost God!')",
+   "Oni God (death-feed: 'killed by Oni God!')",
+   "Modera (death-feed: 'killed by Modera!')",
+   "(another /30 boss defeated 8/30 — name motion-blurred)"
+ ],
+ "mechanics": "DOCUMENTED: reinforces the prior findings (see disc_aCAA_5Od6WY) — ROTF runs a server-wide EVENT-BOSS system with '(N/30)' defeat counters (here: Firebreather 5/30, another 8/30) and a 'Special Crate' unbox/lootbox system spamming the <Loot Notifier> feed. MOTD confirmed verbatim: 'Welcome to Revenge of the Fallen'. The realm hub is a tan world with a central red structure + water/bridge spokes.",
+ "uncertain": "Most chat lines are motion-blurred (player trade/loot chatter); only the startup chat + a few feed lines are cleanly legible. The 84 transitions are overwhelmingly the same realm hub, so few distinct dungeon entries were captured. Modera/Oni God/Ghost God read from death-feed (verbatim killer names) but no taunts/fights captured.",
+ "confidence": "HIGH for the Oryx-the-Mad-God taunt + MOTD + Firebreather-5/30 event-counter; MEDIUM for the death-feed boss names (Ghost God/Oni God/Modera); LOW for biome->dungeon mapping (hub-dominated montage)."
+}

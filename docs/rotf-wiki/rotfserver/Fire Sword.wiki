@@ -1,0 +1,14 @@
+# Fire Sword
+# https://rotfserver.fandom.com/api.php?action=parse&page=Fire%20Sword&prop=wikitext
+
+{{Infobox_item|title = Fire Sword|imagecaption = fire sword|type = Sword|effects = +1.5% lootboost
+|buy = 200 fame|sell = 200 fame
+}}[[File:T5_Fire_Sword.png|thumb|Fire Sword]] 
+Fire Sword t5
+
+==Details==
+
+Fire swords are well known for their meme , which is how they increase loot boost . on revenge on the fallen they give 1.5% lootboost each
+
+
+The best place to farm Fire Sword's are Abyss', since the minions have a higher chance to drop them.

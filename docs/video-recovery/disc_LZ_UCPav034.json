@@ -1,0 +1,13 @@
+{
+ "dungeon": "ROTF short AFK clip (31 frames) — a RED throne-room with PENGUIN enemies + snow/ice particles (winter/penguin-themed area). LOW content (streamer idle). GENUINE ROTF.",
+ "map": "DOCUMENTED-from-frames: a single room — RED-carpet/floor throne-style chamber with orange-brown BRICK columns/walls and white-grey ICE-tile borders; WHITE/BLACK PENGUIN enemies along the bottom; snow/ice particle effects. Winter/penguin theme. No other rooms (short clip).",
+ "bosses": [
+  {"name":"(none captured — AFK clip)","phases":[],"attacks":[],"minions":["Penguins (white/black bird enemies in the room)"],"colorFlashes":"","taunts":[],"note":"No boss fight or taunt — the streamer was idle (chat = repeated 'You have been idle for 3 minutes, you will be disconnected...' warnings). The room has PENGUIN minions + ice particles -> a winter/penguin-themed dungeon or event area (possibly a Christmas/Winter event room)."}
+ ],
+ "minions": ["Penguins"],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED-from-frames: a winter/penguin-themed RED throne-room (brick + ice-tile borders, penguin enemies, snow particles). Chat shows only the AFK/idle-disconnect warning + a player-list/leaderboard UI ('10 Players Shown', 'Reset') + 'LF GL 4 PPE'. No boss taunts, no dungeon name, no event feed captured.",
+ "uncertain": "Room identity unconfirmed — penguins + ice + red throne suggest a WINTER/Christmas event area or a penguin dungeon, but no name printed and the streamer was AFK. Could be a seasonal Nexus/event room rather than a dungeon.",
+ "confidence": "LOW (short AFK clip, no boss/taunt/name). Only DOCUMENTED fact: a winter/penguin-themed red throne-room with penguin minions + ice particles exists in ROTF. Flag for a fuller capture if the area recurs in another tag."
+}

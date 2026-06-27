@@ -1,0 +1,12 @@
+{
+ "dungeon": "Asgard (Odin Throne Room + Hela) + Galactic farming",
+ "map": "DOCUMENTED: Asgard grey-stone halls leading to ODIN'S THRONE ROOM (final arena). Also Lost-Halls-style grey dungeons, a concentric-square temple, green realm, and dark void/galactic zones.",
+ "bosses": [
+   {"name":"Odin (Asgard final boss — Throne Room)","phases":["Throne Room confrontation","summons guards"],"attacks":["summons Asgard Guardians ('Help me, guards. Kill the mortals!')"],"minions":["Asgard Guardian (guards)"],"colorFlashes":"","taunts":["You cannot win against my gods!","You have no chance in this fight!","Attention to all guards, intruders in the Throne Room.","Help me, guards. Kill the mortals!","You have come a long way. It will end soon!"]},
+   {"name":"Hela (Asgard)","phases":[],"attacks":["summons vermins"],"minions":["vermins"],"colorFlashes":"","taunts":["Vermins, destroy them!","Powered by thousands of souls, instant death.","You have come a long way, just to die!"]}
+ ],
+ "drops": [],
+ "mechanics": "DOCUMENTED Asgard detail: ODIN is the final boss in a THRONE ROOM and summons 'guards' (Asgard Guardians) — 'Attention to all guards, intruders in the Throne Room.' / 'Help me, guards. Kill the mortals!'. New Odin taunts + Hela's fuller 'Powered by thousands of souls, instant death.' and 'You have come a long way, just to die!' (mirrors Odin's 'You have come a long way. It will end soon!'). Concurrent GALACTIC farming: /25 counter ('Hermit God defeated 16/25'), Lucky Ent God / Pulse / Lord of the Lost Lands spawns; Death Notifier 'crushed by Hela'. Announcer personas: Imp, Dragon, Beholder, Snake.",
+ "uncertain": "Some taunt endings clipped. Odin's exact attack patterns not isolated. Throne Room layout not mapped.",
+ "confidence": "HIGH for Odin + Hela taunts (verbatim) + the Asgard Throne-Room/guards structure (DOCUMENTED); galactic /25 reconfirmed."
+}

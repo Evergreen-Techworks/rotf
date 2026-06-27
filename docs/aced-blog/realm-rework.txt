@@ -1,0 +1,44 @@
+entry-content">
+
+ Look everyone! It’s another Miniguy post! It’s been a while since I’ve gotten to write one of these. Today, we’re going to take a look at a core gameplay system: Realm-ranking . This is all about improving the core progression loop. Check it out: 
+
+ i am learning to youtube clickbait. i have acquired the red circle. now i am unstoppable. 
+
+ We’ve mentioned before that we’re explicitly ranking content in terms of difficulty. Part of the reason we’ve started doing this is to support the new progression system. 
+
+ If you can’t watch the video right now, I’ll also explain the new system a bit in text, by quoting from the video: 
+
+ In legacy, the core progression loop encouraged new characters to 1) skip early-game content, 2) do a 50/50 teleport into high-level content, and 3) try to survive a difficult area where your character didn’t belong. If you died at this point, no problem: you could just make another new character. But when you inevitably lived, you’d effectively start the game at level 20. 
+
+ The result: there was no early-to-mid-game. There was just endgame. 
+
+ ouch. players got us figured out 
+
+ In new RotF, we explicitly designate content as one of the three difficulty ranks: Easy, Medium, or Hard. You may have noticed these designations on our content blog posts: for example, Gate to the Underworld, which is Hard-rank, or Riverside Refuge, which is Medium-rank. Each Realm portal gets assigned a difficulty. 
+
+ assigned difficulties? hmm… 
+
+ When you make a new character, you begin in the Easy Realm, gaining access to the next-level realm by clearing a realm of your current level, or by clearing a single dungeon of your current level. This progression system promises that there will always be people running content of all difficulties, so it’s a double win: you won’t be lonely while leveling up a new character, and the early-to-mid-game content that we design will actually see usage. Stat maxing fruit will also be a relatively common drop in early-to-mid areas, so it should feel rewarding to play through on a new character. 
+
+ let me in!! 
+
+ We want to make sure that encouraging players to play early-to-mid-game doesn’t conflict with our promise to make a high-speed, fast-paced bullet hell, but we also want to make sure that we make good on this promise deliberately, and not by keeping the broken progression system from legacy. 
+
+ Thank you so much for reading. Watch the video if you get a chance—Google’s magic algorithms will hate us less. We’ll update this post with Skilly’s CT key puzzle in 15 minutes, so check back soon for a chance to get a key! 
+
+ Edit: Skilly’s key puzzle is here ! As always, there are three keys to discover. Use at https://rotf.io/register . 
+ Share this: Twitter Facebook Like this: Like Loading... 
+
+ Related 
+
+ Tagged aced games aced.gg biome dungeon progression rank realm revenge of the fallen rotf rotf.io 
+
+ Published by Miniguy 
+
+ I’m one of the lead developers at ACED. We’re currently working on porting RotF to Unity! 
+ View all posts by Miniguy 
+
+ Published 
+ April 26, 2021 April 26, 2021 
+
+</article

@@ -1,0 +1,4 @@
+# Oryx Castle
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Oryx%20Castle&prop=wikitext
+
+asdf

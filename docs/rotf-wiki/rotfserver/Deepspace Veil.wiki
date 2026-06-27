@@ -1,0 +1,27 @@
+# Deepspace Veil
+# https://rotfserver.fandom.com/api.php?action=parse&page=Deepspace%20Veil&prop=wikitext
+
+{{ItemInfo
+| name = Deepspace Veil
+| desc = A cloak weaved from an unknown material, said to drape it's user in absolute, utter, nothingness.
+| slot = cloak
+| tier = GL
+
+| cost = 90
+| cooldown = 7
+| fameb = 6
+| soulbound = yes
+
+| bonuses = {{Stat|spd|5}} {{Stat|dex|4}} {{Stat|vit|3}} {{Stat|wis|3}}
+
+| effects = yes
+| invisible = 6
+
+| lootbag = white
+| dropsFrom = can be found in a White Bag dropped by: [[Cracked Core]], [[The Zucc]] and [[L. Bandito]].
+}}
+
+<noinclude>
+{{NavCloaks}}
+[[Category:Cloaks]]
+</noinclude>

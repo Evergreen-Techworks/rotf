@@ -1,0 +1,4 @@
+# Reaper's Bow
+# https://rotfserver.fandom.com/api.php?action=parse&page=Reaper%27s%20Bow&prop=wikitext
+
+{{ItemInfo|name = Reaper's Bow|desc = This bow fires the souls of Elithor's victims.|rarity = p|slot = bow|tier = UT|minDmg = 200|maxDmg = 300|shots = 2|rof = 62|range2 = 5.39|fameb = 10|effects = yes|multihit = yes|passthrough = yes|boomerang = yes|primal = Harvest:<br/>Your shots have a 5% chance to do 1.5x damage.|dropsFrom = Drops from Elithor}}

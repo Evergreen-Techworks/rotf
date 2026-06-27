@@ -1,0 +1,4 @@
+# Realm Giant
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Realm%20Giant&prop=wikitext
+
+asdf

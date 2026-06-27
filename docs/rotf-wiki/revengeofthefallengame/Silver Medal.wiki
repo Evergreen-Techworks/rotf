@@ -1,0 +1,4 @@
+# Silver Medal
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Silver%20Medal&prop=wikitext
+
+asdf

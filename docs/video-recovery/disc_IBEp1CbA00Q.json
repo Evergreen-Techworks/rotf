@@ -1,0 +1,47 @@
+{
+ "dungeon": "GENUINE ROTF edited LEVELING montage ('LEVELING' overlay, Fame counters, rapid /24 quick dungeon entries) — a power-leveling speedrun through many standard dungeons. Chat partly readable. HEADLINE: a full THE PUPPET MASTER taunt set + its fake-death/plot-twist mechanic (the flagged Puppet Master candidate now has the master's OWN lines). Also Ghost of Skuld + custom Oryx Pentaract line.",
+ "map": "DOCUMENTED-from-transitions+frames (24-entry leveling marathon, not one dungeon): a tour through standard dungeons — PENTARACT TOWER (colourful checkerboard circle), green GRASS REALM + forest-ish areas, ORANGE/LAVA arenas, dark SPACE/VOID rooms, DESERT/sand, grey-STONE rooms. Quick-cut leveling run -> no single layout; arenas catalogued individually. The Puppet Master is fought in a green grass/forest arena.",
+ "bosses": [
+  {
+   "name": "The Puppet Master",
+   "phases": ["summons life-draining puppets; hides ('Find me if you can'); FAKE-DEATH / 'pretender' phase — appears dead then revives ('plot twist')"],
+   "attacks": ["DOCUMENTED-from-taunts+context: SUMMON-heavy — raises PUPPETS/minions that DRAIN the player's life ('Watch them dance, hero, as they drain your life away!'); a HIDE/seek mechanic ('Find me if you can hero, or die trying'); and a FAKE-DEATH revive (the master 'dies' then comes back — 'I am only a pretender! I am ready for a plot twist!'). Reconstruct as: Spawn life-drain puppets + an Invulnerable/Invisible hide phase + a death-fakeout revive (HpLessTransition to a 'fake death' state that revives)."],
+   "minions": ["puppets (life-draining)"],
+   "colorFlashes": "",
+   "taunts": [
+    "Watch them dance, hero, as they drain your life away!",
+    "Find me if you can hero, or die trying",
+    "You may have killed me, but I am only a pretender! I am ready for a plot twist!"
+   ],
+   "note": "DOCUMENTED-from-chat (red 'The Puppet Master:' prefix confirmed, lines verbatim + repeated). *** COMPLETES the Puppet Master candidate ***: earlier (disc_hGSSP2J3gcQ) only the MINIONS' line 'We freed the master!' was captured; THIS gives the master's OWN 3 taunts + its mechanics (life-drain puppets + hide + FAKE-DEATH/plot-twist revive). Strong NEW custom build candidate now. Verify before building."
+  },
+  {
+   "name": "Ghost of Skuld",
+   "phases": ["false-reward twist on 'victory'"],
+   "attacks": ["fake-congratulations then attacks (twist)"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "Congratulations on your victory, warrior. Your reward shall be... A SWIFT DEATH!!!"
+   ],
+   "note": "DOCUMENTED-from-chat (red 'Ghost of Skuld'). A false-reward TWIST boss ('your reward shall be... A SWIFT DEATH!!!'). Same plot-twist flavour as the Puppet Master. NEW/check candidate (verify whether 'Ghost of Skuld' is built — there is an 'Epic Ghost of Skuld' in the build; this may be the base variant)."
+  },
+  {
+   "name": "Oryx the Mad God",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["Behold my Pentaract, and despair!"],
+   "note": "DOCUMENTED-from-chat. Oryx realm-announcer Pentaract line -> likely base-canon (flagged, not claimed custom)."
+  }
+ ],
+ "minions": ["Puppet Master puppets (life-draining)"],
+ "drops": [
+  "(leveling montage; Fame/XP focus, specific loot not isolated)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: an edited LEVELING montage. HEADLINE = THE PUPPET MASTER's full taunt set + mechanics (life-draining PUPPETS, a HIDE/seek mechanic 'Find me if you can', and a FAKE-DEATH/'pretender'/'plot twist' REVIVE) — completes the Puppet Master candidate (previously only the minion line was known). Ghost of Skuld is a false-reward TWIST boss ('your reward shall be... A SWIFT DEATH!!!'). Custom Oryx Pentaract line (flagged base-canon). 24-dungeon leveling tour (standard dungeons). Attacks reconstructed from taunts/context (leveling cuts -> no clean isolated boss geometry).",
+ "uncertain": "Leveling montage -> boss ATTACK geometry not cleanly isolated (reconstructed from taunts/context). Puppet Master taunts are verbatim+confirmed (strong); its exact attack pattern (beyond summon/hide/fake-death) not frame-traced. Ghost of Skuld may overlap the built 'Epic Ghost of Skuld'. Oryx line likely base-canon. Loot not isolated (leveling).",
+ "confidence": "HIGH for THE PUPPET MASTER taunts (red boss-coloured, verbatim, repeated) + its mechanics (life-drain/hide/fake-death) — this COMPLETES the candidate into a strong build target. MEDIUM for Ghost of Skuld (1 line, check vs built Epic variant). GENUINE ROTF. Net value: the Puppet Master is now build-ready (3 taunts + a distinctive fake-death/plot-twist mechanic). Best follow-up: a single Puppet Master clip to trace its bullet/summon geometry."
+}

@@ -1,0 +1,11 @@
+{
+ "dungeon": "NON-ROTF / OTHER-GAME mis-pull — this is MINECRAFT DUNGEONS, not RotMG/ROTF. Frames show the isometric Minecraft Dungeons UI: a 'RANDOM GEAR' villager-trade screen ('Get a random piece of gear appropriate for your level', 'MADE TRADE'), a character inventory/ENCHANTMENTS screen (melee/armor/ranged gear slots, enchantment trees, a 'SOULBANE' item, power level ~115, emerald currency ~5183), blocky Minecraft graphics + a facecam. NOT a RotMG private server at all.",
+ "map": "N/A for ROTF — Minecraft Dungeons isometric levels/menus only. No RotMG dungeon layout.",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "NONE for ROTF. Observed content is MINECRAFT DUNGEONS (a different game): random-gear villager trades, gear power level, enchantment system, emerald currency, 'SOULBANE' weapon. None of this is RotMG/ROTF content.",
+ "uncertain": "Classification is unambiguous: this is Minecraft Dungeons (isometric Minecraft graphics, Minecraft Dungeons gear/enchant UI, emerald currency) — a DIFFERENT GAME, not RotMG/ROTF. No ROTF boss/dungeon/taunt content exists in this tag.",
+ "confidence": "HIGH that this is a NON-ROTF / OTHER-GAME mis-pull (Minecraft Dungeons). NO ROTF boss/dungeon/taunt/attack content to recover (bosses=[]). Recorded honestly as a different-game exclusion (matches the recurring 'other games entirely' discovery mis-pull: Faer/Cities-Skylines/LoL/Binding-of-Isaac). Recommend a discovery-side filter to drop non-RotMG game videos. No follow-up for ROTF. See discovery-mispull-nonrotf-sources."
+}

@@ -1,0 +1,4 @@
+# Bracer of the Guardian
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Bracer%20of%20the%20Guardian&prop=wikitext
+
+asdf

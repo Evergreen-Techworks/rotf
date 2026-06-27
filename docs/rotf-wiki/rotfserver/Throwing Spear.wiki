@@ -1,0 +1,29 @@
+# Throwing Spear
+# https://rotfserver.fandom.com/api.php?action=parse&page=Throwing%20Spear&prop=wikitext
+
+{{ItemInfo
+| name = Throwing Spear
+| slot = sword
+| tier = UT
+| rarity = l
+| desc = HOW MANY TIME HAVE I CALL MY NAME FOR YOU
+
+| rof = 80
+| range = 
+| projSpeed = 15
+| lifetime = 650
+| minDmg = 325
+| maxDmg = 325
+| fameb = 6
+| feedp = 950
+| effects = yes
+| pierce = yes
+
+| legendary = 1
+
+|lootbag = white
+|dropsFrom = is dropped in a white bag after killing Uvuvwevwevwe.|range2 = 8.02}}
+<noinclude>
+[[Category:Swords]]
+{{NavSwords}}
+</noinclude>

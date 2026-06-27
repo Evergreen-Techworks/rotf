@@ -1,0 +1,33 @@
+{
+ "dungeon": "GENUINE ROTF long GALACTIC-heavy run (~659s, 16 entries, 12 bossend groups). RICH chat: NEW <Spaceship> galactic dialogue ('Good luck, master.'), a 'Necrotic Tokens' FUSING mechanic, a NEW boss lead 'Molten Flamekeeper', a SUMMER seasonal event ('escaped the deadly Summer vibes!') with a Spider /150 event counter, meme crate items, plus event-feed corroboration of many built bosses. Galactic space/void zones dominate the minimaps.",
+ "map": "DOCUMENTED-from-minimaps+transitions: GALACTIC SPACE/VOID zones dominate (dark starfields w/ scattered dots) + a grey STRUCTURED area (likely the Spaceship interior/hub). Interspersed with red/lava + green realm arenas (transitions). 16-entry multi-dungeon/galactic hop -> no single contiguous layout; the galactic segments match the <Spaceship> dialogue.",
+ "bosses": [
+  {
+   "name": "Molten Flamekeeper",
+   "phases": [],
+   "attacks": ["not isolated (multi-dungeon; sampled bossend had low bullet density)"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["Alas, the flame..."],
+   "note": "DOCUMENTED-from-chat (boss-coloured '<Molten Flamekeeper>', grayscale-pull; RIGHT-EDGE CUT at 'the fla[me]...'). A NEW fire-themed boss lead (distinct from the built Firebreather). Tail NOT recovered (the 224px chat crop cut it; wide f_ re-crop landed on Summer-vibes notifications instead) -> PARTIAL, flagged for a clean re-read. NOT built."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "[Useless Katana] (meme item from 'You have opened a crate! Obtaining a [Useless Katana]!')",
+  "Swordsworth (item, lootbox unbox)",
+  "Rainbow's End! (item, lootbox unbox)",
+  "lootbox unboxes carry a DAMAGE-CONTRIBUTION tag ('just unboxed ... with N% damage deal!')"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "The Shadowscale has been defeated",
+  "Shade of Novus has just spawned",
+  "The Lord of the Lost Lands just spawned",
+  "Pulse has just spawned",
+  "Pentaract Tower Ultra has spawned",
+  "Spider (13/150) -> (14/150)"
+ ],
+ "mechanics": "DOCUMENTED-from-frames: (1) NEW <Spaceship> GALACTIC dialogue — 'Good luck, master.' (verbatim; the Spaceship addresses the player as 'master') + a partial 'Your memory is...' line -> extends the D3 Spaceship voice ([[rotf-stat-systems]] had its launch arc). (2) 'You have fused the Necrotic Tokens' -> a token-FUSING/crafting mechanic (Necrotic Tokens). (3) a SUMMER SEASONAL EVENT: realm heroes 'escaped the deadly Summer vibes!' (themed realm-close/escape) + a 'Spider (13/150)' EVENT COUNTER -> the event-defeat cap can be /150 (vs /25 or /30 elsewhere -> build/event-dependent, confirms it's configurable). (4) DAMAGE-CONTRIBUTION lootboxes ('N% damage deal'). (5) meme crate items ('[Useless Katana]'). Event feed corroborates built bosses (Shadowscale/Shade of Novus/Pulse/God of Luck 'use your Lucky Potion').",
+ "uncertain": "Molten Flamekeeper line is PARTIAL ('Alas, the flame...' cut) -> tail not recovered (flagged, NOT built/guessed). <Spaceship> 'Your memory is...' is also partial. The '/150' Spider counter is a higher cap than seen before -> reinforces build/event-dependent counter caps. Attack geometry NOT cleanly isolated (16-entry galactic/multi-dungeon, low-bullet bossends). Most 'escaped the deadly Summer vibes' lines are the event-escape notifier, not boss taunts. Other event-feed names = corroboration of built bosses (no-build).",
+ "confidence": "MEDIUM-HIGH (mechanics) / LOW (Molten Flamekeeper). GENUINE ROTF galactic run. Strong NEW content: a <Spaceship> 'Good luck, master.' galactic line + a 'Necrotic Tokens' fusing mechanic + a SUMMER seasonal event w/ a /150 Spider counter + meme crate items + a NEW 'Molten Flamekeeper' boss lead (partial). Recorded honestly: Molten Flamekeeper partial (not built), Spaceship 'memory' partial, attacks not isolated, event-feed = corroboration. Best follow-up: a clean Molten Flamekeeper fight + the full Spaceship 'Your memory is...' line + the Summer-event details."
+}

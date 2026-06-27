@@ -1,0 +1,189 @@
+# Runes
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Runes&prop=wikitext
+
+In ROTF you can equip runes in your character, allowing each of your classes to have an unique build
+
+== Usage ==
+[[File:Runes.png|thumb|142x142px]]To equip your runes, you need to first obtain them, and then speak with the Rune Master found in the nexus or in your vault.
+Once you speak with him, you will see your runes tree. 
+
+First you need to unlock the slots in the skill tree through the following methods:
+
+-Line 2: Reach 800 base fame with a character
+
+-Line 3: Use your first galactic essence
+
+-Line 4: Reach 82 skill points with a character
+
+In the 1st slot you can equip a might rune (orange) in the 2nd one, a resolve rune (green), in the 3rd one an utility rune (blue) and in the 4th one whichever you want. You can equip minirunes freely in any of the small slots.
+
+To equip a rune just click on the slot you want to place the rune in, and then the rune you want to equip. Then Save.
+
+<gallery>
+RunesTreeEmpty.png|Empty runes tree
+RunesTreeFull.png|Complete runes tree
+
+</gallery>
+== Obtention ==
+
+To obtain runes you need to loot Nodestones, which are dropped by galaxy bosses, elite gods and dungeon bosses.
+
+Half of the runes (9 big, 3 small) drop in galaxy nodestones, the others (9 big, 5 small) drop in normal ones, making a total of 26 runes.
+
+== Other Data ==
+-Each character keeps their own set of runes.
+
+-Runes are kept for ever once you unlock them and are shared between all your characters.
+
+-You can use this UNOFFICIAL website to plan your build https://rotfskilltree.ddns.net/ (this site is not affiliated to ROTF, anything that happens in this webstie is not related and will not be attended by admins)<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Runes</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Might Runes</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| style="width: auto;" align="center"
+|-  
+| {{ImageBlack
+| file = ManaHungerRune.png
+| link = Mana Hunger
+| text = Mana Hunger
+}}
+|{{ImageBlack
+| file = PerfectionistRune.png
+| link = Perfectionist
+| text = Perfectionist
+}}
+|{{ImageBlackLarge1
+| file = NarrowSightedMagicRune.png
+| link = Narrow Sighted Magic
+| text = Narrow Sighted Magic
+}}
+|{{ImageBlackLarge1
+| file = ConsistentOnslaughtRune.png
+| link = Consistent Onslaught
+| text = Consistent Onslaught
+}}
+|{{ImageBlackLarge1
+| file = AdrenalineRushRune.png
+| link = Adrenaline Rush
+| text = Adrenaline Rush
+}}
+| {{ImageBlackLarge1
+| file = AggressiveAgitatorRune.png
+| link = Aggressive Agitator
+| text = Aggressive Agitator
+}}
+|}
+</div>
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Resolve Runes</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| style="width: auto;" align="center"
+|-  
+|{{ImageBlackLarge1
+| file = BlissfulIgnoranceRune.png
+| link = Blissful Ignorance
+| text = Blissful Ignorance
+}}
+|{{ImageBlack
+| file = BloodPactRune.png
+| link = Blood Pact
+| text = Blood Pact
+}}
+|{{ImageBlackLarge1
+| file = BulwarkOfTheSurgeonRune.png
+| link = Bulwark Of The Surgeon
+| text = Bulwark Of The Surgeon
+}}
+| {{ImageBlackLarge1
+| file = RegenerationOfTheBruteRune.png
+| link = Regeneration Of The Brute
+| text = Regeneration Of The Brute
+}}
+|{{ImageBlack
+| file = BidingTimeRune.png
+| link = Biding Time
+| text = Biding Time
+}}
+|{{Image
+| file = ArcaneSurgeRune.png
+| link = Arcane Surge
+| text = Arcane Surge
+}}
+|}
+</div>
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Utility runes</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| style="width: auto;" align="center"
+|-  
+|{{ImageBlack
+| file = EyeForAnEyeRune.png
+| link = Eye For An Eye
+| text = Eye For An Eye
+}}
+|{{ImageBlackLarge1
+| file = RestorationTemptationRune.png
+| link = Restoration Temptation
+| text = Restoration Temptation
+}}
+|{{ImageBlackLarge1
+| file = DreadstumpGreedRune.png
+| link = Dreadstump's Greed
+| text = Dreadstump's Greed
+}}
+| {{ImageBlackLarge1
+| file = RareObsessionRune.png
+| link = Rare Obsession
+| text = Rare Obsession
+}}
+|{{ImageBlack
+| file = PotHeadRune.png
+| link = Pot Head
+| text = Pot Head
+}}
+|{{ImageBlack
+| file = SoloThiefRune.png
+| link = Solo Thief
+| text = Solo Thief
+}}
+|}
+</div>
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Mini runes</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| style="width: auto;" align="center"
+|-  
+|{{ImageBlackLarge1
+| file = MiniEnlightenmentRune.png
+| link = Mini Enlightenment
+| text = Mini Enlightenment
+}}
+|{{ImageBlack
+| file = MiniSpiritRune.png
+| link = Mini Spirit
+| text = Mini Spirit
+}}
+|{{ImageBlack
+| file = MiniProtectionRune.png
+| link = Mini Protection
+| text = Mini Protection
+}}
+|{{ImageBlack
+| file = MiniPrecisionRune.png
+| link = Mini Precision
+| text = Mini Precision
+}}
+|-
+|{{ImageBlack
+| file = MiniStrengthRune.png
+| link = Mini Strength
+| text = Mini Strength
+}}
+|{{ImageBlack
+| file = MiniMobilityRune.png
+| link = Mini Mobility
+| text = Mini Mobility
+}}
+|{{ImageBlack
+| file = MiniHealthRune.png
+| link = Mini Health
+| text = Mini Health
+}}
+|{{ImageBlack
+| file = MiniMagicRune.png
+| link = Mini Magic
+| text = Mini Magic
+}}
+|}
+</div>
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

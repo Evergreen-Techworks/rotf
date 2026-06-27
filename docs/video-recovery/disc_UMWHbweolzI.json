@@ -1,0 +1,21 @@
+{
+ "dungeon": "GENUINE ROTF short clip (~24s, 24 f_, player 'Valoks') — a single boss fight in a grey-tiled barrel arena with a radial bullet-spread attack + multiple 'Quest Complete!' popups. NO boss NAME or taunt captured (chat = player reactions 'OMG'/'ouch' only). LOW yield: one unidentified boss + an attack pattern + a quest-complete moment.",
+ "map": "DOCUMENTED-from-f_: a single GREY-TILED arena strewn with brown BARRELS/crates (pirate-cave / quest-dungeon style), open central space where the boss is fought. No transitions/minimap detail (24s clip) -> single-room arena only.",
+ "bosses": [
+  {
+   "name": "(unidentified — grey-tiled barrel arena boss)",
+   "phases": [],
+   "attacks": ["DOCUMENTED-from-frames (f_00006): a RADIAL RING / SPREAD of ~10-12 evenly-spaced WHITE cloud-puff bullets around the central boss -> radial ring/nova (count ~10-12). Approximate (24s clip, no bossends)."],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "NO NAME captured (chat = player 'Valoks' reactions only, no boss-coloured taunt). Unidentified boss in a grey-tiled barrel arena with a radial white-puff-bullet ring/spread. NOT attributed/guessed."
+  }
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: a QUEST-COMPLETE mechanic — multiple 'Quest Complete!' floating popups during the fight (players completing a quest objective, likely the boss-kill). One unidentified boss with a radial white-bullet ring/spread attack. No name/taunt/loot captured (24s clip).",
+ "uncertain": "Boss UNIDENTIFIED (no boss-coloured taunt; chat = player reactions). Attack APPROXIMATE (radial spread of ~10-12 white puff-bullets, single frame, no bossends). Arena is grey-tiled w/ barrels (pirate-cave / quest-dungeon style) but the dungeon NAME is not captured. Very short clip (24s) -> minimal context.",
+ "confidence": "LOW. GENUINE ROTF but minimal: one UNIDENTIFIED boss (grey barrel arena) with a radial white-bullet ring/spread attack + a 'Quest Complete!' mechanic. NO name/taunt/loot. Recorded honestly (boss unnamed, attack approximate, no fabrication). Best follow-up: a longer/named clip of this barrel-arena boss for its name + taunts."
+}

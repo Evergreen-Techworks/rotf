@@ -1,0 +1,14 @@
+{
+ "dungeon": "(TUTORIAL VIDEO) ROTF 'epic dungeon update' — how Epic gods/dungeons work",
+ "source": "video disc_wD2H-QuW7dc (60 frames, 0 transitions, 15 chat). A short GUIDE/tutorial video explaining the 'epic dungeon update' via text overlays. Chat = usual event/loot feed.",
+ "map": "DOCUMENTED: GODLANDS (green grass + red Epic gods) -> epic-dungeon interiors (colorful loot-filled grid rooms). Tutorial overlays narrate the flow.",
+ "bosses": [
+  {"name":"Epic gods (Godlands)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"DOCUMENTED from tutorial overlays: 'Epic gods' spawn in the GODLANDS; '~30 sec to find one'; entering one opens an EPIC DUNGEON. (Ties to the built Epic Enemies system — Epic-scaled gods that also open epic dungeons.)"}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": ["Cube God (defeated)","Skull Shrine (just spawned)"],
+ "mechanics": "DOCUMENTED (tutorial overlays) — the EPIC DUNGEON mechanic: (1) go to the GODLANDS; (2) find an 'Epic god' (takes ~30 sec); (3) enter it -> an EPIC DUNGEON (loot-filled grid rooms); (4) 'Grind these dungeons for easy profit'. This confirms ROTF's Epic enemies/gods (D1 Epic Enemies system) spawn in Godlands AND open epic dungeons — not just bonus loot. An 'epic dungeon update' was announced.",
+ "uncertain": "Epic-dungeon internal structure/bosses not shown in detail (just loot-grid rooms). The exact spawn rate / which Godlands gods become Epic not specified. Chat = generic feed.",
+ "confidence": "HIGH for the EPIC DUNGEON mechanic (Epic gods in Godlands -> epic dungeons, ~30s to find, grind for loot) — a useful confirmation/extension of the built Epic Enemies system. LOW for internal dungeon detail."
+}

@@ -1,0 +1,13 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM) ROTF — treasure-vault biome + a new Oryx taunt; low-medium novelty",
+ "source": "video disc_r5dnQBsNhho (467 frames, 3 transitions, 117 chat). Mostly a green/yellow BRICK-FORTRESS biome packed with treasure CHESTS, plus a pink Candy-Land-like zone + grey maze + blue dungeon. Chat captured a new Oryx taunt fragment.",
+ "map": "DOCUMENTED biomes: a green/yellow BRICK-FORTRESS maze FULL OF treasure CHESTS (a treasure-vault dungeon — Cave-of-a-Thousand-Treasures-style); a PINK + sandstone-checkered biome (Candy-Land-like); a grey-stone MAZE; a blue dungeon; tan/sandstone cross-room; dark space.",
+ "bosses": [
+  {"name":"Oryx the Mad God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["Puny mortals! My..."],"note":"DOCUMENTED VERBATIM (boss-colored chat, truncated). A NEW Oryx the Mad God line beyond 'You are food for my minions!' — 'Puny mortals! My [minions/realm...]'. Adds to Oryx's taunt set."}
+ ],
+ "minions": [],
+ "drops": [],
+ "mechanics": "DOCUMENTED: (1) A TREASURE-VAULT biome — a green/yellow brick fortress densely packed with treasure chests (loot-vault dungeon). (2) New Oryx the Mad God taunt fragment ('Puny mortals! My...'). (3) Vanilla-named pots on this build ('Potion of Life consumed'). (4) Trade chatter (exaltation/mp).",
+ "uncertain": "New Oryx taunt truncated at crop edge. Treasure-vault dungeon name not printed (could be Cave of a Thousand Treasures or a ROTF vault). Pink biome = Candy Land (likely). No other boss taunts captured.",
+ "confidence": "MEDIUM — a new (truncated) Oryx taunt + a treasure-vault biome documented. LOW novelty otherwise; LOW for dungeon names."
+}

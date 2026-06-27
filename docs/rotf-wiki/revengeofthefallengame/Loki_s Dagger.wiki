@@ -1,0 +1,4 @@
+# Loki's Dagger
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Loki%27s%20Dagger&prop=wikitext
+
+asdf

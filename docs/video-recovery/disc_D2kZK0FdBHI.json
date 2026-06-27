@@ -1,0 +1,9 @@
+{
+ "dungeon": "Social group-farming stream (~48 entries; a server rollback/lag event occurred)",
+ "map": "DOCUMENTED biomes from transitions/contact: orange/red LAVA temple, green realm w/ void boss, grey diagonal LOST-HALLS-style halls (recurring), grey VOID arenas, white/snow area, a red radial-attack boss arena, and a vault/pet UI. Standard biome mix.",
+ "bosses": [],
+ "drops": [],
+ "mechanics": "DOCUMENTED: LOOT NOTIFIER crate-unboxing reconfirmed ('<Loot Notifier> [Kastor]/[Kastor] just unboxe[d]...'). DEATH NOTIFIER feed format reconfirmed: '<name> (<stars>/8, <fame>) has been killed' (e.g. 'HazerHD (2/8, 354)', 'Spectrum (0/8, 0)', 'CaressMy (0/8, 1)'). A SERVER ROLLBACK/LAG event happened mid-stream — players spam 'ROLLBACK', 'just wipe the server', 'AHAHAHA' (anecdotal server-stability note). Heavy social/banter chat.",
+ "uncertain": "No boss taunts captured (chat is entirely social + announcer feeds). 48 entries not name-identified (transitions caught loading screens / standard biomes). No clear no-footage-dungeon match.",
+ "confidence": "LOW-MEDIUM — reconfirms Loot/Death Notifier formats; biomes documented; no new bosses/taunts/drops. Marked processed."
+}

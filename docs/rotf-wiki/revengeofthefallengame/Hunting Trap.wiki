@@ -1,0 +1,4 @@
+# Hunting Trap
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Hunting%20Trap&prop=wikitext
+
+asdf

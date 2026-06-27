@@ -1,0 +1,13 @@
+{
+ "dungeon": "(LONG ROTF STREAM — 'GLEFF') multi-biome session; chat = mostly viewer giveaway-keyword spam, a few gems",
+ "source": "video disc_iFlpCUkcjvY — a long ROTF stream by 'GLEFF' (donor sidebar + 'Sub Goal 5,432' overlay + 'KEYWORD IS rotf / rotmg' giveaway overlays, which CONFIRM the server is ROTF). 0 transitions detected (single long session). Chat (1233 crops) is dominated by viewers spamming the giveaway keyword 'rotmg'/'rotf'; boss/mechanic lines are sparse.",
+ "map": "DOCUMENTED biomes flashed across the montage: a RED/MAGENTA zone (Shade-of-Novus-style), green grass realm, orange/lava dungeon, purple zone, tan/desert, snowy area, a vault/inventory screen.",
+ "bosses": [
+  {"name":"Creepy Talking Jack-O-Lantern","phases":[],"attacks":[],"minions":["skeletons"],"colorFlashes":"","taunts":["Look out for those skel[etons in the] realm. They're spooky AND scary!"],"note":"DOCUMENTED VERBATIM (truncated by crop). A spooky/Halloween meme NPC/boss that warns about skeletons in the realm — likely a Halloween/seasonal event NPC."}
+ ],
+ "minions": ["skeletons (referenced by the Jack-O-Lantern)"],
+ "drops": [],
+ "mechanics": "DOCUMENTED: a CLEAR-ALL-ENEMIES gate mechanic — repeated broadcast 'Current number of the remaining enemies: 8' (a boss room / dungeon stage that counts down remaining enemies; players must clear them all to proceed/open the next stage). Player chatter also references 'spellbombs' (a Mage spellbook ability), 'jugg' (Juggernaut ring), and 'decaring' (Decades Ring) — incidental item/ability vocabulary.",
+ "uncertain": "Which dungeon(s) the biomes belong to — no transition/entry frames captured. The Jack-O-Lantern taunt is truncated mid-line by the chat crop. Boss attack patterns/HP/drops not isolated (viewer chat drowned the boss/event feed).",
+ "confidence": "HIGH that this is a ROTF stream (keyword overlays) + for the 'Current number of the remaining enemies: N' clear-gate mechanic + the Creepy Talking Jack-O-Lantern taunt (verbatim, truncated). LOW for biome->dungeon mapping and drops."
+}

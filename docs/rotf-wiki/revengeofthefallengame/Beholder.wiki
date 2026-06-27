@@ -1,0 +1,4 @@
+# Beholder
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Beholder&prop=wikitext
+
+asdf

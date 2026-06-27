@@ -1,0 +1,187 @@
+# Bows
+# https://revenge-of-the-fallen-rotmg.fandom.com/api.php?action=parse&page=Bows&prop=wikitext
+
+This page includes both custom bows and old bows that have been edited from how they appear on the predicting RotMG server.
+{| class="article-table"
+!Bows
+!Damage
+!Range
+!RoF
+!Shots
+!Stats
+!Pierce
+!Armor Pierce
+!Obstacle Pierce
+!Fame Bonus
+!Tier
+!Legendary/Primal Effects
+|-
+|Bow of Mystical Energy 
+|85-115
+|7.52
+|
+|2
+|
+|yes
+|
+|
+|5%
+|T13
+|
+|-
+|Bow of Deep Enchantment
+|95-125
+|7.52
+|
+|2
+|
+|yes
+|
+|
+|6%
+|T14
+|
+|-
+|Galaxy Longbow
+|115-135
+|7.52
+|
+|2
+|
+|yes
+|
+|
+|6%
+|GL
+|
+|-
+|Heavy Bow of the Asgard Guardian
+|1350-1650
+|9
+|11%
+|
+|
+|yes
+|
+|
+|5%
+|Heroic
+|
+|-
+|Hallow's End 
+|205-255
+|8.01
+|66%
+|
+|
+|yes
+|
+|
+|6%
+|Unique
+|
+|-
+|Metal Blood Bow
+|135-165
+|7.5
+|75%
+|
+|
+|yes
+|
+|
+|6%
+|Heroic
+|
+|-
+|Bow of the Lightning God
+|100-130
+|5
+|80%
+|2
+|
+|
+|
+|
+|6%
+|Heroic
+|
+|-
+|Greeni
+|105-130
+|6.51
+|120%
+|2
+|
+|
+|
+|
+|0%
+|Heroic
+|
+|-
+|Wooden Elegence 
+|65-95
+|7.77
+|115%
+|2
+|
+|yes
+|yes
+|
+|5%
+|Artifact
+|
+|-
+|Undead's Gross Bow
+|85-120
+|7.04
+|85%
+|5
+|
+|yes
+|yes
+|
+|6%
+|Legendary
+|Last Hope
+|-
+|Handcannon
+|100-125
+|12
+|95%
+|8
+|
+|yes
+|
+|
+|0%
+|Legendary
+|Angel's Touch
+|-
+|Coral Bow
+|60-85
+|6.11
+|140%
+|3
+|
+|yes
+|
+|
+|6%
+|Heroic
+|
+|-
+|Bow of the Void
+|290-350
+|6.23
+|
+|
+|
+|yes
+|
+|
+|6%
+|Legendary
+|Physical Barrier
+|}

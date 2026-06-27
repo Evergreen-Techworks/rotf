@@ -1,0 +1,60 @@
+# Revenge of the Fallen Rotmg Wiki
+# https://revenge-of-the-fallen-rotmg.fandom.com/api.php?action=parse&page=Revenge%20of%20the%20Fallen%20Rotmg%20Wiki&prop=wikitext
+
+<mainpage-leftcolumn-start />
+
+==Welcome to the Wiki==
+
+Revenge of the Fallen(RotF) is a RotMG private server that includes many custom bosses, mechanics, and items.
+
+Play here at 
+
+https://rotf.io/webclient.html
+
+==Links==
+'''Items:'''
+
+<u>Weapons:</u>
+* Daggers: [https://revenge-of-the-fallen-rotmg.fandom.com/wiki/Daggers]
+* Bows:[https://revenge-of-the-fallen-rotmg.fandom.com/wiki/Bows]
+* Staves:[https://revenge-of-the-fallen-rotmg.fandom.com/wiki/Staves]
+* Swords:[https://revenge-of-the-fallen-rotmg.fandom.com/wiki/Swords]
+
+* Wands:[https://revenge-of-the-fallen-rotmg.fandom.com/wiki/Wands]
+* Katanas:[https://revenge-of-the-fallen-rotmg.fandom.com/wiki/Katanas]
+<u>Abilities:</u>
+* Cloaks:[https://revenge-of-the-fallen-rotmg.fandom.com/wiki/Cloaks]
+* Quivers:[https://revenge-of-the-fallen-rotmg.fandom.com/wiki/Quivers]
+* Spells:[https://revenge-of-the-fallen-rotmg.fandom.com/wiki/Spells]
+* Tomes:[https://revenge-of-the-fallen-rotmg.fandom.com/wiki/Tomes]
+* Helms:[https://revenge-of-the-fallen-rotmg.fandom.com/wiki/Helms]
+* Shields:[https://revenge-of-the-fallen-rotmg.fandom.com/wiki/Shields]
+* Seals:
+* Poisons:
+* Skulls:
+* Traps:
+* Orbs:
+* Prisms:
+* Scepter::
+* Stars:
+
+<u>Armors:</u>
+* Robes:
+* Light Armors:
+* Heavy Armors:
+
+<u>Rings:</u>
+
+'''Classes:'''
+
+'''Dungeons:'''
+
+'''Runes:'''[https://revenge-of-the-fallen-rotmg.fandom.com/wiki/Runes]
+* <u>Rune Builds:</u>
+Latest Activity
+
+<activityfeed></activityfeed>
+
+[[File:Placeholder|298px]]
+
+[[Category:Browse]]

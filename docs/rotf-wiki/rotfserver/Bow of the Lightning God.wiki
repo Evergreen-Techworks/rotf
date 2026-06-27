@@ -1,0 +1,29 @@
+# Bow of the Lightning God
+# https://rotfserver.fandom.com/api.php?action=parse&page=Bow%20of%20the%20Lightning%20God&prop=wikitext
+
+{{ItemInfo
+| name = Bow of the Lightning God
+| slot = bow
+| tier = UT
+| rarity = h
+| desc = A bow once used by the lightning God, it shoots lightning-fast projectiles that the eye can barley see
+
+| rof = 80
+| range = 
+| projSpeed = 
+| lifetime = 
+| minDmg = 100
+| maxDmg = 130
+| shots = 2
+| feedp = 666
+| fameb = 6
+
+| effects = yes
+| multihit = yes
+
+| lootbag = white
+|range2 = 5}}
+<noinclude>
+[[Category:Bows]]
+{{NavBows}}
+</noinclude>

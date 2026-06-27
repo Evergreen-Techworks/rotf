@@ -1,0 +1,4 @@
+# Seal of the Enchanted Forest
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Seal%20of%20the%20Enchanted%20Forest&prop=wikitext
+
+asdf

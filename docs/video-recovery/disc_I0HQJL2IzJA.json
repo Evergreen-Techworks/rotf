@@ -1,0 +1,11 @@
+{
+ "dungeon": "NOT ROTF GAMEPLAY — a RotMG-community MEME/DRAMA video, not a dungeon run. Content is: DISCORD chat screenshots ('@No make a guild', a 'Community Event' announcement), TV COLOR-BAR test pattern, REAL-LIFE footage (a facecam person, crabs on a sidewalk, a beach) with 'YES IS GONE!!' / 'IS GONE' meme captions, and a brief in-game GUILD-JOIN notification list ('Vii has become a Initiate', 'Jojiman has become a Initiate', etc.). No dungeon, boss, or fight is shown. No buildable ROTF content.",
+ "map": "N/A — no dungeon. The only in-game frame is a guild-join notification overlay (no map/arena). The rest is real-life/Discord/meme footage.",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "N/A — not a dungeon run. It is a RotMG-COMMUNITY MEME video (Discord screenshots about 'making a guild', a 'Community Event' announcement, real-life beach/crab footage + 'YES IS GONE!!' captions, and a brief guild-join notification list 'X has become a Initiate'). The only RotMG-adjacent element is the guild-join notification (a guild named via the 'Initiate' rank) — NOT gameplay. PROCESS NOTE: another non-gameplay channel mis-pull (cf. the Valorant / Minecraft / trading-site / FPS tags) — the discovery step keeps surfacing community/meme uploads, not dungeon runs.",
+ "uncertain": "Identity as NON-GAMEPLAY is CERTAIN (Discord screenshots + real-life footage + color bars + meme captions). The guild whose 'Initiate' joins are listed is not named/relevant. Nothing buildable.",
+ "confidence": "HIGH that this is NOT a ROTF dungeon run (a community/meme video). Zero buildable value (no boss/taunt/attack/map/dungeon). Recorded only to mark the tag analyzed and flag the recurring non-gameplay discovery mis-pull — reinforces the case for a RotMG-dungeon-gameplay pre-filter on discover_videos.sh."
+}

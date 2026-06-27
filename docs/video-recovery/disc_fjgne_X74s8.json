@@ -1,0 +1,11 @@
+{
+ "dungeon": "Multi-dungeon maxing run — Death King + varied biomes",
+ "map": "DOCUMENTED biomes: red/maroon caverns, a grey HEX-tile dungeon with colored gems (galactic/crystal-style), orange-brick dungeons, red LAVA boss arenas, sandy dungeons w/ red bosses, a purple/magenta dungeon, blue ICE dungeon, blue OCEAN arena. Auction House UI shown. ~7 dungeon entries.",
+ "bosses": [
+   {"name":"Death King","phases":[],"attacks":["axe-wielding melee/charge theme"],"minions":[],"colorFlashes":"","taunts":["You'll taste my axe!","Tasted? Again!","Anyone! Anyone!!"],"note":"Axe-themed boss (undead king). Taunts DOCUMENTED from chat."}
+ ],
+ "drops": [],
+ "mechanics": "DOCUMENTED: 'Death King' boss with axe taunts ('You'll taste my axe!', 'Tasted? Again!', 'Anyone! Anyone!!'). Death Notifier shows players 'killed by Realm Closer' (the realm-closing enemy/event) and 'crushed by Cynthia' (another boss). Auction House present. Level-up/max-level feed active. Multi-dungeon maxing session.",
+ "uncertain": "Death King's dungeon/source not identified. 'Realm Closer' and 'Cynthia' = killers seen in the death feed (boss names, unconfirmed). Some chat blurry.",
+ "confidence": "MEDIUM — Death King taunts DOCUMENTED (verbatim); biomes documented; 'Realm Closer'/'Cynthia' killers noted; no drops."
+}

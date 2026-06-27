@@ -1,0 +1,26 @@
+# Legion
+# https://rotfserver.fandom.com/api.php?action=parse&page=Legion&prop=wikitext
+
+Legion is a way to gauge your mastery in ROTF, it shows how many characters you have maxed
+
+Legion [Cumulative Amount of Stats Maxed = Total Amount of Stats maxed throughout all of your ALIVE characters]:
+
+'''Rank 0''' [None] = 0-15 cumulative amount of stats maxed. No bonuses.
+
+'''Rank 1''' [Few] = 16-47+ cumulative amount of stats maxed [2 8/8s]. Increases HP by 5 for every 16 LEGION points (minus what it takes to get the rank) you have (up to 50 HP).
+
+'''Rank 2''' [Many] = 48-87+ cumulative amount of stats maxed [6 8/8s]. Increases MP by 5 for every 16 LEGION points (minus what it takes to get the rank) you have (up to 50 MP).
+
+'''Rank 3''' [Throng] = 88-143+ cumulative amount of stats maxed [11 8/8s]. Increases HP/MP pot restoration by 5 for every 16 LEGION points (minus what it takes to get the rank) you have (up to 50 bonus for both).
+
+'''Rank 4''' [Horde] = 144-207+ cumulative amount of stats maxed [18 8/8s]. Increases loot chance by 1% for every 16 LEGION points (minus what it takes to get the rank) you have (up to 10% loot boost).
+
+'''Rank 5''' [Swarm] = 208+ cumulative amount of stats maxed [26 8/8s]. Increases each stat [ATT, DEF, DEX, SPD, VIT, WIS] by 1 for every 16 LEGION points (minus what it takes to get the rank) you have (up to 10 all stat). Bonuses from previous ranks are not disregarded/abandoned when you rank up. They keep on stacking up. You can see the amount of legion points and rank (via icon) in the character select menu next to the stars.
+
+To have the maximum amount of stat increases in Rank 5 (+10 to each stat) you must have 352 or more Legion. 
+
+'''<u>Strategies for maxing Legion:</u>'''
+
+'''Potions from Undead Lair: '''A common strategy to getting the maximum amount of bonuses from Legion is to search the mountains (godlands) for Epic Ghost Gods, which have a chance to drop the Epic Undead Lair dungeon. The dungeon is filled with easy to kill enemies which have a high chance of dropping Old Coins and Potion Crates. The easiest characters to clear the dungeon for Potion Crates is Assassin, though other ability focused characters like Sorcerer, Wizard and Necromancer are suitable as well. 
+
+'''Maxing Priests for efficiency: '''Due to the base and max stats of each character, Priest has the easiest stats to max which is why it is recommended for gaining as much Legion as possible. Remember to get your characters to level 20 before using any stat potions on them as you can gain stats on each level you gain.

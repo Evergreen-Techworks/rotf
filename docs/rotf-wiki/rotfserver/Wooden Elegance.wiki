@@ -1,0 +1,31 @@
+# Wooden Elegance
+# https://rotfserver.fandom.com/api.php?action=parse&page=Wooden%20Elegance&prop=wikitext
+
+{{ItemInfo
+| name = Wooden Elegance
+| slot = bow
+| tier = ST
+| desc = Crafted from the fine wood found in the Broken Forest, this bow will bring style to the way you shoot.
+
+| rof = 115
+| range = 
+| projSpeed = 
+| lifetime = 
+| minDmg = 65
+| maxDmg = 95
+| shots = 2
+| arcgap = 15
+| feedp = 500
+| fameb = 5
+| effects = yes
+| multihit = yes
+| pierce = yes
+
+| bonuses = {{Stat|att|4}} {{Stat|dex|6}}
+
+| lootbag = white
+|rarity = a|range2 = 7.77}}
+<noinclude>
+[[Category:Bows]]
+{{NavBows}}
+</noinclude>

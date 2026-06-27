@@ -1,0 +1,29 @@
+# Hornshot
+# https://rotfserver.fandom.com/api.php?action=parse&page=Hornshot&prop=wikitext
+
+{{ItemInfo
+| name = Hornshot
+| slot = bow
+| tier = UT
+| rarity = h
+| desc = A slingshot, made from the horns of the trolls
+
+| rof = 23
+| range = yes
+| projSpeed = 10
+| lifetime = 800
+| minDmg = 500
+| maxDmg = 600
+| fameb = 8
+| feedp = 3600
+
+| effects = yes
+
+| bonuses = {{Stat|wis|-4}} {{Stat|spd|-4}}
+
+| lootbag = white
+|dropsFrom = is a white bag drop from the Ortar enemy in the galaxy/starforce.}}
+<noinclude>
+{{NavBows}}
+</noinclude><noinclude>
+[[Category:Bows]]</noinclude>

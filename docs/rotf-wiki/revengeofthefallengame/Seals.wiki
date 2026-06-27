@@ -1,0 +1,121 @@
+# Seals
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Seals&prop=wikitext
+
+The seal is the ability of the paladin. It gives buffs to all the allies in a circle.
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = SealOfTheNecropolis.png
+| link = Seal of the Necropolis
+| text = Seal of the Necropolis
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge2
+| file = SealOfBlasphemousPrayer.png
+| link = Seal of Blasphemous Prayer
+| text = Seal of Blasphemous Prayer
+}}
+| {{ImageBlack
+| file = MarbleSeal.png
+| link = Marble Seal
+| text = Marble Seal
+}}
+| {{ImageBlackLarge1
+| file = AlphaAncientSeal.png
+| link = Alpha Ancient Seal
+| text = Alpha Ancient Seal
+}}
+| {{ImageBlack
+| file = Gjallarhorn.png
+| link = Gjallarhorn
+| text = Gjallarhorn
+}}
+| {{ImageBlackLarge1
+| file = EyeOfTheBeholder.png
+| link = Eye of the Beholder
+| text = Eye of the Beholder
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = AnActualCookie.png
+| link = An Actual Cookie
+| text = An Actual Cookie
+}}
+| {{ImageBlackLarge2
+| file = SealOfTheEnchantedForest.png
+| link = Seal of the Enchanted Forest
+| text = Seal of the Enchanted Forest
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Unique</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = SealOfTheAquaticGod.png
+| link = Seal of the Aquatic God
+| text = Seal of the Aquatic God
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge2
+| file = SealOfThePerylousDivinity.png
+| link = Seal of the Perylous Divinity
+| text = Seal of the Perylous Divinity
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = SealOfTheHolyWarrior.png
+| link = Seal of the Holy Warrior
+| text = Seal of the Holy Warrior
+}}
+| {{ImageBlackLarge2
+| file = SealOfTheBlessedChampion.png
+| link = Seal of the Blessed Champion
+| text = Seal of the Blessed Champion
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = SealOfTheInitiate.png
+| link = Seal of the Initiate
+| text = Seal of the Initiate
+}}
+| {{ImageBlackLarge1
+| file = SealOfThePilgrim.png
+| link = Seal of the Pilgrim
+| text = Seal of the Pilgrim
+}}
+| {{ImageBlackLarge1
+| file = SealOfTheSeeker.png
+| link = Seal of the Seeker
+| text = Seal of the Seeker
+}}
+| {{ImageBlackLarge1
+| file = SealOfTheAspirant.png
+| link = Seal of the Aspirant
+| text = Seal of the Aspirant
+}}
+| {{ImageBlackLarge1
+| file = SealOfTheDivine.png
+| link = Seal of the Divine
+| text = Seal of the Divine
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

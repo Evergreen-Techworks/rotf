@@ -1,0 +1,12 @@
+{
+ "dungeon": "Multi-dungeon run incl. Septavius the Ghost God fight + Galactic Zones",
+ "map": "DOCUMENTED biomes: grey diagonal-walled CHECKERED stone crypt (Septavius fight), brown/red caverns, a large blue OCEAN with islands, a teal/turquoise dungeon, a red/orange concentric-ring LAVA boss arena (bullseye), a dark cosmic bullet-hell zone, and a multi-color checkered-floor dungeon. Variety = a Galactic-Zones-heavy session plus a crypt boss.",
+ "bosses": [
+   {"name":"Septavius the Ghost God","phases":["immortal/invulnerable phase -> becomes weak/vulnerable ('I am weak... I cannot stay imm[ortal]')","summons minions"],"attacks":["summons waves of minions ('a few gr[eater minions]', 'My minions will crush you!')"],"minions":["ghost/greater minions"],"colorFlashes":"","taunts":["I... will... destroy you!","Hahaha! How about a few gr[eater minions...]","Enough! You shall not surviv[e]!","I am weak... I cannot stay imm[ortal...]","My minions will crush you!"]},
+   {"name":"(lava-arena boss — unidentified, concentric-ring red/orange arena)","phases":[],"attacks":[],"minions":[],"colorFlashes":"red/orange","taunts":[]}
+ ],
+ "drops": [],
+ "mechanics": "DOCUMENTED: Septavius the Ghost God is a minion-summoning crypt boss with an IMMORTAL phase that drops to vulnerable ('I am weak... I cannot stay immortal'). GALACTIC ZONES /25 counter CONFIRMED: '<Medusa> The Mysterious Card has been defeated! (8/25...)' — defeating zone bosses increments an X/25 counter (toward the Mothership, per prior recovery). Global SPAWN/DEFEAT announcer uses random PERSONA names (this stream: Starforce, Orc, Medusa; prior stream: Harpy/Drake/Leviathan/Chaotical): '<Starforce> A Ortar has just spawned!', '<Orc> A Grand Sphinx has just spawned!'. Event/zone bosses named: Ortar, Grand Sphinx, The Mysterious Card.",
+ "uncertain": "Some taunt endings clipped at chat-box right edge (reconstructed in brackets). Lava-arena boss not identified. 'A Ortar' spelling per video.",
+ "confidence": "HIGH for Septavius taunts (full set, VERBATIM where not clipped) + Galactic /25 counter + announcer personas; MEDIUM for biomes; bosses Ortar/Grand Sphinx/Mysterious Card DOCUMENTED by name."
+}

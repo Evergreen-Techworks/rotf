@@ -1,0 +1,131 @@
+# Shields
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Shields&prop=wikitext
+
+The shield is the ability of the knight. It is used to cause damage in a short cone and causes debuffs (mostly stuns)
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = WallOfGore.png
+| link = Wall of Gore
+| text = Wall of Gore
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = ShieldOfOgmur.png
+| link = Shield of Ogmur
+| text = Shield of Ogmur
+}}
+| {{ImageBlack
+| file = Mjolnir.png
+| link = Mjolnir
+| text = Mjolnir
+}}
+| {{ImageBlackLarge2
+| file = TheUnbreakableTombstone.png
+| link = The Unbreakable Tombstone
+| text = The Unbreakable Tombstone
+}}
+| {{ImageBlack
+| file = BarkOfTheEnt.png
+| link = Bark of the Ent
+| text = Bark of the Ent
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = SpitefulScutum.png
+| link = Spiteful Scutum
+| text = Spiteful Scutum
+}}
+| {{ImageBlackLarge1
+| file = ShieldOfVendettas.png
+| link = Shield of Vendettas
+| text = Shield of Vendettas
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = OnyxShieldOftheMadGod.png
+| link = Onyx Shield of the Mad God
+| text = Onyx Shield of the Mad God
+}}
+| {{ImageBlackLarge1
+| file = HeadOfTheRiverborn.png
+| link = Head of the Riverborn
+| text = Head of the Riverborn
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Unique</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = SnakeskinShield.png
+| link = Snakeskin Shield
+| text = Snakeskin Shield
+}}
+
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = StardustBuckler.png
+| link = Stardust Buckler
+| text = Stardust Buckler
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = MithrilShield.png
+| link = Mithril Shield
+| text = Mithril Shield
+}}
+| {{ImageBlackLarge1
+| file = ColossusShield.png
+| link = Colossus Shield
+| text = Colossus Shield
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = WoodenShield.png
+| link = Wooden Shield
+| text = Wooden Shield
+}}
+| {{ImageBlack
+| file = IronShield.png
+| link = Iron Shield
+| text = Iron Shield
+}}
+| {{ImageBlack
+| file = SteelShield.png
+| link = Steel Shield
+| text = Steel Shield
+}}
+| {{ImageBlackLarge1
+| file = ReinforcedShield.png
+| link = Reinforced Shield
+| text = Reinforced Shield
+}}
+| {{ImageBlack
+| file = GoldenShield.png
+| link = Golden Shield
+| text = Golden Shield
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

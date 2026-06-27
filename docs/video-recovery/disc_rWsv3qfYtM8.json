@@ -1,0 +1,39 @@
+{
+ "dungeon": "GENUINE ROTF FACECAM stream (~574s+, 634 f_, 8 dungeon entries; small facecam top-right, so the bottom-left chat IS readable). Boss content is mostly BASE-GAME Oryx the Mad God (the Oryx's-Castle invasion sequence + death line) = corroboration. Plus a flagged HIGH-HP boss lead taunting its own hitpoints (~1.42M HP) and a Galactic-Crate loot feed. Multi-dungeon hop (sandy grid / green realm / space-void / lava).",
+ "map": "DOCUMENTED-from-transitions+f_: an 8-entry multi-dungeon hop — tan SANDY GRID arenas, open GREEN grass realms (with players), dark SPACE/VOID zones (galactic), and RED/LAVA areas. Facecam occupies the top-right; intro/outro on a black panel. No single contiguous dungeon layout (hunt-style); no boss-arena geometry isolated (no bossends, facecam stream).",
+ "bosses": [
+  {
+   "name": "Oryx the Mad God",
+   "phases": [],
+   "attacks": ["not isolated (facecam stream, no bossends)"],
+   "minions": ["realm minions ('MY MINIONS HAVE FAILED ME!')"],
+   "colorFlashes": "",
+   "taunts": [
+    "MY MINIONS HAVE FAILED ME!",
+    "BUT NOW YOU SHALL FEEL MY WRATH",
+    "COME MEET YOUR DOOM AT THE WALLS OF MY CASTLE",
+    "You pure mortals! I shall... return...!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-coloured '...Mad God' prefix, grayscale-pull; ASDF key-overlay partly obscures the prefix). BASE-GAME RotMG Oryx the Mad God -> the canonical Oryx's-CASTLE invasion summon ('Come and meet your doom at the walls of my castle!') + realm-cleared wrath lines + the canonical death line 'You pure mortals! I shall return...!'. CANONICAL/no-build, corroboration only. (NB: this is ORYX'S Castle, NOT the priority-recovery Craig's Castle.)"
+  },
+  {
+   "name": "(unidentified high-HP boss)",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": ["Miniscule worms! I still have 1415... hitpoints!"],
+   "note": "DOCUMENTED-from-chat (boss-coloured, but speaker PREFIX not captured -> UNIDENTIFIED). A boss mocking players re: its remaining HP; a loot-notifier line reads 'Galactic ... Crate Power before my 1420000 hitpoints!' -> the boss has ~1.42M HP (the '1415' is likely '1,415,000' truncated). Possibly a ROTF GALACTIC boss (space-void biome present). NAME NOT captured -> flagged, NOT attributed/built."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Potion of Wisdom (consumed -> 'Potion of Wisdom Consumed ++')",
+  "Damage-contribution loot: 'Coolyo dealt the crucial blows with 98498 (16.17%) damage!'",
+  "Galactic Crate (loot-notifier; tied to the ~1.42M-HP boss)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED: (1) BASE-GAME Oryx's-Castle invasion (Oryx summons players to his castle walls + 'I shall return' death) -> corroboration, no-build. (2) a high-HP boss (~1.42M HP) with a HP-mocking taunt ('Miniscule worms! I still have 1,415,000 hitpoints!') + a Galactic Crate reward -> likely a ROTF galactic boss (unidentified). (3) DAMAGE-CONTRIBUTION loot ('X dealt the crucial blows with N (PP%) damage!'). (4) stat-pot economy ('Potion of Wisdom Consumed ++', same '++' style as the Vitality pot). Player chat mentions 'EUK Kraken' + 'JANUS' (base-game dungeon refs). Facecam stream; multi-dungeon.",
+ "uncertain": "Oryx castle lines = BASE-game (Oryx's Castle, NOT Craig's Castle — no priority-dungeon find here). The high-HP boss SPEAKER not captured -> UNIDENTIFIED (name flagged, not built); '1415 hitpoints' is almost certainly '1,415,000' truncated (matches the '1420000' loot line). Most chat = player banter (vault-chest ports, 'rip my 11b portfolio', JANUS, grind). No attack geometry (facecam, no bossends). 'EUK Kraken'/'JANUS' are player mentions of base dungeons, not bosses fought here.",
+ "confidence": "MEDIUM (Oryx corroboration) / LOW (unidentified galactic boss). GENUINE ROTF facecam stream. Recoverable: base-game Oryx's-Castle invasion lines (corroboration/no-build) + a flagged ~1.42M-HP boss lead (HP-mocking taunt + Galactic Crate, name uncaptured) + damage-contribution loot + a 'Potion of Wisdom Consumed ++'. Recorded honestly: Oryx=base, high-HP boss unidentified (not attributed), attacks not isolated, banter excluded. Best follow-up: a non-facecam clip naming that galactic high-HP boss."
+}

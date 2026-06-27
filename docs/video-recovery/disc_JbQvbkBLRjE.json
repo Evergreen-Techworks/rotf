@@ -1,0 +1,20 @@
+{
+ "dungeon": "(HUGE MULTI-DUNGEON STREAM ~70 entries) ROTF — broad event-boss feed + a Mysterious Card boss taunt + loot/version metadata",
+ "source": "video disc_JbQvbkBLRjE (754 frames, 216 transitions = ~70 dungeon entries, 1131 chat). Too many entries to name individually at montage scale; chat (event/loot feed + a boss taunt) is the recovered value.",
+ "map": "DOCUMENTED biomes flashed across ~70 entries: green grass realm, brown checkered/temple floors, white/snow arena (dark boss), purple/magenta + brown (Shade-of-Novus-style), orange/yellow desert, a brown room with YELLOW FLOWER bosses (firespitting-flower-style), and a distinctive PINK/magenta zone.",
+ "bosses": [
+  {"name":"The Mysterious Card","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["With my sleight of hand..."],"note":"DOCUMENTED VERBATIM (boss-colored chat, truncated). A magician/illusionist CARD-themed event boss. Spawns/defeats via the global feed ('The Mysterious Card has been defeated/spawned'). (Earlier specs saw a similar 'The Mysterious Cord' — same boss family, likely 'Card'.)"},
+  {"name":"Oryx the Mad God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You are food for my minions!"],"note":"DOCUMENTED VERBATIM from startup chat (re-confirmed across multiple videos)."}
+ ],
+ "minions": [],
+ "drops": ["Blasphemous Prayer (a tome/'Prayer' item, unboxed from a crate)"],
+ "event_bosses_seen_in_global_feed": [
+   "The Mysterious Card (spawned + defeated)",
+   "The Lucky Djinn (defeated)",
+   "Mad Jester (just spawned)",
+   "Asgard Guardian (just spawned)"
+ ],
+ "mechanics": "DOCUMENTED: (1) DAMAGE-CONTRIBUTION LOOT — '<Loot Notifier> [player] just got <item> obtained with 100% damage dealt!' (loot quality/eligibility tied to % of damage you dealt; 100% = full). (2) Special Crate ('scrate') player economy — 'selling scrate 8k'. (3) Client version banner 'X3.0' on this build (cf. X1.8.1 on another); MOTD 'Welcome to Realm of the Mad God'; controls 'Use [WASDQE] to move' (Q/E = abilities). (4) Players abbreviate Tomb of Decaying Death as 'todd' ('<SeverFifty> todd?'). (5) Event feed narrated by random enemy names (Hydra/Ogre/Skeleton/Djinn/Orc/Unicorn/Gargoyle/Mummy/Bat/Goblin).",
+ "uncertain": "The Mysterious Card taunt is truncated ('With my sleight of hand...'). ~70 dungeon entries not individually named (montage scale). Boss attacks/HP/drops not isolated; Blasphemous Prayer's stats unknown (just an unbox line).",
+ "confidence": "HIGH for: the Mysterious Card taunt (verbatim) + the event-boss roster (Lucky Djinn/Mad Jester/Asgard Guardian/Mysterious Card) + the 100%-damage loot mechanic + version X3.0 + 'todd' abbreviation. LOW for biome->dungeon mapping and item stats."
+}

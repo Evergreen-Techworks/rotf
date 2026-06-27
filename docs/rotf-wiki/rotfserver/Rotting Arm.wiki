@@ -1,0 +1,32 @@
+# Rotting Arm
+# https://rotfserver.fandom.com/api.php?action=parse&page=Rotting%20Arm&prop=wikitext
+
+{{ItemInfo
+| name = Rotting Arm
+| slot = sword
+| tier = UT
+| rarity = l
+| desc = Despite its fragile and disgusting appearance, this cut-off arm packs a powerful hit.
+
+| rof = 55
+| range = 
+| projSpeed = 10
+| lifetime = 290
+| minDmg = 175
+| maxDmg = 200
+| frequency = 
+| shots = 5
+| arcgap = 14
+| fameb = 6
+| feedp = 1600
+
+| bonuses = {{Stat|hp|40}} {{Stat|def|4}}
+
+| legendary = 3
+
+|lootbag = white
+|dropsFrom = is obtainable via minions in todd's|range2 = 2.9}}
+<noinclude>
+[[Category:Swords]]
+{{NavSwords}}
+</noinclude>

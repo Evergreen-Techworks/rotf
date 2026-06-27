@@ -1,0 +1,44 @@
+# Huntress
+# https://rotfserver.fandom.com/api.php?action=parse&page=Huntress&prop=wikitext
+
+{{Classbox
+| desc = The huntress uses arrows and traps to defeat her enemies.
+| weaponSlot = Bow
+| weapon = Shortbow
+| abilitySlot = Trap
+| ability = Hunting Trap
+| armor = LeatherArmor
+| armorLink = Leather Armors
+
+| hpStart = 130
+| hpLevel = 20 - 30
+| hpCap = 700
+
+| mpStart = 100
+| mpLevel = 2 - 8
+| mpCap = 385
+
+| attStart = 12
+| attLevel = 1 - 2
+| attCap = 75
+
+| defStart = 0
+| defLevel = 0
+| defCap = 25
+
+| spdStart = 12
+| spdLevel = 0 - 2
+| spdCap = 50
+
+| dexStart = 12
+| dexLevel = 0 - 2
+| dexCap = 50
+
+| vitStart = 12
+| vitLevel = 0 - 1
+| vitCap = 40
+
+| wisStart = 10
+| wisLevel = 0 - 2
+| wisCap = 50
+}}

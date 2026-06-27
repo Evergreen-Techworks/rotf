@@ -1,0 +1,4 @@
+# Cupid's Bow
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Cupid%27s%20Bow&prop=wikitext
+
+asdf

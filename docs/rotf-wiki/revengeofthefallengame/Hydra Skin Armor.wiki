@@ -1,0 +1,4 @@
+# Hydra Skin Armor
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Hydra%20Skin%20Armor&prop=wikitext
+
+asdf

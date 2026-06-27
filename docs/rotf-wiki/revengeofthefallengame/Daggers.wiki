@@ -1,0 +1,240 @@
+# Daggers
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Daggers&prop=wikitext
+
+The dagger is the main weapon of the rogue, the trickster and the assasin. It is focused on average dps and medium-low range. 
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 20px 20px 0px 0px; padding: 15px;">Speciality</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Primal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = ClawOfTheBeast.png
+| link = Claw of the Beast
+| text = Claw of the Beast
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Legendary</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = DirkOfCronus.png
+| link = Dirk of Cronus
+| text = Dirk of Cronus
+}}
+| {{ImageBlack
+| file = SpiritDagger.png
+| link = Spirit Dagger
+| text = Spirit Dagger
+}}
+| {{ImageBlackLarge1
+| file = ChickenLegOfDoom.png
+| link = Chicken Leg of Doom
+| text = Chicken Leg of Doom
+}}
+| {{ImageBlackLarge1
+| file = DaggerOfTheEndlessVoid.png
+| link = Dagger of the Endless Void
+| text = Dagger of the Endless Void
+}}
+| {{ImageBlackLarge1
+| file = PoOoOoOokkErrRr.png
+| link = PoOoOoOokkErrRr
+| text = PoOoOoOokkErrRr
+}}
+| {{ImageBlack
+| file = LokisDagger.png
+| link = Loki's Dagger
+| text = Loki's Dagger
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Heroic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = SunshineShiv.png
+| link = Sunshine Shiv
+| text = Sunshine Shiv
+}}
+| {{ImageBlack
+| file = ToyKnife.png
+| link = Toy Knife
+| text = Toy Knife
+}}
+| {{ImageBlackLarge1
+| file = DestructorDagger.png
+| link = Destructor Dagger
+| text = Destructor Dagger
+}}
+| {{ImageBlackLarge2
+| file = DaggerOfGoddessOfGoddesses.png
+| link = Dagger of Goddess of Goddesses
+| text = Dagger of Goddess of Goddesses
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Artifact</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = CarvedGolemRemains.png
+| link = Carved Golem Remains
+| text = Carved Golem Remains
+}}
+| {{ImageBlack
+| file = EtheriteDagger.png
+| link = Etherite Dagger
+| text = Etherite Dagger
+}}
+| {{ImageBlackLarge1
+| file = SymbioticRipper.png
+| link = Symbiotic Ripper
+| text = Symbiotic Ripper
+}}
+| {{ImageBlackLarge1
+| file = FirebreathersTail.png
+| link = Firebreather's Tail
+| text = Firebreather's Tail
+}}
+| {{ImageBlackLarge1
+| file = ShadowscalesHorn.png
+| link = Shadowscale's Horn
+| text = Shadowscale's Horn
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Unique</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = BoneDagger.png
+| link = Bone Dagger
+| text = Bone Dagger
+}}
+| {{ImageBlack
+| file = AnIcicle.png
+| link = An Icicle
+| text = An Icicle
+}}
+| {{ImageBlackLarge1
+| file = HeartfindDagger.png
+| link = Heartfind Dagger
+| text = Heartfind Dagger
+}}
+| {{ImageBlackLarge1
+| file = DaggerOfTheHastefulRabbit.png
+| link = Dagger of the Hasteful Rabbit
+| text = Dagger of the Hasteful Rabbit
+}}
+| {{ImageBlackLarge1
+| file = DaggerOfTheTerribleTalon.png
+| link = Dagger of the Terrible Talon
+| text = Dagger of the Terrible Talon
+}}
+| {{ImageBlackLarge1
+| file = DaggerOfTheAmethystPrism.png
+| link = Dagger of the Amethyst Prism
+| text = Dagger of the Amethyst Prism
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Galactic</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = CometstrikeDirk.png
+| link = Cometstrike Dirk
+| text = Cometstrike Dirk
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Uncommon</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlackLarge1
+| file = AgateclawDagger.png
+| link = Agateclaw Dagger
+| text = Agateclaw Dagger
+}}
+| {{ImageBlackLarge1
+| file = DaggerOfFoulMalevolence.png
+| link = Dagger of Foul Malevolence
+| text = Dagger of Foul Malevolence
+}}
+| {{ImageBlackLarge1
+| file = DaggerOfSinisterDeeds.png
+| link = Dagger of Sinister Deeds
+| text = Dagger of Sinister Deeds
+}}
+|}
+</div><div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 0px 0px; padding: 15px;">Normal</div><div style="background-color: #828286; border-bottom: 20px #828286 solid; padding: 10px;">
+{| align="center" style="width: auto;"
+|-  
+| {{ImageBlack
+| file = SteelDagger.png
+| link = Steel Dagger
+| text = Steel Dagger
+}}
+| {{ImageBlack
+| file = Dirk.png
+| link = Dirk
+| text = Dirk
+}}
+| {{ImageBlackLarge1
+| file = BlueSteelDagger.png
+| link = Blue Steel Dagger
+| text = Blue Steel Dagger
+}}
+| {{ImageBlackLarge1
+| file = DuskyRoseDagger.png
+| link = Dusky Rose Dagger
+| text = Dusky Rose Dagger
+}}
+| {{ImageBlack
+| file = SilverDagger.png
+| link = Silver Dagger
+| text = Silver Dagger
+}}
+| {{ImageBlack
+| file = GoldenDagger.png
+| link = Golden Dagger
+| text = Golden Dagger
+}}
+| {{ImageBlackLarge1
+| file = ObsidianDagger.png
+| link = Obsidian Dagger
+| text = Obsidian Dagger
+}}
+|-
+| {{ImageBlack
+| file = MithrilDagger.png
+| link = Mithril Dagger
+| text = Mithril Dagger
+}}
+| {{ImageBlack
+| file = FireDagger.png
+| link = Fire Dagger
+| text = Fire Dagger
+}}
+| {{ImageBlackLarge1
+| file = RagetalonDagger.png
+| link = Ragetalon Dagger
+| text = Ragetalon Dagger
+}}
+| {{ImageBlackLarge1
+| file = EmeraldshardDagger.png
+| link = Emeraldshard Dagger
+| text = Emeraldshard Dagger
+}}
+| {{ImageBlackLarge1
+| file = DaggerOfDireHatred.png
+| link = Dagger of Dire Hatred
+| text = Dagger of Dire Hatred
+}}
+| {{ImageBlackLarge1
+| file = PoisonFangDagger.png
+| link = Poison Fang Dagger
+| text = Poison Fang Dagger
+}}
+| {{ImageBlackLarge1
+| file = QueensStingerDagger.png
+| link = Queen’s Stinger Dagger
+| text = Queen’s Stinger Dagger
+}}
+|}
+</div>
+
+<div align="center" style="font-size: 22pt; color: #ababab; width: auto; background-color: #070345; #242424; border-bottom: 20px #121212 solid; border-radius: 0px 0px 20px 20px; padding: 15px;">

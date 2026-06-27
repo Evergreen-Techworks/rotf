@@ -1,0 +1,4 @@
+# Pirate Cave
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Pirate%20Cave&prop=wikitext
+
+asdf

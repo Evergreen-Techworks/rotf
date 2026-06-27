@@ -1,0 +1,4 @@
+# Wand of Recompense
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Wand%20of%20Recompense&prop=wikitext
+
+asdf

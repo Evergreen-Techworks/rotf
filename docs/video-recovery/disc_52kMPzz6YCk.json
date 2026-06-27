@@ -1,0 +1,13 @@
+{
+ "dungeon": "NOT ROTF / NOT RotMG — misqueued video. This is MINECRAFT DUNGEONS (Mojang's 3D top-down ARPG) gameplay. Loading screen reads 'Traveling to REDSTONE MINES' (a Minecraft Dungeons level); 3D blocky redstone/lava/Nether environments; the HUD is the Minecraft Dungeons one (item slots with purple enchantment-point counters '3'/'4', chest/health/consumable icons), NOT the 2D RotMG HUD. No buildable ROTF content.",
+ "map": "N/A (not RotMG). 3D blocky Minecraft Dungeons levels (Redstone Mines and similar dark-stone/lava areas). No 2D top-down RotMG tiled dungeon layout.",
+ "bosses": [
+  {"name":"(none — not RotMG)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"No RotMG bosses. Minecraft Dungeons gameplay. blackdetect fired on level-transition fades ('Traveling to ...' loads), not RotMG dungeon exits."}
+ ],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "N/A — not ROTF. It is MINECRAFT DUNGEONS. The 'chat' crops captured 3D Minecraft Dungeons level terrain + the level-loading banners ('Traveling to Redstone Mines'); the HUD shows enchantment-point item slots and Minecraft Dungeons health/consumable icons. PROCESS NOTE: this is the 3rd non-RotMG channel-expansion mis-pull (cf. disc_1G51S6l2xL4 = 3D castle game; disc_3EeKxDleJx8 = Minecraft VALOR HCF trailer). The discovery step is pulling unrelated uploads from mixed-content creator channels.",
+ "uncertain": "Identity as non-RotMG is CERTAIN (Minecraft Dungeons 'Redstone Mines' level + 3D blocky graphics + Minecraft Dungeons HUD). Nothing buildable.",
+ "confidence": "HIGH that this is NOT ROTF/RotMG content (it is Minecraft Dungeons). Zero buildable value. Recorded only to mark the tag analyzed and flag the recurring channel-expansion mis-pull (now 3 non-RotMG tags)."
+}

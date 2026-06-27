@@ -1,0 +1,20 @@
+{
+ "dungeon": "GENUINE ROTF MARKETPLACE / safe-zone HUB clip (~95s; static brown-wooden shop hall, NOT a dungeon/boss fight). Documents the ROTF marketplace + lootbox + safe-zone systems + event-feed corroboration. ROTF-confirmed (event feed names built bosses Ortar + Shadowscale). NO boss fought, NO taunt -> bosses=[].",
+ "map": "DOCUMENTED-from-frames: a MARKETPLACE/SHOP HALL — a brown WOODEN floor bordered by tan brick and blue WATER (left), filled with ROWS of item-display tiles (player shops / marketplace listings = colored item squares). A safe-zone trade hub (not a combat arena). Minimap shows a structured building. Single static room.",
+ "bosses": [],
+ "minions": [],
+ "drops": [
+  "Special Crate ('just unboxed a Special Crate, obtaining a [...]') — lootbox",
+  "Gold Sword / 'Gold Sword Bag' (marketplace item listings)",
+  "marketplace purchases paid in 'coins' ('[player] ... coins, ... just purchased')"
+ ],
+ "event_bosses_seen_in_global_feed": [
+  "The suspicious-looking Dragon (crushed/defeated; announcer An[...]) — event boss (also a queued lead)",
+  "Shadowscale has just spawned (announcer Hydra) — BUILT ROTF boss",
+  "Aboatguy (8/8, 420) crushed by Ortar — BUILT ROTF boss (confirms ROTF)",
+  "the Skull Shrine defeated (announcer Hydra; base) + /8 death counters"
+ ],
+ "mechanics": "DOCUMENTED ROTF SYSTEMS: (1) MARKETPLACE / player-SHOP hall — rows of item-display tiles, purchases paid in 'coins' ('just purchased'). (2) SAFE-ZONE restriction ('This action cannot be performed in this safe [zone]' — no combat/drop in the hub). (3) Special Crate LOOTBOX ('just unboxed a Special Crate'). (4) /8 death-counter + multi-persona announcers (Hydra). Event feed corroborates built ROTF bosses (Ortar, Shadowscale) + base (Skull Shrine) + an event 'suspicious-looking Dragon'. NO boss fought here.",
+ "uncertain": "This is a MARKETPLACE/safe-zone HUB, NOT a dungeon -> bosses=[] (no boss fought, no taunt; named bosses are global-feed only). ROTF-confirmed: Ortar + Shadowscale (built ROTF) in the feed + the marketplace/Special-Crate/safe-zone systems; the 'safe zone' here is the trade-hub restriction, NOT the Valor factions SAFE-ZONE (no Valor branding). Chat low-contrast (needed threshold); item/price details partial. 'suspicious-looking Dragon' is a feed name (also separately queued as a build lead).",
+ "confidence": "HIGH that this is a ROTF MARKETPLACE/safe-zone hub with NO boss fight -> NO new boss/taunt (bosses=[]). Value: documents the MARKETPLACE (coin purchases, item-display shops) + SAFE-ZONE restriction + Special Crate lootbox systems, and corroborates built ROTF bosses (Ortar/Shadowscale) confirming the server. Recorded honestly: no boss/taunt (hub clip), ROTF-vs-Valor 'safe zone' disambiguated, event names as feed-only, no fabrication. No follow-up (no buildable boss content; the marketplace is a system note)."
+}

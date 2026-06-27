@@ -1,0 +1,4 @@
+# Brain of the Golems
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Brain%20of%20the%20Golems&prop=wikitext
+
+asdf

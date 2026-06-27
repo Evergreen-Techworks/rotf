@@ -1,0 +1,4 @@
+# The Scavenger's Attire
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=The%20Scavenger%27s%20Attire&prop=wikitext
+
+asdf

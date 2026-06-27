@@ -1,0 +1,14 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM, TurfScrub channel) ROTF — new Spaceship line + Epic-enemy confirmation + event feed",
+ "source": "video disc_rhDf8kFmMiA (826 frames, 0 transitions, 207 chat; 'TurfScrub / SKIN LORD' watermark). Diverse dungeons (green/lava/space/water/snow/vault). Chat captured a new Spaceship line + the event/death feed.",
+ "map": "DOCUMENTED biomes: green grass realm, dark SPACE arenas (galactic), red/LAVA-brick dungeons, blue water, purple zones, brown craters, white snow, treasure vault.",
+ "bosses": [
+  {"name":"Oryx the Mad God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["You are food for my minions!"],"note":"DOCUMENTED from startup (re-confirmed)."}
+ ],
+ "minions": ["Epic Limon Element (an EPIC-modified 'Limon Element' — Limon the Sprite God's elemental minion, scaled by the Epic Enemies system; death feed 'crushed by Epic Limon Element!')"],
+ "drops": ["Spirit Dagger (Special Crate)"],
+ "event_bosses_seen_in_global_feed": ["Cube God (just spawned)","Shade of Novus (death: 'crushed by Novus!')","Mad Jester (death: 'crushed by Mad Jester!')","Grand Sphinx (defeated 20/20 — /20 counter variant)","Lord of the Last Lands (just spawned)"],
+ "mechanics": "DOCUMENTED: (1) D3 SPACESHIP new dialogue line — '<Spaceship> Good luck, master.' — the ship addresses the player as 'MASTER' and wishes luck on launch. Extends the spaceship arc: 'Fuel data is being processed.' -> 'Initiating startup sequence.' -> 'Systems back online.' -> 'Good luck, master.' (send-off into the galactic zone). (2) EPIC ENEMIES in the wild — 'Epic Limon Element' (Epic-modified enemy; validates the built Epic Enemies system). (3) Event-counter denominator VARIES again — Grand Sphinx '(20/20)' (cf. /25, /30, /35). (4) ROTF MOTD; Oryx taunt re-confirmed. Special Crate -> Spirit Dagger.",
+ "uncertain": "Spaceship line clear ('Good luck, master.'); the orange/brick background may be the ship interior/hub or a lava dungeon. Boss attacks/HP not isolated. No new dungeon names (0 transitions).",
+ "confidence": "HIGH for the new Spaceship 'Good luck, master.' line (D3) + the 'Epic Limon Element' Epic-enemy confirmation + the /20 counter variant. LOW novelty otherwise (event feed re-confirmations)."
+}

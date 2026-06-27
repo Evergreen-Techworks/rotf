@@ -1,0 +1,17 @@
+{
+ "dungeon": "GENUINE ROTF run (guild '[D-3]/[D-4]' players) with 2 boss fights (a RED concentric-ring arena + a grey-stone dungeon) and HIGH systems yield — a SKILL TREE + Talisman + Loot Boost + Dust-item economy. NO boss taunts captured (chat = player banter + loot/skill system messages). Best value = SYSTEMS intel.",
+ "map": "DOCUMENTED-from-frames: orange/brown DUNGEON rooms leading to a RED CONCENTRIC-RING BOSS ARENA (nested red brick rings, bullets — b002); and a separate GREY/STONE DUNGEON with scattered enemies + bullets (b003). Two distinct fight areas; per-dungeon room sequence not traced (2 loading entries).",
+ "bosses": [
+  {"name":"(red concentric-ring arena boss — unnamed)","phases":[],"attacks":["DOCUMENTED-from-frames: bullets within a CONCENTRIC-RING red arena (radial/geometric in nested rings); reconstruct as radial + fixedAngle volleys"],"minions":[],"colorFlashes":"red","taunts":[],"note":"DOCUMENTED-from-frames. No name (no boss taunt in chat). Red concentric-ring arena (b002) — same arena family as other recovered red-chamber bosses."},
+  {"name":"(grey-stone dungeon boss — unnamed)","phases":[],"attacks":["DOCUMENTED-from-frames (approx): scattered bullets + minions in a grey-stone dungeon"],"minions":["(grey-stone enemies)"],"colorFlashes":"","taunts":[],"note":"DOCUMENTED-from-frames. No name. Grey-stone dungeon (b003)."}
+ ],
+ "minions": [],
+ "drops": [
+  "Legendary [item] '...dealt!' (LootNotifier: [Halent] looted a Legendary)",
+  "Magic Dust / Miscellaneous Dust (used -> 'obtained a [item]')"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED ROTF SYSTEMS (high value — Phase-D relevant): a SKILL TREE — 'Your Skill of Looting in the Skill Tree gives you...', 'You[r] points in the Skill Tree gives you...' (a points-based skill tree; a LOOTING skill is one node). A TALISMAN system — 'Your Talisman of Looting gives you...'. LOOT BOOST stacking — 'You have 116% Loot Boost!' (boosts from skill tree + talisman + server-help stack into a % loot boost). DUST items — 'Used a Magic Dust and obtained a [item]', 'Used a Miscellaneous Dust and obtained...' (consumable that grants an item). 'Your Life sell for 5 fame!' (pot auto-sell). Server-restart warning. NO boss taunts (player/system chat only). ATTACKS: 2 unnamed fights — red concentric-ring arena (radial/geometric) + grey-stone dungeon (scattered), DOCUMENTED-from-frames.",
+ "uncertain": "No boss names/taunts (chat is player banter + skill/loot system messages). Both arena bosses unnamed. Skill Tree node details + Talisman/Loot-Boost exact math read off truncated status lines (the LOOTING node + 116% total are clear; full tree not shown). Attack geometry approximate.",
+ "confidence": "LOW for bosses/taunts (no boss lines; 2 unnamed fights). MEDIUM for MAP (red concentric arena + grey dungeon) + ATTACK (radial/scattered, approx). HIGH for SYSTEMS intel — the SKILL TREE (Looting node) + Talisman of Looting + stacking Loot Boost (116%) + Dust items are clearly documented and are genuine ROTF progression mechanics (relevant to the Phase-D class/skill systems). GENUINE ROTF."
+}

@@ -1,0 +1,11 @@
+{
+ "dungeon": "NOT ROTF GAMEPLAY — a promo/tutorial video for a third-party RotMG TRADING WEBSITE (a web app for item trading). The frames are almost entirely the website's UI ('Create a new trade' with Selling/Buying item slots, 'Choose a server' dropdown, '10 Trading slots left', 'Recent trades: 2 / Today's trades: 2 / This week's trades: 17', 'START A TRADE', 'Successfully started', trade history) with promo overlays ('TRADING WEBSITE', 'FOREVER', 'CHANGE'). Only an incidental brown/lava dungeon-floor glimpse appears as background. No buildable ROTF content.",
+ "map": "N/A — no dungeon traversed. The few non-UI frames show a brief brown/lava floor (incidental background screen-capture behind the website demo), no room layout/arena/sequence.",
+ "bosses": [],
+ "minions": [],
+ "drops": [],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "N/A — not ROTF dungeon footage. It is a TRADING-WEBSITE promo/tutorial (web trading platform UI: create-trade, choose-server, trade counters, start-trade). The bossends/transitions only fired on the website's UI screen transitions, not on dungeon fade-to-blacks. PROCESS NOTE: another non-gameplay discovery mis-pull (cf. the earlier Valorant / Minecraft / spin-wheel / stream-tour tags) — the discovery step keeps surfacing RotMG-adjacent but non-dungeon uploads (trading sites, tool promos).",
+ "uncertain": "Identity as NON-ROTF-gameplay is CERTAIN (the content is a web trading-app UI, not the 2D game world). The incidental lava-floor background is not identifiable/useful. Nothing buildable.",
+ "confidence": "HIGH that this is NOT ROTF dungeon content (a third-party trading-website promo). Zero buildable value (no boss/taunt/attack/map). Recorded only to mark the tag analyzed and flag the recurring non-gameplay discovery mis-pull (trading-site/tool promos) — a candidate filter for discover_videos.sh."
+}

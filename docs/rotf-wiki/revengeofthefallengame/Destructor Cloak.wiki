@@ -1,0 +1,4 @@
+# Destructor Cloak
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Destructor%20Cloak&prop=wikitext
+
+asdf

@@ -1,0 +1,12 @@
+{
+ "dungeon": "Long multi-dungeon stream (v X1.8.1, ~108 entries) — CONFIRMS Craig's Castle + Treesmasher",
+ "map": "DOCUMENTED biomes across ~108 transition entries: tan/sandy DOME arenas (recurring), orange-brick dungeons, grey hex/diagonal (Lost-Halls-style) dungeons, green realm, blue water, orange LAVA (X-cross), purple cosmic. No clear no-footage-dungeon (ToDD/Gate/Broken Forest/Showcase) match at thumbnail resolution.",
+ "bosses": [
+   {"name":"Craig, The Worst Nightmare (Craig's Castle)","phases":["enrage/scaling"],"attacks":[],"minions":[],"colorFlashes":"","taunts":["HAHAHA, I AM INCREASING [IN ...]!","DESTROY YOU EV[EN MORE]!","NOOOOOOOOOOOO (death cry)"],"note":"SECOND independent source for Craig's Castle. Entry line re-confirmed: 'Craig's Castle opened by IceSpirit'. VALIDATES the taunts implemented in BehaviorDb.Craig.cs (enrage 'I AM INCREASING' + 'DESTROY YOU EVEN MORE' + drawn-out 'NOOOO' death)."},
+   {"name":"Treesmasher (elemental dragon Lord)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"'<Dragon> A Treesmasher has just spawned!' — realm Lord spawn (Collapsed Woods boss)."}
+ ],
+ "drops": [],
+ "mechanics": "DOCUMENTED: re-confirms CRAIG'S CASTLE (entry line 'Craig's Castle opened by <player>' + Craig 'The Worst Nightmare' enrage taunts + long 'NOOOO' death cry) from an independent stream — validates the implemented behavior. Treesmasher realm-spawn. Version 'X1.8.1' (early build). Standard login MOTD. Twitch sub-goal overlay present (compresses chat). Heavy social chat (trading/banter).",
+ "uncertain": "Craig's 'I AM INCREASING IN [word]' still clipped (implemented as 'IN STRENGTH', reconstructed). 108 entries not individually name-identified (thumbnail res). No no-footage-dungeon match.",
+ "confidence": "HIGH for the Craig's Castle re-confirmation (entry + taunts, validates implementation) + Treesmasher spawn + version; MEDIUM for biome inventory."
+}

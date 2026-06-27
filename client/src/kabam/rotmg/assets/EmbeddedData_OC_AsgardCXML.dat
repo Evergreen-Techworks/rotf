@@ -1,0 +1,142 @@
+<Objects>
+  <!-- Ordinary Client - ASGARD dungeon bosses (Phase C content).
+       RECONSTRUCTED from recovered video (verbatim taunts live in BehaviorDb.Asgard.cs).
+       The 2019 client rip lacks these post-2019 entities, so: stats are DESIGNED, and
+       SPRITES are PLACEHOLDERS (reskinned from chars16x16dEncounters2) to be replaced with
+       real Asgard art later. Projectiles reuse existing descriptors (Thunder Swirl/Trident)
+       so they render on both server and client. Type ids 0x8fe0-0x8fe5 (free). -->
+  <Object type="0x8fe0" id="Heimdall">
+    <Group>Asgard</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>18</Index></AnimatedTexture>
+    <MaxHitPoints>90000</MaxHitPoints>
+    <Defense>55</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <Level>20</Level>
+    <Size>140</Size>
+    <XpMult>0.2</XpMult>
+    <Projectile id="0">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>80</Speed>
+      <Damage>110</Damage>
+      <Size>120</Size>
+      <LifetimeMS>1500</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x8fe1" id="Loki">
+    <Group>Asgard</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>19</Index></AnimatedTexture>
+    <MaxHitPoints>75000</MaxHitPoints>
+    <Defense>45</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <Level>20</Level>
+    <Size>130</Size>
+    <XpMult>0.2</XpMult>
+    <Projectile id="0">
+      <ObjectId>Trident</ObjectId>
+      <Speed>90</Speed>
+      <Damage>90</Damage>
+      <Size>100</Size>
+      <LifetimeMS>1600</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x8fe2" id="Hela">
+    <Group>Asgard</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>20</Index></AnimatedTexture>
+    <MaxHitPoints>95000</MaxHitPoints>
+    <Defense>50</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <Level>20</Level>
+    <Size>140</Size>
+    <XpMult>0.2</XpMult>
+    <Projectile id="0">
+      <ObjectId>Trident</ObjectId>
+      <Speed>75</Speed>
+      <Damage>120</Damage>
+      <Size>110</Size>
+      <LifetimeMS>1800</LifetimeMS>
+      <ConditionEffect duration="3">Sick</ConditionEffect>
+    </Projectile>
+  </Object>
+  <Object type="0x8fe3" id="Odin">
+    <Group>Asgard</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>21</Index></AnimatedTexture>
+    <MaxHitPoints>150000</MaxHitPoints>
+    <Defense>60</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <PerRealmMax>1</PerRealmMax>
+    <Level>20</Level>
+    <Size>160</Size>
+    <XpMult>0.25</XpMult>
+    <Projectile id="0">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>85</Speed>
+      <Damage>140</Damage>
+      <Size>130</Size>
+      <LifetimeMS>1600</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x8fe4" id="Thor">
+    <Group>Asgard</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>22</Index></AnimatedTexture>
+    <MaxHitPoints>110000</MaxHitPoints>
+    <Defense>55</Defense>
+    <God/>
+    <StasisImmune/>
+    <Quest/>
+    <Level>20</Level>
+    <Size>150</Size>
+    <XpMult>0.22</XpMult>
+    <Projectile id="0">
+      <ObjectId>Thunder Swirl</ObjectId>
+      <Speed>95</Speed>
+      <Damage>130</Damage>
+      <Size>120</Size>
+      <LifetimeMS>1400</LifetimeMS>
+    </Projectile>
+  </Object>
+  <Object type="0x8fe5" id="Asgard Guardian">
+    <Group>Asgard</Group>
+    <Enemy/>
+    <Class>Character</Class>
+    <AnimatedTexture><File>chars16x16dEncounters2</File><Index>23</Index></AnimatedTexture>
+    <MaxHitPoints>9000</MaxHitPoints>
+    <Defense>30</Defense>
+    <Level>20</Level>
+    <Size>110</Size>
+    <XpMult>0.1</XpMult>
+    <Projectile id="0">
+      <ObjectId>Trident</ObjectId>
+      <Speed>70</Speed>
+      <Damage>70</Damage>
+      <Size>90</Size>
+      <LifetimeMS>1500</LifetimeMS>
+    </Projectile>
+  </Object>
+  <!-- Asgard dungeon portal (Nexus -> Asgard). Mirrors ROTF dungeon portals 0x8200-0x8209. -->
+  <Object type="0x820a" id="Asgard Portal">
+    <Class>Portal</Class>
+    <IntergamePortal/>
+    <DungeonName>Asgard</DungeonName>
+    <Texture><File>lofiObj3</File><Index>0x21f</Index></Texture>
+    <Size>120</Size>
+    <ShowName/>
+  </Object>
+</Objects>

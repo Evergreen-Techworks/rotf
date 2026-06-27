@@ -1,0 +1,4 @@
+# Scepters
+# https://rotfserver.fandom.com/api.php?action=parse&page=Scepters&prop=wikitext
+
+Scepters are mainly used as a special ability for the [[Sorcerer]] in which the weapon deals damage through chains of lightning.

@@ -1,0 +1,11 @@
+{
+ "dungeon": "(SKINS/CLASS SCREEN + sprite-farming stream, player VolttPlay) ROTF — Skins system + per-class progression",
+ "source": "video disc__rJV1V_Xv00 (163 frames, 3 transitions, 41 chat). Shows the SKINS selection screen (Rogue) + dungeon farming with a 'SPRITES AFTER' counter overlay. Chat = crate-opening + player/event feed.",
+ "map": "DOCUMENTED biomes: brown-brick + grey dungeons, orange/LAVA arenas, dark purple dungeon, sandstone, blue ICE/water, green grass, colorful vault grids. UI: the Skins screen + a 'Classes' panel.",
+ "bosses": [],
+ "minions": [],
+ "drops": ["(crate opens — 'You have opened a crate! Obtaining a [item]')"],
+ "mechanics": "DOCUMENTED — SKINS + CLASS PROGRESSION systems (from the Skins screen): (1) Each class has cosmetic SKINS. ROGUE skins roster: 'Rogue', 'Sheep Rogue', 'Red Outlaw', 'Stone Statue Rogue', 'Bruno the Rogue Steward', 'Turkey Rogue', 'Heartless'. (2) PER-CLASS PROGRESSION tracked: 'Class Quests Completed' (5-star), 'Highest Level Achieved' (20), 'Most Fame Achieved' (739), and a 'Next Goal: Earn 800 Fame with Rogue'. (3) ROGUE class description: 'The rogue relies on his speed to deal damage at medium range while avoiding attacks.' (4) A sprite-FARMING overlay: '264 SPRITES AFTER' with 'Snake Pit / Spider Den / Sprite World' clear counts (the creator tallying sprite/loot yield). (5) Crate-opening ('You have opened a crate! Obtaining a [item]'). Class Rogue confirmed (death screen).",
+ "uncertain": "This is the Rogue SKINS screen (not the full class roster). Other classes' skins not captured. The 'SPRITES AFTER' overlay is the creator's farming tally (not in-game UI). No boss taunts captured. Crate item names truncated.",
+ "confidence": "HIGH for the Skins system + Rogue skins roster + per-class progression (Class Quests/Most Fame/Next Goal) + Rogue class description (all read clearly from the Skins screen). LOW for dungeon/boss recovery (none)."
+}

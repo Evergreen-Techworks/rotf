@@ -1,0 +1,9 @@
+{
+ "dungeon": "Large Twitch group stream (~46 entries) — sub-goal overlay obscures chat",
+ "map": "DOCUMENTED biomes (46 transition entries): tan/sandy dungeons (recurring), grey Lost-Halls-style dungeons, red lava boss arenas, green realm, purple/void, a checkered grid dungeon. No clear no-footage-dungeon (Gate/ToDD/Broken Forest/Showcase) match at thumbnail resolution.",
+ "bosses": [],
+ "drops": [],
+ "mechanics": "DOCUMENTED (limited — a Twitch SUBSCRIBER-GOAL overlay sits over the game chat region in most frames): galactic /25 counter ('<Goblin> The Ghost God ... defeated! (10/25)'), potion-to-max ('Potion of Wisdom consumed. 20 left to max.'), trade system ('Trade Successful'). Large group play. No boss taunts recoverable (chat overlaid).",
+ "uncertain": "Chat largely covered by the sub-goal overlay; no taunts/drops/dungeon-names extractable. 46 entries not individually identified.",
+ "confidence": "LOW — overlay-obscured; only galactic /25 + potion-to-max + trade reconfirmed; biomes documented; no no-footage match. Triaged."
+}

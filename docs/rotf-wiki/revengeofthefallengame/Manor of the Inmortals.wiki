@@ -1,0 +1,4 @@
+# Manor of the Inmortals
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Manor%20of%20the%20Inmortals&prop=wikitext
+
+asdf

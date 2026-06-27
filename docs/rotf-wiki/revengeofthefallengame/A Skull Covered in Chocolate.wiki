@@ -1,0 +1,4 @@
+# A Skull Covered in Chocolate
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=A%20Skull%20Covered%20in%20Chocolate&prop=wikitext
+
+asdf

@@ -1,0 +1,14 @@
+{
+ "dungeon": "FACECAM STREAM (player '00Dragon0o' / '<v0Bragotar>', ~640s, discord.gg/JTmbCQW — same ROTF streamer as disc_x2rMJdHL4Jc[X32.4.1] & disc_WH27QCWX0o0) — webcam covers the bottom-left CHAT, so NO boss taunts/names readable. Multi-dungeon run. LOW yield: map/biome + layout inventory + 1 NEW item lead (Silver Lute). No buildable boss/taunt.",
+ "map": "DOCUMENTED-from-transitions+f_ (multi-dungeon hop): (1) a grey-stone CRYPT/dungeon with dark ARCHED ALCOVE doorways + white SKULL floor/wall motifs + blue-water tiles (structured rooms, t007/t009/f_120). (2) open dark SPACE/VOID areas (t002/t008). (3) green grass REALM (t004). (4) a PET YARD / garden — grey/white CHECKERED tile with GREEN garden patches + PINK cherry-blossom trees + pets (t011). (5) orange/SANDY + grey-checkered rooms (t010/t012). No single contiguous layout (compilation of dungeon hops).",
+ "bosses": [],
+ "minions": [],
+ "drops": [
+  "Silver Lute (T5 support INSTRUMENT item — 'Press [.] in world to use', a side-buff for support; Feed Power 45). NEW item lead (0 prior specs, 0 build).",
+  "Giant [...] (item tooltip, partial name)"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED (limited — facecam): a multi-dungeon ROTF run with a SUPPORT-INSTRUMENT item class ('Silver Lute', T5, activated with '.' in-world = an ability/instrument item, like a Bard lute). Biome inventory: arched skull-crypt dungeon, space/void, green realm, pet yard (cherry blossoms + pets), sandy rooms. Confirmed-ROTF streamer (00Dragon0o, discord.gg/JTmbCQW, matches the X32.4.1 tag). NO boss taunt (chat facecam-covered).",
+ "uncertain": "FACECAM STREAM: webcam covers the bottom-left chat -> NO boss names/taunts recoverable; fought bosses UNIDENTIFIED (not attributed/guessed) -> bosses=[]. No bossends extracted (older prep) + crowded -> attacks NOT cleanly traceable (scattered bullets in grey dungeons, no clean geometry). The arched skull-crypt dungeon is a distinctive crypt aesthetic but UNNAMED here -> NOT assumed to be a specific named dungeon (could be a Necropolis/Tomb-type; not confirmed). 'Silver Lute' read from a clear tooltip (T5 support instrument) but full stats partial. Pet-yard ID from cherry-blossom + pets.",
+ "confidence": "LOW. Confirmed-ROTF FACECAM stream (00Dragon0o) but minimal yield: NO boss taunts/names (chat covered), no clean attacks (no bossends). Value = a MAP/biome layout inventory (arched skull-crypt / space / green realm / pet yard / sandy) + 1 NEW item lead 'Silver Lute' (T5 support instrument). Recorded honestly: bosses=[] (unidentified), attacks not fabricated, crypt left unnamed, item flagged. Best follow-up: a non-facecam clip to name the crypt boss + read the Silver Lute full stats."
+}

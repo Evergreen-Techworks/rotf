@@ -1,0 +1,16 @@
+{
+ "dungeon": "ShatteredLoot (multi-boss loot montage — taunt goldmine)",
+ "map": "Loot montage across bosses/dungeons; not a single map.",
+ "bosses": [
+   {"name":"Archdemon Malphas (Abyss of Demons)","phases":["summons minions","minions fail","death"],"attacks":[],"minions":["demon minions"],"colorFlashes":"",
+    "taunts":["My minions will slay you!","My minions are failing me! I will...","I have been defeated... My demonic..."]},
+   {"name":"Septavius the Ghost God (Undead Lair)","phases":["summons 'two children'","minions betray","death"],"attacks":[],"minions":["his 'two children' + minions"],"colorFlashes":"",
+    "taunts":["My minions will crush you!","My two children shall handle you","My minions have betrayed me","I have failed... you release a...","Hahaha!"]},
+   {"name":"Oryx the Mad God","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":["YOU WILL NOT LIVE TO SEE THE LIGHT"]}
+ ],
+ "minions": [],
+ "drops": ["Omega Ancient Sword (wiki — Shatters)","crate/bottle items"],
+ "mechanics": "POTION STORAGE: when full, excess potions auto-SELL for Fame ('Potion Storage full. Potion of Wisdom sold for N fame!'). 'old dusty bottle' opens into a Potion. 'Item Crate'/'receipt' identification opens into items. Event spawns seen: Mysterious Card, Asgard Guardian, Mad Jester (defeated 7/25 — Galactic counter).",
+ "uncertain": "Some taunt tails cut off ('I will...', 'My demonic...', 'you release a...'). Boss->dungeon mapping: Malphas=Abyss, Septavius=Undead Lair, Mad God=Oryx (these merge to those dungeons on rebuild).",
+ "confidence": "HIGH — recovered FULL taunt sets for Archdemon Malphas + Septavius the Ghost God + an Oryx Mad God line, all verbatim; plus the Potion-Storage->Fame mechanic. Major taunt haul."
+}

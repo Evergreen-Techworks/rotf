@@ -1,0 +1,11 @@
+{
+ "dungeon": "(MULTI-DUNGEON STREAM) ROTF — Rainbow Road dungeon (key) + wave-survival mode",
+ "source": "video disc_wFc7tRoMTNU (130 frames, 0 transitions, 32 chat). Diverse dungeons (desert/space/stone-maze/sandstone-checkered) + a 'wave 21' counter. Chat captured a dungeon key + wave-mode reference + trade items (no boss taunts).",
+ "map": "DOCUMENTED biomes: tan DESERT + blue water, dark SPACE arenas (a 'wave' survival arena), grey STONE MAZE, brown brick, sandstone CHECKERED floor (Tomb-of-the-Ancients-style).",
+ "bosses": [],
+ "minions": [],
+ "drops": ["Rainbow Road Key (opens the 'Rainbow Road' dungeon)","Lightning God Armour (traded)"],
+ "mechanics": "DOCUMENTED: (1) 'RAINBOW ROAD' dungeon — 'You have gained a Rainbow Road Key!' (a rainbow-themed dungeon opened by its key). (2) WAVE-SURVIVAL mode — 'wave 21 first pot' + a 'wave N' counter (a wave-based dungeon/event: survive escalating waves for loot/pots). (3) Items: Lightning God Armour. No boss taunts.",
+ "uncertain": "Rainbow Road dungeon's biome/boss not captured (only the key). The wave-survival mode's exact name/structure unclear (could be the space-arena 'wave' event). No boss taunts. 'sell vord' (Vorpal sword?) trade unclear.",
+ "confidence": "HIGH for the Rainbow Road dungeon (key) + the wave-survival mode existing + Lightning God Armour item. LOW for their internal details (no boss/taunt captured)."
+}

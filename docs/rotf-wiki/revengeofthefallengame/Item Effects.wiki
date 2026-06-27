@@ -1,0 +1,4 @@
+# Item Effects
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Item%20Effects&prop=wikitext
+
+asdf

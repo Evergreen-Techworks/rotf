@@ -1,0 +1,4 @@
+# Spit of a Troll
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Spit%20of%20a%20Troll&prop=wikitext
+
+asdf

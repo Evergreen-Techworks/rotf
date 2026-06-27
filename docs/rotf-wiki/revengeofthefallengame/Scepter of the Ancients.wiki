@@ -1,0 +1,4 @@
+# Scepter of the Ancients
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Scepter%20of%20the%20Ancients&prop=wikitext
+
+asdf

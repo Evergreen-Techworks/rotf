@@ -1,0 +1,12 @@
+{
+ "dungeon": "2018 death-recap multi-dungeon run (v X3.0) — more Odin (Asgard) taunts",
+ "map": "DOCUMENTED biomes: orange-brick dungeons, green forest, a red triangular structure (Pentaract?), purple/blue dungeons, red lava cavern, grey/blue dungeons, a sandy town/market area, a green+purple realm. Death recap: 'Crazymr, Level 20 Mystic, killed Feb 4 2018'.",
+ "bosses": [
+   {"name":"Odin (Asgard)","phases":[],"attacks":[],"minions":["guards/gods"],"colorFlashes":"","taunts":["Only a matter of time, before [...]","A guard composed of gods.","You cannot win against my gods!"],"note":"NEW Odin taunts beyond those already implemented in BehaviorDb.Asgard.cs ('Only a matter of time, before...', 'A guard composed of gods.') -> ADD on next Asgard build pass."},
+   {"name":"Mad Jester (event)","phases":[],"attacks":[],"minions":[],"colorFlashes":"","taunts":[],"note":"'<Drake> The Mad Jester has been defeated'."}
+ ],
+ "drops": ["legendary loot (a 'LEGENDARY' obtain moment shown)"],
+ "mechanics": "DOCUMENTED: additional ODIN taunts — 'Only a matter of time, before [...]' and 'A guard composed of gods.' (extends the Asgard recovery; add to BehaviorDb.Asgard.cs). Mad Jester defeated. Version X3.0. Standard realm/dungeon run ending in a 2018 death. Announcer persona: Drake.",
+ "uncertain": "Odin's 'Only a matter of time, before...' tail clipped. Red triangular structure assumed Pentaract. Exact death cause not captured.",
+ "confidence": "MEDIUM — new Odin taunts DOCUMENTED (enrich Asgard); biomes documented; mostly confirmation."
+}

@@ -1,0 +1,4 @@
+# Dirk
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Dirk&prop=wikitext
+
+asdf

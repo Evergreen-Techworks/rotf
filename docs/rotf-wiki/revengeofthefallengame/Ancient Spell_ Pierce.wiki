@@ -1,0 +1,4 @@
+# Ancient Spell: Pierce
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Ancient%20Spell%3A%20Pierce&prop=wikitext
+
+asdf

@@ -1,0 +1,46 @@
+{
+ "dungeon": "GENUINE ROTF run (version banner 'RotMG #X32.4.1', ROTMG.ORG; player '00Dragon0o', ~704s; facecam TOP-RIGHT so bottom-left CHAT IS readable). Main content = a long (~9 min, 151-693s) EPIC GHOST OF SKULD WAVE-SURVIVAL fight. HIGH value: corroborates the BUILT Epic Ghost of Skuld + NEW wave/ready-check enrich-lead taunts + documents the WAVE-SURVIVAL + READY-CHECK mechanic; also corroborates built Jon Bilgewater.",
+ "map": "DOCUMENTED-from-frames+minimaps: the EPIC GHOST OF SKULD arena = an open OVAL GREEN-GRASS field ringed by trees (minimap = green oval). A single open survival arena (no rooms/choke points) where waves of foes spawn around the players; an empty lull between waves (ready-check), then the field fills with wave enemies. Earlier intro hops (4-55s) are quick dungeon/menu cuts.",
+ "bosses": [
+  {
+   "name": "Epic Ghost of Skuld",
+   "phases": [
+    "DOCUMENTED-from-chat: WAVE-SURVIVAL structure — a READY-CHECK gate ('say READY when you are ready to face your opponents') -> timed waves ('The next wave will appear in 3 seconds!') -> 'A mighty foe' wave -> victory ('Congratulations on your victory, warrior.')"
+   ],
+   "attacks": [
+    "DOCUMENTED-from-frames (green-grass arena, 151-693s): SUMMON-ONLY / WAVE-BASED — the boss summons successive WAVES of foes (a blue wraith 'mighty foe', then crowds of red/dark enemies) rather than firing a fixed bullet pattern itself; wave foes have their own sparse spread. Reconstructed: summon-only wave-survival."
+   ],
+   "minions": ["wave foes: a blue wraith/'mighty foe' + crowds of red/dark enemies (per wave)"],
+   "colorFlashes": "",
+   "taunts": [
+    "Prepare yourself... say 'READY' when you are ready to face your opponents",
+    "The next wave will appear in 3 seconds!",
+    "Look sharp! A mighty foe is approaching!",
+    "Congratulations on your victory, warrior.",
+    "A SWIFT DEATH!!!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix '<Ghost of Skuld>'). ALREADY BUILT ('Epic Ghost of Skuld', OCBosses.cs:102; 8 prior specs). CORROBORATION: 'A SWIFT DEATH!!!' + 'Congratulations on your victory, warrior.' match the built taunts VERBATIM. NEW enrich-lead taunts (NOT built) = the WAVE/READY-CHECK mechanic lines: 'Prepare yourself... say READY when you are ready to face your opponents', 'The next wave will appear in 3 seconds!', 'Look sharp! A mighty foe is approaching!'. These document a wave-survival + ready-check gimmick worth adding."
+  },
+  {
+   "name": "Jon Bilgewater the Pirate King",
+   "phases": [],
+   "attacks": [],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [
+    "Har har har...",
+    "Dodge this!"
+   ],
+   "note": "DOCUMENTED-from-chat (boss-prefix '<Jon Bilgewater the Pirate King>'). ALREADY BUILT. CORROBORATION + possible enrich: 'Har har har...' (pirate laugh) + 'Dodge this!' — verify against the built taunt set (PEWPEWPEW! / CANNON CLUSTER / etc.); 'Dodge this!' may be a NEW line -> enrich lead if absent. Both read clean but appeared in an intro hop, not a full fight."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Potion of Life (consumed)",
+  "loot via 'XP##' epic-tier deaths (e.g. 'killed by Goholdor (XP10)')"
+ ],
+ "event_bosses_seen_in_global_feed": [],
+ "mechanics": "DOCUMENTED ROTF SYSTEMS: (1) EPIC GHOST OF SKULD WAVE-SURVIVAL — a READY-CHECK gate (boss waits until players type 'ready'; 'say READY when you are ready to face your opponents'), then TIMED WAVES ('The next wave will appear in 3 seconds!') of foes ('Look sharp! A mighty foe is approaching!'), ending in a victory line. (2) ROTF version banner 'RotMG #X32.4.1' + ROTMG.ORG (confirms ROTF/X-version server). (3) XP## epic-tier death/kill suffix ('killed by Goholdor (XP10)'). (4) buy/sell-LIFE economy chatter (Life potions as currency). Facecam is TOP-RIGHT here (chat readable).",
+ "uncertain": "No bossends (older prep) -> attack traced from f_ frames: the boss is SUMMON/WAVE-based (no fixed bullet geometry of its own) -> classified summon-only/wave-survival (DOCUMENTED structure, but per-wave foe patterns not individually traced). Ghost of Skuld lines are clean (boss-prefix, readable chat); the wave/ready-check lines are NEW vs the built set (enrich leads), the swift-death + victory lines are CORROBORATION. Jon Bilgewater 'Dodge this!' is clean but appeared in a quick intro hop -> verify vs built set before enriching. Player 00Dragon0o (same as disc_WH27QCWX0o0).",
+ "confidence": "HIGH (boss ID + taunts, readable chat). GENUINE ROTF (X32.4.1). Best value: (a) documents the EPIC GHOST OF SKULD WAVE-SURVIVAL + READY-CHECK mechanic with NEW enrich-lead taunts (wave-timer + ready-check + 'mighty foe' lines) for the BUILT boss; (b) corroborates built Epic Ghost of Skuld ('A SWIFT DEATH!!!' + 'Congratulations on your victory, warrior.') and built Jon Bilgewater ('Har har har...' + possible new 'Dodge this!'). Recorded honestly: built-vs-new taunts separated, summon/wave attack labeled (not a fabricated bullet pattern), corroboration vs enrich-lead distinguished. Best follow-up: ENRICH Epic Ghost of Skuld with the 3 wave/ready-check lines; verify Jon Bilgewater 'Dodge this!'."
+}

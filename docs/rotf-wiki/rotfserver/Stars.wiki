@@ -1,0 +1,4 @@
+# Stars
+# https://rotfserver.fandom.com/api.php?action=parse&page=Stars&prop=wikitext
+
+Stars are used by the [[Ninja]] Class and can be used to inflict a huge amount of damage. Depending on the rarity it can also determine how much damage it deals.

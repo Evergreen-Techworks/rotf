@@ -1,0 +1,4 @@
+# Power Wand
+# https://revengeofthefallengame.fandom.com/api.php?action=parse&page=Power%20Wand&prop=wikitext
+
+asdf

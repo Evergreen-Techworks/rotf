@@ -1,0 +1,26 @@
+{
+ "dungeon": "GENUINE ROTF ~2hr+ farming/trade STREAM (intro 'STREAM STARTING SOON' card -> 'Thanks For Watching' outro with Previous Video / Random Video tiles). 11 dungeon/realm entries over the run (t001 361s .. t011 7083s), heavy player MARKETPLACE/trade-hub chat + Special-Crate LOOTBOX economy, and a long mid-stream 'BE RIGHT BACK' break. SAMPLED, NOT exhaustively processed (1936 chat / 1291 f_ / 968 minimap / 380 bossends) per keep-work-small. ONE genuinely-NEW dungeon surfaced by its entry banner: THE SCORCHED PLAINS (ROTF custom). ROTF-CONFIRMED by the ROTF-logo Scorched Plains banner (not TFR/Valor: no gems, no Valor factions).",
+ "map": "DOCUMENTED-from-frames (multi-dungeon stream, circular-disc minimaps). Recurring layout = a REALM/open-arena style disc: green grass + blue water borders wrapping a central TAN/BROWN combat arena, several entries showing a DIAMOND arena (central red/lava diamond, tan-brick edges, blue water moat, green corner pockets) — a symmetric central-arena fight room with open radial approach (few choke points). Also seen: dark SPACE/VOID combat sections (scattered red enemies on black), a colorful TILED GRID dungeon near the end (green/blue/red checker tiles in a rectangular grid), and grass realms with branching paths. THE SCORCHED PLAINS = fire/lava biome per its banner (interior layout NOT captured — banner shown then immediate BRB break).",
+ "bosses": [
+  {
+   "name": "The Scorched Plains (dungeon — boss NOT captured)",
+   "phases": [],
+   "attacks": ["NOT CAPTURED — streamer displayed the entry banner at t008/5207s then immediately cut to a long 'BE RIGHT BACK' break; no arena/boss/attack frames recorded in this stream"],
+   "minions": [],
+   "colorFlashes": "",
+   "taunts": [],
+   "note": "CONFIRMED-BY-BANNER ONLY. Entry card frame-verified: ROTF logo + horned demon-skull on flames + title 'THE SCORCHED PLAINS' (fire/lava theme). This is a NEW ROTF custom dungeon. Its interior, boss entity, attack patterns and taunts were NOT captured here (banner -> BRB break). NEEDS dedicated footage. Recorded honestly: no boss/attacks/taunts fabricated."
+  }
+ ],
+ "minions": [],
+ "drops": [
+  "Special Crate (lootbox; '[player] just unboxed a Special Crate, obtaining a [...]') — recurring",
+  "'Seal of [...]' (Special Crate reward, name cut)",
+  "'Home Den[...]' (Special Crate reward, name cut)",
+  "Cold Sword (traded/spawned item line)",
+  "firesword ('selling 8 firesword for 2k' — player marketplace)"
+ ],
+ "mechanics": "DOCUMENTED ROTF SYSTEMS (corroboration): (1) Special Crate LOOTBOX economy (constant '<Loot Notifier> [player] just unboxed a Special Crate, obtaining a [...]'). (2) Player MARKETPLACE / trade-hub chat — clearing services & gear trade in fame ('<Crier> Selling/Buying ... ME @', 'LF GL T4', 'H GL #x FF/LS', 'Clear X3 X2 assassin LF GL k', 'selling 8 firesword for 2k', 'party me', trade popups 'Type gpaccept <id> to accept'). (3) Spawn ANNOUNCERS (multi-persona: Hydra/Mummy/Bohelders) — '<Hydra> Cold Sword just spawned!', '[...] Dragon has just spawned!'. (4) SHRINE event with completion timer ('Shrine has been defeated! (4:30)'). (5) Death/Loot Notifiers. STREAM overlays present (STREAM STARTING SOON, BE RIGHT BACK, Thanks For Watching outro).",
+ "uncertain": "HUGE 2hr+ stream -> SAMPLED ONLY (coarse f_ sweep + spread chat reads + transitions + minimaps), NOT exhaustive. THE SCORCHED PLAINS boss/attacks/taunts NOT captured (banner -> long BRB break -> post-break frames show generic brown realm arenas + a tiled grid dungeon, not a clearly fire-themed interior). NO confident boss TAUNT captured anywhere: chat is dominated by trade-hub spam + loot-notifier + spawn announcements; a recurring garbled line '<...DESTINY- S COLD SWORD UNHOLY SACRIFICE>' could NOT be confidently parsed as a boss taunt -> NOT recorded (no fabrication). ATTACKS NOT traced: bossends/ are polluted by stream overlays ('BE RIGHT BACK' fades trigger false bossend detection — e.g. b010_6674s is a BRB screen, not a boss). 'Cold Sword' = base RotMG item; 'Dragon'/'Shrine' = base/event names.",
+ "confidence": "MEDIUM that THE SCORCHED PLAINS is a real ROTF custom dungeon (entry banner frame-verified, ROTF logo). LOW/none on its boss content (not captured). Otherwise CORROBORATION only: ROTF lootbox + marketplace + announcer + shrine systems, recurring realm/diamond-arena farming. Recorded honestly with explicit SAMPLING + 'banner-only, boss-not-captured' caveats; no boss/attacks/taunts fabricated; overlay-polluted bossends flagged. ROTF-confirmed (Scorched Plains ROTF banner; not TFR/Valor). FOLLOW-UP: prioritize footage of THE SCORCHED PLAINS interior/boss (this tag only yielded the banner)."
+}
