@@ -51,9 +51,9 @@ exact lineage ROTF used) + its matching AS3 client `moistosaurus/realm-cli`. Oth
 - `Zolmex/alloy-server` (MIT, more recently maintained; pairs with a native C# OpenTK client) — pivot if GPL/Flash becomes a blocker
 - `itsEvil/evils-source-pub` (MIT, modern WIP rewrite)
 
-## Client reality: Ruffle does NOT work
+## Client reality: Ruffle is not viable
 
-Ruffle lacks the raw TCP `Socket` + Flash socket-policy support RotMG needs. Pservers play
+Ruffle's AS3 (AVM2) support isn't complete enough to run the full RotMG client reliably. Pservers play
 via the **standalone Adobe Flash Projector** (desktop exe), or via a buildable AS3 client
 (what we do — see `client/build-client.bat`). No mature open-source HTML5/Unity RotMG client
 exists. Buildable client refs: `Zolmex/RotMG-Flash-Client`, `moistosaurus/realm-cli` (ours).

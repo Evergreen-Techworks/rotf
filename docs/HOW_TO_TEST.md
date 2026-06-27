@@ -38,7 +38,7 @@ blocks Flash content after Jan 2021. **Do NOT use 32.0.0.465+** (kill-switch). P
 - GitHub debug mirror: https://github.com/Grubsic/Adobe-Flash-Player-Debug-Downloads-Archive
 
 Single `.exe`, no install. Needs Flash Player ≥ 11.2 (Starling/Stage3D); 363 is fine.
-(Ruffle will NOT work — it can't do RotMG's TCP sockets.)
+(Ruffle is not recommended — its AS3 support can't run the full RotMG client reliably.)
 
 ## 4. Copy the SWF to Windows and TRUST it (one-time)
 
